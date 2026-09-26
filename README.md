@@ -1,9 +1,21 @@
-# Scandal Season — Unity 6 Client Scaffold
+# Scandal Season — project scaffold
 
 Commercial iOS-first merge-3 story game. Solo-built with AI assistance.
 
 > **Status:** systems and schemas only. All game content is `PLACEHOLDER` until Beth
 > finishes the design briefs. Do not invent story, characters, or outfit content.
+
+## Repo map
+
+- `Assets/`, `Content/`, `Tests/`, `Packages/`, `ProjectSettings/` — **Unity 6 client**
+  (C# domain core, content pipeline, CI). See "Architecture" below.
+- `supabase/` — **backend**: Postgres schema + migrations, RLS policies, Edge
+  Functions (purchase validation, voting, time-only rewards, energy). Start at
+  `supabase/README.md`.
+- `tools/` — **art pipeline**: Blender weight-transfer / batch-export scripts,
+  content validator CLI, asset naming conventions. Start at `tools/README.md`.
+- `HANDOFF_SPEC.md` — instructions for the design agent: how to package Beth's
+  finished storyboard and briefs so build can begin.
 
 ## Locked design rules (baked into this scaffold)
 
