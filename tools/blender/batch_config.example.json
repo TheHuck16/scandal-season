@@ -1,0 +1,21 @@
+{
+  "_comment": "Example config for batch_export.py. Relative paths resolve against THIS file's directory.",
+  "blender": "blender",
+  "body_fbx": "../characters/chr_rose_hartwell.fbx",
+  "default_tri_budget": 15000,
+  "garments": [
+    {
+      "file": "gmt_gown_empire_red.fbx",
+      "tri_budget": 12000
+    },
+    {
+      "file": "gmt_spencer_navy.fbx"
+    },
+    {
+      "file": "gmt_pelisse_emerald.fbx",
+      "output": "gmt_pelisse_emerald_v02.fbx",
+      "tri_budget": 18000
+    }
+  ],
+  "output_dir": "../unity_ready"
+}

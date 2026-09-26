@@ -1,0 +1,11 @@
+# Scandal Season art-pipeline requirements
+
+# Install:  pip install -r requirements.txt
+
+# Full JSON-Schema validation for content_validator.py.
+# Without this, the validator falls back to its built-in structural subset
+# checker (and says so in its output).
+jsonschema>=4.18
+
+# NOTE: the blender/ scripts run INSIDE Blender's bundled Python (bpy).
+# Do NOT pip install bpy here -- Blender ships its own.

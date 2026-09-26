@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Nullable>enable</Nullable>
+    <LangVersion>latest</LangVersion>
+    <AssemblyName>ScandalSeason.Domain</AssemblyName>
+    <RootNamespace>ScandalSeason.Domain</RootNamespace>
+    <!-- Compiles the exact sources Unity builds via ScandalSeason.Domain.asmdef. -->
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="..\..\Assets\Scripts\Domain\**\*.cs" />
+  </ItemGroup>
+
+</Project>

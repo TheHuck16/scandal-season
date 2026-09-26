@@ -1,0 +1,1 @@
+{"allowUnsafeCode":false,"autoReferenced":true,"defineConstraints":[],"excludePlatforms":[],"includePlatforms":[],"name":"ScandalSeason.Runtime","noEngineReferences":false,"overrideReferences":false,"precompiledReferences":[],"references":["ScandalSeason.Domain"],"rootNamespace":"ScandalSeason.Runtime","versionDefines":[]}
