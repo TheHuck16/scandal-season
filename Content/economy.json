@@ -1,1 +1,276 @@
-{"_schema_note":"Every value the docs actually decide, verbatim or as DEFAULT-flagged. Undecided values are null or 'TBD' — nothing invented. Currency names follow the locked Sept 26 nomenclature (Crowns/coins); the docs' older names are mapped in '_stale_name_mapping'.","_stale_name_mapping":{"diamonds":"Crowns","gems":"rejected name, never use","guineas":"coins","opals":"name unconfirmed (gemstone reservation); mechanics unchanged","rubies":"scrubbed (blatantly referential), renamed to Crowns"},"_tbd":["Crown IAP pack tier names and graphics (fabulousness escalates per tier)","IAP pricing (Crown packs and coin bundles) — docs give DEFAULT values only","coin costs for story scenes / chapter turns / selected estate progress","all DEFAULT-tagged prices/amounts: energy refill ladder, upgrade-pack price, boost drop rates, verdict table, opal earn rates, pity counters, Exchange payouts, plaque drop weights, event shop items, zone costs, judging caps","opal card-currency final name (gemstone reservation)","league structure — reconcile with the no-VS lock","time-only reward class: which specific items","premium season pass: contents, price, duration, reward track","whale starter pack: contents and price","event pass reward tracks and prices (per event)","atelier 2x/4x/8x energy multipliers: amounts, unlock rules, Crown costs","canonical scoring-category set (content-bank per-occasion triples vs. workstreams generic four) — weights stay hidden either way","duplicate-offer and jewel-shelf Crown prices (5x tier; 120/200/90) — launch values or DEFAULT placeholders"],"coins":{"bundles":[{"coins":500,"usd":0.99},{"coins":1500,"usd":2.99},{"coins":4000,"usd":6.99}],"role":"soft currency: storyline advancement (story scenes, chapter turns, selected estate progress) prices in coins, never Crowns","sinks":["dressing-ritual components: 5 coins per component (75 per full 15-step ritual); re-picks within a session are free","story scenes / chapter turns / selected estate progress: amounts TBD"],"sources":["order fulfillment: story commissions pay round(2 x requestedTier x 3.0); custom orders pay round(2 x requestedTier x 1.0); rarity multiplier 1.0-2.0 for spawner-sourced items","half-coin merge: 2 half-coins merge to 1 coin (fractional balances allowed internally, displayed floored)","Modiste's Exchange: Common->2, Fine->5, Rare->12, Ultra-Rare->30 coins (+1 opal kickback on duplicate ultra-rare)","Park-board merges: 40% chance of +2 coins","Daily Vote verdict: T1=5, T2=10, T3=15, T4=25, T5=40 coins","event-currency leftover conversion at event end: 10:1 (rounded down)"]},"crowns":{"free_sources":["random merge spawn: 2% per merge, cap 5 uncollected on board","Daily Vote verdict: T2=1, T3=2, T4=3, T5=5 (T1=0)"],"packs":[{"bonus_pct":0,"crowns":80,"tier_name":"TBD","usd":0.99},{"bonus_pct":4,"crowns":500,"tier_name":"TBD","usd":4.99},{"bonus_pct":9,"crowns":1200,"tier_name":"TBD","usd":9.99},{"bonus_pct":19,"crowns":2500,"tier_name":"TBD","usd":19.99}],"role":"premium currency: energy, targeted items, fashion, energy, attempts; never score/rank/verdict","sinks":[{"item":"energy refill ladder","price":"15 -> 25 -> 50 -> 100 -> 150"},{"item":"generator cooldown rush","price":"2 per remaining minute, rounded up"},{"item":"energy max upgrade pack","price":"120"},{"item":"board storage","price":"+10 slots for 50 (beyond 10 free; up to 50 paid slots)"},{"item":"direct item acquisition","price":"3 x item tier"},{"item":"premium Fashion Plates","price":"40 each"},{"item":"duplicate offer (merge board)","price":"5 x item tier"},{"item":"event task skip","price":"10 per skip, max 3 skips per event"},{"item":"jewel shelf card-pool ultra-rare","price":"120"},{"item":"jewel shelf challenge-exclusive","price":"200 dresses / 90 tiaras"},{"item":"Wardrobe Flash (Daily Vote)","price":"20"},{"item":"Second Opinion (Daily Vote)","price":"15"},{"item":"Spotlight (Daily Vote)","price":"30"}]},"energy":{"boost_drops":{"amount":5,"chance_per_merge":"5%","note":"lost if pool is at cap"},"costs":{"per_generator_dispense":1,"per_merge":1},"judging_reward":"+3 atelier energy per judgment, max 20 judgments/day","max":200,"max_upgrade_pack":{"absolute_max":400,"packs_per_pool":4,"per_pack":"+50 max","price_crowns":120},"multipliers_2x_4x_8x":"TBD","park_merge_reward":"DEFAULT: 60% chance +3 park energy, 40% chance +2 coins","pools":["atelier","park"],"refill_ladder_crowns":[15,25,50,100,150],"refill_ladder_reset":"price returns to 15 when 24h have passed since last refill purchase (rolling window, per pool)","regen_rate":"1 energy per 36 seconds (200 over 2 hours); accrues while app is closed","verdict_energy":{"T1":5,"T2":8,"T3":10,"T4":12,"T5":15}},"estate_funds":{"earn":["10 per story commission fulfilled","4 per custom order fulfilled"],"note":"no timer on restoration, ever; required merge products tiers 4-8 escalating by zone","role":"Hartwell Park restoration only; ledger-enforced, never leaves the Park","zone_costs":[100,200,300,450,600,800,1000],"zone_order":["west gallery","library","walled garden","stables","servants' hall","tenant cottages","lake pavilion"]},"event_currencies":{"earn":["event tasks","judging Daily Vote entries: 2 event-progress points per judgment, converts 1:1 to live event currency"],"namespace":"event:<eventId>; earned and spent only inside that event","settlement":"leftovers auto-convert to coins at 10:1 (rounded down) at event end, notified via inbox; incomplete plaque progress carries to the event's next rerun","shop":"6 items per event (energy boosts, board items, rarely a premium Fashion Plate)"},"opals":{"_name_status":"mechanics DECIDED; name unconfirmed — gemstone names reserved for side games per strategy brief; Beth must confirm final name","draw":{"completion_kickback":"10 opals","cost":"5 opals -> 1 random closet card","pity":"guaranteed Rare-or-better every 20 draws, guaranteed Ultra-Rare every 80 draws","weights":{"common":60,"fine":25,"rare":12,"ultra-rare":3}},"earn_rates":["1 per 3 fulfilled orders","1 per Daily Vote entry","1 per 50 merges (any board)"],"role":"card currency; earned only, never bought (no SKU, no purchase path)"},"passes":{"event_pass":{"cadence":"weekly events run Monday 00:00 UTC -> Sunday 23:59 UTC","durations_days":[3,7,14],"plaque_sets":"8 plaques x 5 levels per event; task drops weighted L1 50% / L2 30% / L3 20%; levels 4-5 by merging duplicate plaques; set completion pays a board generator (treasure chest / jewelry box / steamer trunk)","price":"TBD","reward_track_contents":"TBD (designed per event)","rule":"daily engagement unlocks escalating rewards and event-exclusive options; every fashion reward keeps a credible earned route or published return cadence","tasks":"8 escalating tasks per event; every task pays event currency + a plaque drop"},"season_pass":{"concept":"premium-priced, distinct from event passes (locked)","contents":"TBD","duration":"TBD","price":"TBD"}},"paywall_audit":"free player (zero IAP, average luck) must clear all 30 chapters, all closet collections, all 7 Park zones, and one full event; build fails otherwise","purse_moment":"one per level = the jewel-shelf premium spend only; commission lines relabeled 'Preparation ritual (fashion currency, merge-earned)'","time_only_rewards":{"class_locked":true,"definition":"rewards earned exclusively through time and consistency; no purchase can substitute at any price","items":"TBD (Beth must name the class)"},"whale_starter_pack":{"contents":"TBD","price":"TBD","shape":"bounded: enough to reach the first major social payoff and sample the full fashion-Vote-Gazette loop across 3-5 high-engagement sessions; must NOT finish a timed pass, bankroll recurring Vote dominance, or bypass the next replenishment decision"}}
+{
+ "_schema_note": "Every value the docs actually decide, verbatim or as DEFAULT-flagged. Undecided values are null or 'TBD' \u2014 nothing invented. Currency names follow the locked Sept 26 nomenclature (Crowns/coins); the docs' older names are mapped in '_stale_name_mapping'.",
+ "_stale_name_mapping": {
+  "diamonds": "Crowns",
+  "gems": "rejected name, never use",
+  "guineas": "coins",
+  "favors": "name unconfirmed (gemstone reservation); mechanics unchanged",
+  "rubies": "scrubbed (blatantly referential), renamed to Crowns",
+  "opals": "renamed to Favors (locked Sep 27, 2026)"
+ },
+ "_tbd": [
+  "Coin-bundle prices (Crown ladder fully locked Sep 27, 2026)",
+  "Premium season pass: duration and reward track",
+  "Whale starter pack: exact Crown amount and item list",
+  "Event pass: per-event reward-track design",
+  "Atelier 2x/4x/8x energy multipliers: amounts, unlock rules, Crown costs",
+  "Whether duplicate-offer/jewel-shelf Crown prices (5x tier; 120/200/90) are launch values or DEFAULT placeholders"
+ ],
+ "coins": {
+  "bundles": [
+   {
+    "coins": 500,
+    "usd": 0.99
+   },
+   {
+    "coins": 1500,
+    "usd": 2.99
+   },
+   {
+    "coins": 4000,
+    "usd": 6.99
+   }
+  ],
+  "role": "soft currency: storyline advancement (story scenes, chapter turns, selected estate progress) prices in coins, never Crowns",
+  "sinks": [
+   "dressing-ritual components: 5 coins per component (75 per full 15-step ritual); re-picks within a session are free",
+   "story scenes: 120-290 coins per scene, scaling across the season (locked Sep 27, 2026)"
+  ],
+  "sources": [
+   "order fulfillment: story commissions pay round(2 x requestedTier x 3.0); custom orders pay round(2 x requestedTier x 1.0); rarity multiplier 1.0-2.0 for spawner-sourced items",
+   "half-coin merge: 2 half-coins merge to 1 coin (fractional balances allowed internally, displayed floored)",
+   "Modiste's Exchange: Common->2, Fine->5, Rare->12, Ultra-Rare->30 coins (+1 favor kickback on duplicate ultra-rare)",
+   "Park-board merges: 40% chance of +2 coins",
+   "Daily Vote verdict: T1=5, T2=10, T3=15, T4=25, T5=40 coins",
+   "event-currency leftover conversion at event end: 10:1 (rounded down)"
+  ]
+ },
+ "crowns": {
+  "free_sources": [
+   "random merge spawn: 2% per merge, cap 5 uncollected on board",
+   "Daily Vote verdict: T2=1, T3=2, T4=3, T5=5 (T1=0)"
+  ],
+  "packs": [
+   {
+    "usd": 0.99,
+    "tier_name": "A Handful of Crowns",
+    "crowns": 53,
+    "bonus_pct": 0
+   },
+   {
+    "usd": 4.99,
+    "tier_name": "The Velvet Purse",
+    "crowns": 317,
+    "bonus_pct": 5
+   },
+   {
+    "usd": 9.99,
+    "tier_name": "The Gilded Cache",
+    "crowns": 747,
+    "bonus_pct": 10
+   },
+   {
+    "usd": 19.99,
+    "tier_name": "The Royal Coffers",
+    "crowns": 1613,
+    "bonus_pct": 20
+   },
+   {
+    "usd": 49.99,
+    "tier_name": "The Crown Reserve",
+    "crowns": 4217,
+    "bonus_pct": 30
+   },
+   {
+    "usd": 99.99,
+    "tier_name": "The Crown Jewels",
+    "crowns": 8973,
+    "bonus_pct": 40
+   }
+  ],
+  "role": "premium currency: energy, targeted items, fashion, energy, attempts; never score/rank/verdict",
+  "sinks": [
+   {
+    "item": "energy refill ladder",
+    "price": "15 -> 25 -> 50 -> 100 -> 150"
+   },
+   {
+    "item": "generator cooldown rush",
+    "price": "2 per remaining minute, rounded up"
+   },
+   {
+    "item": "energy max upgrade pack",
+    "price": "120"
+   },
+   {
+    "item": "board storage",
+    "price": "+10 slots for 50 (beyond 10 free; up to 50 paid slots)"
+   },
+   {
+    "item": "direct item acquisition",
+    "price": "3 x item tier"
+   },
+   {
+    "item": "premium Fashion Plates",
+    "price": "40 each"
+   },
+   {
+    "item": "duplicate offer (merge board)",
+    "price": "5 x item tier"
+   },
+   {
+    "item": "event task skip",
+    "price": "10 per skip, max 3 skips per event"
+   },
+   {
+    "item": "jewel shelf card-pool ultra-rare",
+    "price": "120"
+   },
+   {
+    "item": "jewel shelf challenge-exclusive",
+    "price": "200 dresses / 90 tiaras"
+   },
+   {
+    "item": "Wardrobe Flash (Daily Vote)",
+    "price": "20"
+   },
+   {
+    "item": "Second Opinion (Daily Vote)",
+    "price": "15"
+   },
+   {
+    "item": "Spotlight (Daily Vote)",
+    "price": "30"
+   }
+  ]
+ },
+ "energy": {
+  "boost_drops": {
+   "amount": 5,
+   "chance_per_merge": "5%",
+   "note": "lost if pool is at cap"
+  },
+  "costs": {
+   "per_generator_dispense": 1,
+   "per_merge": 1
+  },
+  "judging_reward": "+3 atelier energy per judgment, max 20 judgments/day",
+  "max": 200,
+  "max_upgrade_pack": {
+   "absolute_max": 400,
+   "packs_per_pool": 4,
+   "per_pack": "+50 max",
+   "price_crowns": 120
+  },
+  "multipliers_2x_4x_8x": "TBD",
+  "park_merge_reward": "DEFAULT: 60% chance +3 park energy, 40% chance +2 coins",
+  "pools": [
+   "atelier",
+   "park"
+  ],
+  "refill_ladder_crowns": [
+   15,
+   25,
+   50,
+   100,
+   150
+  ],
+  "refill_ladder_reset": "price returns to 15 when 24h have passed since last refill purchase (rolling window, per pool)",
+  "regen_rate": "LOCKED Sep 27, 2026 (Beth): 1 energy per 3 minutes; regen cap 200; purchased energy may exceed cap",
+  "verdict_energy": {
+   "T1": 5,
+   "T2": 8,
+   "T3": 10,
+   "T4": 12,
+   "T5": 15
+  }
+ },
+ "estate_funds": {
+  "earn": [
+   "10 per story commission fulfilled",
+   "4 per custom order fulfilled"
+  ],
+  "note": "no timer on restoration, ever; required merge products tiers 4-8 escalating by zone",
+  "role": "Hartwell Park restoration only; ledger-enforced, never leaves the Park",
+  "zone_costs": [
+   100,
+   200,
+   300,
+   450,
+   600,
+   800,
+   1000
+  ],
+  "zone_order": [
+   "west gallery",
+   "library",
+   "walled garden",
+   "stables",
+   "servants' hall",
+   "tenant cottages",
+   "lake pavilion"
+  ]
+ },
+ "event_currencies": {
+  "earn": [
+   "event tasks",
+   "judging Daily Vote entries: 2 event-progress points per judgment, converts 1:1 to live event currency"
+  ],
+  "namespace": "event:<eventId>; earned and spent only inside that event",
+  "settlement": "leftovers auto-convert to coins at 10:1 (rounded down) at event end, notified via inbox; incomplete plaque progress carries to the event's next rerun",
+  "shop": "6 items per event (energy boosts, board items, rarely a premium Fashion Plate)"
+ },
+ "favors": {
+  "_name_status": "LOCKED Sep 27, 2026 (Beth): Favors (gemstone names reserved for side games)",
+  "draw": {
+   "completion_kickback": "10 favors",
+   "cost": "5 favors -> 1 random closet card",
+   "pity": "guaranteed Rare-or-better every 20 draws, guaranteed Ultra-Rare every 80 draws",
+   "weights": {
+    "common": 60,
+    "fine": 25,
+    "rare": 12,
+    "ultra-rare": 3
+   }
+  },
+  "earn_rates": [
+   "1 per 3 fulfilled orders",
+   "1 per Daily Vote entry",
+   "1 per 50 merges (any board)"
+  ],
+  "role": "card currency; earned only, never bought (no SKU, no purchase path)"
+ },
+ "passes": {
+  "event_pass": {
+   "cadence": "weekly events run Monday 00:00 UTC -> Sunday 23:59 UTC",
+   "durations_days": [
+    3,
+    7,
+    14
+   ],
+   "plaque_sets": "8 plaques x 5 levels per event; task drops weighted L1 50% / L2 30% / L3 20%; levels 4-5 by merging duplicate plaques; set completion pays a board generator (treasure chest / jewelry box / steamer trunk)",
+   "price": "$4.99 base escalating to $49.99 with play (locked Sep 27, 2026)",
+   "reward_track_contents": "outfit pieces + Crowns + energy (locked Sep 27, 2026)",
+   "rule": "daily engagement unlocks escalating rewards and event-exclusive options; every fashion reward keeps a credible earned route or published return cadence",
+   "tasks": "8 escalating tasks per event; every task pays event currency + a plaque drop"
+  },
+  "season_pass": {
+   "concept": "premium-priced, distinct from event passes (locked)",
+   "contents": "exclusive outfits + energy + Crowns (locked Sep 27, 2026)",
+   "duration": "TBD",
+   "price": 49.99
+  }
+ },
+ "paywall_audit": "free player (zero IAP, average luck) must clear all 30 chapters, all closet collections, all 7 Park zones, and one full event; build fails otherwise",
+ "purse_moment": "one per level = the jewel-shelf premium spend only; commission lines relabeled 'Preparation ritual (fashion currency, merge-earned)'",
+ "time_only_rewards": {
+  "class_locked": true,
+  "definition": "rewards earned exclusively through time and consistency; no purchase can substitute at any price",
+  "items": "Triumph Gown (all 30 S1 chapters), season-completion keepsakes, perfect-season mementos (locked Sep 27, 2026)"
+ },
+ "whale_starter_pack": {
+  "contents": "Crowns + exclusive outfit + energy refills (locked Sep 27, 2026)",
+  "price": 99.99,
+  "shape": "bounded: enough to reach the first major social payoff and sample the full fashion-Vote-Gazette loop across 3-5 high-engagement sessions; must NOT finish a timed pass, bankroll recurring Vote dominance, or bypass the next replenishment decision"
+ }
+}

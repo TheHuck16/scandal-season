@@ -46,8 +46,8 @@
   },
   "documented_system_rules": [
     "Closet collections: 30+ themed collections, surfaced in groups of 5; 10 cards per collection (4 Common, 3 Fine, 2 Rare, 1 Ultra-Rare). Completing a collection adds its garments to the permanent closet; duplicates feed the Modiste's Exchange.",
-    "Card draws: five opals draw one random card; opals are earned, never bought.",
-    "Jewel shelf: per level ~3 dresses + 1-2 tiaras; two pools never mixed — card-pool ultra-rares (velocity, not exclusivity; same item earnable through opal draws) and challenge-exclusives (unique to that level's challenge, never in cards, owned forever, wearable in future chapters). No shelf item gates a story outcome.",
+    "Card draws: five favors draw one random card; favors are earned, never bought.",
+    "Jewel shelf: per level ~3 dresses + 1-2 tiaras; two pools never mixed — card-pool ultra-rares (velocity, not exclusivity; same item earnable through favor draws) and challenge-exclusives (unique to that level's challenge, never in cards, owned forever, wearable in future chapters). No shelf item gates a story outcome.",
     "No avatar unlocks — rewards are outfits, hair, accessories only.",
     "Every premium outfit needs a credible free path (long but real). Time-only items exist (never purchasable at any price)."
   ],
@@ -105,7 +105,7 @@
       ],
       "rarity": "Common",
       "acquisition": {
-        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "free_path": "Favor draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
         "crowns_path": "Jewel shelf · 20 Crowns"
       },
       "art_notes": "Plain white muslin, long sleeves, morning light; utterly respectable."
@@ -126,7 +126,7 @@
       ],
       "rarity": "Common",
       "acquisition": {
-        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "free_path": "Favor draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
         "crowns_path": "Jewel shelf · 20 Crowns"
       },
       "art_notes": "Small sprig print on ivory; bonnet tied under the chin."
@@ -147,7 +147,7 @@
       ],
       "rarity": "Common",
       "acquisition": {
-        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "free_path": "Favor draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
         "crowns_path": "Jewel shelf · 20 Crowns"
       },
       "art_notes": "Crisp cambric, spencer buttoned to the throat; made for errands."
@@ -168,7 +168,7 @@
       ],
       "rarity": "Common",
       "acquisition": {
-        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "free_path": "Favor draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
         "crowns_path": "Jewel shelf · 20 Crowns"
       },
       "art_notes": "Quiet dove grey; the cap says at-home, the cut says standards."
@@ -189,7 +189,7 @@
       ],
       "rarity": "Fine",
       "acquisition": {
-        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80); S1 L8 commission reward",
+        "free_path": "Favor draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80); S1 L8 commission reward",
         "crowns_path": "Jewel shelf · 60 Crowns"
       },
       "art_notes": "Head-to-toe cornflower blue; correct to the inch for the promenade hour."
@@ -210,7 +210,7 @@
       ],
       "rarity": "Fine",
       "acquisition": {
-        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80); S1 L4 commission reward",
+        "free_path": "Favor draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80); S1 L4 commission reward",
         "crowns_path": "Jewel shelf · 60 Crowns"
       },
       "art_notes": "Pretty and unthreatening — except the scarlet ribbon, chosen because Julian might hear of the tea."
@@ -231,7 +231,7 @@
       ],
       "rarity": "Fine",
       "acquisition": {
-        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "free_path": "Favor draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
         "crowns_path": "Jewel shelf · 60 Crowns"
       },
       "art_notes": "For stillness and the writing desk; the cameo is grandmother's."
@@ -252,7 +252,7 @@
       ],
       "rarity": "Rare",
       "acquisition": {
-        "free_path": "S1 L3 story commission reward (also Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80))",
+        "free_path": "S1 L3 story commission reward (also Favor draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80))",
         "crowns_path": "Fashion Plate rotation · 140 Crowns"
       },
       "art_notes": "A gown mid-becoming: basting stitches, chalk lines, promise."
@@ -273,7 +273,7 @@
       ],
       "rarity": "Rare",
       "acquisition": {
-        "free_path": "Park restoration: Walled Garden zone reward (also Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80))",
+        "free_path": "Park restoration: Walled Garden zone reward (also Favor draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80))",
         "crowns_path": "Fashion Plate rotation · 140 Crowns"
       },
       "art_notes": "Made for the still-unrestored garden; the basket is for cuttings."
@@ -294,7 +294,7 @@
       ],
       "rarity": "Ultra-Rare",
       "acquisition": {
-        "free_path": "Complete all S1 morning commissions — the long chase (also Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80))",
+        "free_path": "Complete all S1 morning commissions — the long chase (also Favor draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80))",
         "crowns_path": "Not directly purchasable — Fashion Plate encore only"
       },
       "art_notes": "Augusta-grade morning dress; the pearls say the house approves."
@@ -315,7 +315,7 @@
       ],
       "rarity": "Common",
       "acquisition": {
-        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "free_path": "Favor draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
         "crowns_path": "Jewel shelf · 20 Crowns"
       },
       "art_notes": "Stone-coloured twill; dust is part of the design."
@@ -336,7 +336,7 @@
       ],
       "rarity": "Common",
       "acquisition": {
-        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "free_path": "Favor draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
         "crowns_path": "Jewel shelf · 20 Crowns"
       },
       "art_notes": "Military-cut pelisse, frogged; the muff is rabbit, not sable, and proud of it."
@@ -357,7 +357,7 @@
       ],
       "rarity": "Common",
       "acquisition": {
-        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "free_path": "Favor draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
         "crowns_path": "Jewel shelf · 20 Crowns"
       },
       "art_notes": "Built for distance; the hem is already thinking about mud."
@@ -378,7 +378,7 @@
       ],
       "rarity": "Common",
       "acquisition": {
-        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "free_path": "Favor draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
         "crowns_path": "Jewel shelf · 20 Crowns"
       },
       "art_notes": "White gown, green parasol tilted — meant to be seen across a lawn."
@@ -399,7 +399,7 @@
       ],
       "rarity": "Fine",
       "acquisition": {
-        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80); S1 L16 commission reward",
+        "free_path": "Favor draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80); S1 L16 commission reward",
         "crowns_path": "Jewel shelf · 60 Crowns"
       },
       "art_notes": "Visible and correct; the scarlet says she is done being careful."
@@ -420,7 +420,7 @@
       ],
       "rarity": "Fine",
       "acquisition": {
-        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "free_path": "Favor draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
         "crowns_path": "Jewel shelf · 60 Crowns"
       },
       "art_notes": "Severe, correct, fast; the Park's daughter in her element."
@@ -441,7 +441,7 @@
       ],
       "rarity": "Fine",
       "acquisition": {
-        "free_path": "S2 preview commission (also Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80))",
+        "free_path": "S2 preview commission (also Favor draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80))",
         "crowns_path": "Jewel shelf · 60 Crowns"
       },
       "art_notes": "Designed to be underestimated in Bath; grey as a strategy."
@@ -462,7 +462,7 @@
       ],
       "rarity": "Rare",
       "acquisition": {
-        "free_path": "Daily Vote milestone: 15 promenade verdicts (also Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80))",
+        "free_path": "Daily Vote milestone: 15 promenade verdicts (also Favor draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80))",
         "crowns_path": "Fashion Plate rotation · 140 Crowns"
       },
       "art_notes": "Full winter state; ermine on a woman rebuilding an estate is a statement."
@@ -483,7 +483,7 @@
       ],
       "rarity": "Rare",
       "acquisition": {
-        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "free_path": "Favor draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
         "crowns_path": "Fashion Plate rotation · 140 Crowns"
       },
       "art_notes": "Nobody looks well in the rain on purpose; she does."
@@ -504,7 +504,7 @@
       ],
       "rarity": "Ultra-Rare",
       "acquisition": {
-        "free_path": "Park restoration: Lake zone completion (also Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80))",
+        "free_path": "Park restoration: Lake zone completion (also Favor draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80))",
         "crowns_path": "Not directly purchasable — Fashion Plate encore only"
       },
       "art_notes": "Green velvet at dusk on her own land; the frogging is almost military."
@@ -525,7 +525,7 @@
       ],
       "rarity": "Common",
       "acquisition": {
-        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "free_path": "Favor draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
         "crowns_path": "Jewel shelf · 20 Crowns"
       },
       "art_notes": "Debutante white; the baseline every verdict is measured against."
@@ -546,7 +546,7 @@
       ],
       "rarity": "Common",
       "acquisition": {
-        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "free_path": "Favor draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
         "crowns_path": "Jewel shelf · 20 Crowns"
       },
       "art_notes": "Blue sarsnet that rustles when she turns; it turns heads first."
@@ -567,7 +567,7 @@
       ],
       "rarity": "Common",
       "acquisition": {
-        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "free_path": "Favor draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
         "crowns_path": "Jewel shelf · 20 Crowns"
       },
       "art_notes": "Blush, not pink; there is a difference and the Gazette knows it."
@@ -588,7 +588,7 @@
       ],
       "rarity": "Common",
       "acquisition": {
-        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "free_path": "Favor draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
         "crowns_path": "Jewel shelf · 20 Crowns"
       },
       "art_notes": "The turban does the talking; the gown just listens."
@@ -609,7 +609,7 @@
       ],
       "rarity": "Fine",
       "acquisition": {
-        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80); S1 L7 commission reward",
+        "free_path": "Favor draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80); S1 L7 commission reward",
         "crowns_path": "Jewel shelf · 60 Crowns"
       },
       "art_notes": "The season's first real statement, worn to be seen from the boxes."
@@ -630,7 +630,7 @@
       ],
       "rarity": "Fine",
       "acquisition": {
-        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "free_path": "Favor draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
         "crowns_path": "Jewel shelf · 60 Crowns"
       },
       "art_notes": "Moonlight made wearable; the net catches candlelight."
@@ -651,7 +651,7 @@
       ],
       "rarity": "Fine",
       "acquisition": {
-        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "free_path": "Favor draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
         "crowns_path": "Jewel shelf · 60 Crowns"
       },
       "art_notes": "Lappets to the waist; every nod of the head is choreography."
@@ -672,7 +672,7 @@
       ],
       "rarity": "Rare",
       "acquisition": {
-        "free_path": "S1 L16 story decision reward (also Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80))",
+        "free_path": "S1 L16 story decision reward (also Favor draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80))",
         "crowns_path": "Fashion Plate rotation · 140 Crowns"
       },
       "art_notes": "Reads innocent from the door, reads intent from across the room."
@@ -693,7 +693,7 @@
       ],
       "rarity": "Rare",
       "acquisition": {
-        "free_path": "S1 L18 story decision reward (also Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80))",
+        "free_path": "S1 L18 story decision reward (also Favor draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80))",
         "crowns_path": "Fashion Plate rotation · 140 Crowns"
       },
       "art_notes": "The domino from the masquerade; the ribbon is Julian's token."
@@ -714,7 +714,7 @@
       ],
       "rarity": "Ultra-Rare",
       "acquisition": {
-        "free_path": "S1 L10 commission: pass the gatekeepers (also Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80))",
+        "free_path": "S1 L10 commission: pass the gatekeepers (also Favor draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80))",
         "crowns_path": "Not directly purchasable — Fashion Plate encore only"
       },
       "art_notes": "The gown that got her through the doors; the strings are battle honours."
@@ -735,7 +735,7 @@
       ],
       "rarity": "Common",
       "acquisition": {
-        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "free_path": "Favor draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
         "crowns_path": "Jewel shelf · 20 Crowns"
       },
       "art_notes": "Bottle green, candlelit; the first of the hour."
@@ -756,7 +756,7 @@
       ],
       "rarity": "Common",
       "acquisition": {
-        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "free_path": "Favor draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
         "crowns_path": "Jewel shelf · 20 Crowns"
       },
       "art_notes": "White ground, emerald drawing — colour play the Gazette rewards."
@@ -777,7 +777,7 @@
       ],
       "rarity": "Common",
       "acquisition": {
-        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "free_path": "Favor draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
         "crowns_path": "Jewel shelf · 20 Crowns"
       },
       "art_notes": "Daylight's entry in an evening collection; jade goes everywhere."
@@ -798,7 +798,7 @@
       ],
       "rarity": "Common",
       "acquisition": {
-        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "free_path": "Favor draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
         "crowns_path": "Jewel shelf · 20 Crowns"
       },
       "art_notes": "Moss, not emerald; the quiet one that photographs memory."
@@ -819,7 +819,7 @@
       ],
       "rarity": "Fine",
       "acquisition": {
-        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "free_path": "Favor draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
         "crowns_path": "Jewel shelf · 60 Crowns"
       },
       "art_notes": "Shot silk that changes colour as she moves; the room follows."
@@ -840,7 +840,7 @@
       ],
       "rarity": "Fine",
       "acquisition": {
-        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "free_path": "Favor draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
         "crowns_path": "Jewel shelf · 60 Crowns"
       },
       "art_notes": "The reticule matches exactly; details are the whole game."
@@ -861,7 +861,7 @@
       ],
       "rarity": "Fine",
       "acquisition": {
-        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "free_path": "Favor draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
         "crowns_path": "Jewel shelf · 60 Crowns"
       },
       "art_notes": "Peridot against ivory; the parure her mother would have chosen."
@@ -882,7 +882,7 @@
       ],
       "rarity": "Rare",
       "acquisition": {
-        "free_path": "S1 L24 story decision reward (also Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80))",
+        "free_path": "S1 L24 story decision reward (also Favor draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80))",
         "crowns_path": "Fashion Plate rotation · 140 Crowns"
       },
       "art_notes": "No ambiguity, in dress or intent; the emerald, the good gloves."
@@ -903,7 +903,7 @@
       ],
       "rarity": "Rare",
       "acquisition": {
-        "free_path": "Daily Vote milestone: 30 verdicts read (also Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80))",
+        "free_path": "Daily Vote milestone: 30 verdicts read (also Favor draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80))",
         "crowns_path": "Fashion Plate rotation · 140 Crowns"
       },
       "art_notes": "Bell's colour, borrowed with respect; ink under the fingernails optional."
@@ -924,7 +924,7 @@
       ],
       "rarity": "Ultra-Rare",
       "acquisition": {
-        "free_path": "Opal draws (pity ≤80); Fashion Plate encore",
+        "free_path": "Favor draws (pity ≤80); Fashion Plate encore",
         "crowns_path": "Fashion Plate encore · 400 Crowns"
       },
       "art_notes": "The hour's crown: emerald velvet, diamond fire, lace like a verdict."
@@ -945,7 +945,7 @@
       ],
       "rarity": "Common",
       "acquisition": {
-        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "free_path": "Favor draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
         "crowns_path": "Jewel shelf · 20 Crowns"
       },
       "art_notes": "Soft, private, unarmored; the dress she wears when no one is watching."
@@ -966,7 +966,7 @@
       ],
       "rarity": "Common",
       "acquisition": {
-        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "free_path": "Favor draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
         "crowns_path": "Jewel shelf · 20 Crowns"
       },
       "art_notes": "Serious, plain, believed; Quill's strongbox approved."
@@ -987,7 +987,7 @@
       ],
       "rarity": "Common",
       "acquisition": {
-        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "free_path": "Favor draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
         "crowns_path": "Jewel shelf · 20 Crowns"
       },
       "art_notes": "Loved, familiar, true; the brooch has seen worse dinners."
@@ -1008,7 +1008,7 @@
       ],
       "rarity": "Common",
       "acquisition": {
-        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "free_path": "Favor draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
         "crowns_path": "Jewel shelf · 20 Crowns"
       },
       "art_notes": "Undressing as inventory: the gown put away, the night accounted for."
@@ -1029,7 +1029,7 @@
       ],
       "rarity": "Fine",
       "acquisition": {
-        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80); S1 L23 commission reward",
+        "free_path": "Favor draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80); S1 L23 commission reward",
         "crowns_path": "Jewel shelf · 60 Crowns"
       },
       "art_notes": "Every inch a statement; the chatelaine carries keys, not charms."
@@ -1050,7 +1050,7 @@
       ],
       "rarity": "Fine",
       "acquisition": {
-        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80); S1 L27 commission reward",
+        "free_path": "Favor draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80); S1 L27 commission reward",
         "crowns_path": "Jewel shelf · 60 Crowns"
       },
       "art_notes": "Beautiful, deliberate, bait; Henry spent his full-dress uniform on her in public."
@@ -1071,7 +1071,7 @@
       ],
       "rarity": "Fine",
       "acquisition": {
-        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80); S1 L22 commission reward",
+        "free_path": "Favor draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80); S1 L22 commission reward",
         "crowns_path": "Jewel shelf · 60 Crowns"
       },
       "art_notes": "Dark, severe, ready; debts called early, answered in velvet."
@@ -1092,7 +1092,7 @@
       ],
       "rarity": "Rare",
       "acquisition": {
-        "free_path": "S1 L30 story decision reward (also Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80))",
+        "free_path": "S1 L30 story decision reward (also Favor draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80))",
         "crowns_path": "Fashion Plate rotation · 140 Crowns"
       },
       "art_notes": "The gown that carries the triumph bouquet; the flowers are the message."
@@ -1113,7 +1113,7 @@
       ],
       "rarity": "Rare",
       "acquisition": {
-        "free_path": "Complete S1 L30 (also Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80))",
+        "free_path": "Complete S1 L30 (also Favor draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80))",
         "crowns_path": "Fashion Plate rotation · 140 Crowns"
       },
       "art_notes": "The last assembly of the season; midnight with silver, worn like a full stop."
