@@ -1,1 +1,42 @@
-{"_comment":"Scandal Season visual design lock v1 — Beth-approved Sep 27, 2026. Machine-readable manifest of locked brand assets. Full brief: visual-design-lock-v1.md.","appIcon":{"asset":"Assets/Brand/Icon/app-icon-a.webp","description":"Emerald cameo ground, Rose-like ivory relief (soft youthful features, rose in hair — not Greek), pearl border, blush roses, gold laurel, Middle B wordmark below.","variant":"Icon A"},"cutsceneOverlays":{"_comment":"Pearl-rose and emerald-ivy composited versions pending — do not block on them.","overlay-2-ballroom":"Assets/Brand/Overlays/overlay-2-ballroom.webp","overlay-4-folly":"Assets/Brand/Overlays/overlay-4-folly.webp"},"mergeBoard":{"board":"Board F","canonCaveat":"Generated mockups contain placeholder copy ('Gems', 'MERGE' button, booster names) — none of it is canon. Locked currency is Crowns, always.","chainBible":"Content/brand/merge-board-chain-bible.md","description":"Real 6x6 grid; every item in one of five launch chains with family ribbon tags + roman-numeral stage badges, chain legend on board."},"wordmark":{"asset":"Assets/Brand/Wordmark/wordmark-middle-b.webp","description":"Warm gold calligraphic lettering, swash capitals on classical serif. 'Scandal Season' only, no subtitle.","dressings":{"_comment":"Four rotating polychrome-embroidery variants for cutscene overlays.","ivy-emerald":"Assets/Brand/Wordmark/dressing-ivy-emerald.webp","jewel-rose":"Assets/Brand/Wordmark/dressing-jewel-rose.webp","pastel-pearl":"Assets/Brand/Wordmark/dressing-pastel-pearl.webp","wildflower-gems":"Assets/Brand/Wordmark/dressing-wildflower-gems.webp"},"font":"Middle B"}}
+{
+  "_comment": "Scandal Season visual design lock v1 \u2014 Beth-approved Sep 27, 2026. Machine-readable manifest of locked brand assets. Full brief: visual-design-lock-v1.md.",
+  "appIcon": {
+    "asset": "Assets/Brand/Icon/app-icon-a.webp",
+    "description": "Emerald cameo ground, Rose-like ivory relief (soft youthful features, rose in hair \u2014 not Greek), pearl border, blush roses, gold laurel, Middle B wordmark below.",
+    "variant": "Icon A"
+  },
+  "cutsceneOverlays": {
+    "_comment": "All four composited cutscene overlays approved Sep 27, 2026.",
+    "overlay-1-orangery": "Assets/Brand/Overlays/overlay-1-orangery.webp",
+    "overlay-2-ballroom": "Assets/Brand/Overlays/overlay-2-ballroom.webp",
+    "overlay-3-wildgarden": "Assets/Brand/Overlays/overlay-3-wildgarden.webp",
+    "overlay-4-folly": "Assets/Brand/Overlays/overlay-4-folly.webp"
+  },
+  "mergeBoard": {
+    "board": "Board F",
+    "canonCaveat": "Generated mockups contain placeholder copy ('Gems', 'MERGE' button, booster names) \u2014 none of it is canon. Locked currency is Crowns, always.",
+    "chainBible": "Content/brand/merge-board-chain-bible.md",
+    "description": "Real 6x6 grid; every item in one of five launch chains with family ribbon tags + roman-numeral stage badges, chain legend on board."
+  },
+  "wordmark": {
+    "asset": "Assets/Brand/Wordmark/wordmark-middle-b.webp",
+    "description": "Warm gold calligraphic lettering, swash capitals on classical serif. 'Scandal Season' only, no subtitle.",
+    "dressings": {
+      "_comment": "Four rotating polychrome-embroidery variants for cutscene overlays.",
+      "ivy-emerald": "Assets/Brand/Wordmark/dressing-ivy-emerald.webp",
+      "jewel-rose": "Assets/Brand/Wordmark/dressing-jewel-rose.webp",
+      "pastel-pearl": "Assets/Brand/Wordmark/dressing-pastel-pearl.webp",
+      "wildflower-gems": "Assets/Brand/Wordmark/dressing-wildflower-gems.webp"
+    },
+    "font": "Middle B"
+  },
+  "estatePlates": {
+    "_comment": "Estate deep dive plates approved Sep 27, 2026. Restored = jewel-tone color; unrestored/dormant = sepia wash.",
+    "plate-1a-aerial-restored": "Assets/Brand/Estate/plate-1a-aerial-restored.webp",
+    "plate-2b-southfront-restored": "Assets/Brand/Estate/plate-2b-southfront-restored.webp",
+    "plate-3a-arrival-unrestored": "Assets/Brand/Estate/plate-3a-arrival-unrestored.webp",
+    "plate-4a-ballroom-dormant": "Assets/Brand/Estate/plate-4a-ballroom-dormant.webp",
+    "plate-4b-ballroom-firstball": "Assets/Brand/Estate/plate-4b-ballroom-firstball.webp"
+  },
+  "brandRules": "Content/brand/brand-rules-v1.md"
+}
