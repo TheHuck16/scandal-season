@@ -7510,6 +7510,7 @@
       "playerTurns": 23,
       "turnNote": "counted 23 turn markers",
       "ritual": {
+        "occasionBrief": "Lady Agatha Drummond's autumn ball — the first installment of Drummond's price, paid in public.",
         "directions": [
           "Direction A: \"The Restoration.\"The silk remade plain and declarative: its age its ornament, the cut severe. The sentence: *overlooked, not ruined.*",
           "Direction B: \"The Harvest.\"The gold embroidered with wheat and late roses — the grandfather's harvests, stitched into the hem.",
@@ -8172,6 +8173,7 @@
       "playerTurns": 23,
       "turnNote": "counted 23 turn markers",
       "ritual": {
+        "occasionBrief": "The road to Bath — and Bath itself: the Pump Room, the Assembly Rooms, the waters.",
         "directions": [
           "Direction A: \"The Invisible Woman.\"Grey-brown merino, cut to disappear: the dress says nothing, and says it perfectly.",
           "Direction B: \"The Respectable Widow.\"Half-mourning greys, modest and unremarkable: the dress says *respectable*, and respectability is above suspicion.",
@@ -10624,6 +10626,7 @@
       "playerTurns": 20,
       "turnNote": "(Turns: 20",
       "ritual": {
+        "occasionBrief": "A lady at leisure — the panorama promenade; the full 360 degrees taken slowly, twenty small decisions about gaze, pace, and company.",
         "directions": [],
         "steps": [
           "Pin 1: The first gaze:",
@@ -11499,6 +11502,7 @@
       "playerTurns": 20,
       "turnNote": "Turns: 20",
       "ritual": {
+        "occasionBrief": "The subscription masquerade — the boldest costume; twenty decisions, each one a layer of no-one, building the someone-else.",
         "directions": [],
         "steps": [
           "Pin 1: The domino:",
@@ -19939,6 +19943,7 @@
       "playerTurns": 8,
       "turnNote": "Narrative turns: 8 — all remembered. Pins 4–8 (5 coins each; counted separately).",
       "ritual": {
+        "occasionBrief": "The London return — Rose's first Almack's-adjacent evening after Bath, with a gutter paragraph in circulation and the Network's answer beginning.",
         "directions": [],
         "steps": [
           "Pin 4: the overskirt — none / claret gauze / black lace.",
@@ -19970,6 +19975,7 @@
       "playerTurns": 8,
       "turnNote": "Narrative turns: 8 — all remembered. Pins 9–13 (5 coins each; counted separately).",
       "ritual": {
+        "occasionBrief": "The London return — Rose's first Almack's-adjacent evening after Bath, with a gutter paragraph in circulation and the Network's answer beginning.",
         "directions": [],
         "steps": [
           "Pin 9: the necklace — her garnet pendant / Élise's jet / none, the neckline suffices.",
@@ -20001,6 +20007,7 @@
       "playerTurns": 8,
       "turnNote": "Narrative turns: 8 — all remembered. Pins 14–18 (5 coins each; counted separately).",
       "ritual": {
+        "occasionBrief": "The London return — Rose's first Almack's-adjacent evening after Bath, with a gutter paragraph in circulation and the Network's answer beginning.",
         "directions": [],
         "steps": [
           "Pin 14: the waist sash — claret / black / none.",
@@ -20744,6 +20751,7 @@
       "playerTurns": 8,
       "turnNote": "Narrative turns: 8 — all remembered. Pins 4–8 (5 coins each; counted separately).",
       "ritual": {
+        "occasionBrief": "Drummond's ball — on the dragon's own floor.",
         "directions": [],
         "steps": [
           "Pin 4: the overskirt — none / emerald gauze / gold-shot silk.",
@@ -20775,6 +20783,7 @@
       "playerTurns": 8,
       "turnNote": "Narrative turns: 8 — all remembered. Pins 9–13 (5 coins each; counted separately).",
       "ritual": {
+        "occasionBrief": "Drummond's ball — on the dragon's own floor.",
         "directions": [],
         "steps": [
           "Pin 9: the necklace — her emerald pendant / Élise's gold / none, the neckline reigns.",
@@ -20806,6 +20815,7 @@
       "playerTurns": 8,
       "turnNote": "Narrative turns: 8 — all remembered. Pins 14–18 (5 coins each; counted separately).",
       "ritual": {
+        "occasionBrief": "Drummond's ball — on the dragon's own floor.",
         "directions": [],
         "steps": [
           "Pin 14: the waist sash — emerald / gold / none.",
@@ -20837,6 +20847,7 @@
       "playerTurns": 8,
       "turnNote": "Narrative turns: 8 — all remembered. Pins 19–20 (5 coins each; counted separately). Ritual total: 20 pins.",
       "ritual": {
+        "occasionBrief": "Drummond's ball — on the dragon's own floor.",
         "directions": [],
         "steps": [
           "Pin 19: the cloak for the carriage — black velvet / emerald wool / her own.",
@@ -21511,6 +21522,7 @@
       "playerTurns": 8,
       "turnNote": "Narrative turns: 8 — all remembered. Pins 1–5 (5 coins each; counted separately).",
       "ritual": {
+        "occasionBrief": "A week of breathing — the atelier's retrospective; the season's fashion thesis, stated; a private showing for the mirror alone.",
         "directions": [],
         "steps": [
           "Pin 1: the bodice cut — high and plain / softened at the throat / seamed like armor.",
@@ -21542,6 +21554,7 @@
       "playerTurns": 8,
       "turnNote": "Narrative turns: 8 — all remembered. Pins 6–10 (5 coins each; counted separately).",
       "ritual": {
+        "occasionBrief": "A week of breathing — the atelier's retrospective; the season's fashion thesis, stated; a private showing for the mirror alone.",
         "directions": [],
         "steps": [
           "Pin 6: the sleeve fabric — primrose silk / ivory jaconet / butter muslin.",
@@ -21573,6 +21586,7 @@
       "playerTurns": 8,
       "turnNote": "Narrative turns: 8 — all remembered. Pins 11–15 (5 coins each; counted separately).",
       "ritual": {
+        "occasionBrief": "A week of breathing — the atelier's retrospective; the season's fashion thesis, stated; a private showing for the mirror alone.",
         "directions": [],
         "steps": [
           "Pin 11: the necklace — her pearl drops / Élise's copper chain / none — the neckline suffices.",
@@ -21604,6 +21618,7 @@
       "playerTurns": 8,
       "turnNote": "Narrative turns: 8 — all remembered. Pins 16–20 (5 coins each; counted separately). Ritual total: 20 pins × 5 coins = 100 coins, honestly paid.",
       "ritual": {
+        "occasionBrief": "A week of breathing — the atelier's retrospective; the season's fashion thesis, stated; a private showing for the mirror alone.",
         "directions": [],
         "steps": [
           "Pin 16: the waist sash — primrose / copper / none.",
@@ -23165,6 +23180,7 @@
       "turnNote": "(Turns: 10",
       "ritual": {
         "part": "Part II",
+        "occasionBrief": "A London ball — the season's return; the blooded survivor, presented.",
         "directions": [],
         "steps": [
           "Pin 11: The embroidery's thread:",

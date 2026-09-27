@@ -265,9 +265,10 @@ def parse_turns(body, anim_turns):
     return None, None
 
 
-def parse_ritual(body):
+def parse_ritual(body, chapter_occasion=None):
     """Return the ritual dict for a [C] scene part. Brief/directions live on
-    whichever part states them; each part carries its own pins."""
+    whichever part states them; each part carries its own pins.
+    chapter_occasion: fallback brief from the chapter header's **Occasion:** line."""
     ritual = {"part": None, "occasionBrief": None, "directions": [],
               "stepsSummary": None, "steps": [], "coinPerDecision": 5, "coinTotal": 0}
     # Part label: Purpose "Part I:" / "Part II —" or header "(Part I)".
@@ -291,6 +292,10 @@ def parse_ritual(body):
             bm2 = re.search(r"[Tt]he brief is ([^.]+)\.", body)
             if bm2:
                 ritual["occasionBrief"] = f"The brief is {bm2.group(1).strip()}."
+    # Chapter-header fallback: the **Occasion:** line is the canonical brief
+    # source for S2 rituals (per Beth Sep 27, 2026).
+    if not ritual["occasionBrief"] and chapter_occasion:
+        ritual["occasionBrief"] = chapter_occasion
     # Directions: "**A. Name**" / "**B. Name**" / "**C. Name**" sections,
     # "> **DIRECTION A — ...**", or "> - **The Quiet Frame** — ..." options.
     dirs = re.findall(r"^\*\*([A-C])\. ([^*]+?)\*\*", body, re.M)
@@ -378,6 +383,11 @@ def parse_chapter_file(path):
         headers = list(HEADER_RE.finditer(segment))
         if len(headers) != 40:
             raise ValueError(f"{path.name} ch{chapter}: {len(headers)} scenes, expected 40.")
+        # Chapter-header **Occasion:** line is the canonical brief source for
+        # S2 rituals (per Beth Sep 27, 2026). Extract once per chapter.
+        chapter_header = segment[:headers[0].start()]
+        occasion_m = re.search(r"^>?\s*\*\*Occasion:\*\*\s*(.+?)(?:\s*\*\*[A-Z][^*]*:\*\*|\s*$)", chapter_header, re.M)
+        chapter_occasion = occasion_m.group(1).strip() if occasion_m else None
         key_numbers = set()
         ritual_groups = 0
         in_ritual_run = False
@@ -428,7 +438,7 @@ def parse_chapter_file(path):
                 if not in_ritual_run:
                     ritual_groups += 1
                     in_ritual_run = True
-                scene["ritual"] = parse_ritual(body)
+                scene["ritual"] = parse_ritual(body, chapter_occasion)
             else:
                 in_ritual_run = False
             if stype == "fashion-selection":
