@@ -9,6 +9,8 @@ public sealed class ItemChainDefinitionSO : ScriptableObject
 {
     [Tooltip("Matches chain.id in Content/merge-chains.json")]
     public string chainId = "";
+    [Tooltip("Board namespace this chain belongs to (e.g. atelier, park)")]
+    public string board = "";
     public string displayName = "";
     public ChainLevel[] levels = System.Array.Empty<ChainLevel>();
 
@@ -17,6 +19,8 @@ public sealed class ItemChainDefinitionSO : ScriptableObject
     {
         public int level;
         public string displayName = "";
+        [Tooltip("Art hook / itemId / detailing notes from the design package")]
+        public string artNotes = "";
         public int unlockSeason = 1;
     }
 }

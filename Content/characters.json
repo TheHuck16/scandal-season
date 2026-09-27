@@ -1,0 +1,149 @@
+[
+ {
+  "arc_notes": "S1 ruined debutante → the season is hers; S2 survivor; S3 vindicated; S4 the woman who confronts; S5 power-holder; S6 woman of fortune; S7 heir of old sins; S8 warrior; S9 defendant; S10 arbiter — founds the Hartwell Assembly. No single correct romance choice; chosen independence always a complete ending.",
+  "description": "The heroine; player-renamable at game start (default name; \"Arabella\" is retired). Ruined debutante rebuilding Hartwell Park and earning her place in society; unhurried about marriage, honorable in method.",
+  "id": "rose-hartwell",
+  "name": "Rose Hartwell",
+  "role": "neutral"
+ },
+ {
+  "arc_notes": "Backstory resolved S1; S7 reveals the second layer of her youth (she knew the shape of the old sin); her confession is the season's quietest devastation; forgiven or not by Rose, aloud.",
+  "description": "Rose's aunt. Warm, comic, chattering; comforts Rose when the season bites. Quietly formidable.",
+  "id": "aunt-letitia-hartwell",
+  "name": "Aunt Letitia Hartwell",
+  "role": "ally"
+ },
+ {
+  "arc_notes": "Her French émigré past links Rose's world to Laurent's. DECIDED (Beth, Sep 27, 2026 — keep light): distant kin of Lucien de Valcourt's French family branch; she knows the branch fell, NOT that her husband's speculation finished it.",
+  "description": "Rose's grandmother, ~70. French émigrée; sponsors Rose's Season and runs the campaign from her drawing room; the elder strategist.",
+  "id": "augusta-ravencroft",
+  "name": "Augusta, Dowager Marchioness of Ravencroft née de Valcourt",
+  "role": "ally"
+ },
+ {
+  "arc_notes": "S1 route: danger → trust. S2 rebuilds trust, pays his brother's debts, refuses Rose's money. S3 withholds what he's guessed about the Network's London interests. S4 the Network's fellow victim. S5 trust re-earned at altitude. S6 watches her gamble. S7 his genteel poverty reframed by the Hartwell sin. S8 his shame weaponized by Cecilia. S9 offers his name publicly. S10 the last debts paid with money he earned — gloves kept by choice; the terrace, free, as a life.",
+  "description": "Younger son with mended gloves. The Network's coerced informant, feeding items to Bell's paper; his brother's debts are his cage (brother's name withheld for seasons 11+).",
+  "id": "julian-ashcombe",
+  "name": "Lord Julian Ashcombe",
+  "role": "suitor"
+ },
+ {
+  "arc_notes": "S1 route: charm → choice (the staged courtship, chosen against). S2 his family's pressure for the brilliant English match. S3 de Varenne money runs adjacent to the Network's émigré channels. S4 fears exposure. S5 charm strained by what power does to her. S6 the City's games uncomfortably familiar. S7 devastation — his family among the Hartwell speculation's victims — he stays. S8 refuses Cecilia's weaponized ruin in public. S9 offers de Varenne money, the last of it. S10 the mask off for good — England and her, chosen freely by both.",
+  "description": "French émigré gentleman; polish over depth. His family knew the de Valcourts in France; Augusta pre-approves, which makes him dangerous.",
+  "id": "laurent-de-varenne",
+  "name": "Comte Laurent de Varenne",
+  "role": "suitor"
+ },
+ {
+  "arc_notes": "S1 route: uniform → man. S2 the dispatch-rider route runs through his old command; the Horse Guards inquiry clears him but leaves a whisper. S3 still deciding what loyalty requires. S4 duty vs. love with no legal shape to the war. S5 watches for the line she won't cross — and finds it, held. S6 the only one who understands the canal refusal. S7 honor's hardest case. S8 the whispers revived. S9 offers his commission; she refuses to let him resign. S10 honor intact, whispers buried — devotion as daily practice.",
+  "description": "Army officer (Waterloo); younger son of a marquess, Companion of the Bath, half-pay. Offers auditors, not flattery; honor with a personal cost. (Canon name locked Sep 26, 2026 — \"Henry Vane\" retired.)",
+  "id": "henry-beaumont",
+  "name": "Major Lord Henry Beaumont",
+  "role": "suitor"
+ },
+ {
+  "arc_notes": "S1 route: attention → devotion (the held hand at L25; \"afterwards?\" — yes). S2 deepens, friendship or romance per the player; her studio the unperforming room. S3 her sitters include the Network's money men, unknowingly. S4 the only one who asks what the confrontation is for. S5 love as witness. S6 paints Rose in the City's light. S7 names the atonement price before Rose decides. S8 the wreck scandal revived against her late husband. S9 offers to sell everything to fund the defense. S10 the portrait finished and hung — two houses, one shared life; devotion without surrender.",
+  "description": "Naval widow; miniature-painter with her own house and income. The one person in the ton who is truly free; independence as a mirror for Rose.",
+  "id": "octavia-wren",
+  "name": "Mrs. Octavia Wren",
+  "role": "suitor"
+ },
+ {
+  "arc_notes": "S1 discarded and ruined at the L30 Assembly. S2 dangerous in defeat, selling secrets to the Network; caught and released in Bath; vanishes. S3 texture only. S4–S7 absent. S8 returns transformed — wealthy, connected, funded by Mrs. Vane — the season's central rival; defeated finally and completely, or redeemed on Rose's terms (the player's call). S9 absent. S10 coda per S8's outcome.",
+  "description": "S1's \"dearest friend\" — the frenemy: honey to Rose's face, all dispatches to Lady Drummond behind it.",
+  "id": "cecilia-vane",
+  "name": "Miss Cecilia Vane",
+  "role": "rival"
+ },
+ {
+  "arc_notes": "S3 ally with her own agenda (Pyke wronged her family; she wants him broken). S4–S5 absent. S6 complication (married well, courted by Sloane's circle, loyalties divided). S7–S9 absent. S10 final beat — glittering, loyal, hers, her own power acknowledged at last.",
+  "description": "S1's glittering tormentor → reluctant ally by L25. Proof rivals can change sides without becoming safe.",
+  "id": "lavinia-crane",
+  "name": "Lavinia Crane",
+  "role": "rival"
+ },
+ {
+  "arc_notes": "S1 executioner. S2 creditor — names her price (Honoria's sponsorship; second installment held). S3–S4 absent. S5 counterattack — the establishment's social and financial pressure on Rose's restored position. S6–S9 absent, bought off \"for now.\" S10 final reckoning at the housewarming — the guest-list war, then reconciled as an equal on Rose's terms (Beth flag: defeated or retired remain available).",
+  "description": "The ton's social dragon — the establishment's immune system, operating in daylight rather than shadows. Her weapon is reputation.",
+  "id": "agatha-drummond",
+  "name": "Lady Agatha Drummond",
+  "role": "villain"
+ },
+ {
+  "arc_notes": "S1 delivers the subscription (L3). S2–S3 texture. S3 the refusal — the Network leans on her and fails, one beat. S4–S9 backgrounded. S10 coda as proprietor to the last — her final verdict, unsparing and just, printed on the paper's own terms.",
+  "description": "The printer's widow; publicly named proprietor of the Midnight Gazette — her name on the imprint from the first edition. Background texture who runs the paper: manipulable but unbuyable; never a mystery, never the stakes. Her mother was the Hartwell housekeeper dismissed in disgrace — the dismissal is the handle people grab to lean on Bell; it never works.",
+  "id": "nance-bell",
+  "name": "Mrs. Nance Bell",
+  "role": "Gazette"
+ },
+ {
+  "arc_notes": "S1 judge openly Bell's; S2 texture; S3 unbuyable; S4–S6 backgrounded (fashion column scores the set-pieces); S7 its hardest call (print her family's sins or spare them — its own terms); S8 narrative war, unbuyable under fire; S9 the case tried in print — serves the truth, not Rose's cause; S10 the Book One finale — Rose's story printed on its own terms; persists into 11+ as the perpetual engine.",
+  "description": "Not a person — infrastructure, permanently. The daily judge and narrator: morning verdicts on the player's visible choices; never a clue, never a paywall, never the stakes. Bell runs it; that is all.",
+  "id": "midnight-gazette",
+  "name": "The Midnight Gazette (institution)",
+  "role": "Gazette"
+ },
+ {
+  "arc_notes": "Destroyed publicly at the Last Assembly (L30). After death: his scattered paper becomes the Network's paper trail — S6's Hidden Assets and the backing for S9's claim.",
+  "description": "S1's villain: the speculator-creditor who engineered the Hartwell ruin via called debts and missing paper. Sly, never overt.",
+  "id": "giles-rackham",
+  "name": "Sir Giles Rackham",
+  "role": "villain"
+ },
+ {
+  "arc_notes": "Seeded via S2's de Valcourt papers; confronted at S4's black-and-gold masquerade (\"The Confrontation\"). His family's banking branch was ruined by Hartwell's grandfather's émigré-money speculation — withheld until S7's depth charge. Augusta kinship DECIDED (Beth, Sep 27, 2026 — keep light): distant kin of Augusta's French family; Augusta knows the branch fell, NOT that her husband's speculation finished it.",
+  "description": "A de Valcourt financier — the Network's London face. Wants Hartwell Park itself (finish the acquisition — the mortgages, the forced sale) and Rackham's scattered paper suppressed.",
+  "id": "lucien-de-valcourt",
+  "name": "Lucien de Valcourt",
+  "role": "villain"
+ },
+ {
+  "arc_notes": "The March codicil (\"there are other codicils\"); the mole in his office — S2's copying clerk, who intercepted Quill's S1 letter; the entail's true history (S9).",
+  "description": "The Hartwell family solicitor. Precise, shrewd but not unkind. The legal/document machinery.",
+  "id": "quill",
+  "name": "Mr. Quill",
+  "role": "neutral"
+ },
+ {
+  "arc_notes": "S5 the Network attacks the atelier; Rose saves it publicly at cost. S8 the atelier nearly destroyed — \"the modiste's girl dresses the scandal\"; saved again, but its innocence is gone. S10 the atelier's triumph — Élise's girl is the ton's dressmaker now. Note: her mother is held as a later reveal (glimpsed in S8's wreckage edge, never named).",
+  "description": "The young modiste, 22 — Rose's first alliance of the season; the player's door into working London. Fashion as intelligence — the atelier hears everything. (Name confirmed by Beth Sep 26, 2026.)",
+  "id": "elise",
+  "name": "Élise",
+  "role": "ally"
+ },
+ {
+  "arc_notes": "None defined.",
+  "description": "Émigré texture from Laurent's intelligence — ruined in a week when his notes were called. A cautionary miniature of the ruin plot. (v0.1-origin; not in the bible.)",
+  "id": "saint-ange",
+  "name": "Marquis de Saint-Ange",
+  "role": "neutral"
+ },
+ {
+  "arc_notes": "S3 only: the Network's gutter weapon, turned on Rose in the libel war. Broken in a Fleet Street set-piece; exits, one season, spent.",
+  "description": "Proprietor of the gutter London Lantern. Most cuttable new face in the plan.",
+  "id": "ambrose-pyke",
+  "name": "Ambrose Pyke",
+  "role": "villain"
+ },
+ {
+  "arc_notes": "S6 only: rivalry first, then something more complicated; the fortune-vs.-honor climax plays through her. Exits transformed — beaten, offered partnership, not ruin — a wary ally. May return in 11+.",
+  "description": "S6's widow speculator — canal-and-funds, brilliant. Financier rival and charged romantic entanglement: the only one that genuinely rivals the four routes for Rose's attention.",
+  "id": "verity-sloane",
+  "name": "Mrs. Verity Sloane",
+  "role": "rival"
+ },
+ {
+  "arc_notes": "S9 only: the case fought in drawing rooms and in print before it reaches court; Rose settles on her terms — the debt acknowledged and paid; the house hers beyond challenge. Exits transformed or ruined (player texture).",
+  "description": "S9's inheritance claimant: respectable, reasonable, possibly partly right. His motive must be duty and love of the house, never greed — Rose's mirror. (Renamed from \"Edmund.\")",
+  "id": "hugh-hartwell",
+  "name": "Cousin Hugh Hartwell",
+  "role": "neutral"
+ },
+ {
+  "arc_notes": "S7 only: his family destroyed by the Hartwell speculation; his scar and his papers the receipt. By season's end: the Park's land agent or pensioner-historian, kept close. May return in 11+.",
+  "description": "The scarred gentleman, glimpsed in S1's background, personified in S7: complication and eventual ally — deliberately not a rival. The living archive of the Hartwells' older sins.",
+  "id": "james-harrow",
+  "name": "James Harrow",
+  "role": "ally"
+ }
+]

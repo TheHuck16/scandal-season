@@ -121,13 +121,15 @@ public static class ContentImporter
         return true;
     }
 
-    private static readonly Regex IdPattern = new Regex("^[a-z0-9-]+$", RegexOptions.Compiled);
+    // Dotted ids namespace content to its board/area (e.g. atelier.notions).
+    // The literal "TBD" marks design placeholders the importer skips.
+    private static readonly Regex IdPattern = new Regex(@"^([a-z0-9.-]+|TBD)$", RegexOptions.Compiled);
 
     private static bool CheckId(string fileName, string id, List<string> errors, string what)
     {
         if (string.IsNullOrEmpty(id) || !IdPattern.IsMatch(id))
         {
-            errors.Add($"{fileName}: {what} has invalid id '{id}' (must match ^[a-z0-9-]+$).");
+            errors.Add($"{fileName}: {what} has invalid id '{id}' (must match ^([a-z0-9.-]+|TBD)$).");
             return false;
         }
         return true;
@@ -181,6 +183,7 @@ public static class ContentImporter
     [Serializable] private sealed class MergeChainDto
     {
         public string id = "";
+        public string board = "";
         public string displayName = "";
         public ChainLevelDto[] levels = Array.Empty<ChainLevelDto>();
     }
@@ -188,16 +191,29 @@ public static class ContentImporter
     {
         public int level;
         public string displayName = "";
+        public string art_notes = "";
         public int unlockSeason = 1;
     }
 
     private static void ValidateMergeChains(string fileName, MergeChainsFile file, List<string> errors)
     {
-        if (!CheckSchemaVersion(fileName, file.schemaVersion, errors)) return;
+        // Design files may not carry a schema version yet — warn, don't fail.
+        if (string.IsNullOrEmpty(file.schemaVersion))
+            Debug.LogWarning($"[Content] {fileName}: no schemaVersion; assuming {ExpectedSchemaVersion}.");
+        else if (file.schemaVersion != ExpectedSchemaVersion)
+            Debug.LogWarning($"[Content] {fileName}: schemaVersion '{file.schemaVersion}' != expected '{ExpectedSchemaVersion}'.");
         if (file.chains.Length == 0) errors.Add($"{fileName}: at least one chain is required.");
+        var seenIds = new System.Collections.Generic.HashSet<string>();
         foreach (var chain in file.chains)
         {
+            if (chain.id == "TBD")
+            {
+                Debug.Log($"[Content] {fileName}: skipping TBD chain '{chain.displayName}' (no id assigned yet).");
+                continue;
+            }
             if (!CheckId(fileName, chain.id, errors, "chain")) continue;
+            if (!seenIds.Add(chain.id))
+                errors.Add($"{fileName}: duplicate chain id '{chain.id}'.");
             if (string.IsNullOrWhiteSpace(chain.displayName))
                 errors.Add($"{fileName}: chain '{chain.id}' needs a displayName.");
             if (chain.levels.Length < 2)
@@ -208,7 +224,7 @@ public static class ContentImporter
                 if (lvl.level != i + 1)
                     errors.Add($"{fileName}: chain '{chain.id}' levels must be sequential from 1 (found {lvl.level} at index {i}).");
                 if (string.IsNullOrWhiteSpace(lvl.displayName))
-                    errors.Add($"{fileName}: chain '{chain.id}' level {lvl.level} needs a displayName.");
+                    Debug.Log($"[Content] {fileName}: chain '{chain.id}' level {lvl.level} has no displayName yet (detailing phase).");
                 CheckSeason(fileName, $"{chain.id} level {lvl.level}", lvl.unlockSeason, errors);
             }
         }
@@ -221,14 +237,23 @@ public static class ContentImporter
         int before = errors.Count;
         ValidateMergeChains("merge-chains.json", file, errors);
         if (errors.Count != before) return;
+        // Content set changed (placeholder chains replaced by design chains):
+        // clear previously generated chain assets so stale ones can't linger.
+        foreach (var guid in AssetDatabase.FindAssets("", new[] { $"{GeneratedRoot}/MergeChains" }))
+            AssetDatabase.DeleteAsset(AssetDatabase.GUIDToAssetPath(guid));
         foreach (var chain in file.chains)
         {
+            if (chain.id == "TBD") continue; // logged in validation
             var so = ScriptableObject.CreateInstance<ItemChainDefinitionSO>();
             so.chainId = chain.id;
+            so.board = chain.board;
             so.displayName = chain.displayName;
             so.levels = Array.ConvertAll(chain.levels, l => new ItemChainDefinitionSO.ChainLevel
             {
-                level = l.level, displayName = l.displayName, unlockSeason = l.unlockSeason
+                level = l.level,
+                displayName = string.IsNullOrWhiteSpace(l.displayName) ? $"TBD (level {l.level})" : l.displayName,
+                artNotes = l.art_notes,
+                unlockSeason = l.unlockSeason
             });
             SaveDefinition("MergeChains", chain.id, so);
         }
