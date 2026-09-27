@@ -123,13 +123,13 @@ public static class ContentImporter
 
     // Dotted ids namespace content to its board/area (e.g. atelier.notions).
     // The literal "TBD" marks design placeholders the importer skips.
-    private static readonly Regex IdPattern = new Regex(@"^([a-z0-9.-]+|TBD)$", RegexOptions.Compiled);
+    private static readonly Regex IdPattern = new Regex(@"^([a-z0-9._-]+|TBD)$", RegexOptions.Compiled);
 
     private static bool CheckId(string fileName, string id, List<string> errors, string what)
     {
         if (string.IsNullOrEmpty(id) || !IdPattern.IsMatch(id))
         {
-            errors.Add($"{fileName}: {what} has invalid id '{id}' (must match ^([a-z0-9.-]+|TBD)$).");
+            errors.Add($"{fileName}: {what} has invalid id '{id}' (must match ^([a-z0-9._-]+|TBD)$).");
             return false;
         }
         return true;
@@ -190,8 +190,12 @@ public static class ContentImporter
     [Serializable] private sealed class ChainLevelDto
     {
         public int level;
+        public string itemId = "";
+        public string name = "";
         public string displayName = "";
+        public string artHook = "";
         public string art_notes = "";
+        public int baseValue;
         public int unlockSeason = 1;
     }
 
@@ -204,6 +208,7 @@ public static class ContentImporter
             Debug.LogWarning($"[Content] {fileName}: schemaVersion '{file.schemaVersion}' != expected '{ExpectedSchemaVersion}'.");
         if (file.chains.Length == 0) errors.Add($"{fileName}: at least one chain is required.");
         var seenIds = new System.Collections.Generic.HashSet<string>();
+        var seenItemIds = new System.Collections.Generic.HashSet<string>();
         foreach (var chain in file.chains)
         {
             if (chain.id == "TBD")
@@ -223,8 +228,12 @@ public static class ContentImporter
                 var lvl = chain.levels[i];
                 if (lvl.level != i + 1)
                     errors.Add($"{fileName}: chain '{chain.id}' levels must be sequential from 1 (found {lvl.level} at index {i}).");
-                if (string.IsNullOrWhiteSpace(lvl.displayName))
-                    Debug.Log($"[Content] {fileName}: chain '{chain.id}' level {lvl.level} has no displayName yet (detailing phase).");
+                if (string.IsNullOrWhiteSpace(lvl.itemId))
+                    errors.Add($"{fileName}: chain '{chain.id}' level {lvl.level} needs an itemId.");
+                else if (!seenItemIds.Add(lvl.itemId))
+                    errors.Add($"{fileName}: duplicate itemId '{lvl.itemId}' (chain '{chain.id}' level {lvl.level}).");
+                if (string.IsNullOrWhiteSpace(lvl.name) && string.IsNullOrWhiteSpace(lvl.displayName))
+                    errors.Add($"{fileName}: chain '{chain.id}' level {lvl.level} needs a name.");
                 CheckSeason(fileName, $"{chain.id} level {lvl.level}", lvl.unlockSeason, errors);
             }
         }
@@ -251,8 +260,13 @@ public static class ContentImporter
             so.levels = Array.ConvertAll(chain.levels, l => new ItemChainDefinitionSO.ChainLevel
             {
                 level = l.level,
-                displayName = string.IsNullOrWhiteSpace(l.displayName) ? $"TBD (level {l.level})" : l.displayName,
+                itemId = l.itemId,
+                displayName = !string.IsNullOrWhiteSpace(l.name) ? l.name
+                    : !string.IsNullOrWhiteSpace(l.displayName) ? l.displayName
+                    : $"TBD (level {l.level})",
+                artHook = l.artHook,
                 artNotes = l.art_notes,
+                baseValue = l.baseValue,
                 unlockSeason = l.unlockSeason
             });
             SaveDefinition("MergeChains", chain.id, so);
@@ -264,42 +278,75 @@ public static class ContentImporter
     [Serializable] private sealed class OutfitsFile
     {
         public string schemaVersion = "";
-        public OutfitDto[] outfits = Array.Empty<OutfitDto>();
+        public OutfitCollectionDto[] collections = Array.Empty<OutfitCollectionDto>();
+        public OutfitDto[] collectible_outfits = Array.Empty<OutfitDto>();
+    }
+    [Serializable] private sealed class OutfitCollectionDto
+    {
+        public string collectionId = "";
+        public string title = "";
+        public int group = 1;
+        public string occasion = "";
+        public string theme = "";
     }
     [Serializable] private sealed class OutfitDto
     {
         public string id = "";
-        public string displayName = "";
-        public int season = 1;
-        public bool specialEdition;
-        public OutfitPieceDto[] pieces = Array.Empty<OutfitPieceDto>();
-        public string[] categories = Array.Empty<string>();
+        public string collectionId = "";
+        public string name = "";
+        public string rarity = "";
+        public string[] garment_pieces = Array.Empty<string>();
+        public string[] scoring_categories = Array.Empty<string>();
+        public OutfitAcquisitionDto acquisition = new OutfitAcquisitionDto();
+        public string art_notes = "";
     }
-    [Serializable] private sealed class OutfitPieceDto
+    [Serializable] private sealed class OutfitAcquisitionDto
     {
-        public string slot = "";
-        public string itemId = "";
-        public string displayName = "";
+        public string free_path = "";
+        public string crowns_path = "";
     }
+
+    private static readonly System.Collections.Generic.HashSet<string> OutfitRarities =
+        new System.Collections.Generic.HashSet<string> { "Common", "Fine", "Rare", "Ultra-Rare" };
 
     private static void ValidateOutfits(string fileName, OutfitsFile file, List<string> errors)
     {
-        if (!CheckSchemaVersion(fileName, file.schemaVersion, errors)) return;
-        if (file.outfits.Length == 0) errors.Add($"{fileName}: at least one outfit is required.");
-        foreach (var outfit in file.outfits)
+        // Design files may not carry a schema version yet — warn, don't fail.
+        if (string.IsNullOrEmpty(file.schemaVersion))
+            Debug.LogWarning($"[Content] {fileName}: no schemaVersion; assuming {ExpectedSchemaVersion}.");
+        else if (file.schemaVersion != ExpectedSchemaVersion)
+            Debug.LogWarning($"[Content] {fileName}: schemaVersion '{file.schemaVersion}' != expected '{ExpectedSchemaVersion}'.");
+        var collectionIds = new System.Collections.Generic.HashSet<string>();
+        foreach (var c in file.collections)
         {
-            if (!CheckId(fileName, outfit.id, errors, "outfit")) continue;
-            CheckSeason(fileName, outfit.id, outfit.season, errors);
-            if (string.IsNullOrWhiteSpace(outfit.displayName))
-                errors.Add($"{fileName}: outfit '{outfit.id}' needs a displayName.");
-            if (outfit.pieces.Length == 0)
-                errors.Add($"{fileName}: outfit '{outfit.id}' needs at least one piece.");
-            foreach (var piece in outfit.pieces)
+            if (!CheckId(fileName, c.collectionId, errors, "collection")) continue;
+            collectionIds.Add(c.collectionId);
+            if (string.IsNullOrWhiteSpace(c.title))
+                errors.Add($"{fileName}: collection '{c.collectionId}' needs a title.");
+        }
+        if (file.collectible_outfits.Length == 0)
+            errors.Add($"{fileName}: at least one collectible outfit is required.");
+        var seenIds = new System.Collections.Generic.HashSet<string>();
+        foreach (var outfit in file.collectible_outfits)
+        {
+            if (outfit.id == "TBD")
             {
-                try { ParseOutfitSlot(piece.slot); }
-                catch { errors.Add($"{fileName}: outfit '{outfit.id}' has unknown slot '{piece.slot}'."); }
-                if (!CheckId(fileName, piece.itemId, errors, $"outfit '{outfit.id}' piece")) continue;
+                Debug.Log($"[Content] {fileName}: skipping TBD outfit '{outfit.name}' (no id assigned yet).");
+                continue;
             }
+            if (!CheckId(fileName, outfit.id, errors, "outfit")) continue;
+            if (!seenIds.Add(outfit.id))
+                errors.Add($"{fileName}: duplicate outfit id '{outfit.id}'.");
+            if (string.IsNullOrWhiteSpace(outfit.name))
+                errors.Add($"{fileName}: outfit '{outfit.id}' needs a name.");
+            if (!collectionIds.Contains(outfit.collectionId))
+                errors.Add($"{fileName}: outfit '{outfit.id}' references unknown collection '{outfit.collectionId}'.");
+            if (!OutfitRarities.Contains(outfit.rarity))
+                errors.Add($"{fileName}: outfit '{outfit.id}' has unknown rarity '{outfit.rarity}'.");
+            if (outfit.garment_pieces.Length == 0)
+                errors.Add($"{fileName}: outfit '{outfit.id}' needs at least one garment piece.");
+            if (outfit.acquisition == null || string.IsNullOrWhiteSpace(outfit.acquisition.free_path))
+                errors.Add($"{fileName}: outfit '{outfit.id}' needs an acquisition free_path.");
         }
     }
 
@@ -320,18 +367,27 @@ public static class ContentImporter
         int before = errors.Count;
         ValidateOutfits("outfits.json", file, errors);
         if (errors.Count != before) return;
-        foreach (var outfit in file.outfits)
+        // Content set changed (placeholder outfits replaced by design outfits):
+        // clear previously generated outfit assets so stale ones can't linger.
+        foreach (var guid in AssetDatabase.FindAssets("", new[] { $"{GeneratedRoot}/Outfits" }))
+            AssetDatabase.DeleteAsset(AssetDatabase.GUIDToAssetPath(guid));
+        foreach (var outfit in file.collectible_outfits)
         {
+            if (outfit.id == "TBD") continue; // logged in validation
             var so = ScriptableObject.CreateInstance<OutfitDefinitionSO>();
             so.outfitId = outfit.id;
-            so.displayName = outfit.displayName;
-            so.season = outfit.season;
-            so.specialEdition = outfit.specialEdition;
-            so.categories = outfit.categories;
-            so.pieces = Array.ConvertAll(outfit.pieces, p => new OutfitDefinitionSO.OutfitPiece
+            so.displayName = outfit.name;
+            so.collectionId = outfit.collectionId;
+            so.rarity = outfit.rarity;
+            so.season = 1; // Group 1 is Season 1 content; later groups map to seasons when designed
+            so.garmentPieces = outfit.garment_pieces;
+            so.categories = outfit.scoring_categories;
+            so.acquisition = new OutfitDefinitionSO.OutfitAcquisition
             {
-                slot = ParseOutfitSlot(p.slot), itemId = p.itemId, displayName = p.displayName
-            });
+                freePath = outfit.acquisition.free_path,
+                crownsPath = outfit.acquisition.crowns_path
+            };
+            so.artNotes = outfit.art_notes;
             SaveDefinition("Outfits", outfit.id, so);
         }
     }

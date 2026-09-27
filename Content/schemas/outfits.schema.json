@@ -1,1 +1,138 @@
-{"$id":"https://scandal-season.example/schemas/outfits.schema.json","$schema":"https://json-schema.org/draft/2020-12/schema","additionalProperties":false,"description":"Reward outfits: dresses, hair, accessories, shoes, jewelry. Rewards are NEVER avatar unlocks. PLACEHOLDER content until design briefs land.","properties":{"_comment":{"type":"string","description":"Optional human note; ignored by validation and importers."},"outfits":{"items":{"additionalProperties":false,"properties":{"categories":{"description":"Scoring category ids this outfit is judged on (categories are visible; weights stay hidden).","items":{"minLength":1,"type":"string"},"type":"array"},"displayName":{"minLength":1,"type":"string"},"id":{"pattern":"^[a-z0-9-]+$","type":"string"},"pieces":{"items":{"additionalProperties":false,"properties":{"displayName":{"minLength":1,"type":"string"},"itemId":{"pattern":"^[a-z0-9-]+$","type":"string"},"slot":{"enum":["dress","hair","accessory","shoes","jewelry"],"type":"string"}},"required":["slot","itemId","displayName"],"type":"object"},"minItems":1,"type":"array"},"season":{"minimum":1,"type":"integer"},"specialEdition":{"default":false,"type":"boolean"}},"required":["id","displayName","season","pieces"],"type":"object"},"minItems":1,"type":"array"},"schemaVersion":{"const":"1.0.0","type":"string"}},"required":["schemaVersion","outfits"],"title":"Outfits","type":"object"}
+{
+ "$id": "https://scandal-season.example/schemas/outfits.schema.json",
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "additionalProperties": false,
+ "description": "Collectible outfits, grouped into collections. Group 1 (5 collections, 50 outfits) is decided; groups 2-6 exist as a theme roadmap only. Every premium outfit keeps a credible free path; time-only items (e.g. the Triumph Gown) carry no purchasable path by design.",
+ "properties": {
+  "_note": {
+   "description": "Design-team note; ignored by validation and importers.",
+   "type": "string"
+  },
+  "collectible_outfits": {
+   "items": {
+    "additionalProperties": false,
+    "properties": {
+     "acquisition": {
+      "additionalProperties": false,
+      "description": "Free path is required; crowns_path is prose and may state that no purchasable path exists (time-only items).",
+      "properties": {
+       "crowns_path": {
+        "type": "string"
+       },
+       "free_path": {
+        "minLength": 1,
+        "type": "string"
+       }
+      },
+      "required": [
+       "free_path"
+      ],
+      "type": "object"
+     },
+     "art_notes": {
+      "type": "string"
+     },
+     "collectionId": {
+      "pattern": "^([a-z0-9._-]+|TBD)$",
+      "type": "string"
+     },
+     "garment_pieces": {
+      "items": {
+       "type": "string"
+      },
+      "minItems": 1,
+      "type": "array"
+     },
+     "id": {
+      "pattern": "^([a-z0-9._-]+|TBD)$",
+      "type": "string"
+     },
+     "name": {
+      "minLength": 1,
+      "type": "string"
+     },
+     "rarity": {
+      "enum": [
+       "Common",
+       "Fine",
+       "Rare",
+       "Ultra-Rare"
+      ],
+      "type": "string"
+     },
+     "scoring_categories": {
+      "description": "Player-visible scoring categories; weights stay hidden. Documented categories pending Beth's canonical list.",
+      "items": {
+       "type": "string"
+      },
+      "type": "array"
+     }
+    },
+    "required": [
+     "id",
+     "collectionId",
+     "name",
+     "rarity",
+     "garment_pieces",
+     "acquisition"
+    ],
+    "type": "object"
+   },
+   "type": "array"
+  },
+  "collections": {
+   "description": "Closet collections; outfits reference these by collectionId.",
+   "items": {
+    "additionalProperties": false,
+    "properties": {
+     "collectionId": {
+      "pattern": "^([a-z0-9._-]+|TBD)$",
+      "type": "string"
+     },
+     "group": {
+      "minimum": 1,
+      "type": "integer"
+     },
+     "occasion": {
+      "type": "string"
+     },
+     "theme": {
+      "type": "string"
+     },
+     "title": {
+      "minLength": 1,
+      "type": "string"
+     }
+    },
+    "required": [
+     "collectionId",
+     "title"
+    ],
+    "type": "object"
+   },
+   "minItems": 1,
+   "type": "array"
+  },
+  "documented_scoring_categories": {
+   "description": "Design documentation; ignored by validation and importers."
+  },
+  "documented_system_rules": {
+   "description": "Design documentation; ignored by validation and importers."
+  },
+  "groups_roadmap": {
+   "description": "Future outfit groups; theme roadmap only, not importable content."
+  },
+  "schemaVersion": {
+   "description": "Optional; when present must be the expected version. Missing versions log a warning on import.",
+   "type": "string"
+  },
+  "story_wardrobe_references": {
+   "description": "Story wardrobe references, not confirmed collectible outfits; never auto-promoted."
+  }
+ },
+ "required": [
+  "collectible_outfits"
+ ],
+ "title": "Outfits",
+ "type": "object"
+}

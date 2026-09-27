@@ -1,1 +1,1354 @@
-{"_comment":"PLACEHOLDER content — replace with real outfits from the design briefs. Valid against schemas/outfits.schema.json.","outfits":[{"categories":["placeholder-elegance","placeholder-authenticity"],"displayName":"PLACEHOLDER Regency Gown","id":"placeholder-regency-gown","pieces":[{"displayName":"PLACEHOLDER Empire-Waist Gown","itemId":"placeholder-gown","slot":"dress"},{"displayName":"PLACEHOLDER Pinned Updo","itemId":"placeholder-updo","slot":"hair"},{"displayName":"PLACEHOLDER Evening Gloves","itemId":"placeholder-gloves","slot":"accessory"}],"season":1,"specialEdition":false}],"schemaVersion":"1.0.0"}
+{
+  "_note": "Group 1 (first 5 collections, 50 outfits) fully authored Sep 27, 2026 per Beth's direction — was: collectible_outfits empty. Each outfit: id, collectionId, name, garment_pieces[], scoring_categories[] (from documented_scoring_categories), rarity (4 Common / 3 Fine / 2 Rare / 1 Ultra-Rare per collection), acquisition {free_path, crowns_path} — every premium outfit has a credible free path; the Triumph Gown is TIME-ONLY (never purchasable). Scoring weights hidden — never invented. Currencies: Crowns (premium), coins (soft). Groups 2-6 themes are a roadmap, not content.",
+  "documented_scoring_categories": {
+    "daily_challenge_occasion_dimensions": {
+      "Ball": [
+        "Impact",
+        "harmony",
+        "prestige"
+      ],
+      "Evening at Home": [
+        "Taste",
+        "softness",
+        "character"
+      ],
+      "Masquerade/Vauxhall": [
+        "Theme fit",
+        "creativity",
+        "event rules"
+      ],
+      "Morning calls": [
+        "Propriety",
+        "detail",
+        "coordination"
+      ],
+      "Opera/Rout": [
+        "Drama",
+        "rarity",
+        "silhouette"
+      ],
+      "Outing": [
+        "Setting",
+        "weather",
+        "novelty"
+      ],
+      "Promenade": [
+        "Season",
+        "polish",
+        "restraint"
+      ]
+    },
+    "gazette_rubric": [
+      "occasion-fit (base score)",
+      "boldness bonus (color play beats monochrome)",
+      "fabric coherence (intentional contrast praised; incoherent clashing critiqued, never harshly)"
+    ]
+  },
+  "documented_system_rules": [
+    "Closet collections: 30+ themed collections, surfaced in groups of 5; 10 cards per collection (4 Common, 3 Fine, 2 Rare, 1 Ultra-Rare). Completing a collection adds its garments to the permanent closet; duplicates feed the Modiste's Exchange.",
+    "Card draws: five opals draw one random card; opals are earned, never bought.",
+    "Jewel shelf: per level ~3 dresses + 1-2 tiaras; two pools never mixed — card-pool ultra-rares (velocity, not exclusivity; same item earnable through opal draws) and challenge-exclusives (unique to that level's challenge, never in cards, owned forever, wearable in future chapters). No shelf item gates a story outcome.",
+    "No avatar unlocks — rewards are outfits, hair, accessories only.",
+    "Every premium outfit needs a credible free path (long but real). Time-only items exist (never purchasable at any price)."
+  ],
+  "collections": [
+    {
+      "collectionId": "closet.morning_room",
+      "title": "The Morning Room",
+      "group": 1,
+      "occasion": "Morning calls",
+      "theme": "Daywear foundations: muslins, spencers, and the armor of respectability."
+    },
+    {
+      "collectionId": "closet.promenade",
+      "title": "The Promenade",
+      "group": 1,
+      "occasion": "Promenade",
+      "theme": "Carriage dress, pelisses, and being seen at distance."
+    },
+    {
+      "collectionId": "closet.assembly_rooms",
+      "title": "The Assembly Rooms",
+      "group": 1,
+      "occasion": "Ball",
+      "theme": "Evening dress for routs, the opera, and getting through doors."
+    },
+    {
+      "collectionId": "closet.emerald_hour",
+      "title": "Emerald Hour",
+      "group": 1,
+      "occasion": "Opera/Rout",
+      "theme": "Jewel-toned evening glamour; green as a declaration."
+    },
+    {
+      "collectionId": "closet.triumph",
+      "title": "Triumph",
+      "group": 1,
+      "occasion": "Ball",
+      "theme": "S1's climax wardrobe, from refuge to triumph."
+    }
+  ],
+  "collectible_outfits": [
+    {
+      "id": "card.muslin_morning",
+      "collectionId": "closet.morning_room",
+      "name": "Muslin Morning Gown",
+      "garment_pieces": [
+        "White muslin round gown",
+        "Cambric chemisette",
+        "Plain sash"
+      ],
+      "scoring_categories": [
+        "Propriety",
+        "detail",
+        "coordination"
+      ],
+      "rarity": "Common",
+      "acquisition": {
+        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "crowns_path": "Jewel shelf · 20 Crowns"
+      },
+      "art_notes": "Plain white muslin, long sleeves, morning light; utterly respectable."
+    },
+    {
+      "id": "card.sprig_day",
+      "collectionId": "closet.morning_room",
+      "name": "Sprigged Day Dress",
+      "garment_pieces": [
+        "Sprig-printed muslin gown",
+        "Straw bonnet",
+        "Kid gloves"
+      ],
+      "scoring_categories": [
+        "Propriety",
+        "detail",
+        "coordination"
+      ],
+      "rarity": "Common",
+      "acquisition": {
+        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "crowns_path": "Jewel shelf · 20 Crowns"
+      },
+      "art_notes": "Small sprig print on ivory; bonnet tied under the chin."
+    },
+    {
+      "id": "card.cambric_walking",
+      "collectionId": "closet.morning_room",
+      "name": "Cambric Walking Dress",
+      "garment_pieces": [
+        "Cambric walking dress",
+        "Nankeen spencer",
+        "Half-boots"
+      ],
+      "scoring_categories": [
+        "Propriety",
+        "detail",
+        "coordination"
+      ],
+      "rarity": "Common",
+      "acquisition": {
+        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "crowns_path": "Jewel shelf · 20 Crowns"
+      },
+      "art_notes": "Crisp cambric, spencer buttoned to the throat; made for errands."
+    },
+    {
+      "id": "card.grey_merino",
+      "collectionId": "closet.morning_room",
+      "name": "Grey Merino Morning Dress",
+      "garment_pieces": [
+        "Dove-grey merino gown",
+        "White fichu",
+        "Morning cap"
+      ],
+      "scoring_categories": [
+        "Propriety",
+        "detail",
+        "coordination"
+      ],
+      "rarity": "Common",
+      "acquisition": {
+        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "crowns_path": "Jewel shelf · 20 Crowns"
+      },
+      "art_notes": "Quiet dove grey; the cap says at-home, the cut says standards."
+    },
+    {
+      "id": "card.blue_spencer",
+      "collectionId": "closet.morning_room",
+      "name": "Blue Spencer Ensemble",
+      "garment_pieces": [
+        "Blue jaconet gown",
+        "Matching spencer jacket",
+        "Bonnet with blue ribbons"
+      ],
+      "scoring_categories": [
+        "Propriety",
+        "detail",
+        "coordination"
+      ],
+      "rarity": "Fine",
+      "acquisition": {
+        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80); S1 L8 commission reward",
+        "crowns_path": "Jewel shelf · 60 Crowns"
+      },
+      "art_notes": "Head-to-toe cornflower blue; correct to the inch for the promenade hour."
+    },
+    {
+      "id": "card.tea_party_muslin",
+      "collectionId": "closet.morning_room",
+      "name": "Tea-Party Muslin",
+      "garment_pieces": [
+        "Fine India muslin gown",
+        "Scarlet ribbon sash",
+        "Kid gloves"
+      ],
+      "scoring_categories": [
+        "Propriety",
+        "detail",
+        "coordination"
+      ],
+      "rarity": "Fine",
+      "acquisition": {
+        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80); S1 L4 commission reward",
+        "crowns_path": "Jewel shelf · 60 Crowns"
+      },
+      "art_notes": "Pretty and unthreatening — except the scarlet ribbon, chosen because Julian might hear of the tea."
+    },
+    {
+      "id": "card.letter_writing",
+      "collectionId": "closet.morning_room",
+      "name": "Letter-Writing Dress",
+      "garment_pieces": [
+        "Lavender-grey gown",
+        "Lace fichu",
+        "Cameo brooch"
+      ],
+      "scoring_categories": [
+        "Propriety",
+        "detail",
+        "coordination"
+      ],
+      "rarity": "Fine",
+      "acquisition": {
+        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "crowns_path": "Jewel shelf · 60 Crowns"
+      },
+      "art_notes": "For stillness and the writing desk; the cameo is grandmother's."
+    },
+    {
+      "id": "card.fitting_gown",
+      "collectionId": "closet.morning_room",
+      "name": "Atelier Fitting Gown",
+      "garment_pieces": [
+        "Unfinished silk gown, basted seams",
+        "Chalk marks in Élise's hand",
+        "Pin-cushion chatelaine"
+      ],
+      "scoring_categories": [
+        "Propriety",
+        "detail",
+        "coordination"
+      ],
+      "rarity": "Rare",
+      "acquisition": {
+        "free_path": "S1 L3 story commission reward (also Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80))",
+        "crowns_path": "Fashion Plate rotation · 140 Crowns"
+      },
+      "art_notes": "A gown mid-becoming: basting stitches, chalk lines, promise."
+    },
+    {
+      "id": "card.garden_morning",
+      "collectionId": "closet.morning_room",
+      "name": "Garden Morning Dress",
+      "garment_pieces": [
+        "Green-sprigged gown",
+        "Straw hat with green ribbons",
+        "Wicker basket"
+      ],
+      "scoring_categories": [
+        "Propriety",
+        "detail",
+        "coordination"
+      ],
+      "rarity": "Rare",
+      "acquisition": {
+        "free_path": "Park restoration: Walled Garden zone reward (also Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80))",
+        "crowns_path": "Fashion Plate rotation · 140 Crowns"
+      },
+      "art_notes": "Made for the still-unrestored garden; the basket is for cuttings."
+    },
+    {
+      "id": "card.dowagers_approval",
+      "collectionId": "closet.morning_room",
+      "name": "The Dowager's Approval",
+      "garment_pieces": [
+        "Pearl-grey silk morning gown",
+        "Brussels lace lappets",
+        "Pearl brooch"
+      ],
+      "scoring_categories": [
+        "Propriety",
+        "detail",
+        "coordination"
+      ],
+      "rarity": "Ultra-Rare",
+      "acquisition": {
+        "free_path": "Complete all S1 morning commissions — the long chase (also Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80))",
+        "crowns_path": "Not directly purchasable — Fashion Plate encore only"
+      },
+      "art_notes": "Augusta-grade morning dress; the pearls say the house approves."
+    },
+    {
+      "id": "card.carriage_stone",
+      "collectionId": "closet.promenade",
+      "name": "Carriage Dress in Stone",
+      "garment_pieces": [
+        "Stone twill carriage dress",
+        "Cloth pelisse",
+        "Bonnet"
+      ],
+      "scoring_categories": [
+        "Season",
+        "polish",
+        "restraint"
+      ],
+      "rarity": "Common",
+      "acquisition": {
+        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "crowns_path": "Jewel shelf · 20 Crowns"
+      },
+      "art_notes": "Stone-coloured twill; dust is part of the design."
+    },
+    {
+      "id": "card.blue_pelisse",
+      "collectionId": "closet.promenade",
+      "name": "Pelisse of Blue Cloth",
+      "garment_pieces": [
+        "Blue cloth pelisse",
+        "White muslin gown",
+        "Fur muff"
+      ],
+      "scoring_categories": [
+        "Season",
+        "polish",
+        "restraint"
+      ],
+      "rarity": "Common",
+      "acquisition": {
+        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "crowns_path": "Jewel shelf · 20 Crowns"
+      },
+      "art_notes": "Military-cut pelisse, frogged; the muff is rabbit, not sable, and proud of it."
+    },
+    {
+      "id": "card.walking_merino",
+      "collectionId": "closet.promenade",
+      "name": "Walking Merino",
+      "garment_pieces": [
+        "Forest merino walking dress",
+        "Stout boots",
+        "Poke bonnet"
+      ],
+      "scoring_categories": [
+        "Season",
+        "polish",
+        "restraint"
+      ],
+      "rarity": "Common",
+      "acquisition": {
+        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "crowns_path": "Jewel shelf · 20 Crowns"
+      },
+      "art_notes": "Built for distance; the hem is already thinking about mud."
+    },
+    {
+      "id": "card.parasol_dress",
+      "collectionId": "closet.promenade",
+      "name": "Parasol Dress",
+      "garment_pieces": [
+        "White cambric gown",
+        "Green silk parasol",
+        "Gloves"
+      ],
+      "scoring_categories": [
+        "Season",
+        "polish",
+        "restraint"
+      ],
+      "rarity": "Common",
+      "acquisition": {
+        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "crowns_path": "Jewel shelf · 20 Crowns"
+      },
+      "art_notes": "White gown, green parasol tilted — meant to be seen across a lawn."
+    },
+    {
+      "id": "card.scarlet_drive",
+      "collectionId": "closet.promenade",
+      "name": "Scarlet Ribbon Drive",
+      "garment_pieces": [
+        "Fawn drive dress",
+        "Scarlet ribbon trim",
+        "Whip in hand"
+      ],
+      "scoring_categories": [
+        "Season",
+        "polish",
+        "restraint"
+      ],
+      "rarity": "Fine",
+      "acquisition": {
+        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80); S1 L16 commission reward",
+        "crowns_path": "Jewel shelf · 60 Crowns"
+      },
+      "art_notes": "Visible and correct; the scarlet says she is done being careful."
+    },
+    {
+      "id": "card.riding_habit",
+      "collectionId": "closet.promenade",
+      "name": "Riding Habit",
+      "garment_pieces": [
+        "Dark habit, skirted",
+        "Top hat with veil",
+        "Crop"
+      ],
+      "scoring_categories": [
+        "Season",
+        "polish",
+        "restraint"
+      ],
+      "rarity": "Fine",
+      "acquisition": {
+        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "crowns_path": "Jewel shelf · 60 Crowns"
+      },
+      "art_notes": "Severe, correct, fast; the Park's daughter in her element."
+    },
+    {
+      "id": "card.bath_understated",
+      "collectionId": "closet.promenade",
+      "name": "Bath Understatement",
+      "garment_pieces": [
+        "Grey Bath suit",
+        "Untrimmed bonnet",
+        "Plain gloves"
+      ],
+      "scoring_categories": [
+        "Season",
+        "polish",
+        "restraint"
+      ],
+      "rarity": "Fine",
+      "acquisition": {
+        "free_path": "S2 preview commission (also Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80))",
+        "crowns_path": "Jewel shelf · 60 Crowns"
+      },
+      "art_notes": "Designed to be underestimated in Bath; grey as a strategy."
+    },
+    {
+      "id": "card.long_promenade",
+      "collectionId": "closet.promenade",
+      "name": "The Long Promenade",
+      "garment_pieces": [
+        "Claret carriage dress",
+        "Ermine-trimmed pelisse",
+        "Matching muff"
+      ],
+      "scoring_categories": [
+        "Season",
+        "polish",
+        "restraint"
+      ],
+      "rarity": "Rare",
+      "acquisition": {
+        "free_path": "Daily Vote milestone: 15 promenade verdicts (also Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80))",
+        "crowns_path": "Fashion Plate rotation · 140 Crowns"
+      },
+      "art_notes": "Full winter state; ermine on a woman rebuilding an estate is a statement."
+    },
+    {
+      "id": "card.rainy_equipage",
+      "collectionId": "closet.promenade",
+      "name": "Rainy-Day Equipage",
+      "garment_pieces": [
+        "Oiled-silk cloak",
+        "Pattens",
+        "Hooded bonnet"
+      ],
+      "scoring_categories": [
+        "Season",
+        "polish",
+        "restraint"
+      ],
+      "rarity": "Rare",
+      "acquisition": {
+        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "crowns_path": "Fashion Plate rotation · 140 Crowns"
+      },
+      "art_notes": "Nobody looks well in the rain on purpose; she does."
+    },
+    {
+      "id": "card.park_at_dusk",
+      "collectionId": "closet.promenade",
+      "name": "The Park at Dusk",
+      "garment_pieces": [
+        "Deep green velvet promenade ensemble",
+        "Gold frogging",
+        "Black feather bonnet"
+      ],
+      "scoring_categories": [
+        "Season",
+        "polish",
+        "restraint"
+      ],
+      "rarity": "Ultra-Rare",
+      "acquisition": {
+        "free_path": "Park restoration: Lake zone completion (also Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80))",
+        "crowns_path": "Not directly purchasable — Fashion Plate encore only"
+      },
+      "art_notes": "Green velvet at dusk on her own land; the frogging is almost military."
+    },
+    {
+      "id": "card.white_evening",
+      "collectionId": "closet.assembly_rooms",
+      "name": "White Evening Gown",
+      "garment_pieces": [
+        "White crape gown",
+        "Short puff sleeves",
+        "Long gloves"
+      ],
+      "scoring_categories": [
+        "Impact",
+        "harmony",
+        "prestige"
+      ],
+      "rarity": "Common",
+      "acquisition": {
+        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "crowns_path": "Jewel shelf · 20 Crowns"
+      },
+      "art_notes": "Debutante white; the baseline every verdict is measured against."
+    },
+    {
+      "id": "card.blue_sarsnet",
+      "collectionId": "closet.assembly_rooms",
+      "name": "Blue Sarsnet Rout Dress",
+      "garment_pieces": [
+        "Blue sarsnet gown",
+        "Silver ribbon sash",
+        "Gloves"
+      ],
+      "scoring_categories": [
+        "Impact",
+        "harmony",
+        "prestige"
+      ],
+      "rarity": "Common",
+      "acquisition": {
+        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "crowns_path": "Jewel shelf · 20 Crowns"
+      },
+      "art_notes": "Blue sarsnet that rustles when she turns; it turns heads first."
+    },
+    {
+      "id": "card.blush_crape",
+      "collectionId": "closet.assembly_rooms",
+      "name": "Blush Crape Gown",
+      "garment_pieces": [
+        "Blush crape gown",
+        "Ribbon trim",
+        "Pearl earrings"
+      ],
+      "scoring_categories": [
+        "Impact",
+        "harmony",
+        "prestige"
+      ],
+      "rarity": "Common",
+      "acquisition": {
+        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "crowns_path": "Jewel shelf · 20 Crowns"
+      },
+      "art_notes": "Blush, not pink; there is a difference and the Gazette knows it."
+    },
+    {
+      "id": "card.gold_turban",
+      "collectionId": "closet.assembly_rooms",
+      "name": "Gold Turban Evening",
+      "garment_pieces": [
+        "White satin gown",
+        "Gold turban",
+        "Drop earrings"
+      ],
+      "scoring_categories": [
+        "Impact",
+        "harmony",
+        "prestige"
+      ],
+      "rarity": "Common",
+      "acquisition": {
+        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "crowns_path": "Jewel shelf · 20 Crowns"
+      },
+      "art_notes": "The turban does the talking; the gown just listens."
+    },
+    {
+      "id": "card.claret_opera",
+      "collectionId": "closet.assembly_rooms",
+      "name": "Opera Dress in Claret",
+      "garment_pieces": [
+        "Claret silk gown",
+        "Opera cloak",
+        "Fan"
+      ],
+      "scoring_categories": [
+        "Drama",
+        "rarity",
+        "silhouette"
+      ],
+      "rarity": "Fine",
+      "acquisition": {
+        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80); S1 L7 commission reward",
+        "crowns_path": "Jewel shelf · 60 Crowns"
+      },
+      "art_notes": "The season's first real statement, worn to be seen from the boxes."
+    },
+    {
+      "id": "card.silver_net",
+      "collectionId": "closet.assembly_rooms",
+      "name": "Silver-Net Overlay",
+      "garment_pieces": [
+        "White satin gown",
+        "Silver net overdress",
+        "Crystal hair pins"
+      ],
+      "scoring_categories": [
+        "Drama",
+        "rarity",
+        "silhouette"
+      ],
+      "rarity": "Fine",
+      "acquisition": {
+        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "crowns_path": "Jewel shelf · 60 Crowns"
+      },
+      "art_notes": "Moonlight made wearable; the net catches candlelight."
+    },
+    {
+      "id": "card.lappets_rout",
+      "collectionId": "closet.assembly_rooms",
+      "name": "Rout Gown with Lappets",
+      "garment_pieces": [
+        "Ivory gown",
+        "Lace lappets",
+        "Pearl drops"
+      ],
+      "scoring_categories": [
+        "Impact",
+        "harmony",
+        "prestige"
+      ],
+      "rarity": "Fine",
+      "acquisition": {
+        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "crowns_path": "Jewel shelf · 60 Crowns"
+      },
+      "art_notes": "Lappets to the waist; every nod of the head is choreography."
+    },
+    {
+      "id": "card.contradiction",
+      "collectionId": "closet.assembly_rooms",
+      "name": "The Contradiction Gown",
+      "garment_pieces": [
+        "Two-faced gown, ivory over rose",
+        "Reversible stole",
+        "Mask-trimmed reticule"
+      ],
+      "scoring_categories": [
+        "Impact",
+        "harmony",
+        "prestige"
+      ],
+      "rarity": "Rare",
+      "acquisition": {
+        "free_path": "S1 L16 story decision reward (also Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80))",
+        "crowns_path": "Fashion Plate rotation · 140 Crowns"
+      },
+      "art_notes": "Reads innocent from the door, reads intent from across the room."
+    },
+    {
+      "id": "card.black_domino",
+      "collectionId": "closet.assembly_rooms",
+      "name": "Black Silk Domino",
+      "garment_pieces": [
+        "Black silk domino",
+        "Black mask",
+        "Silk token ribbon"
+      ],
+      "scoring_categories": [
+        "Impact",
+        "harmony",
+        "prestige"
+      ],
+      "rarity": "Rare",
+      "acquisition": {
+        "free_path": "S1 L18 story decision reward (also Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80))",
+        "crowns_path": "Fashion Plate rotation · 140 Crowns"
+      },
+      "art_notes": "The domino from the masquerade; the ribbon is Julian's token."
+    },
+    {
+      "id": "card.almacks_warrant",
+      "collectionId": "closet.assembly_rooms",
+      "name": "Almack's Warrant",
+      "garment_pieces": [
+        "White satin gown",
+        "Gold embroidery",
+        "Voucher-strings worn as trophies"
+      ],
+      "scoring_categories": [
+        "Impact",
+        "harmony",
+        "prestige"
+      ],
+      "rarity": "Ultra-Rare",
+      "acquisition": {
+        "free_path": "S1 L10 commission: pass the gatekeepers (also Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80))",
+        "crowns_path": "Not directly purchasable — Fashion Plate encore only"
+      },
+      "art_notes": "The gown that got her through the doors; the strings are battle honours."
+    },
+    {
+      "id": "card.green_silk_evening",
+      "collectionId": "closet.emerald_hour",
+      "name": "Green Silk Evening Gown",
+      "garment_pieces": [
+        "Bottle-green silk gown",
+        "Green gloves",
+        "Simple gold chain"
+      ],
+      "scoring_categories": [
+        "Drama",
+        "rarity",
+        "silhouette"
+      ],
+      "rarity": "Common",
+      "acquisition": {
+        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "crowns_path": "Jewel shelf · 20 Crowns"
+      },
+      "art_notes": "Bottle green, candlelit; the first of the hour."
+    },
+    {
+      "id": "card.emerald_ribbon",
+      "collectionId": "closet.emerald_hour",
+      "name": "Emerald Ribbon Frock",
+      "garment_pieces": [
+        "White gown",
+        "Emerald ribbons",
+        "Green sash"
+      ],
+      "scoring_categories": [
+        "Drama",
+        "rarity",
+        "silhouette"
+      ],
+      "rarity": "Common",
+      "acquisition": {
+        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "crowns_path": "Jewel shelf · 20 Crowns"
+      },
+      "art_notes": "White ground, emerald drawing — colour play the Gazette rewards."
+    },
+    {
+      "id": "card.jade_spencer",
+      "collectionId": "closet.emerald_hour",
+      "name": "Jade Spencer Set",
+      "garment_pieces": [
+        "Jade spencer",
+        "Cream gown",
+        "Bonnet"
+      ],
+      "scoring_categories": [
+        "Propriety",
+        "detail",
+        "coordination"
+      ],
+      "rarity": "Common",
+      "acquisition": {
+        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "crowns_path": "Jewel shelf · 20 Crowns"
+      },
+      "art_notes": "Daylight's entry in an evening collection; jade goes everywhere."
+    },
+    {
+      "id": "card.moss_crape",
+      "collectionId": "closet.emerald_hour",
+      "name": "Moss Crape Dress",
+      "garment_pieces": [
+        "Moss-green crape gown",
+        "Fichu",
+        "Gloves"
+      ],
+      "scoring_categories": [
+        "Drama",
+        "rarity",
+        "silhouette"
+      ],
+      "rarity": "Common",
+      "acquisition": {
+        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "crowns_path": "Jewel shelf · 20 Crowns"
+      },
+      "art_notes": "Moss, not emerald; the quiet one that photographs memory."
+    },
+    {
+      "id": "card.peacock_silk",
+      "collectionId": "closet.emerald_hour",
+      "name": "Peacock Shot Silk",
+      "garment_pieces": [
+        "Shot-silk gown, peacock blue-green",
+        "Black lace shawl",
+        "Fan"
+      ],
+      "scoring_categories": [
+        "Drama",
+        "rarity",
+        "silhouette"
+      ],
+      "rarity": "Fine",
+      "acquisition": {
+        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "crowns_path": "Jewel shelf · 60 Crowns"
+      },
+      "art_notes": "Shot silk that changes colour as she moves; the room follows."
+    },
+    {
+      "id": "card.velvet_reticule",
+      "collectionId": "closet.emerald_hour",
+      "name": "Velvet Reticule Set",
+      "garment_pieces": [
+        "Deep green gown",
+        "Velvet reticule",
+        "Gloves"
+      ],
+      "scoring_categories": [
+        "Drama",
+        "rarity",
+        "silhouette"
+      ],
+      "rarity": "Fine",
+      "acquisition": {
+        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "crowns_path": "Jewel shelf · 60 Crowns"
+      },
+      "art_notes": "The reticule matches exactly; details are the whole game."
+    },
+    {
+      "id": "card.peridot_parure",
+      "collectionId": "closet.emerald_hour",
+      "name": "Peridot Parure Dress",
+      "garment_pieces": [
+        "Ivory gown",
+        "Peridot necklace",
+        "Peridot earrings and brooch"
+      ],
+      "scoring_categories": [
+        "Impact",
+        "harmony",
+        "prestige"
+      ],
+      "rarity": "Fine",
+      "acquisition": {
+        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "crowns_path": "Jewel shelf · 60 Crowns"
+      },
+      "art_notes": "Peridot against ivory; the parure her mother would have chosen."
+    },
+    {
+      "id": "card.stated_terms",
+      "collectionId": "closet.emerald_hour",
+      "name": "The Stated-Terms Gown",
+      "garment_pieces": [
+        "Emerald silk gown",
+        "The good gloves",
+        "No ornament but a look"
+      ],
+      "scoring_categories": [
+        "Drama",
+        "rarity",
+        "silhouette"
+      ],
+      "rarity": "Rare",
+      "acquisition": {
+        "free_path": "S1 L24 story decision reward (also Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80))",
+        "crowns_path": "Fashion Plate rotation · 140 Crowns"
+      },
+      "art_notes": "No ambiguity, in dress or intent; the emerald, the good gloves."
+    },
+    {
+      "id": "card.gazette_green",
+      "collectionId": "closet.emerald_hour",
+      "name": "Gazette Green",
+      "garment_pieces": [
+        "Ink-green gown",
+        "Press-flower hair ornament",
+        "Quill reticule"
+      ],
+      "scoring_categories": [
+        "Drama",
+        "rarity",
+        "silhouette"
+      ],
+      "rarity": "Rare",
+      "acquisition": {
+        "free_path": "Daily Vote milestone: 30 verdicts read (also Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80))",
+        "crowns_path": "Fashion Plate rotation · 140 Crowns"
+      },
+      "art_notes": "Bell's colour, borrowed with respect; ink under the fingernails optional."
+    },
+    {
+      "id": "card.emerald_triumph",
+      "collectionId": "closet.emerald_hour",
+      "name": "Emerald Hour Triumph",
+      "garment_pieces": [
+        "Deep emerald velvet gown",
+        "Diamond buckles",
+        "Brussels lace train"
+      ],
+      "scoring_categories": [
+        "Impact",
+        "harmony",
+        "prestige"
+      ],
+      "rarity": "Ultra-Rare",
+      "acquisition": {
+        "free_path": "Opal draws (pity ≤80); Fashion Plate encore",
+        "crowns_path": "Fashion Plate encore · 400 Crowns"
+      },
+      "art_notes": "The hour's crown: emerald velvet, diamond fire, lace like a verdict."
+    },
+    {
+      "id": "card.refuge_dress",
+      "collectionId": "closet.triumph",
+      "name": "Refuge Dress",
+      "garment_pieces": [
+        "Pale blue muslin gown",
+        "Soft shawl",
+        "Slippers"
+      ],
+      "scoring_categories": [
+        "Propriety",
+        "detail",
+        "coordination"
+      ],
+      "rarity": "Common",
+      "acquisition": {
+        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "crowns_path": "Jewel shelf · 20 Crowns"
+      },
+      "art_notes": "Soft, private, unarmored; the dress she wears when no one is watching."
+    },
+    {
+      "id": "card.chambers_dress",
+      "collectionId": "closet.triumph",
+      "name": "Chambers Dress",
+      "garment_pieces": [
+        "Dark grey gown",
+        "Plain fichu",
+        "No jewels"
+      ],
+      "scoring_categories": [
+        "Propriety",
+        "detail",
+        "coordination"
+      ],
+      "rarity": "Common",
+      "acquisition": {
+        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "crowns_path": "Jewel shelf · 20 Crowns"
+      },
+      "art_notes": "Serious, plain, believed; Quill's strongbox approved."
+    },
+    {
+      "id": "card.family_dinner",
+      "collectionId": "closet.triumph",
+      "name": "Family Dinner Gown",
+      "garment_pieces": [
+        "Rose silk gown, remade",
+        "Grandmother's brooch",
+        "Familiar gloves"
+      ],
+      "scoring_categories": [
+        "Impact",
+        "harmony",
+        "prestige"
+      ],
+      "rarity": "Common",
+      "acquisition": {
+        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "crowns_path": "Jewel shelf · 20 Crowns"
+      },
+      "art_notes": "Loved, familiar, true; the brooch has seen worse dinners."
+    },
+    {
+      "id": "card.morning_wrapper",
+      "collectionId": "closet.triumph",
+      "name": "Morning-After Wrapper",
+      "garment_pieces": [
+        "Quilted wrapper",
+        "Slippers",
+        "Hair down"
+      ],
+      "scoring_categories": [
+        "Propriety",
+        "detail",
+        "coordination"
+      ],
+      "rarity": "Common",
+      "acquisition": {
+        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80)",
+        "crowns_path": "Jewel shelf · 20 Crowns"
+      },
+      "art_notes": "Undressing as inventory: the gown put away, the night accounted for."
+    },
+    {
+      "id": "card.war_tea",
+      "collectionId": "closet.triumph",
+      "name": "War Tea Gown",
+      "garment_pieces": [
+        "Scarlet gown",
+        "Black lace overdress",
+        "Steel chatelaine"
+      ],
+      "scoring_categories": [
+        "Impact",
+        "harmony",
+        "prestige"
+      ],
+      "rarity": "Fine",
+      "acquisition": {
+        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80); S1 L23 commission reward",
+        "crowns_path": "Jewel shelf · 60 Crowns"
+      },
+      "art_notes": "Every inch a statement; the chatelaine carries keys, not charms."
+    },
+    {
+      "id": "card.trap_rout",
+      "collectionId": "closet.triumph",
+      "name": "Trap Rout Gown",
+      "garment_pieces": [
+        "Gold tissue gown",
+        "Diamond stars in hair",
+        "Ivory gloves"
+      ],
+      "scoring_categories": [
+        "Impact",
+        "harmony",
+        "prestige"
+      ],
+      "rarity": "Fine",
+      "acquisition": {
+        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80); S1 L27 commission reward",
+        "crowns_path": "Jewel shelf · 60 Crowns"
+      },
+      "art_notes": "Beautiful, deliberate, bait; Henry spent his full-dress uniform on her in public."
+    },
+    {
+      "id": "card.armor_gown",
+      "collectionId": "closet.triumph",
+      "name": "Armor Gown",
+      "garment_pieces": [
+        "Black velvet gown",
+        "Steel trim",
+        "Severe coiffure"
+      ],
+      "scoring_categories": [
+        "Impact",
+        "harmony",
+        "prestige"
+      ],
+      "rarity": "Fine",
+      "acquisition": {
+        "free_path": "Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80); S1 L22 commission reward",
+        "crowns_path": "Jewel shelf · 60 Crowns"
+      },
+      "art_notes": "Dark, severe, ready; debts called early, answered in velvet."
+    },
+    {
+      "id": "card.bouquet_gown",
+      "collectionId": "closet.triumph",
+      "name": "Triumph Bouquet Gown",
+      "garment_pieces": [
+        "Ivory gown",
+        "Living flowers at the sash",
+        "Garden gloves"
+      ],
+      "scoring_categories": [
+        "Impact",
+        "harmony",
+        "prestige"
+      ],
+      "rarity": "Rare",
+      "acquisition": {
+        "free_path": "S1 L30 story decision reward (also Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80))",
+        "crowns_path": "Fashion Plate rotation · 140 Crowns"
+      },
+      "art_notes": "The gown that carries the triumph bouquet; the flowers are the message."
+    },
+    {
+      "id": "card.last_assembly",
+      "collectionId": "closet.triumph",
+      "name": "Last Assembly Gown",
+      "garment_pieces": [
+        "Midnight silk gown",
+        "Silver embroidery",
+        "Triumph bouquet, worn"
+      ],
+      "scoring_categories": [
+        "Impact",
+        "harmony",
+        "prestige"
+      ],
+      "rarity": "Rare",
+      "acquisition": {
+        "free_path": "Complete S1 L30 (also Opal draws · Group 1 (pity: Rare+ guaranteed every 20 draws, Ultra-Rare every 80))",
+        "crowns_path": "Fashion Plate rotation · 140 Crowns"
+      },
+      "art_notes": "The last assembly of the season; midnight with silver, worn like a full stop."
+    },
+    {
+      "id": "card.triumph_gown",
+      "collectionId": "closet.triumph",
+      "name": "The Triumph Gown",
+      "garment_pieces": [
+        "Ivory silk gown by Élise",
+        "Gold embroidery: Triumph, Mourning, Joy",
+        "Tokens of every route, placed with intent"
+      ],
+      "scoring_categories": [
+        "Impact",
+        "harmony",
+        "prestige"
+      ],
+      "rarity": "Ultra-Rare",
+      "acquisition": {
+        "free_path": "TIME-ONLY: complete S1 — all 30 chapters. Never purchasable at any price.",
+        "crowns_path": "No Crowns path exists — this gown is earned, never bought"
+      },
+      "art_notes": "Élise's masterpiece; Julian's white rose, Laurent's ribbon under the glove, Henry's book of hours, Octavia's sketch of Rose laughing."
+    }
+  ],
+  "groups_roadmap": [
+    {
+      "group": 2,
+      "season": "S2 — Bath",
+      "themes": [
+        "Bath Plain-Clothes",
+        "The Pump Room",
+        "Crescent Promenade",
+        "Bath Assembly",
+        "The Underestimated"
+      ]
+    },
+    {
+      "group": 3,
+      "season": "S3 — London / the Libel",
+      "themes": [
+        "Ink & Verdicts",
+        "Unimpeachable",
+        "The Press Ball",
+        "Fleet Street Silk",
+        "Vindication White"
+      ]
+    },
+    {
+      "group": 4,
+      "season": "S4 — the Confrontation",
+      "themes": [
+        "Black & Gold",
+        "The Masquerade",
+        "Masks Off",
+        "Solvent Propriety",
+        "Hartwell Colours"
+      ]
+    },
+    {
+      "group": 5,
+      "season": "S5–S6",
+      "themes": [
+        "The Assembly",
+        "City Restraint",
+        "Canal Expedition",
+        "The Fortune",
+        "Sloane's Ledger"
+      ]
+    },
+    {
+      "group": 6,
+      "season": "S7–S10",
+      "themes": [
+        "Heirlooms",
+        "The Fête",
+        "The Hearing",
+        "Housewarming",
+        "Legacy"
+      ]
+    }
+  ],
+  "story_wardrobe_references": [
+    {
+      "chapter": "S1 L1 — Ink Before Arrival",
+      "description": "Travel-stained gown; first merge-board task: restore, don't replace."
+    },
+    {
+      "chapter": "S1 L2 — Morning Calls",
+      "description": "Morning gown: respectable, forgettable, armor."
+    },
+    {
+      "chapter": "S1 L3 — The Fitting and the Promenade",
+      "description": "First gown commissioned at Élise's; gloves chosen with care in case the comte calls (Laurent)."
+    },
+    {
+      "chapter": "S1 L4 — Lavinia's Tea Party",
+      "description": "Tea gown: pretty, unthreatening; scarlet ribbon chosen because Julian might hear of the tea; Lavinia's circle laughs at the Hartwell gown's simplicity."
+    },
+    {
+      "chapter": "S1 L5 — The West Gallery",
+      "description": "No fashion deliverable: the Park dresses her (dust, ledgers)."
+    },
+    {
+      "chapter": "S1 L6 — The Riverside Picnic",
+      "description": "Picnic dress: white, washable, meant to be seen across a lawn (Julian reads the choice)."
+    },
+    {
+      "chapter": "S1 L7 — The Opera",
+      "description": "Opera gown: the season's first real statement."
+    },
+    {
+      "chapter": "S1 L8 — The Promenade",
+      "description": "Carriage dress: correct to the inch."
+    },
+    {
+      "chapter": "S1 L9 — On the Eve",
+      "description": "Ball gown final fitting: the season's first full statement."
+    },
+    {
+      "chapter": "S1 L10 — Lady Drummond's Ball",
+      "description": "Full toilette: hair, jewels, the gown from L9; pre-ball dressing is the allegiance choice (approved gold / scarlet ribbon in the reticule / severe plain for Henry)."
+    },
+    {
+      "chapter": "S1 L11 — The Morning After",
+      "description": "Undressing: the gown put away, the night inventoried."
+    },
+    {
+      "chapter": "S1 L12 — The Modiste's Ledger",
+      "description": "Sitting dress: chosen for stillness, for the artist's eye (Octavia)."
+    },
+    {
+      "chapter": "S1 L13 — Cecilia's Tea Party",
+      "description": "Tea gown: armor disguised as prettiness; simple dark green because Octavia said 'You look like yourself.'"
+    },
+    {
+      "chapter": "S1 L14 — The Locked Steward's Room",
+      "description": "Country dress: plain, private, no performance."
+    },
+    {
+      "chapter": "S1 L15 — The Park Picnic",
+      "description": "Country gown: simple, deliberate."
+    },
+    {
+      "chapter": "S1 L16 — The Contradiction",
+      "description": "Drive dress: visible, correct."
+    },
+    {
+      "chapter": "S1 L17 — The Rout",
+      "description": "Rout gown: chosen for who she'll dance with (approved gold / scarlet ribbon hidden / severe plain)."
+    },
+    {
+      "chapter": "S1 L18 — Masks and Dominoes",
+      "description": "Black silk domino; Julian's black silk mask token."
+    },
+    {
+      "chapter": "S1 L20 — Vauxhall After Dark",
+      "description": "The domino worn; Julian's confession in the dark walks."
+    },
+    {
+      "chapter": "S1 L21 — A Voice Below Stairs",
+      "description": "Plain dress: below stairs, no performance."
+    },
+    {
+      "chapter": "S1 L22 — Debts Called Early",
+      "description": "Armor gown: dark, severe, ready."
+    },
+    {
+      "chapter": "S1 L23 — The War Tea Party",
+      "description": "War gown: every inch a statement."
+    },
+    {
+      "chapter": "S1 L24 — The Promenade, Terms Stated",
+      "description": "Stated-terms gown: no ambiguity, in dress or intent; the emerald, the good gloves, for the possibility of Henry."
+    },
+    {
+      "chapter": "S1 L25 — The Refuge Picnic",
+      "description": "Refuge dress: soft, private, unarmored."
+    },
+    {
+      "chapter": "S1 L26 — Quill's Strongbox",
+      "description": "Chambers dress: serious, plain, believed."
+    },
+    {
+      "chapter": "S1 L27 — The Trap Rout",
+      "description": "Trap gown: beautiful, deliberate, bait; Henry deploys his full-dress uniform, Bath star, spent on her in public."
+    },
+    {
+      "chapter": "S1 L28 — The Triumph Gown",
+      "description": "Élise's masterpiece; message: Triumph / Mourning-for-the-war / Joy; tokens: Julian's white rose, Laurent's ribbon (worn under the glove), Henry's book of hours, Octavia's sketch of Rose laughing."
+    },
+    {
+      "chapter": "S1 L29 — Dinner en Famille",
+      "description": "Family gown: loved, familiar, true."
+    },
+    {
+      "chapter": "S1 L30 — The Last Assembly",
+      "description": "The triumph gown worn; the triumph bouquet, from whom the player's choice."
+    },
+    {
+      "chapter": "S2 fashion spine",
+      "description": "Bath plain-clothes designed to be underestimated; gown remade from old Hartwell silk at the ball paying Drummond's first installment; dresses to be seen winning at the Bath assembly."
+    },
+    {
+      "chapter": "S3 fashion spine",
+      "description": "Unimpeachable: every gown a verdict; ink under her fingernails at the ball where the libel breaks; white roses at the vindication."
+    },
+    {
+      "chapter": "S4 fashion spine",
+      "description": "Black-and-gold masquerade (black and gold, mask removed for the confrontation); severe solvent propriety; Hartwell colors restored as a flag at the Assembly."
+    },
+    {
+      "chapter": "S5 fashion spine",
+      "description": "Dressing as power; Élise's assembly gown (severe, magnificent, unmistakable); a single bloom of the player's choice."
+    },
+    {
+      "chapter": "S6 fashion spine",
+      "description": "Restraint-as-display for the City; muddy hems of the canal expedition; ball gown the Park's own money paid for."
+    },
+    {
+      "chapter": "S7 fashion spine",
+      "description": "Hartwell heirlooms — old lace, grandmother's jewels, remade stored silks; de Valcourt colors beside Hartwell colors at the ball; white and simple for the reclamation ceremony."
+    },
+    {
+      "chapter": "S8 fashion spine",
+      "description": "Armor: the fête gown, the most magnificent of the series, Hartwell colors; red roses with the thorns left on."
+    },
+    {
+      "chapter": "S9 fashion spine",
+      "description": "Severe propriety; grandmother's pearls at the hearing; the verdict gown — quiet, absolute."
+    },
+    {
+      "chapter": "S10 fashion spine",
+      "description": "The housewarming gown, Élise's finest; the farewell masquerade quotes the S1 triumph gown; the final assembly: dressed as herself — no armor, no statement, no performance."
+    }
+  ]
+}

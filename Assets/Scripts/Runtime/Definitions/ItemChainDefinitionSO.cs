@@ -18,9 +18,15 @@ public sealed class ItemChainDefinitionSO : ScriptableObject
     public sealed class ChainLevel
     {
         public int level;
+        [Tooltip("Unique item id for this level (unique across all chains)")]
+        public string itemId = "";
         public string displayName = "";
+        [Tooltip("Canonical art hook from the design package")]
+        public string artHook = "";
         [Tooltip("Art hook / itemId / detailing notes from the design package")]
         public string artNotes = "";
+        [Tooltip("Base merge/economy value; design uses 1..512 doubling")]
+        public int baseValue;
         public int unlockSeason = 1;
     }
 }

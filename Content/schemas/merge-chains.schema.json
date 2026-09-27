@@ -1,1 +1,99 @@
-{"$id":"https://scandal-season.example/schemas/merge-chains.schema.json","$schema":"https://json-schema.org/draft/2020-12/schema","additionalProperties":false,"description":"Merge chains: named item families with ordered levels. Dotted ids namespace chains to their board (e.g. atelier.notions). Chains with id \"TBD\" are design placeholders — the importer skips them with a log, not an error. Level displayNames arrive during the detailing phase; art_notes carries the art hook and itemId until then.","properties":{"_comment":{"description":"Optional human note; ignored by validation and importers.","type":"string"},"_note":{"description":"Design-team note; ignored by validation and importers.","type":"string"},"chains":{"items":{"additionalProperties":false,"properties":{"board":{"description":"Board namespace this chain belongs to (e.g. atelier, park).","type":"string"},"displayName":{"minLength":1,"type":"string"},"id":{"pattern":"^([a-z0-9.-]+|TBD)$","type":"string"},"levels":{"items":{"additionalProperties":false,"properties":{"art_notes":{"description":"Art hook / itemId / detailing notes for this level.","type":"string"},"displayName":{"type":"string"},"level":{"minimum":1,"type":"integer"},"unlockSeason":{"minimum":1,"type":"integer"}},"required":["level"],"type":"object"},"minItems":2,"type":"array"}},"required":["id","displayName","levels"],"type":"object"},"minItems":1,"type":"array"},"schemaVersion":{"description":"Optional; when present must be the expected version. Missing versions log a warning on import.","type":"string"}},"required":["chains"],"title":"MergeChains","type":"object"}
+{
+ "$id": "https://scandal-season.example/schemas/merge-chains.schema.json",
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "additionalProperties": false,
+ "description": "Merge chains: named item families with ordered levels. Dotted ids namespace chains to their board (e.g. atelier.notions). Chains with id \"TBD\" are design placeholders \u2014 the importer skips them with a log, not an error. Level displayNames arrive during the detailing phase; art_notes carries the art hook and itemId until then.",
+ "properties": {
+  "_comment": {
+   "description": "Optional human note; ignored by validation and importers.",
+   "type": "string"
+  },
+  "_note": {
+   "description": "Design-team note; ignored by validation and importers.",
+   "type": "string"
+  },
+  "chains": {
+   "items": {
+    "additionalProperties": false,
+    "properties": {
+     "board": {
+      "description": "Board namespace this chain belongs to (e.g. atelier, park).",
+      "type": "string"
+     },
+     "displayName": {
+      "minLength": 1,
+      "type": "string"
+     },
+     "id": {
+      "pattern": "^([a-z0-9.-]+|TBD)$",
+      "type": "string"
+     },
+     "levels": {
+      "items": {
+       "additionalProperties": false,
+       "properties": {
+        "art_notes": {
+         "description": "Art hook / itemId / detailing notes for this level.",
+         "type": "string"
+        },
+        "displayName": {
+         "type": "string"
+        },
+        "level": {
+         "minimum": 1,
+         "type": "integer"
+        },
+        "unlockSeason": {
+         "minimum": 1,
+         "type": "integer"
+        },
+        "itemId": {
+         "description": "Unique item id for this level (unique across all chains).",
+         "pattern": "^[a-z0-9._-]+$"
+        },
+        "name": {
+         "description": "Canonical display name from the design package.",
+         "minLength": 1
+        },
+        "artHook": {
+         "description": "Canonical art hook for this level.",
+         "type": "string"
+        },
+        "baseValue": {
+         "description": "Base merge/economy value; design uses 1..512 doubling.",
+         "type": "integer",
+         "minimum": 0
+        }
+       },
+       "required": [
+        "level",
+        "itemId",
+        "name"
+       ],
+       "type": "object"
+      },
+      "minItems": 2,
+      "type": "array"
+     }
+    },
+    "required": [
+     "id",
+     "displayName",
+     "levels"
+    ],
+    "type": "object"
+   },
+   "minItems": 1,
+   "type": "array"
+  },
+  "schemaVersion": {
+   "description": "Optional; when present must be the expected version. Missing versions log a warning on import.",
+   "type": "string"
+  }
+ },
+ "required": [
+  "chains"
+ ],
+ "title": "MergeChains",
+ "type": "object"
+}

@@ -20,13 +20,30 @@ public sealed class OutfitDefinitionSO : ScriptableObject
     [Tooltip("Matches outfit.id in Content/outfits.json")]
     public string outfitId = "";
     public string displayName = "";
+    [Tooltip("Closet collection this outfit belongs to (e.g. closet.morning_room)")]
+    public string collectionId = "";
+    [Tooltip("Common / Fine / Rare / Ultra-Rare")]
+    public string rarity = "";
     [Tooltip("Book One is seasons 1–10; seasons continue indefinitely after it.")]
     public int season = 1;
     [Tooltip("Special-edition outfits are the critical monetization lever — but every one keeps a credible free path.")]
     public bool specialEdition;
+    [Tooltip("Garment piece names from the design package (slots unassigned until design details them).")]
+    public string[] garmentPieces = System.Array.Empty<string>();
     public OutfitPiece[] pieces = System.Array.Empty<OutfitPiece>();
     [Tooltip("Scoring category ids. Categories are visible to players; weights stay hidden server-side.")]
     public string[] categories = System.Array.Empty<string>();
+    [Tooltip("How the outfit is earned; crownsPath is prose and may state no purchasable path exists (time-only).")]
+    public OutfitAcquisition acquisition = new OutfitAcquisition();
+    [Tooltip("Art direction notes from the design package")]
+    public string artNotes = "";
+
+    [System.Serializable]
+    public sealed class OutfitAcquisition
+    {
+        public string freePath = "";
+        public string crownsPath = "";
+    }
 
     [System.Serializable]
     public sealed class OutfitPiece
