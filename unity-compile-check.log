@@ -1,0 +1,32 @@
+Unity Editor version:    6000.0.23f1 (1c4764c07fb4)
+Branch:                  6000.0/staging
+Build type:              Release
+Batch mode:              YES
+System name:             Linux
+Distro version:          #1 SMP PREEMPT_DYNAMIC Fri Sep  4 07:31:16 UTC 2026
+Kernel version:          7.0.0-38-generic
+Architecture:            x86_64
+Available memory:        7935 MB
+[Licensing::Module] Trying to connect to existing licensing client channel...
+[Licensing::IpcConnector] Connection attempt to the License Client on channel: "LicenseClient-root" failed because channel doesn't exist; code: "0x80000002"
+[Licensing::Module] Successfully launched the LicensingClient (PId: 6760)
+[Licensing::IpcConnector] Successfully connected to the License Client on channel: "LicenseClient-root" at "2026-09-27T17:57:18.653625Z"
+[SignatureVerifier] Application signature verification not supported on this platform.
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.16.0-alpha.1+3676804
+  Session Id:              ba26c82a2d4f40cb96ad7d4d1efbf6f4
+  Correlation Id:          cc75a37085424df33b703ad3532e0904
+  External correlation Id: 1625989256524277098
+  Machine Id:              6nlXZIHC/VpjKAtuazCeQe8Sj+4=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-root" (connect: 1.94s, validation: 0.33s, handshake: 0.00s)
+[Licensing::IpcConnector] Successfully connected to the License Notification on channel: "LicenseClient-root-notifications" at "2026-09-27T17:57:18.981614Z"
+[Licensing::Module] Connected to LicensingClient (PId: 6760, launch time: 0.00, total connection time: 2.27s)
+[Licensing::Module] Error: Access token is unavailable; failed to update
+[Licensing::Client] Error: Code 500 while processing request (status: Unable to update licenses. Errors: No ULF license found.,Token not found in cache)
+[Licensing::Client] Error: Code 500 while updating license in client (status: Unable to update licenses. Errors: No ULF license found.,Token not found in cache)
+[Licensing::Client] Error: Code 404 while processing request (status: Found 0 entitlement groups and 0 free entitlements matching requested entitlement ids)
+[Licensing::Module] Error: 'com.unity.editor.headless' was not found.
+Pro License: NO
+Initialize udev device monitor.
+[Licensing::Client] Error: Code 404 while processing request (status: Found 0 entitlement groups and 0 free entitlements matching requested entitlement ids)
+No valid Unity Editor license found. Please activate your license.

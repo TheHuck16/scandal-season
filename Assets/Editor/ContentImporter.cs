@@ -274,12 +274,15 @@ public static class ContentImporter
     }
 
     // ------------------------------------------------------------------ outfits
+    // Wardrobe v2 (locked Sep 27 2026): dual-unit wardrobe. Ensembles are the
+    // Daily Vote (competition-side) unit; components are the chapter-dressing
+    // (story-side) unit. Rarity: atelier / couture / imperiale / legende.
 
     [Serializable] private sealed class OutfitsFile
     {
         public string schemaVersion = "";
         public OutfitCollectionDto[] collections = Array.Empty<OutfitCollectionDto>();
-        public OutfitDto[] collectible_outfits = Array.Empty<OutfitDto>();
+        public EnsembleDto[] ensembles = Array.Empty<EnsembleDto>();
     }
     [Serializable] private sealed class OutfitCollectionDto
     {
@@ -289,16 +292,50 @@ public static class ContentImporter
         public string occasion = "";
         public string theme = "";
     }
-    [Serializable] private sealed class OutfitDto
+    [Serializable] private sealed class EnsembleDto
     {
         public string id = "";
         public string collectionId = "";
         public string name = "";
         public string rarity = "";
-        public string[] garment_pieces = Array.Empty<string>();
-        public string[] scoring_categories = Array.Empty<string>();
+        public bool timeless;
+        public bool time_only; // legacy alias of timeless; either flag marks a time-only ensemble
+        public ModisteDto modiste = new ModisteDto();
+        public string story = "";
+        public EnsembleComponentDto[] components = Array.Empty<EnsembleComponentDto>();
+        public string portrait_moment = "";
+        public string harmony_bonus = "";
         public OutfitAcquisitionDto acquisition = new OutfitAcquisitionDto();
-        public string art_notes = "";
+    }
+    [Serializable] private sealed class ModisteDto
+    {
+        public string name = "";
+        public string voice = "";
+    }
+    [Serializable] private sealed class EnsembleComponentDto
+    {
+        public string id = "";
+        public string name = "";
+        public string ritual_part = "";
+        public string lore = "";
+        public ColorwayDto colorways = new ColorwayDto();
+    }
+    [Serializable] private sealed class ColorwayDto
+    {
+        public ColorwayBaseDto @base = new ColorwayBaseDto();
+        public ColorwayRecolorDto recolor = new ColorwayRecolorDto();
+        public string[] dye_palette = Array.Empty<string>();
+    }
+    [Serializable] private sealed class ColorwayBaseDto
+    {
+        public string fabric = "";
+        public string color = "";
+    }
+    [Serializable] private sealed class ColorwayRecolorDto
+    {
+        public string name = "";
+        public string fabric = "";
+        public string color = "";
     }
     [Serializable] private sealed class OutfitAcquisitionDto
     {
@@ -307,7 +344,7 @@ public static class ContentImporter
     }
 
     private static readonly System.Collections.Generic.HashSet<string> OutfitRarities =
-        new System.Collections.Generic.HashSet<string> { "Common", "Fine", "Rare", "Ultra-Rare" };
+        new System.Collections.Generic.HashSet<string> { "atelier", "couture", "imperiale", "legende" };
 
     private static void ValidateOutfits(string fileName, OutfitsFile file, List<string> errors)
     {
@@ -324,41 +361,44 @@ public static class ContentImporter
             if (string.IsNullOrWhiteSpace(c.title))
                 errors.Add($"{fileName}: collection '{c.collectionId}' needs a title.");
         }
-        if (file.collectible_outfits.Length == 0)
-            errors.Add($"{fileName}: at least one collectible outfit is required.");
+        if (file.ensembles.Length == 0)
+            errors.Add($"{fileName}: at least one ensemble is required.");
         var seenIds = new System.Collections.Generic.HashSet<string>();
-        foreach (var outfit in file.collectible_outfits)
+        var seenComponentIds = new System.Collections.Generic.HashSet<string>();
+        foreach (var ensemble in file.ensembles)
         {
-            if (outfit.id == "TBD")
+            if (ensemble.id == "TBD")
             {
-                Debug.Log($"[Content] {fileName}: skipping TBD outfit '{outfit.name}' (no id assigned yet).");
+                Debug.Log($"[Content] {fileName}: skipping TBD ensemble '{ensemble.name}' (no id assigned yet).");
                 continue;
             }
-            if (!CheckId(fileName, outfit.id, errors, "outfit")) continue;
-            if (!seenIds.Add(outfit.id))
-                errors.Add($"{fileName}: duplicate outfit id '{outfit.id}'.");
-            if (string.IsNullOrWhiteSpace(outfit.name))
-                errors.Add($"{fileName}: outfit '{outfit.id}' needs a name.");
-            if (!collectionIds.Contains(outfit.collectionId))
-                errors.Add($"{fileName}: outfit '{outfit.id}' references unknown collection '{outfit.collectionId}'.");
-            if (!OutfitRarities.Contains(outfit.rarity))
-                errors.Add($"{fileName}: outfit '{outfit.id}' has unknown rarity '{outfit.rarity}'.");
-            if (outfit.garment_pieces.Length == 0)
-                errors.Add($"{fileName}: outfit '{outfit.id}' needs at least one garment piece.");
-            if (outfit.acquisition == null || string.IsNullOrWhiteSpace(outfit.acquisition.free_path))
-                errors.Add($"{fileName}: outfit '{outfit.id}' needs an acquisition free_path.");
+            if (!CheckId(fileName, ensemble.id, errors, "ensemble")) continue;
+            if (!seenIds.Add(ensemble.id))
+                errors.Add($"{fileName}: duplicate ensemble id '{ensemble.id}'.");
+            if (string.IsNullOrWhiteSpace(ensemble.name))
+                errors.Add($"{fileName}: ensemble '{ensemble.id}' needs a name.");
+            if (!collectionIds.Contains(ensemble.collectionId))
+                errors.Add($"{fileName}: ensemble '{ensemble.id}' references unknown collection '{ensemble.collectionId}'.");
+            if (!OutfitRarities.Contains(ensemble.rarity))
+                errors.Add($"{fileName}: ensemble '{ensemble.id}' has unknown rarity '{ensemble.rarity}'.");
+            if (string.IsNullOrWhiteSpace(ensemble.modiste?.name))
+                errors.Add($"{fileName}: ensemble '{ensemble.id}' needs a modiste name.");
+            if (ensemble.components.Length == 0)
+                errors.Add($"{fileName}: ensemble '{ensemble.id}' needs at least one component.");
+            foreach (var comp in ensemble.components)
+            {
+                if (!CheckId(fileName, comp.id, errors, "component")) continue;
+                if (!seenComponentIds.Add(comp.id))
+                    errors.Add($"{fileName}: duplicate component id '{comp.id}'.");
+                if (string.IsNullOrWhiteSpace(comp.name))
+                    errors.Add($"{fileName}: component '{comp.id}' needs a name.");
+                if (string.IsNullOrWhiteSpace(comp.ritual_part))
+                    errors.Add($"{fileName}: component '{comp.id}' needs a ritual_part.");
+            }
+            if (ensemble.acquisition == null || string.IsNullOrWhiteSpace(ensemble.acquisition.free_path))
+                errors.Add($"{fileName}: ensemble '{ensemble.id}' needs an acquisition free_path.");
         }
     }
-
-    private static OutfitSlot ParseOutfitSlot(string slot) => slot switch
-    {
-        "dress" => OutfitSlot.Dress,
-        "hair" => OutfitSlot.Hair,
-        "accessory" => OutfitSlot.Accessory,
-        "shoes" => OutfitSlot.Shoes,
-        "jewelry" => OutfitSlot.Jewelry,
-        _ => throw new ArgumentException($"Unknown outfit slot '{slot}'.")
-    };
 
     private static void ImportOutfits(string contentDir, List<string> errors)
     {
@@ -367,28 +407,45 @@ public static class ContentImporter
         int before = errors.Count;
         ValidateOutfits("outfits.json", file, errors);
         if (errors.Count != before) return;
-        // Content set changed (placeholder outfits replaced by design outfits):
+        // Content set changed (v1 outfits replaced by v2 ensembles):
         // clear previously generated outfit assets so stale ones can't linger.
         foreach (var guid in AssetDatabase.FindAssets("", new[] { $"{GeneratedRoot}/Outfits" }))
             AssetDatabase.DeleteAsset(AssetDatabase.GUIDToAssetPath(guid));
-        foreach (var outfit in file.collectible_outfits)
+        foreach (var ensemble in file.ensembles)
         {
-            if (outfit.id == "TBD") continue; // logged in validation
+            if (ensemble.id == "TBD") continue; // logged in validation
             var so = ScriptableObject.CreateInstance<OutfitDefinitionSO>();
-            so.outfitId = outfit.id;
-            so.displayName = outfit.name;
-            so.collectionId = outfit.collectionId;
-            so.rarity = outfit.rarity;
+            so.outfitId = ensemble.id;
+            so.displayName = ensemble.name;
+            so.collectionId = ensemble.collectionId;
+            so.rarity = ensemble.rarity;
             so.season = 1; // Group 1 is Season 1 content; later groups map to seasons when designed
-            so.garmentPieces = outfit.garment_pieces;
-            so.categories = outfit.scoring_categories;
+            so.timeless = ensemble.timeless || ensemble.time_only;
+            so.modisteName = ensemble.modiste?.name ?? "";
+            so.modisteVoice = ensemble.modiste?.voice ?? "";
+            so.ensembleStory = ensemble.story ?? "";
+            so.portraitMoment = ensemble.portrait_moment ?? "";
+            so.harmonyBonus = ensemble.harmony_bonus ?? "";
+            so.components = System.Array.ConvertAll(ensemble.components, c =>
+                new OutfitDefinitionSO.OutfitComponent
+                {
+                    componentId = c.id,
+                    displayName = c.name ?? "",
+                    ritualPart = c.ritual_part ?? "",
+                    lore = c.lore ?? "",
+                    baseFabric = c.colorways?.@base?.fabric ?? "",
+                    baseColor = c.colorways?.@base?.color ?? "",
+                    recolorName = c.colorways?.recolor?.name ?? "",
+                    recolorFabric = c.colorways?.recolor?.fabric ?? "",
+                    recolorColor = c.colorways?.recolor?.color ?? "",
+                    dyePalette = c.colorways?.dye_palette ?? System.Array.Empty<string>()
+                });
             so.acquisition = new OutfitDefinitionSO.OutfitAcquisition
             {
-                freePath = outfit.acquisition.free_path,
-                crownsPath = outfit.acquisition.crowns_path
+                freePath = ensemble.acquisition.free_path,
+                crownsPath = ensemble.acquisition.crowns_path
             };
-            so.artNotes = outfit.art_notes;
-            SaveDefinition("Outfits", outfit.id, so);
+            SaveDefinition("Outfits", ensemble.id, so);
         }
     }
 

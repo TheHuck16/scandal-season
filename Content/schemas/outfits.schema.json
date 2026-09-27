@@ -2,86 +2,17 @@
  "$id": "https://scandal-season.example/schemas/outfits.schema.json",
  "$schema": "https://json-schema.org/draft/2020-12/schema",
  "additionalProperties": false,
- "description": "Collectible outfits, grouped into collections. Group 1 (5 collections, 50 outfits) is decided; groups 2-6 exist as a theme roadmap only. Every premium outfit keeps a credible free path; time-only items (e.g. the Triumph Gown) carry no purchasable path by design.",
+ "description": "Wardrobe v2 (locked Sep 27 2026): dual-unit wardrobe. 50 named ensembles (10 per collection), each a set of ritual-tagged components with modiste-voiced lore, colorway matrix, and Atelier Album completion data. Rarity: Atelier / Couture / Imp\u00e9riale / L\u00e9gende (was Common / Fine / Rare / Ultra-Rare). Every premium ensemble keeps a credible free path; time-only items (e.g. the Triumph Gown) carry no purchasable path by design.",
  "properties": {
   "_note": {
    "description": "Design-team note; ignored by validation and importers.",
    "type": "string"
   },
-  "collectible_outfits": {
-   "items": {
-    "additionalProperties": false,
-    "properties": {
-     "acquisition": {
-      "additionalProperties": false,
-      "description": "Free path is required; crowns_path is prose and may state that no purchasable path exists (time-only items).",
-      "properties": {
-       "crowns_path": {
-        "type": "string"
-       },
-       "free_path": {
-        "minLength": 1,
-        "type": "string"
-       }
-      },
-      "required": [
-       "free_path"
-      ],
-      "type": "object"
-     },
-     "art_notes": {
-      "type": "string"
-     },
-     "collectionId": {
-      "pattern": "^([a-z0-9._-]+|TBD)$",
-      "type": "string"
-     },
-     "garment_pieces": {
-      "items": {
-       "type": "string"
-      },
-      "minItems": 1,
-      "type": "array"
-     },
-     "id": {
-      "pattern": "^([a-z0-9._-]+|TBD)$",
-      "type": "string"
-     },
-     "name": {
-      "minLength": 1,
-      "type": "string"
-     },
-     "rarity": {
-      "enum": [
-       "Common",
-       "Fine",
-       "Rare",
-       "Ultra-Rare"
-      ],
-      "type": "string"
-     },
-     "scoring_categories": {
-      "description": "Player-visible scoring categories; weights stay hidden. Documented categories pending Beth's canonical list.",
-      "items": {
-       "type": "string"
-      },
-      "type": "array"
-     }
-    },
-    "required": [
-     "id",
-     "collectionId",
-     "name",
-     "rarity",
-     "garment_pieces",
-     "acquisition"
-    ],
-    "type": "object"
-   },
-   "type": "array"
+  "atelier_album": {
+   "description": "Atelier Album completion data; design documentation, ignored by the Unity importer."
   },
   "collections": {
-   "description": "Closet collections; outfits reference these by collectionId.",
+   "description": "Closet collections; ensembles reference these by collectionId.",
    "items": {
     "additionalProperties": false,
     "properties": {
@@ -119,19 +50,206 @@
   "documented_system_rules": {
    "description": "Design documentation; ignored by validation and importers."
   },
+  "ensembles": {
+   "items": {
+    "additionalProperties": false,
+    "properties": {
+     "acquisition": {
+      "additionalProperties": false,
+      "description": "Free path is required; crowns_path is prose and may state that no purchasable path exists (time-only items).",
+      "properties": {
+       "crowns_path": {
+        "type": "string"
+       },
+       "free_path": {
+        "minLength": 1,
+        "type": "string"
+       }
+      },
+      "required": [
+       "free_path"
+      ],
+      "type": "object"
+     },
+     "collectionId": {
+      "pattern": "^([a-z0-9._-]+|TBD)$",
+      "type": "string"
+     },
+     "components": {
+      "description": "Ritual-tagged garment components \u2014 the chapter-dressing (story-side) unit.",
+      "items": {
+       "additionalProperties": false,
+       "properties": {
+        "colorways": {
+         "additionalProperties": false,
+         "properties": {
+          "base": {
+           "additionalProperties": false,
+           "properties": {
+            "color": {
+             "minLength": 1,
+             "type": "string"
+            },
+            "fabric": {
+             "minLength": 1,
+             "type": "string"
+            }
+           },
+           "required": [
+            "fabric",
+            "color"
+           ],
+           "type": "object"
+          },
+          "dye_palette": {
+           "items": {
+            "type": "string"
+           },
+           "type": "array"
+          },
+          "recolor": {
+           "additionalProperties": false,
+           "properties": {
+            "color": {
+             "type": "string"
+            },
+            "fabric": {
+             "type": "string"
+            },
+            "name": {
+             "minLength": 1,
+             "type": "string"
+            }
+           },
+           "required": [
+            "name"
+           ],
+           "type": "object"
+          }
+         },
+         "required": [
+          "base"
+         ],
+         "type": "object"
+        },
+        "id": {
+         "pattern": "^([a-z0-9._-]+|TBD)$",
+         "type": "string"
+        },
+        "lore": {
+         "type": "string"
+        },
+        "name": {
+         "minLength": 1,
+         "type": "string"
+        },
+        "ritual_part": {
+         "description": "Chapter-dressing ritual part this component fills (bodice, sleeves, skirt, neckline, trim, shoes, hair, accessory).",
+         "minLength": 1,
+         "type": "string"
+        }
+       },
+       "required": [
+        "id",
+        "name",
+        "ritual_part"
+       ],
+       "type": "object"
+      },
+      "minItems": 1,
+      "type": "array"
+     },
+     "harmony_bonus": {
+      "description": "Harmony bonus label (Daily Vote only \u2014 never tied to recency or spend).",
+      "type": "string"
+     },
+     "id": {
+      "pattern": "^([a-z0-9._-]+|TBD)$",
+      "type": "string"
+     },
+     "modiste": {
+      "additionalProperties": false,
+      "properties": {
+       "name": {
+        "minLength": 1,
+        "type": "string"
+       },
+       "voice": {
+        "type": "string"
+       }
+      },
+      "required": [
+       "name"
+      ],
+      "type": "object"
+     },
+     "name": {
+      "minLength": 1,
+      "type": "string"
+     },
+     "portrait_moment": {
+      "description": "Atelier Album portrait-moment completion payoff text.",
+      "type": "string"
+     },
+     "rarity": {
+      "enum": [
+       "atelier",
+       "couture",
+       "imperiale",
+       "legende"
+      ],
+      "type": "string"
+     },
+     "story": {
+      "description": "Ensemble lore, in the modiste's voice.",
+      "type": "string"
+     },
+     "timeless": {
+      "description": "Time-only flag: earned, never purchasable, never returning (e.g. the Triumph Gown).",
+      "type": "boolean"
+     },
+     "time_only": {
+      "description": "Legacy alias of timeless (both true on the Triumph Gown); accepted for compatibility, ignored when timeless is present.",
+      "type": "boolean"
+     }
+    },
+    "required": [
+     "id",
+     "collectionId",
+     "name",
+     "rarity",
+     "components",
+     "acquisition"
+    ],
+    "type": "object"
+   },
+   "type": "array"
+  },
   "groups_roadmap": {
    "description": "Future outfit groups; theme roadmap only, not importable content."
+  },
+  "merge_chain_signatures": {
+   "description": "Merge chains terminating in signature ensemble pieces; design documentation, ignored by the Unity importer."
+  },
+  "rarity_tiers": {
+   "description": "Rarity tier map including the old Common/Fine/Rare/Ultra-Rare names; design documentation, ignored by the Unity importer."
+  },
+  "saison_schedule": {
+   "description": "Saison drops with published vault policy; design documentation, ignored by the Unity importer."
   },
   "schemaVersion": {
    "description": "Optional; when present must be the expected version. Missing versions log a warning on import.",
    "type": "string"
   },
   "story_wardrobe_references": {
-   "description": "Story wardrobe references, not confirmed collectible outfits; never auto-promoted."
+   "description": "Story wardrobe references, not confirmed collectible ensembles; never auto-promoted."
+  },
+  "vault_policy": {
+   "description": "Published Saison vault policy; design documentation, ignored by the Unity importer."
   }
  },
  "required": [
-  "collectible_outfits"
+  "ensembles"
  ],
  "title": "Outfits",
  "type": "object"
