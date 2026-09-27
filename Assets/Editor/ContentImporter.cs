@@ -59,6 +59,7 @@ public static class ContentImporter
         ValidateFile<MergeChainsFile>(contentDir, "merge-chains.json", errors, ValidateMergeChains);
         ValidateFile<OutfitsFile>(contentDir, "outfits.json", errors, ValidateOutfits);
         ValidateFile<ScenesFile>(contentDir, "scenes.json", errors, ValidateScenes);
+        ValidateFile<ScenesFile>(contentDir, "scenes-season2.json", errors, ValidateScenes);
         ValidateFile<VoteEventsFile>(contentDir, "vote-events.json", errors, ValidateVoteEvents);
         ValidateFile<SeasonPassesFile>(contentDir, "season-passes.json", errors, ValidateSeasonPasses);
 
@@ -470,6 +471,7 @@ public static class ContentImporter
     }
     [Serializable] private sealed class RitualDto
     {
+        public string part = "";
         public string occasionBrief = "";
         public string[] directions = Array.Empty<string>();
         public string stepsSummary = "";
@@ -496,6 +498,8 @@ public static class ContentImporter
         public string animation = "";
         public string animationNote = "";
         public string beatQualifier = "";
+        public int playerTurns;
+        public string turnNote = "";
         // Null when the scene carries no key decision / ritual / sting (optional JSON objects).
         public KeyDecisionDto keyDecision;
         public RitualDto ritual;
@@ -523,14 +527,17 @@ public static class ContentImporter
         _ => throw new ArgumentException($"Unknown scene animation '{animation}'.")
     };
 
-    private const string ScenesSchemaVersion = "2.0.0";
+    private const string ScenesSchemaVersion = "2.1.0";
 
     // NOTE: JsonUtility instantiates nested [Serializable] DTO objects even when the
     // JSON key is absent, so presence is detected by content, not by null.
     private static bool HasKeyDecision(SceneDto scene) =>
         scene.keyDecision != null && !string.IsNullOrWhiteSpace(scene.keyDecision.title);
     private static bool HasRitual(SceneDto scene) =>
-        scene.ritual != null && !string.IsNullOrWhiteSpace(scene.ritual.occasionBrief);
+        scene.ritual != null && (!string.IsNullOrWhiteSpace(scene.ritual.occasionBrief)
+            || (scene.ritual.directions != null && scene.ritual.directions.Length > 0)
+            || (scene.ritual.steps != null && scene.ritual.steps.Length > 0)
+            || !string.IsNullOrWhiteSpace(scene.ritual.part));
 
     private static void ValidateScenes(string fileName, ScenesFile file, List<string> errors)
     {
@@ -553,13 +560,8 @@ public static class ContentImporter
             catch { errors.Add($"{fileName}: scene '{scene.id}' has unknown type '{scene.type}'."); continue; }
             try { ParseSceneAnimation(scene.animation); }
             catch { errors.Add($"{fileName}: scene '{scene.id}' has unknown animation '{scene.animation}'."); }
-            if (parsed == SceneType.ChapterClimax)
-            {
-                if (scene.ritual == null || string.IsNullOrWhiteSpace(scene.ritual.occasionBrief))
-                    errors.Add($"{fileName}: chapter-climax scene '{scene.id}' requires a ritual with an occasion brief.");
-                else if (scene.ritual.directions == null || scene.ritual.directions.Length == 0)
-                    errors.Add($"{fileName}: chapter-climax scene '{scene.id}' ritual needs directions.");
-            }
+            if (parsed == SceneType.ChapterClimax && !HasRitual(scene))
+                errors.Add($"{fileName}: chapter-climax scene '{scene.id}' requires ritual content (brief, directions, steps, or part label).");
             if (parsed == SceneType.GazetteSting && string.IsNullOrWhiteSpace(scene.sting))
                 errors.Add($"{fileName}: gazette-sting scene '{scene.id}' requires sting text.");
             if (parsed == SceneType.FashionSelection && scene.fashionChoices == null)
@@ -588,8 +590,21 @@ public static class ContentImporter
             var decisions = list.Where(HasKeyDecision).Select(s => s.keyDecision.number).OrderBy(n => n).ToList();
             if (!decisions.SequenceEqual(new[] { 1, 2, 3 }))
                 errors.Add($"{fileName}: season {key.season}, chapter {key.chapter} key decisions are [{string.Join(",", decisions)}], expected 1,2,3.");
-            if (list.Count(s => s.type == "chapter-climax") != 1)
-                errors.Add($"{fileName}: season {key.season}, chapter {key.chapter} must have exactly 1 dressing ritual.");
+            // Locked container: every listed chapter must hold exactly 40 scenes,
+            // exactly 3 key decisions, 1 contiguous dressing-ritual group, 1 sting,
+            // and 1 cliffhanger. Multi-part rituals (Season Two) are one group.
+            var ritualScenes = list.Where(s => s.type == "chapter-climax").OrderBy(s => s.scene).ToList();
+            int ritualGroups = 0;
+            int prevScene = -2;
+            foreach (var rs in ritualScenes)
+            {
+                if (rs.scene != prevScene + 1) ritualGroups++;
+                prevScene = rs.scene;
+            }
+            if (ritualGroups != 1)
+                errors.Add($"{fileName}: season {key.season}, chapter {key.chapter} must have exactly 1 dressing ritual group, found {ritualGroups}.");
+            else if (!ritualScenes.Any(s => !string.IsNullOrWhiteSpace(s.ritual?.occasionBrief)))
+                errors.Add($"{fileName}: season {key.season}, chapter {key.chapter} ritual group needs at least one occasion brief.");
             if (list.Count(s => s.type == "gazette-sting") != 1)
                 errors.Add($"{fileName}: season {key.season}, chapter {key.chapter} must have exactly 1 Gazette sting.");
             if (list.Count(s => s.type == "cliffhanger") != 1)
@@ -599,13 +614,19 @@ public static class ContentImporter
 
     private static void ImportScenes(string contentDir, List<string> errors)
     {
-        var file = ReadJson<ScenesFile>(contentDir, "scenes.json", errors);
-        if (file == null) return;
-        int before = errors.Count;
-        ValidateScenes("scenes.json", file, errors);
-        if (errors.Count != before) return;
-        foreach (var scene in file.scenes)
+        foreach (var fileName in new[] { "scenes.json", "scenes-season2.json" })
         {
+            var file = ReadJson<ScenesFile>(contentDir, fileName, errors);
+            if (file == null) continue;
+            int before = errors.Count;
+            ValidateScenes(fileName, file, errors);
+            if (errors.Count != before) continue;
+            foreach (var scene in file.scenes) ImportScene(scene);
+        }
+    }
+
+    private static void ImportScene(SceneDto scene)
+    {
             var so = ScriptableObject.CreateInstance<SceneDefinitionSO>();
             so.sceneId = scene.id;
             so.season = scene.season;
@@ -619,6 +640,8 @@ public static class ContentImporter
             so.animation = ParseSceneAnimation(scene.animation);
             so.animationNote = scene.animationNote;
             so.beatQualifier = scene.beatQualifier;
+            so.playerTurns = scene.playerTurns;
+            so.turnNote = scene.turnNote ?? "";
             if (HasKeyDecision(scene))
             {
                 so.keyDecision = new KeyDecisionData
@@ -633,9 +656,10 @@ public static class ContentImporter
             {
                 so.ritual = new RitualData
                 {
-                    occasionBrief = scene.ritual.occasionBrief,
+                    part = scene.ritual.part ?? "",
+                    occasionBrief = scene.ritual.occasionBrief ?? "",
                     directions = scene.ritual.directions ?? Array.Empty<string>(),
-                    stepsSummary = scene.ritual.stepsSummary,
+                    stepsSummary = scene.ritual.stepsSummary ?? "",
                     steps = scene.ritual.steps ?? Array.Empty<string>(),
                     coinPerDecision = scene.ritual.coinPerDecision,
                     coinTotal = scene.ritual.coinTotal
@@ -646,7 +670,6 @@ public static class ContentImporter
             so.sting = scene.sting ?? "";
             so.sourceFile = scene.sourceFile;
             SaveDefinition("Scenes", scene.id, so);
-        }
     }
 
     // ------------------------------------------------------------------ vote events

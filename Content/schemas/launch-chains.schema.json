@@ -1,0 +1,119 @@
+{
+  "$id": "https://scandal-season.example/schemas/launch-chains.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "description": "The five launch merge chains (Board F): Needlework, Pearls, Ribbon, Lace, Posy. Defined by the chain bible (Content/brand/merge-board-chain-bible.md), Beth-approved Sep 27, 2026. Every item on the launch board belongs to exactly one chain; merges stay within-chain. New chains unlock by season; these five are the launch set.",
+  "properties": {
+    "_comment": {
+      "description": "Optional human note; ignored by validation and importers.",
+      "type": "string"
+    },
+    "chains": {
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "board": {
+            "description": "Which board this chain appears on.",
+            "type": "string"
+          },
+          "displayName": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "family": {
+            "description": "Chain-family tag shown on the board (gold, pearl, blush, ivory, garden).",
+            "enum": [
+              "gold",
+              "pearl",
+              "blush",
+              "ivory",
+              "garden"
+            ],
+            "type": "string"
+          },
+          "id": {
+            "pattern": "^([a-z0-9.-]+|TBD)$",
+            "type": "string"
+          },
+          "levels": {
+            "items": {
+              "additionalProperties": false,
+              "properties": {
+                "artHook": {
+                  "description": "Structural art reference hook, e.g. 'art:launch/needlework_01'.",
+                  "type": "string"
+                },
+                "art_notes": {
+                  "description": "Art direction; empty until the art pass.",
+                  "type": "string"
+                },
+                "baseValue": {
+                  "minimum": 1,
+                  "type": "integer"
+                },
+                "displayName": {
+                  "type": "string"
+                },
+                "itemId": {
+                  "pattern": "^[a-z0-9._-]+$",
+                  "type": "string"
+                },
+                "level": {
+                  "minimum": 1,
+                  "type": "integer"
+                },
+                "name": {
+                  "minLength": 1,
+                  "type": "string"
+                },
+                "stageBadge": {
+                  "description": "Roman-numeral stage badge shown on the board (I–V).",
+                  "enum": [
+                    "I",
+                    "II",
+                    "III",
+                    "IV",
+                    "V"
+                  ],
+                  "type": "string"
+                },
+                "unlockSeason": {
+                  "description": "Season this level unlocks in; 1 for the launch set.",
+                  "minimum": 1,
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "level",
+                "stageBadge",
+                "itemId",
+                "name"
+              ],
+              "type": "object"
+            },
+            "minItems": 1,
+            "type": "array"
+          }
+        },
+        "required": [
+          "id",
+          "displayName",
+          "family",
+          "levels"
+        ],
+        "type": "object"
+      },
+      "minItems": 1,
+      "type": "array"
+    },
+    "schemaVersion": {
+      "const": "1.0.0"
+    }
+  },
+  "required": [
+    "schemaVersion",
+    "chains"
+  ],
+  "title": "LaunchChains",
+  "type": "object"
+}

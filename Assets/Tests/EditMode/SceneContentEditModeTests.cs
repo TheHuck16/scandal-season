@@ -1,9 +1,10 @@
 // UNITY-DEPENDENT — EditMode tests. Run inside the Unity Editor via
 // Window > General > Test Runner, and in CI via game-ci/unity-test-runner.
-// They assert the locked Season One story container against the generated
+// They assert the locked story containers against the generated
 // SceneDefinitionSO assets (Assets/Scripts/Runtime/Generated/Scenes):
-// 30 chapters x 40 scenes, exactly 3 key decisions / 1 ritual / 1 sting /
-// 1 cliffhanger per chapter. Content source: Content/scenes.json (schema v2).
+// per season, 30 chapters x 40 scenes, exactly 3 key decisions / 1 contiguous
+// dressing-ritual group / 1 sting / 1 cliffhanger per chapter.
+// Content sources: Content/scenes.json + Content/scenes-season2.json (schema v2.1).
 
 using System.Linq;
 using NUnit.Framework;
@@ -21,7 +22,10 @@ namespace ScandalSeason.Tests.EditMode
         private static bool HasKeyDecision(SceneDefinitionSO s) =>
             s.keyDecision != null && !string.IsNullOrWhiteSpace(s.keyDecision.title);
         private static bool HasRitual(SceneDefinitionSO s) =>
-            s.ritual != null && !string.IsNullOrWhiteSpace(s.ritual.occasionBrief);
+            s.ritual != null && (!string.IsNullOrWhiteSpace(s.ritual.occasionBrief)
+                || (s.ritual.directions != null && s.ritual.directions.Length > 0)
+                || (s.ritual.steps != null && s.ritual.steps.Length > 0)
+                || !string.IsNullOrWhiteSpace(s.ritual.part));
 
         private static SceneDefinitionSO[] LoadAllScenes() =>
             AssetDatabase.FindAssets("t:SceneDefinitionSO", new[] { ScenesRoot })
@@ -30,24 +34,50 @@ namespace ScandalSeason.Tests.EditMode
                 .Where(so => so != null)
                 .ToArray();
 
+        private static int CountRitualGroups(SceneDefinitionSO[] inChapter)
+        {
+            var numbers = inChapter.Where(s => s.type == SceneType.ChapterClimax)
+                .Select(s => s.sceneNumber).OrderBy(n => n).ToArray();
+            int groups = 0, prev = -2;
+            foreach (var n in numbers)
+            {
+                if (n != prev + 1) groups++;
+                prev = n;
+            }
+            return groups;
+        }
+
         [Test]
-        public void SeasonOneHas1200Scenes()
+        public void EachSeasonHas1200Scenes()
         {
             var scenes = LoadAllScenes();
-            Assert.AreEqual(30 * 40, scenes.Length,
-                $"Expected the full 1,200-scene Season One container, found {scenes.Length}.");
+            foreach (var season in scenes.Select(s => s.season).Distinct().OrderBy(x => x))
+            {
+                int count = scenes.Count(s => s.season == season);
+                Assert.AreEqual(30 * 40, count,
+                    $"Expected the full 1,200-scene Season {season} container, found {count}.");
+            }
+        }
+
+        [Test]
+        public void TotalSceneCountTripwire()
+        {
+            var scenes = LoadAllScenes();
+            int seasons = scenes.Select(s => s.season).Distinct().Count();
+            Assert.AreEqual(seasons * 30 * 40, scenes.Length,
+                $"Expected {seasons} seasons x 1,200 scenes = {seasons * 1200}, found {scenes.Length}.");
         }
 
         [Test]
         public void EveryChapterHas40ScenesNumbered1To40()
         {
             var scenes = LoadAllScenes();
-            foreach (var chapter in scenes.Select(s => s.chapter).Distinct().OrderBy(c => c))
+            foreach (var key in scenes.Select(s => (s.season, s.chapter)).Distinct().OrderBy(k => k))
             {
-                var numbers = scenes.Where(s => s.chapter == chapter)
+                var numbers = scenes.Where(s => s.season == key.season && s.chapter == key.chapter)
                     .Select(s => s.sceneNumber).OrderBy(n => n).ToArray();
                 Assert.AreEqual(Enumerable.Range(1, 40), numbers,
-                    $"Chapter {chapter} scene numbers are not 1–40.");
+                    $"S{key.season} chapter {key.chapter} scene numbers are not 1–40.");
             }
         }
 
@@ -55,50 +85,51 @@ namespace ScandalSeason.Tests.EditMode
         public void EveryChapterHasExactly3KeyDecisions()
         {
             var scenes = LoadAllScenes();
-            foreach (var chapter in scenes.Select(s => s.chapter).Distinct().OrderBy(c => c))
+            foreach (var key in scenes.Select(s => (s.season, s.chapter)).Distinct().OrderBy(k => k))
             {
-                var decisions = scenes.Where(s => s.chapter == chapter && HasKeyDecision(s))
+                var inChapter = scenes.Where(s => s.season == key.season && s.chapter == key.chapter).ToArray();
+                var decisions = inChapter.Where(HasKeyDecision)
                     .Select(s => s.keyDecision.number).OrderBy(n => n).ToArray();
                 CollectionAssert.AreEqual(new[] { 1, 2, 3 }, decisions,
-                    $"Chapter {chapter} must carry exactly key decisions 1, 2, 3.");
-                foreach (var kd in scenes.Where(s => s.chapter == chapter && HasKeyDecision(s))
-                    .Select(s => s.keyDecision))
+                    $"S{key.season} chapter {key.chapter} must carry exactly key decisions 1, 2, 3.");
+                foreach (var kd in inChapter.Where(HasKeyDecision).Select(s => s.keyDecision))
                 {
                     Assert.GreaterOrEqual(kd.options.Length, 2,
-                        $"Chapter {chapter} key decision '{kd.title}' needs at least 2 options.");
+                        $"S{key.season} chapter {key.chapter} key decision '{kd.title}' needs at least 2 options.");
                 }
             }
         }
 
         [Test]
-        public void EveryChapterHasOneRitualOneStingOneCliffhanger()
+        public void EveryChapterHasOneRitualGroupOneStingOneCliffhanger()
         {
             var scenes = LoadAllScenes();
-            foreach (var chapter in scenes.Select(s => s.chapter).Distinct().OrderBy(c => c))
+            foreach (var key in scenes.Select(s => (s.season, s.chapter)).Distinct().OrderBy(k => k))
             {
-                var inChapter = scenes.Where(s => s.chapter == chapter).ToArray();
-                Assert.AreEqual(1, inChapter.Count(s => s.type == SceneType.ChapterClimax),
-                    $"Chapter {chapter} must have exactly 1 dressing ritual.");
+                var inChapter = scenes.Where(s => s.season == key.season && s.chapter == key.chapter).ToArray();
+                Assert.AreEqual(1, CountRitualGroups(inChapter),
+                    $"S{key.season} chapter {key.chapter} must have exactly 1 contiguous dressing-ritual group.");
                 Assert.AreEqual(1, inChapter.Count(s => s.type == SceneType.GazetteSting),
-                    $"Chapter {chapter} must have exactly 1 Gazette sting.");
+                    $"S{key.season} chapter {key.chapter} must have exactly 1 Gazette sting.");
                 Assert.AreEqual(1, inChapter.Count(s => s.type == SceneType.Cliffhanger),
-                    $"Chapter {chapter} must have exactly 1 cliffhanger.");
+                    $"S{key.season} chapter {key.chapter} must have exactly 1 cliffhanger.");
             }
         }
 
         [Test]
-        public void RitualsCarryOccasionBriefAndCoinCosts()
+        public void RitualGroupsCarryOccasionBriefAndCoinCosts()
         {
-            var rituals = LoadAllScenes().Where(HasRitual).ToArray();
-            Assert.AreEqual(30, rituals.Length, "Expected one dressing ritual per chapter.");
-            foreach (var scene in rituals)
+            var scenes = LoadAllScenes();
+            foreach (var key in scenes.Select(s => (s.season, s.chapter)).Distinct().OrderBy(k => k))
             {
-                Assert.IsFalse(string.IsNullOrWhiteSpace(scene.ritual.occasionBrief),
-                    $"Ritual {scene.sceneId} needs its occasion brief.");
-                Assert.Greater(scene.ritual.directions.Length, 0,
-                    $"Ritual {scene.sceneId} needs directions.");
-                Assert.Greater(scene.ritual.coinPerDecision, 0,
-                    $"Ritual {scene.sceneId} needs a coin-per-decision cost.");
+                var parts = scenes.Where(s => s.season == key.season && s.chapter == key.chapter
+                    && s.type == SceneType.ChapterClimax && HasRitual(s)).ToArray();
+                Assert.Greater(parts.Length, 0,
+                    $"S{key.season} chapter {key.chapter} ritual group has no ritual content.");
+                Assert.IsTrue(parts.Any(p => !string.IsNullOrWhiteSpace(p.ritual.occasionBrief)),
+                    $"S{key.season} chapter {key.chapter} ritual group needs at least one occasion brief.");
+                Assert.IsTrue(parts.Any(p => p.ritual.coinPerDecision > 0),
+                    $"S{key.season} chapter {key.chapter} ritual group needs a coin-per-decision cost.");
             }
         }
 
@@ -106,11 +137,26 @@ namespace ScandalSeason.Tests.EditMode
         public void CustomAnimationIsFlaggedWithAReason()
         {
             var custom = LoadAllScenes().Where(s => s.animation == SceneAnimation.Custom).ToArray();
+            Assert.Greater(custom.Length, 0, "Expected some Custom animation calls.");
             foreach (var scene in custom)
             {
                 Assert.IsFalse(string.IsNullOrWhiteSpace(scene.animationNote),
                     $"Custom animation on {scene.sceneId} must carry its bespoke reason.");
             }
+        }
+
+        [Test]
+        public void CustomAnimationIsTentpoleOnly()
+        {
+            var scenes = LoadAllScenes();
+            var s1CustomChapters = scenes.Where(s => s.season == 1 && s.animation == SceneAnimation.Custom)
+                .Select(s => s.chapter).Distinct().OrderBy(c => c).ToArray();
+            CollectionAssert.AreEqual(new[] { 10, 20, 30 }, s1CustomChapters,
+                $"Season One Custom animation must sit only in tentpole chapters 10/20/30, found [{string.Join(",", s1CustomChapters)}].");
+            var s2CustomChapters = scenes.Where(s => s.season == 2 && s.animation == SceneAnimation.Custom)
+                .Select(s => s.chapter).Distinct().OrderBy(c => c).ToArray();
+            CollectionAssert.AreEqual(new[] { 10, 15, 21, 30 }, s2CustomChapters,
+                $"Season Two Custom animation must sit only in tentpole chapters 10/15/21/30, found [{string.Join(",", s2CustomChapters)}].");
         }
     }
 }
