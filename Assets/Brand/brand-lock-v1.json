@@ -31,12 +31,16 @@
     "font": "Middle B"
   },
   "estatePlates": {
-    "_comment": "Estate deep dive plates approved Sep 27, 2026. Restored = jewel-tone color; unrestored/dormant = sepia wash.",
+    "_comment": "Estate deep dive plates approved Sep 27, 2026. Restored/showpiece = jewel-tone color; unrestored/overgrown/dormant = sepia wash. Style: stylized-3D animated-film; wild garden reads as estate garden (classical stone bones), never cottage.",
     "plate-1a-aerial-restored": "Assets/Brand/Estate/plate-1a-aerial-restored.webp",
     "plate-2b-southfront-restored": "Assets/Brand/Estate/plate-2b-southfront-restored.webp",
     "plate-3a-arrival-unrestored": "Assets/Brand/Estate/plate-3a-arrival-unrestored.webp",
     "plate-4a-ballroom-dormant": "Assets/Brand/Estate/plate-4a-ballroom-dormant.webp",
-    "plate-4b-ballroom-firstball": "Assets/Brand/Estate/plate-4b-ballroom-firstball.webp"
+    "plate-4b-ballroom-firstball": "Assets/Brand/Estate/plate-4b-ballroom-firstball.webp",
+    "plate-6a-parterre-overgrown": "Assets/Brand/Estate/plate-6a-parterre-overgrown.webp",
+    "plate-6b-parterre-showpiece": "Assets/Brand/Estate/plate-6b-parterre-showpiece.webp",
+    "plate-7a-folly-unrestored": "Assets/Brand/Estate/plate-7a-folly-unrestored.webp",
+    "plate-8b-wildgarden-halfwild": "Assets/Brand/Estate/plate-8b-wildgarden-halfwild.webp"
   },
   "brandRules": "Content/brand/brand-rules-v1.md"
 }
