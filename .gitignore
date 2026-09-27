@@ -75,3 +75,8 @@ project.fragment.lock.json
 # Generated ScriptableObjects are build artifacts of the content pipeline.
 # They are git-ignored so JSON stays the source of truth; CI regenerates them.
 [Aa]ssets/[Ss]cripts/[Rr]untime/[Gg]enerated/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo

@@ -4,6 +4,7 @@
 
 **Format key.** [D] dialogue-heavy · [F] fashion-selection (full outfit depth — motif × colorway × thread × complete accessory set, via convergent choices; no coin cost, remembered) · [C] dressing-for-climax ritual (direction + occasion brief, decomposed micro-decisions, story morsels, reveal coda) · [T] texture micro-beat · plot beat (untagged) · Gazette sting · cliffhanger. ★ marks the chapter's exactly 3 key decisions. (T#) marks a player turn — choice, stance/tone decision, look-closer examination, social maneuver, or remembered micro-decision. Turns converge on the chapter's fixed beats unless ★; the game remembers the means — tone, relationship shifts, Gazette-verdict flavor. Animation: Shared throughout — L14 is not a tentpole; the ritual uses the shared ritual presentation.
 > **Continuity:** Opens from Chapter 13's cliffhanger — the de Valcourt name in the margin, in ink, in Rose's own hand; the London face one step nearer. Purpose: Rose sees the money's roads like supply lines.
+> **Occasion:** A lady at leisure — the panorama promenade; the full 360 degrees taken slowly, twenty small decisions about gaze, pace, and company.
 > **This chapter's three key decisions:** ★ 1/3 — The masquerade (go masked and listen / go openly / send Letitia as ears). ★ 2/3 — Julian's letter (answer warmly / carefully / keep distance). ★ 3/3 — Cecilia's buyers (intercept a sale / watch the buyers / let the selling continue to map the network).
 
 ### L14.S1 · plot beat · Rose Hartwell

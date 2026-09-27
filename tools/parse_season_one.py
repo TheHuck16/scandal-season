@@ -3,7 +3,7 @@
 
 Source of truth: Content/story/season-one-chapter-*.md (STATUS FULL) and
 Content/story/season-one-chapters-1-3-pilot.md (STATUS PILOT).
-Output: Content/scenes.json conforming to Content/schemas/scenes.schema.json (v2.0.0).
+Output: Content/scenes.json conforming to Content/schemas/scenes.schema.json (v2.1.0).
 
 The parser enforces the locked chapter format and fails loudly on violations:
   - exactly 40 scenes per chapter, numbered 1..40
@@ -16,6 +16,11 @@ Custom animation calls outside tentpole chapters (10, 20, 30) are reported as
 warnings only -- the source is recorded faithfully; the design-side rule
 ("Custom is tentpole-only") conflicts with 6 signed-off signature beats and
 awaits Beth's ruling. See the builder handoff notes.
+
+Updated Sep 27 2026 for the S1 turn retrofit: parse_ritual now handles the
+retrofitted pin-based ritual formats (occasion-brief variants, A/B/C direction
+variants, Pin/T-coin turn variants) with best-effort extraction, and the parser
+populates playerTurns/turnNote from each purpose line's (Turns: N) annotation.
 """
 
 import json
@@ -89,32 +94,151 @@ def parse_key_decision(body):
 
 
 def parse_ritual(body):
-    """Return ritual dict for [C] scenes."""
-    brief_m = re.search(r"\*\*Occasion brief \(published\):\*\* \"(.*?)\"", body, re.S)
-    if not brief_m or len(brief_m.group(1).strip()) < 50:
+    """Return ritual dict for [C] scenes.
+
+    Handles both the pre-retrofit structured format and the retrofitted
+    pin-based ritual format (S1 turn retrofit, Sep 2026). The occasion brief
+    is required; directions and steps are extracted best-effort across the
+    format variants the chapters use. The ContentImporter only requires one
+    of brief/directions/steps/part to be present.
+    """
+    # --- Occasion brief (required) ---
+    brief = None
+    # Variant 1 (pre-retrofit + most retrofitted): **Occasion brief (published):** "..."
+    m = re.search(r"\*\*Occasion brief \(published\):\*\* \"(.*?)\"", body, re.S)
+    if m:
+        brief = m.group(1).strip()
+    # Variant 2: **OCCASION BRIEF:** <text>
+    if not brief:
+        m = re.search(r"(?m)^> \*\*OCCASION BRIEF:\*\* (.*?)$", body)
+        if m:
+            brief = m.group(1).strip()
+    # Variant 3: **Occasion brief.** <text>
+    if not brief:
+        m = re.search(r"(?m)^> \*\*Occasion brief\.\*\* (.*?)$", body)
+        if m:
+            brief = m.group(1).strip()
+    # Variant 4: **Occasion brief — <title>** followed by an italic paragraph
+    # (the paragraph's closing asterisk is not always present)
+    if not brief:
+        m = re.search(r"(?m)^> \*\*Occasion brief — [^*]+\*\*\n> (.*?)$", body)
+        if m:
+            brief = m.group(1).strip().strip("*").strip()
+    if not brief or len(brief) < 50:
         raise ValueError("Ritual occasion brief is missing or unparseable.")
-    dir_m = re.search(r"\*\*The 3 directions:\*\* (.*?)(?:\n|$)", body)
-    if not dir_m:
-        raise ValueError("Ritual directions are missing.")
-    directions = [d.strip() for d in dir_m.group(1).split(" / ") if d.strip()]
-    if len(directions) != 3:
-        raise ValueError(f"Expected 3 ritual directions, found {len(directions)}.")
-    steps_m = re.search(
+
+    # --- Directions (best-effort) ---
+    directions = []
+    # Variant A (pre-retrofit): **The 3 directions:** d1 / d2 / d3 on one line
+    m = re.search(r"\*\*The 3 directions:\*\* (.*?)(?:\n|$)", body)
+    if m:
+        directions = [d.strip() for d in m.group(1).split(" / ") if d.strip()]
+    # Variant B: **The 3 directions:** then > **A — Name** / > **B — Name** / > **C — Name**
+    if not directions:
+        found = re.findall(r"(?m)^> \*\*([ABC]) — ([^*]+?)\*\*", body)
+        dmap = {a: b.strip() for a, b in found}
+        if all(k in dmap for k in "ABC"):
+            directions = [f"{k}. {dmap[k]}" for k in "ABC"]
+    # Variant C: > **A. Name** / > **B. Name** / > **C. Name**
+    if not directions:
+        found = re.findall(r"(?m)^> \*\*([ABC])\. ([^*]+?)\*\*", body)
+        dmap = {a: b.strip() for a, b in found}
+        if all(k in dmap for k in "ABC"):
+            directions = [f"{k}. {dmap[k]}" for k in "ABC"]
+    # Variant D: > **DIRECTION A — Name** / ...
+    if not directions:
+        found = re.findall(r"(?m)^> \*\*DIRECTION ([ABC]) — ([^*]+?)\*\*", body)
+        dmap = {a: b.strip() for a, b in found}
+        if all(k in dmap for k in "ABC"):
+            directions = [f"{k}. {dmap[k]}" for k in "ABC"]
+    # Variant E: T1 turn "She commits: A — X; B — Y; or C — Z"
+    if not directions:
+        m = re.search(
+            r"She commits: A — (.+?); B — (.+?); or C — (.+?)(?:\.| — |\*)", body
+        )
+        if m:
+            directions = [f"{k}. {m.group(i).strip()}"
+                          for i, k in enumerate("ABC", start=1)]
+    # Variant F: > - **A · Name** / > - **B · Name** / > - **C · Name**
+    if not directions:
+        found = re.findall(r"(?m)^> - \*\*([ABC]) · ([^*]+?)\*\*", body)
+        dmap = {a: b.strip() for a, b in found}
+        if all(k in dmap for k in "ABC"):
+            directions = [f"{k}. {dmap[k]}" for k in "ABC"]
+    # Note: some rituals (e.g. the ch18 domino) are single-garment and define
+    # no A/B/C directions; directions stays empty for those (honest).
+
+    # --- Steps (best-effort) ---
+    steps = []
+    steps_raw = ""
+    coin_each = 5
+    coin_total = 0
+    # Variant 1 (pre-retrofit): **Decomposed steps (~N, M coins each, ~T coins):** s1→s2→...
+    m = re.search(
         r"\*\*Decomposed steps \(~(\d+), (\d+) coins each, ~(\d+) coins\):\*\* (.*)",
         body,
     )
-    if not steps_m:
-        raise ValueError("Ritual decomposed steps are missing.")
-    steps_raw = steps_m.group(4).strip()
-    steps = [s.strip() for s in steps_raw.split("→") if s.strip()]
+    if m:
+        steps_raw = m.group(4).strip()
+        steps = [s.strip() for s in steps_raw.split("→") if s.strip()]
+        coin_each = int(m.group(2))
+        coin_total = int(m.group(3))
+    else:
+        # Variant 2 (retrofit): > **Pin N (T.. · micro-decision) — Topic:**
+        pins = re.findall(
+            r"(?m)^> \*\*Pin (\d+) \(T\d+ · [^)]+\) — ([^*]+?):\*\*", body
+        )
+        if pins:
+            pins.sort(key=lambda x: int(x[0]))
+            steps = [p[1].strip() for p in pins]
+        else:
+            # Variant 3 (retrofit): > (T N · <type> — 5 coins) *topic — ...* — remembered:
+            turns = re.findall(
+                r"(?m)^> \(T(\d+) · [^)]*? — 5 coins\) \*(.+?)\* — remembered:", body
+            )
+            if turns:
+                turns.sort(key=lambda x: int(x[0]))
+                steps = [c.split("—")[0].strip() for _, c in turns]
+            else:
+                # Variant 4 (retrofit): > (T N · <type>) *topic — ...* — remembered:
+                turns = re.findall(
+                    r"(?m)^> \(T(\d+) · ([^)]+)\) \*(.+?)\* — remembered:", body
+                )
+                # T1 is the direction choice; pins are T2+.
+                turns = [(int(n), c) for n, t, c in turns
+                         if "5 coins" not in t and int(n) >= 2]
+                if turns:
+                    turns.sort(key=lambda x: x[0])
+                    steps = [c.split("—")[0].strip() for _, c in turns]
+        if steps:
+            steps_raw = " → ".join(steps)
+            coin_total = coin_each * len(steps)
+
     return {
-        "occasionBrief": brief_m.group(1).strip(),
+        "occasionBrief": brief,
         "directions": directions,
         "stepsSummary": steps_raw,
         "steps": steps,
-        "coinPerDecision": int(steps_m.group(2)),
-        "coinTotal": int(steps_m.group(3)),
+        "coinPerDecision": coin_each,
+        "coinTotal": coin_total,
     }
+
+
+def parse_player_turns(purpose):
+    """Return (playerTurns, turnNote) from the purpose line's (Turns: N) annotation.
+
+    The S1 turn retrofit (Sep 2026) stamps every scene's purpose line with its
+    authored turn count, e.g. "(Turns: 8)", "(Turns: 3 — the decision)",
+    "(Turns: 21 — the ritual)". Returns (None, None) when absent (never
+    fabricated).
+    """
+    m = re.search(r"\(Turns: (\d+)(?: — ([^)]+))?\)", purpose)
+    if not m:
+        return None, None
+    note = "Declared turn count in the source purpose line."
+    if m.group(2):
+        note += f" Source qualifier: {m.group(2).strip()}."
+    return int(m.group(1)), note
 
 
 def parse_fashion_choices(body):
@@ -191,6 +315,10 @@ def parse_chapter_file(path):
             }
             if beat_qualifier:
                 scene["beatQualifier"] = beat_qualifier
+            player_turns, turn_note = parse_player_turns(purpose)
+            if player_turns is not None:
+                scene["playerTurns"] = player_turns
+                scene["turnNote"] = turn_note
             kd = parse_key_decision(body)
             if kd:
                 key_numbers.add(kd["number"])
@@ -248,7 +376,7 @@ def main():
         sys.exit(f"Expected chapters 1..30, found {chapters}.")
 
     payload = {
-        "schemaVersion": "2.0.0",
+        "schemaVersion": "2.1.0",
         "_comment": (
             "Generated by tools/parse_season_one.py from Beth-signed-off chapter .md files "
             "(STATUS FULL / PILOT). Do not hand-edit; re-run the parser. Prose lives in "
