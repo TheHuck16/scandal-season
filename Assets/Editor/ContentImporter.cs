@@ -46,6 +46,8 @@ public static class ContentImporter
         {
             Debug.Log("[Content] Import complete — all files valid.");
         }
+
+        ExitBatchMode(errors.Count);
     }
 
     [MenuItem("Scandal Season/Validate Content JSON")]
@@ -66,6 +68,16 @@ public static class ContentImporter
             Debug.LogError($"[Content] Validation failed with {errors.Count} error(s).");
         }
         else Debug.Log("[Content] All content files valid.");
+
+        ExitBatchMode(errors.Count);
+    }
+
+    // In -batchmode (CI / headless runs), surface failures as a non-zero exit
+    // code so automation can fail the job. Never quits the interactive editor.
+    private static void ExitBatchMode(int errorCount)
+    {
+        if (Application.isBatchMode)
+            EditorApplication.Exit(errorCount > 0 ? 1 : 0);
     }
 
     // ------------------------------------------------------------------ io
