@@ -285,7 +285,7 @@
    "price": "$4.99 base escalating to $49.99 with play - LOCKED Sep 27, 2026 (Beth)",
    "track_template": "40 tiers, free + premium rows - LOCKED Sep 27, 2026 (Beth)",
    "track_contents": "outfit pieces + Crowns + energy - LOCKED Sep 27, 2026 (Beth)",
-   "per_event_design": "TBD"
+   "per_event_design": "ADOPTED Sep 27, 2026 (Beth): all three formats coexist - fortnightly 5-day Season Balls (A), weekly 3-day Gazette Challenges (C), monthly 7-day Patron's Ledger galas (B); see event-pass-proposals.md. Per-event content (outfit, occasion) is a content-calendar decision."
   },
   "chapter_pass": {
    "structure": "per-chapter, not per-season - LOCKED Sep 27, 2026 (Beth)",
@@ -330,7 +330,6 @@
  "_tbd": [
   "Chapter pass: price, duration, reward track; exact consumable amounts (150 energy + 23 vs 43 Crowns proposed, not yet chosen)",
   "Starter pack player-facing product name (never 'whale')",
-  "Event pass: per-event reward-track design within the locked 40-tier template",
   "Atelier 2x/4x/8x energy multipliers: amounts, unlock rules, Crown costs"
  ]
 }
