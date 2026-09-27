@@ -115,7 +115,7 @@
     ]
   },
   "coins": {
-    "role": "soft currency: storyline advancement (scenes, chapter turns, selected estate progress); never Crowns.",
+    "role": "soft currency: storyline advancement (scenes, selected estate progress); never Crowns.",
     "purchasable": false,
     "never_sold_for_real_money": "LOCKED Sep 27, 2026 (Beth)",
     "scene_price": "LOCKED Sep 27, 2026 (Beth): 120-290 coins per scene, scaling across the season",
@@ -132,7 +132,7 @@
     ],
     "sinks": [
       "dressing-ritual components (Beth Sep 27): 5 coins per micro-decision; rituals are event-variable (20-60 steps), so a full ritual costs 100-300 coins by occasion depth; re-picks within the session free; re-styling after the scene always free",
-      "story scenes / chapter turns / selected estate progress: 120-290 coins per scene (LOCKED)"
+      "story scenes / selected estate progress: 120-290 coins per scene (LOCKED)"
     ],
     "order_generator": {
       "status": "LOCKED Sep 27, 2026 (Beth)",
@@ -338,6 +338,8 @@
   "_tbd": [
     "Chapter pass: price, duration, reward track; exact consumable amounts (150 energy + 23 vs 43 Crowns proposed, not yet chosen)",
     "Starter pack player-facing product name (never 'whale')",
-    "Atelier 2x/4x/8x energy multipliers: amounts, unlock rules, Crown costs"
+    "Atelier 2x/4x/8x energy multipliers: amounts, unlock rules, Crown costs",
+    "Free-player coin-model validation against the ten-slot order queue (Beth's choices pending; per-scene 120-290 coins stands as documented)",
+    "Random board coin drops: whether they remain supplemental and at what rate (drops allowed; no rate set)"
   ]
 }
