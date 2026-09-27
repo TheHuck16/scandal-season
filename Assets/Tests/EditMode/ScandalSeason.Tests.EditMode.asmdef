@@ -1,1 +1,21 @@
-{"allowUnsafeCode":false,"autoReferenced":true,"defineConstraints":[],"excludePlatforms":[],"includePlatforms":["Editor"],"name":"ScandalSeason.Tests.EditMode","noEngineReferences":false,"overrideReferences":false,"precompiledReferences":[],"references":["ScandalSeason.Domain","UnityEngine.TestRunner","UnityEditor.TestRunner"],"rootNamespace":"ScandalSeason.Tests.EditMode","versionDefines":[]}
+{
+  "allowUnsafeCode": false,
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "excludePlatforms": [],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "name": "ScandalSeason.Tests.EditMode",
+  "noEngineReferences": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "references": [
+    "ScandalSeason.Domain",
+    "UnityEngine.TestRunner",
+    "UnityEditor.TestRunner",
+    "ScandalSeason.Runtime"
+  ],
+  "rootNamespace": "ScandalSeason.Tests.EditMode",
+  "versionDefines": []
+}

@@ -111,11 +111,11 @@ public static class ContentImporter
         }
     }
 
-    private static bool CheckSchemaVersion(string fileName, string schemaVersion, List<string> errors)
+    private static bool CheckSchemaVersion(string fileName, string schemaVersion, List<string> errors, string expected = ExpectedSchemaVersion)
     {
-        if (schemaVersion != ExpectedSchemaVersion)
+        if (schemaVersion != expected)
         {
-            errors.Add($"{fileName}: schemaVersion '{schemaVersion}' != expected '{ExpectedSchemaVersion}'.");
+            errors.Add($"{fileName}: schemaVersion '{schemaVersion}' != expected '{expected}'.");
             return false;
         }
         return true;
@@ -454,19 +454,54 @@ public static class ContentImporter
     [Serializable] private sealed class ScenesFile
     {
         public string schemaVersion = "";
+        public int season = 1;
         public SceneDto[] scenes = Array.Empty<SceneDto>();
+    }
+    [Serializable] private sealed class DecisionOptionDto
+    {
+        public string label = "";
+        public string detail = "";
+    }
+    [Serializable] private sealed class KeyDecisionDto
+    {
+        public int number;
+        public string title = "";
+        public DecisionOptionDto[] options = Array.Empty<DecisionOptionDto>();
+    }
+    [Serializable] private sealed class RitualDto
+    {
+        public string occasionBrief = "";
+        public string[] directions = Array.Empty<string>();
+        public string stepsSummary = "";
+        public string[] steps = Array.Empty<string>();
+        public int coinPerDecision;
+        public int coinTotal;
+    }
+    [Serializable] private sealed class FashionChoiceDto
+    {
+        public string label = "";
+        public string detail = "";
     }
     [Serializable] private sealed class SceneDto
     {
         public string id = "";
         public int season = 1;
         public int chapter = 1;
+        public int scene = 1;
+        public string chapterTitle = "";
+        public string chapterStatus = "";
         public string type = "";
-        public string title = "";
         public string synopsis = "";
-        public int energyCost;
-        public string briefId = "";
-        public string stakes = "";
+        public string[] participants = Array.Empty<string>();
+        public string animation = "";
+        public string animationNote = "";
+        public string beatQualifier = "";
+        // Null when the scene carries no key decision / ritual / sting (optional JSON objects).
+        public KeyDecisionDto keyDecision;
+        public RitualDto ritual;
+        public FashionChoiceDto[] fashionChoices;
+        public string sting;
+        public string sourceFile = "";
     }
 
     private static SceneType ParseSceneType(string type) => type switch
@@ -474,12 +509,32 @@ public static class ContentImporter
         "dialogue" => SceneType.Dialogue,
         "fashion-selection" => SceneType.FashionSelection,
         "chapter-climax" => SceneType.ChapterClimax,
+        "texture" => SceneType.Texture,
+        "plot-beat" => SceneType.PlotBeat,
+        "gazette-sting" => SceneType.GazetteSting,
+        "cliffhanger" => SceneType.Cliffhanger,
         _ => throw new ArgumentException($"Unknown scene type '{type}'.")
     };
 
+    private static SceneAnimation ParseSceneAnimation(string animation) => animation switch
+    {
+        "Shared" => SceneAnimation.Shared,
+        "Custom" => SceneAnimation.Custom,
+        _ => throw new ArgumentException($"Unknown scene animation '{animation}'.")
+    };
+
+    private const string ScenesSchemaVersion = "2.0.0";
+
+    // NOTE: JsonUtility instantiates nested [Serializable] DTO objects even when the
+    // JSON key is absent, so presence is detected by content, not by null.
+    private static bool HasKeyDecision(SceneDto scene) =>
+        scene.keyDecision != null && !string.IsNullOrWhiteSpace(scene.keyDecision.title);
+    private static bool HasRitual(SceneDto scene) =>
+        scene.ritual != null && !string.IsNullOrWhiteSpace(scene.ritual.occasionBrief);
+
     private static void ValidateScenes(string fileName, ScenesFile file, List<string> errors)
     {
-        if (!CheckSchemaVersion(fileName, file.schemaVersion, errors)) return;
+        if (!CheckSchemaVersion(fileName, file.schemaVersion, errors, ScenesSchemaVersion)) return;
         if (file.scenes.Length == 0) errors.Add($"{fileName}: at least one scene is required.");
         foreach (var scene in file.scenes)
         {
@@ -487,25 +542,58 @@ public static class ContentImporter
             CheckSeason(fileName, scene.id, scene.season, errors);
             if (scene.chapter < 1 || scene.chapter > GameRules.ChaptersPerSeason)
                 errors.Add($"{fileName}: scene '{scene.id}' chapter {scene.chapter} out of range (1–{GameRules.ChaptersPerSeason}).");
-            if (string.IsNullOrWhiteSpace(scene.title))
-                errors.Add($"{fileName}: scene '{scene.id}' needs a title.");
+            if (scene.scene < 1 || scene.scene > GameRules.ScenesPerChapter)
+                errors.Add($"{fileName}: scene '{scene.id}' scene number {scene.scene} out of range (1–{GameRules.ScenesPerChapter}).");
+            if (string.IsNullOrWhiteSpace(scene.chapterTitle))
+                errors.Add($"{fileName}: scene '{scene.id}' needs a chapterTitle.");
+            if (scene.chapterStatus != "FULL" && scene.chapterStatus != "PILOT")
+                errors.Add($"{fileName}: scene '{scene.id}' chapterStatus '{scene.chapterStatus}' must be FULL or PILOT.");
             SceneType parsed;
             try { parsed = ParseSceneType(scene.type); }
             catch { errors.Add($"{fileName}: scene '{scene.id}' has unknown type '{scene.type}'."); continue; }
-            if (parsed == SceneType.FashionSelection && string.IsNullOrWhiteSpace(scene.briefId))
-                errors.Add($"{fileName}: fashion-selection scene '{scene.id}' requires briefId.");
-            if (parsed == SceneType.ChapterClimax && string.IsNullOrWhiteSpace(scene.stakes))
-                errors.Add($"{fileName}: chapter-climax scene '{scene.id}' requires stakes.");
-            if (scene.energyCost < 0)
-                errors.Add($"{fileName}: scene '{scene.id}' energyCost cannot be negative.");
+            try { ParseSceneAnimation(scene.animation); }
+            catch { errors.Add($"{fileName}: scene '{scene.id}' has unknown animation '{scene.animation}'."); }
+            if (parsed == SceneType.ChapterClimax)
+            {
+                if (scene.ritual == null || string.IsNullOrWhiteSpace(scene.ritual.occasionBrief))
+                    errors.Add($"{fileName}: chapter-climax scene '{scene.id}' requires a ritual with an occasion brief.");
+                else if (scene.ritual.directions == null || scene.ritual.directions.Length == 0)
+                    errors.Add($"{fileName}: chapter-climax scene '{scene.id}' ritual needs directions.");
+            }
+            if (parsed == SceneType.GazetteSting && string.IsNullOrWhiteSpace(scene.sting))
+                errors.Add($"{fileName}: gazette-sting scene '{scene.id}' requires sting text.");
+            if (parsed == SceneType.FashionSelection && scene.fashionChoices == null)
+                errors.Add($"{fileName}: fashion-selection scene '{scene.id}' requires fashionChoices (may be empty).");
+            if (HasKeyDecision(scene))
+            {
+                if (scene.keyDecision.number < 1 || scene.keyDecision.number > 3)
+                    errors.Add($"{fileName}: scene '{scene.id}' key decision number {scene.keyDecision.number} out of range (1–3).");
+                if (string.IsNullOrWhiteSpace(scene.keyDecision.title))
+                    errors.Add($"{fileName}: scene '{scene.id}' key decision needs a title.");
+                if (scene.keyDecision.options == null || scene.keyDecision.options.Length < 2)
+                    errors.Add($"{fileName}: scene '{scene.id}' key decision needs at least 2 options.");
+            }
         }
-        // Completeness check (warning only — content is authored incrementally):
-        // the locked 30×40 rule wants 40 scenes per chapter per season.
+        // Locked container: every listed chapter must hold exactly 40 scenes,
+        // exactly 3 key decisions, 1 ritual, 1 sting, and 1 cliffhanger.
         foreach (var group in file.scenes.GroupBy(s => (s.season, s.chapter)).OrderBy(g => g.Key))
         {
-            if (group.Count() < GameRules.ScenesPerChapter)
-                Debug.LogWarning($"{fileName}: season {group.Key.season}, chapter {group.Key.chapter} " +
-                    $"has {group.Count()}/{GameRules.ScenesPerChapter} scenes (30×40 rule target).");
+            var key = group.Key;
+            var list = group.ToList();
+            if (list.Count != GameRules.ScenesPerChapter)
+                errors.Add($"{fileName}: season {key.season}, chapter {key.chapter} has {list.Count}/{GameRules.ScenesPerChapter} scenes.");
+            var numbers = list.Select(s => s.scene).OrderBy(n => n).ToList();
+            if (!numbers.SequenceEqual(Enumerable.Range(1, GameRules.ScenesPerChapter)))
+                errors.Add($"{fileName}: season {key.season}, chapter {key.chapter} scene numbers are not 1–{GameRules.ScenesPerChapter}.");
+            var decisions = list.Where(HasKeyDecision).Select(s => s.keyDecision.number).OrderBy(n => n).ToList();
+            if (!decisions.SequenceEqual(new[] { 1, 2, 3 }))
+                errors.Add($"{fileName}: season {key.season}, chapter {key.chapter} key decisions are [{string.Join(",", decisions)}], expected 1,2,3.");
+            if (list.Count(s => s.type == "chapter-climax") != 1)
+                errors.Add($"{fileName}: season {key.season}, chapter {key.chapter} must have exactly 1 dressing ritual.");
+            if (list.Count(s => s.type == "gazette-sting") != 1)
+                errors.Add($"{fileName}: season {key.season}, chapter {key.chapter} must have exactly 1 Gazette sting.");
+            if (list.Count(s => s.type == "cliffhanger") != 1)
+                errors.Add($"{fileName}: season {key.season}, chapter {key.chapter} must have exactly 1 cliffhanger.");
         }
     }
 
@@ -522,12 +610,41 @@ public static class ContentImporter
             so.sceneId = scene.id;
             so.season = scene.season;
             so.chapter = scene.chapter;
+            so.sceneNumber = scene.scene;
+            so.chapterTitle = scene.chapterTitle;
+            so.chapterStatus = scene.chapterStatus;
             so.type = ParseSceneType(scene.type);
-            so.title = scene.title;
             so.synopsis = scene.synopsis;
-            so.energyCost = scene.energyCost;
-            so.briefId = scene.briefId;
-            so.stakes = scene.stakes;
+            so.participants = scene.participants ?? Array.Empty<string>();
+            so.animation = ParseSceneAnimation(scene.animation);
+            so.animationNote = scene.animationNote;
+            so.beatQualifier = scene.beatQualifier;
+            if (HasKeyDecision(scene))
+            {
+                so.keyDecision = new KeyDecisionData
+                {
+                    number = scene.keyDecision.number,
+                    title = scene.keyDecision.title,
+                    options = (scene.keyDecision.options ?? Array.Empty<DecisionOptionDto>())
+                        .Select(o => new DecisionOptionData { label = o.label, detail = o.detail }).ToArray()
+                };
+            }
+            if (HasRitual(scene))
+            {
+                so.ritual = new RitualData
+                {
+                    occasionBrief = scene.ritual.occasionBrief,
+                    directions = scene.ritual.directions ?? Array.Empty<string>(),
+                    stepsSummary = scene.ritual.stepsSummary,
+                    steps = scene.ritual.steps ?? Array.Empty<string>(),
+                    coinPerDecision = scene.ritual.coinPerDecision,
+                    coinTotal = scene.ritual.coinTotal
+                };
+            }
+            so.fashionChoices = (scene.fashionChoices ?? Array.Empty<FashionChoiceDto>())
+                .Select(c => new FashionChoiceData { label = c.label, detail = c.detail }).ToArray();
+            so.sting = scene.sting ?? "";
+            so.sourceFile = scene.sourceFile;
             SaveDefinition("Scenes", scene.id, so);
         }
     }
