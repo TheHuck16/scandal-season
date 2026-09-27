@@ -8813,8 +8813,8 @@
         "Rose",
         "Octavia"
       ],
-      "animation": "Custom",
-      "animationNote": "signature sight beat — Octavia's route-defining intimacy; the held look must play as one unbroken, unhurried exchange: two women, north light, no performance; nothing else in the chapter is staged this way",
+      "animation": "Shared",
+      "animationNote": "",
       "sourceFile": "Content/story/season-one-chapter-12.md"
     },
     {
@@ -12352,8 +12352,8 @@
         "Rose (alone",
         "dressing)"
       ],
-      "animation": "Custom",
-      "animationNote": "climax dressing ritual — the allegiance choice made in pins, the season's first declared allegiance",
+      "animation": "Shared",
+      "animationNote": "",
       "sourceFile": "Content/story/season-one-chapter-17.md",
       "ritual": {
         "occasionBrief": "The Honorable Mrs. Trent's rout — a crush: heat, crowds, three hundred people in rooms built for eighty, and dancing in whatever space the crowd allows. The dress code: a rout gown — it must carry across a crowded room, survive a waltz, and declare, in pins, an allegiance. Tonight the gown is not armor and not announcement. It is a *decision*. **Editorial criterion: intention.**",
@@ -16369,8 +16369,8 @@
         "Rose Hartwell",
         "Lord Julian Ashcombe"
       ],
-      "animation": "Custom",
-      "animationNote": "signature beat — love expressed as restraint, both sides",
+      "animation": "Shared",
+      "animationNote": "",
       "sourceFile": "Content/story/season-one-chapter-22.md"
     },
     {
@@ -18765,8 +18765,8 @@
         "Rose",
         "Julian"
       ],
-      "animation": "Custom",
-      "animationNote": "signature beat — the lock-in gesture before the formal decision",
+      "animation": "Shared",
+      "animationNote": "",
       "sourceFile": "Content/story/season-one-chapter-25.md"
     },
     {
@@ -20810,8 +20810,8 @@
         "Rose",
         "Élise"
       ],
-      "animation": "Custom",
-      "animationNote": "set-piece fitting — the war's signature garment revealed",
+      "animation": "Shared",
+      "animationNote": "",
       "sourceFile": "Content/story/season-one-chapter-28.md",
       "ritual": {
         "occasionBrief": "The Last Assembly — the season's final verdict, and the room where the war ends. The dress code: triumph, legible at twenty paces; nothing that apologizes, nothing that hides. The gown must be *remembered* — it will be painted, printed, and talked about for a decade. Mourning colors forbidden; gloves expected. **Editorial criterion: triumph.**",
@@ -21041,8 +21041,8 @@
         "Rose",
         "Henry"
       ],
-      "animation": "Custom",
-      "animationNote": "signature intimacy beat — the route's emotional peak",
+      "animation": "Shared",
+      "animationNote": "",
       "sourceFile": "Content/story/season-one-chapter-28.md"
     },
     {

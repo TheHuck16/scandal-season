@@ -4,7 +4,7 @@
 
 **Sources:** `story/season-one-scenes.md` (beat inventory — Ch 25's 10 named beats, 3 locked decisions, cliffhanger), `story/book-one-arc.md` (Season One engine: "The Codicil"), `content/chapter-dressing.md` (ritual rules), `content/characters.json` (canon names).
 
-**Format key.** [D] dialogue-heavy · [F] fashion-selection (2–3 diegetic options, no coin cost, remembered) · [C] dressing-for-climax ritual (direction + occasion brief, decomposed micro-decisions, story morsels, reveal coda) · [T] texture micro-beat · plot beat (untagged) · Gazette sting · cliffhanger. ★ marks the chapter's exactly 3 key decisions. Animation: Shared (reusable staging) or Custom (bespoke, reason given) — Ch 25 carries one Custom signature beat (the lock-in gesture); all else is the shared set.
+**Format key.** [D] dialogue-heavy · [F] fashion-selection (2–3 diegetic options, no coin cost, remembered) · [C] dressing-for-climax ritual (direction + occasion brief, decomposed micro-decisions, story morsels, reveal coda) · [T] texture micro-beat · plot beat (untagged) · Gazette sting · cliffhanger. ★ marks the chapter's exactly 3 key decisions. Animation: Shared (reusable staging) or Custom (bespoke, reason given) — Ch 25 is not a tentpole; all calls here are Shared, including the shared ritual presentation.
 
 **Canon applied:** 1815. Rose Hartwell rebuilds Hartwell Park and earns her place; unhurried about marriage, honorable in method. Suitors honorable; routes grow through friendship. Villains sly, never overt. Mrs. Nance Bell is the Gazette's publicly named proprietor — no unmasking plot anywhere; the paper judges and narrates, never a mystery. Fashion is a courtship mechanic with social consequence. Energy is the only throttle. Iron rule holds: time earns everything money can. Crowns (premium) / coins (soft). The jewel shelf is always open and never a ritual step; owned jewels enter rituals as ordinary options with no scoring edge.
 
@@ -149,7 +149,7 @@
 > "The distinction felt thinner at two in the morning." — Julian
 > "Then it is fortunate it is afternoon, and I am here to do your arithmetic." — Rose
 > *(She does not move her hand. He does not move his. The letters lie under them both, judged and — for the moment — forgiven.)*
-*Animation: Custom (signature beat — the lock-in gesture before the formal decision).*
+*Animation: Shared.*
 
 ### L25.S20 · plot beat · Rose, Julian
 *Purpose: ★ KEY DECISION 1/3 — JULIAN'S CONFESSION.*

@@ -4,7 +4,7 @@
 
 **Sources:** `story/season-one-scenes.md` (beat inventory — built on, not duplicated), `story/book-one-arc.md` (Season One engine: "The Codicil"), `content/chapter-dressing.md` (locked ritual design), `content/characters.json` (canon names).
 
-**Format key.** [D] dialogue-heavy · [F] fashion-selection (2–3 diegetic options, no coin cost, remembered) · [C] dressing-for-climax ritual (direction + occasion brief, decomposed micro-decisions, story morsels, reveal coda) · [T] texture micro-beat · plot beat (untagged) · Gazette sting · cliffhanger. ★ marks the chapter's exactly 3 key decisions (locked rule: 3/chapter). Animation: Shared (reusable staging) or Custom (bespoke, reason given) — L22.S12 is the inventory's signature beat and carries the chapter's sole Custom call; the ritual uses the shared ritual presentation.
+**Format key.** [D] dialogue-heavy · [F] fashion-selection (2–3 diegetic options, no coin cost, remembered) · [C] dressing-for-climax ritual (direction + occasion brief, decomposed micro-decisions, story morsels, reveal coda) · [T] texture micro-beat · plot beat (untagged) · Gazette sting · cliffhanger. ★ marks the chapter's exactly 3 key decisions (locked rule: 3/chapter). Animation: Shared (reusable staging) or Custom (bespoke, reason given) — L22 is not a tentpole; all calls here are Shared, including the shared ritual presentation.
 
 **Canon applied:** 1815. Rose Hartwell rebuilds Hartwell Park and earns her place; unhurried about marriage, honorable in method. Suitors honorable; routes grow through friendship. Rackham sly, never overt. Mrs. Nance Bell is the Gazette's publicly named proprietor from the first edition — the paper judges and narrates, never a mystery, prize, or paywall. Fashion is a courtship mechanic with social consequence. Energy is the only throttle. Crowns (premium) / coins (soft). No Crown SKU touches the ritual; the jewel shelf is open at any time, never a ritual step.
 
@@ -110,7 +110,7 @@
 > "Rose —"
 > "No, Julian. You will not burn yourself to light my way. I did not come to London to collect martyrs; I came to win. And I do not win by spending you."
 > *(His hand finds hers — briefly, fiercely — and lets go. Love, expressed as restraint. Both sides.)*
-*Animation: Custom (signature beat — love expressed as restraint, both sides).*
+*Animation: Shared.*
 
 ### L22.S13 · [D] · Rose Hartwell, Comte Laurent de Varenne
 *Purpose: Paris, offered — the first future he offers; mutuality, at last.*

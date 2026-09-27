@@ -50,7 +50,7 @@
 > **Decomposed steps (~55, 5 coins each, ~275 coins):** direction + brief → bodice cut → bodice fabric → bodice color → bodice detail → bodice inset trim → sleeve style → sleeve fabric → sleeve color → sleeve detail → cuff finish → skirt style → skirt fabric → skirt color → skirt detail → hem detail → petticoat flash → neckline → neckline trim → overskirt style → overskirt fabric → overskirt color → drape → stomacher panel → trim, first layer → trim, second layer → train → shoes → shoe detail → stockings → gloves → hair → hair piece → second hair ornament → earrings → necklace → bracelets → bracelet, second layer → brooch → parure ring → beauty, eyes → beauty, blush → beauty, lips → beauty, nails → fan → reticule → wrap, style → wrap, fabric → wrap, color → wrap, trim → evening shawl → corsage pin → final pin → finishing accessory → the mirror, approved.
 > **Story morsels (between pins):** Élise's head girl, low-voiced — Cecilia ordered nothing for the Assembly: "she's not dressing for tomorrow, miss. Draw your own conclusions"; the ledger, opened — the triumph gown is the largest sum Rose has ever owed, and Élise's only comment: "Time earned it, miss. That's the only currency I take for this one"; a note from Augusta, delivered mid-fitting — *"Wear the Park. — A."*; Letitia through the workroom door with sandwiches and the opinion that triumph requires feeding; the morning Gazette, brought by Élise's girl — the town is already speculating about tomorrow, and wrong about all of it.
 > **Jewels (owned pieces only):** the jewel shelf is open at any time and never a ritual step; the ritual's jewel steps draw only on pieces the player already owns, entering as ordinary options with no scoring edge. The Gazette judges occasion-inappropriate jewels.
-*Animation: Custom (set-piece fitting — the war's signature garment revealed).*
+*Animation: Shared.*
 
 ### L28.S6 · [T] · Rose (alone)
 *Purpose: the mirror — the reveal coda; the triumph gown saved to the lookbook.*
@@ -107,7 +107,7 @@
 > "Henry —" — Rose (and the formality breaks, just there, just once)
 > "Read it tomorrow, before the Assembly. Or don't. It is yours now — the hour, I mean. The book was always yours; I only kept it." — Henry
 > *(She sits down, in the middle of the fitting-room chaos, and cries — once, briefly, into her hands. He does not move toward her. He stands guard over the crying the way other men stand guard over doors. When she looks up, he is studying the ceiling with great interest, and she loves him — platonically, entirely — for it.)*
-*Animation: Custom (signature intimacy beat — the route's emotional peak).*
+*Animation: Shared.*
 
 ### L28.S14 · [T] · Rose (household)
 *Purpose: the household's eve-of-battle quiet — the staff, steady.*

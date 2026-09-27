@@ -6,7 +6,7 @@
 
 **Sources:** `season-one-scenes.md` (beat inventory — built on, not duplicated), `book-one-arc.md` (S1 engine: "The Codicil"), `content/chapter-dressing.md` (locked ritual design), `content/characters.json` (canon names).
 
-**Format key.** [D] dialogue-heavy · [F] fashion-selection (2–3 diegetic options, no coin cost, remembered) · [C] dressing-for-climax ritual (full ritual: direction + occasion brief, decomposed micro-decisions, story morsels, reveal coda) · [T] texture micro-beat · plot beat (untagged) · Gazette sting · cliffhanger. ★ marks the chapter's exactly 3 key decisions. Animation: Shared (reusable staging) or Custom (bespoke, reason given) — Chapter 12 is not a tentpole; all calls are Shared except the signature sight beat, which is Custom with its reason.
+**Format key.** [D] dialogue-heavy · [F] fashion-selection (2–3 diegetic options, no coin cost, remembered) · [C] dressing-for-climax ritual (full ritual: direction + occasion brief, decomposed micro-decisions, story morsels, reveal coda) · [T] texture micro-beat · plot beat (untagged) · Gazette sting · cliffhanger. ★ marks the chapter's exactly 3 key decisions. Animation: Shared (reusable staging) or Custom (bespoke, reason given) — Chapter 12 is not a tentpole; all calls here are Shared, including the shared ritual presentation.
 
 **Canon applied:** 1815. Rose Hartwell rebuilds Hartwell Park and earns her place; unhurried about marriage, honorable in method. Suitors honorable; routes grow through friendship. Villains sly, never overt. Mrs. Nance Bell is the Gazette's publicly named proprietor from the first edition — no unmasking plot anywhere; the paper judges and narrates, never a mystery, prize, or paywall. Fashion is a courtship mechanic with social consequence. Energy is the only throttle. Iron rule holds: time earns everything money can. Crowns (premium) / coins (soft).
 
@@ -137,7 +137,7 @@
 > *(Rose feels something turn over in her chest like a page. It is the first true thing anyone has said to her all Season that was not about the campaign. She holds the look — the held look — and lets the painter see all of it: the tired, the determined, the girl under the armor.)*
 > "Then paint *that*, Mrs. Wren." — Rose "Paint the girl who is tired of expecting it."
 > "I am." — Octavia (and the brush moves)
-*Animation: Custom (signature sight beat — Octavia's route-defining intimacy; the held look must play as one unbroken, unhurried exchange: two women, north light, no performance; nothing else in the chapter is staged this way).*
+*Animation: Shared.*
 
 ### L12.S19 · [T] · Rose, Octavia
 *Purpose: the silence — the brush resumes; the miniature takes shape; the intimacy of being painted.*
