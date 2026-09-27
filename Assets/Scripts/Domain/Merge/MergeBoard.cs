@@ -93,6 +93,12 @@ namespace ScandalSeason.Domain.Merge
     /// </summary>
     public sealed class MergeBoard
     {
+        /// <summary>
+        /// Locked engine rule (Sep 27 2026): every chain has exactly 10 levels.
+        /// Merging items already at the max level is rejected.
+        /// </summary>
+        public const int MaxChainLevel = 10;
+
         public int Width { get; }
         public int Height { get; }
 
@@ -174,6 +180,9 @@ namespace ScandalSeason.Domain.Merge
                 if (item.ChainId != first.ChainId || item.Level != first.Level)
                     return MergeResult.Fail("All merged items must share the same chain and level.");
             }
+
+            if (first.Level >= MaxChainLevel)
+                return MergeResult.Fail($"Items are already at the max level ({MaxChainLevel}); merging is rejected.");
 
             int resultCount = positions.Count == 5 ? 2 : 1;
             int resultLevel = first.Level + 1;

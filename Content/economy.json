@@ -131,7 +131,7 @@
    "event-currency settlement: 10:1 at event end"
   ],
   "sinks": [
-   "dressing-ritual components: DEFAULT 5 coins each (75 per full 15-step ritual); re-picks free",
+   "dressing-ritual components (Beth Sep 27): 5 coins per micro-decision; rituals are event-variable (20-60 steps), so a full ritual costs 100-300 coins by occasion depth; re-picks within the session free; re-styling after the scene always free",
    "story scenes / chapter turns / selected estate progress: 120-290 coins per scene (LOCKED)"
   ]
  },
@@ -319,7 +319,7 @@
   "Daily Vote Crown grants: T2-T5 -> 1/2/3/5",
   "Chapter unlock gating: level N at (2xN-2) commissions + (N-1) rituals",
   "Park-board merges: 40% chance +2 coins",
-  "Dressing-ritual components: 5 coins each (75 per full ritual)",
+  "Dressing-ritual components (Beth Sep 27): 5 coins per micro-decision; 100-300 coins per full ritual (event-variable step count)",
   "Event-currency settlement: 10:1",
   "Refill ladder prices: 15 -> 25 -> 50 -> 100 -> 150",
   "Energy drops: 5% -> +5; Park 60% -> +3",

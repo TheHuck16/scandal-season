@@ -221,8 +221,8 @@ public static class ContentImporter
                 errors.Add($"{fileName}: duplicate chain id '{chain.id}'.");
             if (string.IsNullOrWhiteSpace(chain.displayName))
                 errors.Add($"{fileName}: chain '{chain.id}' needs a displayName.");
-            if (chain.levels.Length < 2)
-                errors.Add($"{fileName}: chain '{chain.id}' needs at least 2 levels.");
+            if (chain.levels.Length != 10)
+                errors.Add($"{fileName}: chain '{chain.id}' must have exactly 10 levels (locked engine rule; found {chain.levels.Length}).");
             for (int i = 0; i < chain.levels.Length; i++)
             {
                 var lvl = chain.levels[i];

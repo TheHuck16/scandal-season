@@ -156,4 +156,34 @@ public sealed class MergeBoardTests
         Assert.Throws<System.ArgumentException>(() =>
             board.LoadSnapshot(new BoardSnapshot { Width = 5, Height = 5 }));
     }
+
+    [Fact]
+    public void Merge_RejectsItemsAtMaxChainLevel()
+    {
+        // Locked engine rule (Sep 27 2026): every chain has exactly 10 levels;
+        // merging level-10 items is rejected.
+        Assert.Equal(10, MergeBoard.MaxChainLevel);
+        var board = BoardWith(
+            (0, 0, "atelier.notions", 10),
+            (1, 0, "atelier.notions", 10),
+            (2, 0, "atelier.notions", 10));
+        var result = board.TryMerge(Pos((0, 0), (1, 0), (2, 0)));
+        Assert.False(result.Success);
+        Assert.NotNull(result.Error);
+        // Items stay on the board untouched.
+        Assert.Equal(3, board.OccupiedCount);
+        Assert.Equal(10, board.GetItem(0, 0)!.Level);
+    }
+
+    [Fact]
+    public void Merge_AllowsMergingLevelNineIntoLevelTen()
+    {
+        var board = BoardWith(
+            (0, 0, "atelier.notions", 9),
+            (1, 0, "atelier.notions", 9),
+            (2, 0, "atelier.notions", 9));
+        var result = board.TryMerge(Pos((0, 0), (1, 0), (2, 0)));
+        Assert.True(result.Success);
+        Assert.Equal(10, result.ResultLevel);
+    }
 }

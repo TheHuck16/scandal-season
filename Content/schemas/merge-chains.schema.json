@@ -72,8 +72,10 @@
        ],
        "type": "object"
       },
-      "minItems": 2,
-      "type": "array"
+      "minItems": 10,
+      "type": "array",
+      "maxItems": 10,
+      "description": "Locked engine rule (Sep 27 2026): exactly 10 levels per chain; merging two level-10 items is rejected."
      }
     },
     "required": [
