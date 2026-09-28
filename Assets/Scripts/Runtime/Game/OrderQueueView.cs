@@ -10,7 +10,11 @@ public sealed class OrderQueueView : MonoBehaviour
 {
     [Header("UI")]
     public Text ordersText;
+    public Text headerText;
     public Button refreshButton;
+
+    [Header("Board F visual identity")]
+    public ChainStyleSO chainStyle;
 
     private GameManager _game;
 
@@ -31,9 +35,14 @@ public sealed class OrderQueueView : MonoBehaviour
         if (_game == null || _game.Orders == null) return;
         _game.Tick(System.DateTime.UtcNow);
 
+        if (headerText != null)
+        {
+            headerText.text = $"ORDERS ({_game.Orders.StandingOrderCount}/{_game.Orders.MaxStandingOrders})";
+            if (chainStyle != null)
+                headerText.color = chainStyle.uiGold;
+        }
+
         var sb = new System.Text.StringBuilder();
-        sb.AppendLine($"ORDERS ({_game.Orders.StandingOrderCount}/{_game.Orders.MaxStandingOrders})");
-        sb.AppendLine();
 
         for (int i = 0; i < _game.Orders.MaxStandingOrders; i++)
         {
@@ -48,7 +57,9 @@ public sealed class OrderQueueView : MonoBehaviour
                 ? chain.displayName
                 : order.ChainId;
             string kind = order.IsCommission ? "Commission" : "Custom";
-            sb.AppendLine($"[{i + 1}] {kind}: {name} Lv{order.Level} → {order.CoinPayout} coins");
+            // Board F: roman numerals for stage.
+            string numeral = chainStyle != null ? chainStyle.RomanNumeral(order.Level) : $"Lv{order.Level}";
+            sb.AppendLine($"[{i + 1}] {kind}: {name} {numeral} → {order.CoinPayout} coins");
         }
 
         if (ordersText != null)

@@ -17,6 +17,8 @@ public sealed class UIRoot : MonoBehaviour
     [Header("Title")]
     public Text titleText;
     public Button startButton;
+    [Tooltip("Approved app icon (Icon A: emerald cameo).")]
+    public Image titleIconImage;
 
     [Header("Views")]
     public StorySceneView storyView;
