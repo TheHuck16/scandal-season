@@ -1,44 +1,284 @@
 // Scandal Season — Runtime game layer.
-// StorySceneView: renders a SceneDefinitionSO. Displays structured data
-// from the import (titles, turn counts, decision options, ritual briefs,
-// stings) plus the full scene prose embedded at build time.
+// StorySceneView: portrait phone story player.
+// - 9:16 vertical layout, always.
+// - Scrollable prose via ScrollRect.
+// - Tappable decision buttons (instantiated per option), persisted via GameManager.
+// - Chapter/scene progress header.
 
 using UnityEngine;
 using UnityEngine.UI;
+using System.Collections.Generic;
 
 public sealed class StorySceneView : MonoBehaviour
 {
-    [Header("UI")]
+    [Header("UI — Header")]
     public Text chapterTitleText;
     public Text sceneHeaderText;
     public Text typeBadgeText;
-    public Text turnsText;
+    public Slider progressSlider; // scene X of 40 within chapter
+
+    [Header("UI — Prose (scrollable)")]
+    public ScrollRect proseScrollRect;
+    public Text proseText; // full narrative prose body, inside scroll content
     public Text synopsisText;
-    public Text proseText; // full narrative prose body
-    public Text bodyText; // decisions / ritual / sting / fashion
+
+    [Header("UI — Decisions")]
+    public Transform decisionButtonContainer; // vertical layout group
+    public Button decisionButtonPrefab; // prefab with a Text child
+    public Text bodyText; // ritual / sting / fashion / participants (non-decision info)
+
+    [Header("UI — Navigation")]
     public Button continueButton;
     public Button toBoardButton;
 
     [Header("Editorial styling (visual lock v1)")]
     [Tooltip("Background image for estate plates / scene art.")]
     public Image backgroundImage;
-    [Tooltip("Approved estate plates Sep 28: 3b, 5a, 5b, 7a v2, 7b v2, 8a v2, 8b v4, 9a, 9b, 10a, 10b.")]
+    [Tooltip("Approved estate plates Sep 28.")]
     public Sprite[] estatePlates;
-    [Tooltip("Warm dark text for ivory backgrounds.")]
-    public Color bodyTextColor = new Color(0.25f, 0.2f, 0.15f);
     [Tooltip("Gold accent for headers and badges.")]
     public Color goldAccent = new Color(0.83f, 0.69f, 0.35f);
+    [Tooltip("Light text for dark backgrounds (story view).")]
+    public Color lightTextColor = new Color(0.95f, 0.93f, 0.88f);
+    [Tooltip("Dim text for secondary labels.")]
+    public Color dimTextColor = new Color(0.7f, 0.68f, 0.62f);
 
     private GameManager _game;
     private SceneDefinitionSO _scene;
+    private readonly List<Button> _spawnedDecisionButtons = new List<Button>();
+    private int _selectedDecisionIndex = -1;
 
     private void Start()
     {
         _game = GameManager.Instance;
+        EnsurePortraitUI();
         if (continueButton != null)
             continueButton.onClick.AddListener(OnContinue);
         if (toBoardButton != null)
             toBoardButton.onClick.AddListener(() => _game.SetState(GameState.MergeBoard));
+    }
+
+    /// <summary>
+    /// Self-healing portrait UI: builds the ScrollRect, decision container,
+    /// button template, and progress slider in code when the scene does not
+    /// provide them. This keeps Main.unity edits out of the critical path —
+    /// the view works whether or not the scene was hand-updated.
+    /// </summary>
+    private void EnsurePortraitUI()
+    {
+        RectTransform panel = transform as RectTransform;
+        if (panel == null) return;
+
+        // --- ScrollRect around the prose text ---
+        if (proseScrollRect == null && proseText != null)
+        {
+            GameObject scrollGO = new GameObject("ProseScroll", typeof(RectTransform), typeof(ScrollRect));
+            RectTransform scrollRT = scrollGO.GetComponent<RectTransform>();
+            scrollRT.SetParent(panel, false);
+            // Fill most of the panel; header above, footer below.
+            scrollRT.anchorMin = new Vector2(0.05f, 0.28f);
+            scrollRT.anchorMax = new Vector2(0.95f, 0.82f);
+            scrollRT.offsetMin = Vector2.zero;
+            scrollRT.offsetMax = Vector2.zero;
+
+            GameObject viewportGO = new GameObject("Viewport", typeof(RectTransform), typeof(Image), typeof(Mask));
+            RectTransform viewportRT = viewportGO.GetComponent<RectTransform>();
+            viewportRT.SetParent(scrollRT, false);
+            viewportRT.anchorMin = Vector2.zero;
+            viewportRT.anchorMax = Vector2.one;
+            viewportRT.offsetMin = Vector2.zero;
+            viewportRT.offsetMax = Vector2.zero;
+            var vpImg = viewportGO.GetComponent<Image>();
+            vpImg.color = new Color(0, 0, 0, 0.35f); // subtle dark backing
+            viewportGO.GetComponent<Mask>().showMaskGraphic = true;
+
+            GameObject contentGO = new GameObject("Content", typeof(RectTransform),
+                typeof(VerticalLayoutGroup), typeof(ContentSizeFitter));
+            RectTransform contentRT = contentGO.GetComponent<RectTransform>();
+            contentRT.SetParent(viewportRT, false);
+            contentRT.anchorMin = new Vector2(0, 1);
+            contentRT.anchorMax = new Vector2(1, 1);
+            contentRT.pivot = new Vector2(0.5f, 1);
+            contentRT.anchoredPosition = Vector2.zero;
+            var vlg = contentGO.GetComponent<VerticalLayoutGroup>();
+            vlg.childAlignment = TextAnchor.UpperLeft;
+            vlg.spacing = 12f;
+            vlg.padding = new RectOffset(12, 12, 12, 12);
+            vlg.childForceExpandWidth = true;
+            vlg.childForceExpandHeight = false;
+            var csf = contentGO.GetComponent<ContentSizeFitter>();
+            csf.horizontalFit = ContentSizeFitter.FitMode.Unconstrained;
+            csf.verticalFit = ContentSizeFitter.FitMode.PreferredSize;
+
+            // Move synopsis + prose into the scroll content.
+            if (synopsisText != null)
+            {
+                synopsisText.transform.SetParent(contentRT, false);
+                var srt = synopsisText.rectTransform;
+                srt.anchorMin = new Vector2(0, 1); srt.anchorMax = new Vector2(1, 1); srt.pivot = new Vector2(0.5f, 1);
+            }
+            proseText.transform.SetParent(contentRT, false);
+            var prt = proseText.rectTransform;
+            prt.anchorMin = new Vector2(0, 1); prt.anchorMax = new Vector2(1, 1); prt.pivot = new Vector2(0.5f, 1);
+
+            var sr = scrollGO.GetComponent<ScrollRect>();
+            sr.content = contentRT;
+            sr.viewport = viewportRT;
+            sr.horizontal = false;
+            sr.vertical = true;
+            sr.movementType = ScrollRect.MovementType.Clamped;
+            sr.scrollSensitivity = 24f;
+            proseScrollRect = sr;
+        }
+
+        // --- Decision button container ---
+        if (decisionButtonContainer == null)
+        {
+            GameObject decGO = new GameObject("DecisionButtons", typeof(RectTransform), typeof(VerticalLayoutGroup));
+            RectTransform decRT = decGO.GetComponent<RectTransform>();
+            decRT.SetParent(panel, false);
+            decRT.anchorMin = new Vector2(0.05f, 0.16f);
+            decRT.anchorMax = new Vector2(0.95f, 0.27f);
+            decRT.offsetMin = Vector2.zero;
+            decRT.offsetMax = Vector2.zero;
+            var dlg = decGO.GetComponent<VerticalLayoutGroup>();
+            dlg.childAlignment = TextAnchor.UpperCenter;
+            dlg.spacing = 8f;
+            dlg.childForceExpandWidth = true;
+            dlg.childForceExpandHeight = false;
+            dlg.childControlHeight = true;
+            decisionButtonContainer = decRT;
+        }
+
+        // --- Decision button template (built in code) ---
+        if (decisionButtonPrefab == null)
+        {
+            GameObject btnGO = new GameObject("DecisionButtonTemplate", typeof(RectTransform),
+                typeof(Image), typeof(Button));
+            RectTransform btnRT = btnGO.GetComponent<RectTransform>();
+            btnRT.SetParent(panel, false);
+            var img = btnGO.GetComponent<Image>();
+            img.color = new Color(0.22f, 0.28f, 0.22f, 1f);
+            GameObject txtGO = new GameObject("Label", typeof(RectTransform), typeof(Text));
+            RectTransform txtRT = txtGO.GetComponent<RectTransform>();
+            txtRT.SetParent(btnRT, false);
+            txtRT.anchorMin = Vector2.zero; txtRT.anchorMax = Vector2.one;
+            txtRT.offsetMin = new Vector2(16, 8); txtRT.offsetMax = new Vector2(-16, -8);
+            var txt = txtGO.GetComponent<Text>();
+            txt.alignment = TextAnchor.MiddleLeft;
+            txt.fontSize = 20;
+            txt.color = lightTextColor;
+            txt.font = Resources.GetBuiltinResource<Font>("LegacyRuntime.ttf");
+            var btn = btnGO.GetComponent<Button>();
+            var cb = btn.colors;
+            cb.normalColor = new Color(0.22f, 0.28f, 0.22f, 1f);
+            cb.highlightedColor = new Color(0.32f, 0.40f, 0.32f, 1f);
+            cb.pressedColor = new Color(0.45f, 0.36f, 0.18f, 1f);
+            btn.colors = cb;
+            // LayoutElement so the VerticalLayoutGroup sizes it.
+            var le = btnGO.AddComponent<LayoutElement>();
+            le.minHeight = 64f;
+            le.preferredHeight = 72f;
+            btnGO.SetActive(false); // template only
+            decisionButtonPrefab = btn;
+        }
+        else
+        {
+            // Ensure the assigned prefab's label uses a real font.
+            var t = decisionButtonPrefab.GetComponentInChildren<Text>();
+            if (t != null && t.font == null)
+                t.font = Resources.GetBuiltinResource<Font>("LegacyRuntime.ttf");
+        }
+
+        // --- Progress slider ---
+        if (progressSlider == null)
+        {
+            GameObject sliderGO = new GameObject("SceneProgress", typeof(RectTransform), typeof(Slider));
+            RectTransform srt = sliderGO.GetComponent<RectTransform>();
+            srt.SetParent(panel, false);
+            srt.anchorMin = new Vector2(0.05f, 0.845f);
+            srt.anchorMax = new Vector2(0.95f, 0.865f);
+            srt.offsetMin = Vector2.zero;
+            srt.offsetMax = Vector2.zero;
+            var slider = sliderGO.GetComponent<Slider>();
+            slider.minValue = 0; slider.maxValue = 40; slider.value = 1;
+            slider.interactable = false;
+            // Minimal visuals: background + fill.
+            GameObject bgGO = new GameObject("Background", typeof(RectTransform), typeof(Image));
+            var bgRT = bgGO.GetComponent<RectTransform>();
+            bgRT.SetParent(srt, false);
+            bgRT.anchorMin = Vector2.zero; bgRT.anchorMax = Vector2.one;
+            bgRT.offsetMin = Vector2.zero; bgRT.offsetMax = Vector2.zero;
+            bgGO.GetComponent<Image>().color = new Color(1, 1, 1, 0.15f);
+            GameObject fillGO = new GameObject("Fill", typeof(RectTransform), typeof(Image));
+            var fillRT = fillGO.GetComponent<RectTransform>();
+            fillRT.SetParent(srt, false);
+            fillRT.anchorMin = new Vector2(0, 0.25f); fillRT.anchorMax = new Vector2(1, 0.75f);
+            fillRT.offsetMin = Vector2.zero; fillRT.offsetMax = Vector2.zero;
+            fillGO.GetComponent<Image>().color = goldAccent;
+            slider.fillRect = fillRT;
+            // No handle needed for a progress display.
+            progressSlider = slider;
+        }
+
+        // Pin the footer buttons to the bottom of the portrait panel.
+        if (continueButton != null)
+        {
+            var crt = continueButton.GetComponent<RectTransform>();
+            crt.anchorMin = new Vector2(0.05f, 0.03f);
+            crt.anchorMax = new Vector2(0.62f, 0.13f);
+            crt.offsetMin = Vector2.zero; crt.offsetMax = Vector2.zero;
+        }
+        if (toBoardButton != null)
+        {
+            var brt = toBoardButton.GetComponent<RectTransform>();
+            brt.anchorMin = new Vector2(0.65f, 0.03f);
+            brt.anchorMax = new Vector2(0.95f, 0.13f);
+            brt.offsetMin = Vector2.zero; brt.offsetMax = Vector2.zero;
+        }
+        // Header texts to the top.
+        if (chapterTitleText != null)
+        {
+            var hrt = chapterTitleText.rectTransform;
+            hrt.anchorMin = new Vector2(0.05f, 0.90f);
+            hrt.anchorMax = new Vector2(0.95f, 0.97f);
+            hrt.offsetMin = Vector2.zero; hrt.offsetMax = Vector2.zero;
+        }
+        if (sceneHeaderText != null)
+        {
+            var hrt = sceneHeaderText.rectTransform;
+            hrt.anchorMin = new Vector2(0.05f, 0.875f);
+            hrt.anchorMax = new Vector2(0.55f, 0.90f);
+            hrt.offsetMin = Vector2.zero; hrt.offsetMax = Vector2.zero;
+        }
+        if (typeBadgeText != null)
+        {
+            var hrt = typeBadgeText.rectTransform;
+            hrt.anchorMin = new Vector2(0.58f, 0.875f);
+            hrt.anchorMax = new Vector2(0.95f, 0.90f);
+            hrt.offsetMin = Vector2.zero; hrt.offsetMax = Vector2.zero;
+        }
+        // Non-decision body text sits just above the decision buttons.
+        // When a key decision is present, this shows the decision title;
+        // otherwise it shows ritual/sting/fashion info.
+        if (bodyText != null)
+        {
+            var bdy = bodyText.rectTransform;
+            bdy.anchorMin = new Vector2(0.05f, 0.275f);
+            bdy.anchorMax = new Vector2(0.95f, 0.325f);
+            bdy.offsetMin = Vector2.zero; bdy.offsetMax = Vector2.zero;
+        }
+        // Decision buttons sit below the body text, above the footer.
+        if (decisionButtonContainer != null)
+        {
+            var decRT = decisionButtonContainer as RectTransform;
+            if (decRT != null)
+            {
+                decRT.anchorMin = new Vector2(0.05f, 0.15f);
+                decRT.anchorMax = new Vector2(0.95f, 0.27f);
+                decRT.offsetMin = Vector2.zero; decRT.offsetMax = Vector2.zero;
+            }
+        }
     }
 
     /// <summary>Loads and renders a scene. Returns false if the scene is missing.</summary>
@@ -47,28 +287,67 @@ public sealed class StorySceneView : MonoBehaviour
         _scene = _game.GetScene(season, chapter, sceneNumber);
         if (_scene == null) return false;
 
+        _selectedDecisionIndex = -1;
+        ClearDecisionButtons();
+
         if (chapterTitleText != null)
+        {
             chapterTitleText.text = $"S{_scene.season} · Chapter {_scene.chapter}: {_scene.chapterTitle}";
+            chapterTitleText.color = goldAccent;
+        }
         if (sceneHeaderText != null)
+        {
             sceneHeaderText.text = $"Scene {_scene.sceneNumber} of 40";
+            sceneHeaderText.color = lightTextColor;
+        }
         if (typeBadgeText != null)
         {
             typeBadgeText.text = TypeLabel(_scene.type);
             typeBadgeText.color = goldAccent;
         }
-        if (turnsText != null)
-            turnsText.text = _scene.playerTurns > 0
-                ? $"{_scene.playerTurns} player turns"
-                : "Turns: see chapter text";
+        if (progressSlider != null)
+        {
+            progressSlider.minValue = 0;
+            progressSlider.maxValue = 40;
+            progressSlider.value = _scene.sceneNumber;
+        }
         if (synopsisText != null)
+        {
             synopsisText.text = _scene.synopsis;
-        if (bodyText != null)
-            bodyText.text = BuildBody(_scene);
+            synopsisText.color = dimTextColor;
+        }
         if (proseText != null)
+        {
             proseText.text = _scene.prose;
+            proseText.color = lightTextColor;
+        }
+        if (proseScrollRect != null)
+            proseScrollRect.verticalNormalizedPosition = 1f; // scroll to top
 
-        // Background: rotate through the 11 approved estate plates by chapter.
-        // Full plate-to-scene mapping is content work; this is the scaffold.
+        // Decisions: tappable buttons. Non-decision content goes to bodyText.
+        if (_scene.keyDecision != null && _scene.keyDecision.options != null && _scene.keyDecision.options.Length > 0)
+        {
+            SpawnDecisionButtons(_scene);
+            if (bodyText != null)
+            {
+                bodyText.text = $"Decision {_scene.keyDecision.number}: {_scene.keyDecision.title}";
+                bodyText.color = goldAccent;
+            }
+        }
+        else if (bodyText != null)
+        {
+            bodyText.text = BuildBody(_scene);
+            bodyText.color = lightTextColor;
+        }
+
+        // Restore a previously-made decision selection for this scene, if any.
+        int saved = _game.GetDecisionChoice(season, chapter, sceneNumber);
+        if (saved >= 0)
+            SelectDecision(saved, false);
+
+        UpdateContinueLabel();
+
+        // Background: rotate through approved estate plates by chapter.
         if (backgroundImage != null && estatePlates != null && estatePlates.Length > 0)
         {
             int idx = (_scene.chapter - 1) % estatePlates.Length;
@@ -76,7 +355,7 @@ public sealed class StorySceneView : MonoBehaviour
             if (plate != null)
             {
                 backgroundImage.sprite = plate;
-                backgroundImage.color = new Color(1f, 1f, 1f, 0.25f); // subtle backdrop
+                backgroundImage.color = new Color(1f, 1f, 1f, 0.25f);
             }
         }
 
@@ -98,30 +377,73 @@ public sealed class StorySceneView : MonoBehaviour
         }
     }
 
+    private void ClearDecisionButtons()
+    {
+        foreach (var b in _spawnedDecisionButtons)
+            if (b != null) Destroy(b.gameObject);
+        _spawnedDecisionButtons.Clear();
+    }
+
+    private void SpawnDecisionButtons(SceneDefinitionSO scene)
+    {
+        if (decisionButtonContainer == null || decisionButtonPrefab == null) return;
+        var options = scene.keyDecision.options;
+        for (int i = 0; i < options.Length; i++)
+        {
+            int idx = i; // capture
+            var btn = Instantiate(decisionButtonPrefab, decisionButtonContainer);
+            var label = btn.GetComponentInChildren<Text>();
+            if (label != null)
+            {
+                label.text = $"{(char)('A' + i)}. {options[i].label}";
+                label.color = lightTextColor;
+            }
+            btn.onClick.AddListener(() => SelectDecision(idx, true));
+            _spawnedDecisionButtons.Add(btn);
+        }
+    }
+
+    private void SelectDecision(int index, bool persist)
+    {
+        _selectedDecisionIndex = index;
+        for (int i = 0; i < _spawnedDecisionButtons.Count; i++)
+        {
+            var btn = _spawnedDecisionButtons[i];
+            if (btn == null) continue;
+            var colors = btn.colors;
+            // Highlight selected: gold-tinted; others default.
+            colors.normalColor = (i == index)
+                ? new Color(0.45f, 0.36f, 0.18f, 1f)
+                : new Color(0.22f, 0.28f, 0.22f, 1f);
+            colors.selectedColor = colors.normalColor;
+            btn.colors = colors;
+        }
+        if (persist && _scene != null)
+            _game.RecordDecision(_scene.season, _scene.chapter, _scene.sceneNumber, index);
+        UpdateContinueLabel();
+    }
+
+    private void UpdateContinueLabel()
+    {
+        if (continueButton == null) return;
+        var label = continueButton.GetComponentInChildren<Text>();
+        if (label == null) return;
+        bool needsDecision = _scene != null
+            && _scene.keyDecision != null
+            && _scene.keyDecision.options != null
+            && _scene.keyDecision.options.Length > 0
+            && _selectedDecisionIndex < 0;
+        label.text = needsDecision ? "Choose above to continue" : "Continue →";
+    }
+
     /// <summary>
-    /// Builds the interactive body from structured data only.
-    /// Key decisions list their authored options; rituals show the brief,
-    /// directions, and pin counts; stings show Bell's verdict.
+    /// Builds the non-decision body from structured data only.
+    /// Rituals show the brief, directions, and pin counts; stings show
+    /// Bell's verdict; fashion choices list remembered picks.
     /// </summary>
     private static string BuildBody(SceneDefinitionSO scene)
     {
         var sb = new System.Text.StringBuilder();
-
-        if (scene.keyDecision != null)
-        {
-            sb.AppendLine($"KEY DECISION {scene.keyDecision.number}: {scene.keyDecision.title}");
-            sb.AppendLine();
-            char opt = 'A';
-            foreach (var o in scene.keyDecision.options)
-            {
-                sb.AppendLine($"{opt}. {o.label}");
-                if (!string.IsNullOrEmpty(o.detail))
-                    sb.AppendLine($"   {o.detail}");
-                opt++;
-            }
-            sb.AppendLine();
-            sb.AppendLine("The game remembers how she does it — tone, relationships, Gazette flavor.");
-        }
 
         if (scene.ritual != null)
         {
@@ -181,19 +503,28 @@ public sealed class StorySceneView : MonoBehaviour
 
     private void OnContinue()
     {
+        // A key decision must be chosen before advancing.
+        if (_scene != null && _scene.keyDecision != null
+            && _scene.keyDecision.options != null && _scene.keyDecision.options.Length > 0
+            && _selectedDecisionIndex < 0)
+            return;
+
         // Story scenes cost coins, never Crowns (locked). Price is computed at
         // import per scene. Energy is the only throttle; plot is never time-gated.
         if (!_game.TryPaySceneCost(_scene))
         {
             if (bodyText != null)
+            {
                 bodyText.text = "Not enough coins — earn them on the merge board, then continue the story.";
+                bodyText.color = lightTextColor;
+            }
             _game.SetState(GameState.MergeBoard);
             return;
         }
         _game.AdvanceStory();
         if (!ShowScene(_game.CurrentSeason, _game.CurrentChapter, _game.CurrentSceneNumber))
         {
-            // No more authored scenes (e.g. past S2) — fall back to the board.
+            // No more authored scenes — fall back to the board.
             _game.SetState(GameState.MergeBoard);
         }
     }

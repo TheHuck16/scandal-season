@@ -172,12 +172,46 @@ public sealed class GameManager : MonoBehaviour
         }
     }
 
+    // Key decision persistence: which option the player chose per scene.
+    // Keyed "decision_S{C}C{Ch}S{S}" -> option index. Persisted via PlayerPrefs.
+    private readonly Dictionary<string, int> _decisionChoices = new Dictionary<string, int>();
+
+    private static string DecisionKey(int season, int chapter, int sceneNumber)
+        => $"decision_S{season}C{chapter}S{sceneNumber}";
+
+    public void RecordDecision(int season, int chapter, int sceneNumber, int optionIndex)
+    {
+        string key = DecisionKey(season, chapter, sceneNumber);
+        _decisionChoices[key] = optionIndex;
+        PlayerPrefs.SetInt(key, optionIndex);
+        PlayerPrefs.Save();
+    }
+
+    public int GetDecisionChoice(int season, int chapter, int sceneNumber)
+    {
+        string key = DecisionKey(season, chapter, sceneNumber);
+        if (_decisionChoices.TryGetValue(key, out int cached))
+            return cached;
+        if (PlayerPrefs.HasKey(key))
+        {
+            int saved = PlayerPrefs.GetInt(key, -1);
+            _decisionChoices[key] = saved;
+            return saved;
+        }
+        return -1;
+    }
+
     /// <summary>
     /// Story scenes cost coins (locked: 120–290 computed at import, never Crowns).
     /// Uses the scene's imported price. Returns false when the wallet can't cover it.
+    /// Tutorial: S1 C1 opening scenes (1-5) are free — the player gets a taste
+    /// with no coins from the start, then the coin economy begins.
     /// </summary>
     public bool TryPaySceneCost(SceneDefinitionSO scene)
     {
+        // Free tutorial: first 5 scenes of S1 C1 cost nothing.
+        if (scene != null && scene.season == 1 && scene.chapter == 1 && scene.sceneNumber <= 5)
+            return true;
         int cost = scene != null && scene.coinPrice > 0 ? scene.coinPrice : 120;
         return Wallet.TrySpend(Currency.Coins, cost);
     }
