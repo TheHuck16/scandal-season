@@ -588,3 +588,11 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# KNOWN WARNINGS (Sep 28, 2026 — accepted, do not "fix"):
+# The S3 pilot chapters 1-3 (Beth-authored full prose) produce 4 turn-band warnings:
+# - ch1/ch2/ch3 sc39 gazette-stings: 7-8 turns (band expects 1)
+# - ch1 ritual: 7 turns total (band expects 20-21)
+# These are Beth's approved pilot prose with different pacing than the
+# template chapters. The parser records them as written; warnings are
+# informational only. Do not alter the prose to silence the warnings.
