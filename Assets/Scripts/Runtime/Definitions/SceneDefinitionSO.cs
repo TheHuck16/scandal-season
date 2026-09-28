@@ -80,6 +80,8 @@ public sealed class SceneDefinitionSO : ScriptableObject
     public SceneType type;
     [Tooltip("The scene's Purpose line from the chapter file.")]
     [TextArea] public string synopsis = "";
+    [Tooltip("The full narrative prose body from the chapter file.")]
+    [TextArea(5, 20)] public string prose = "";
     public string[] participants = Array.Empty<string>();
     public SceneAnimation animation;
     [Tooltip("Bespoke reason for a Custom call, or a Shared staging note.")]

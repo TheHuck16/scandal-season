@@ -66,6 +66,24 @@ def parse_purpose(body):
     return m.group(1).strip()
 
 
+def parse_prose(body):
+    """Extract the complete approved prose: the full scene body including
+    narrative paragraphs, turns, and dialogue lines.
+    Excludes only Purpose and Animation metadata lines.
+    Returns the complete text verbatim — no segmentation or restructuring."""
+    lines = []
+    for line in body.splitlines():
+        s = line.strip()
+        if not s:
+            continue
+        if re.match(r"^\*Purpose:", s):
+            continue
+        if re.match(r"^\*Animation:", s):
+            continue
+        lines.append(line)
+    return "\n".join(lines).strip()
+
+
 def parse_animation(body):
     m = re.search(r"^\*Animation: (Shared|Custom)(?: \((.*)\))?\.\*$", body, re.M)
     if not m:
@@ -308,6 +326,7 @@ def parse_chapter_file(path):
                 "chapterStatus": status,
                 "type": stype,
                 "synopsis": purpose,
+                "prose": parse_prose(body),
                 "participants": participants,
                 "animation": animation,
                 "animationNote": animation_note,

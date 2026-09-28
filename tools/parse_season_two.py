@@ -245,6 +245,24 @@ def parse_animation(body):
     return kind, note, turns, tm.group(0) if tm else None
 
 
+def parse_prose(body):
+    """Extract the complete approved prose: the full scene body including
+    narrative paragraphs, turns, and dialogue lines.
+    Excludes only Purpose and Animation metadata lines.
+    Returns the complete text verbatim — no segmentation or restructuring."""
+    lines = []
+    for line in body.splitlines():
+        s = line.strip()
+        if not s:
+            continue
+        if re.match(r"^\*Purpose:", s):
+            continue
+        if re.match(r"^\*Animation:", s):
+            continue
+        lines.append(line)
+    return "\n".join(lines).strip()
+
+
 def parse_turns(body, anim_turns):
     """Return (player_turns, turn_note). Declared counts win; else count markers."""
     m = TURNS_DECL_RE.search(body)
@@ -419,6 +437,7 @@ def parse_chapter_file(path):
                 "chapterStatus": status,
                 "type": stype,
                 "synopsis": purpose,
+                "prose": parse_prose(body),
                 "participants": participants,
                 "animation": animation,
                 "animationNote": animation_note,

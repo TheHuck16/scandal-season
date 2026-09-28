@@ -17,7 +17,7 @@ using ScandalSeason.Domain.Economy; // GameRules: chapters/season, scenes/chapte
 
 public static class ContentImporter
 {
-    public const string ExpectedSchemaVersion = "1.0.0";
+    public const string ExpectedSchemaVersion = "2.1.0";
     private const string GeneratedRoot = "Assets/Scripts/Runtime/Generated";
 
     // ------------------------------------------------------------------ menu
@@ -495,6 +495,7 @@ public static class ContentImporter
         public string chapterStatus = "";
         public string type = "";
         public string synopsis = "";
+        public string prose = "";
         public string[] participants = Array.Empty<string>();
         public string animation = "";
         public string animationNote = "";
@@ -529,6 +530,8 @@ public static class ContentImporter
     };
 
     private const string ScenesSchemaVersion = "2.1.0";
+    private const string VoteEventsSchemaVersion = "1.0.0";
+    private const string SeasonPassesSchemaVersion = "1.0.0";
 
     // NOTE: JsonUtility instantiates nested [Serializable] DTO objects even when the
     // JSON key is absent, so presence is detected by content, not by null.
@@ -637,6 +640,7 @@ public static class ContentImporter
             so.chapterStatus = scene.chapterStatus;
             so.type = ParseSceneType(scene.type);
             so.synopsis = scene.synopsis;
+            so.prose = scene.prose ?? "";
             so.participants = scene.participants ?? Array.Empty<string>();
             so.animation = ParseSceneAnimation(scene.animation);
             so.animationNote = scene.animationNote;
@@ -725,7 +729,7 @@ public static class ContentImporter
 
     private static void ValidateVoteEvents(string fileName, VoteEventsFile file, List<string> errors)
     {
-        if (!CheckSchemaVersion(fileName, file.schemaVersion, errors)) return;
+        if (!CheckSchemaVersion(fileName, file.schemaVersion, errors, VoteEventsSchemaVersion)) return;
         if (file.voteEvents.Length == 0) errors.Add($"{fileName}: at least one vote event is required.");
         foreach (var vote in file.voteEvents)
         {
@@ -793,7 +797,7 @@ public static class ContentImporter
 
     private static void ValidateSeasonPasses(string fileName, SeasonPassesFile file, List<string> errors)
     {
-        if (!CheckSchemaVersion(fileName, file.schemaVersion, errors)) return;
+        if (!CheckSchemaVersion(fileName, file.schemaVersion, errors, SeasonPassesSchemaVersion)) return;
         if (file.passes.Length == 0) errors.Add($"{fileName}: at least one pass is required.");
         foreach (var pass in file.passes)
         {

@@ -1,7 +1,7 @@
 // Scandal Season — Runtime game layer.
-// StorySceneView: renders a SceneDefinitionSO. Displays ONLY structured data
+// StorySceneView: renders a SceneDefinitionSO. Displays structured data
 // from the import (titles, turn counts, decision options, ritual briefs,
-// stings). Full scene prose lives in the chapter Markdown, not in the build.
+// stings) plus the full scene prose embedded at build time.
 
 using UnityEngine;
 using UnityEngine.UI;
@@ -14,6 +14,7 @@ public sealed class StorySceneView : MonoBehaviour
     public Text typeBadgeText;
     public Text turnsText;
     public Text synopsisText;
+    public Text proseText; // full narrative prose body
     public Text bodyText; // decisions / ritual / sting / fashion
     public Button continueButton;
     public Button toBoardButton;
@@ -63,6 +64,8 @@ public sealed class StorySceneView : MonoBehaviour
             synopsisText.text = _scene.synopsis;
         if (bodyText != null)
             bodyText.text = BuildBody(_scene);
+        if (proseText != null)
+            proseText.text = _scene.prose;
 
         // Background: rotate through the 11 approved estate plates by chapter.
         // Full plate-to-scene mapping is content work; this is the scaffold.

@@ -45,7 +45,7 @@ Turn-band mismatches (ordinary scenes outside 7–10, stings ≠ 1, rituals ≠ 
 ch30 S40 excepted) are reported as warnings, not failures: the design-side
 handoff sanctions the exceptions and the prose sources are authoritative.
 
-Custom animation calls outside Season Three's tentpole chapters (10, 15, 21, 30)
+Custom animation calls outside Season Three's tentpole chapters (10, 20, 30)
 are hard failures — the tentpole-only rule is design-locked.
 """
 
@@ -71,7 +71,7 @@ KD_PURPOSE_RE = re.compile(r"★ KEY DECISION (\d)/3 — ([^.]+?)[.:]")
 KD_OPTIONS_HDR_RE = re.compile(r"^(?:> )?\*★ KEY DECISION \d/3 — (.+?):\*$", re.M)
 KD_OPTION_RE = re.compile(r"^(?:> )?- \*\*(.+?)\*\* — (.*)$")
 TURNS_DECL_RE = re.compile(r"\(?Turns: (\d+)\b")
-TURNS_PAREN_RE = re.compile(r"Turns \((\d+)\):")  # S3 format: > **Turns (8):**
+TURNS_PAREN_RE = re.compile(r"Turns \((\d+)[^)]*\):")  # S3 format: > **Turns (8):** or > **Turns (1 — the reward):**
 NARR_TURNS_RE = re.compile(r"(?:Narrative turns|Pins)[^.\n]*?(\d+)\s*(?:pins|turns)?\b", re.I)
 PLAYER_TURNS_RE = re.compile(r"Player turns: (\d+)")
 TURN_MARKER_RES = [
@@ -80,6 +80,7 @@ TURN_MARKER_RES = [
     re.compile(r"\*\*\[T\d+ ·"),       # **[T1 · Look]**
     re.compile(r"^\*Turn \d+ —", re.M),# *Turn 1 — Stance:*
     re.compile(r"^> \*Turn \d+ —", re.M),
+    re.compile(r"^> \d+\. \[[a-z ]+\]", re.M),  # > 1. [stance]... → Remembered: (chs 19–21, rituals)
     re.compile(r"^> \*Pin \d+ —", re.M), # *Pin 1 — Micro:* (ritual pins as turns)
     re.compile(r"\*\*Pin \d+ \("),      # **Pin 1 (T2 · micro-decision) —**
 ]
@@ -250,6 +251,27 @@ def parse_animation(body):
     note = re.sub(r"^[\(\-—\s]+", "", note).strip()
     note = re.sub(r"[\)\s\.]+$", "", note).strip()
     return kind, note, turns, tm.group(0) if tm else None
+
+
+PROSE_PARA_RE = re.compile(r"^> \*\((.*)\)\*$", re.M)
+
+
+def parse_prose(body):
+    """Extract the complete approved prose: the full scene body including
+    narrative paragraphs, turns, and dialogue lines.
+    Excludes only Purpose and Animation metadata lines.
+    Returns the complete text verbatim — no segmentation or restructuring."""
+    lines = []
+    for line in body.splitlines():
+        s = line.strip()
+        if not s:
+            continue
+        if re.match(r"^\*Purpose:", s):
+            continue
+        if re.match(r"^\*Animation:", s):
+            continue
+        lines.append(line)
+    return "\n".join(lines).strip()
 
 
 def parse_turns(body, anim_turns):
@@ -443,6 +465,7 @@ def parse_chapter_file(path):
                     f"{path.name} ch{chapter} sc{snum}: Custom animation outside Season Three "
                     f"tentpole chapters (10/20/30) — tentpole-only rule is design-locked.")
             player_turns, turn_note = parse_turns(body, anim_turns)
+            prose = parse_prose(body)
             scene = {
                 "id": f"s3-c{chapter}-s{snum}",
                 "season": 3,
@@ -452,6 +475,7 @@ def parse_chapter_file(path):
                 "chapterStatus": status,
                 "type": stype,
                 "synopsis": purpose,
+                "prose": prose,
                 "participants": participants,
                 "animation": animation,
                 "animationNote": animation_note,

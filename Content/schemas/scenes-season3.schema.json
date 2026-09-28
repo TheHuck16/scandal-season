@@ -224,6 +224,10 @@
             "description": "The scene's Purpose line from the chapter file.",
             "type": "string"
           },
+          "prose": {
+            "description": "The full narrative prose body (blockquote paragraphs).",
+            "type": "string"
+          },
           "type": {
             "enum": [
               "dialogue",
@@ -254,6 +258,7 @@
           "chapterStatus",
           "type",
           "synopsis",
+          "prose",
           "participants",
           "animation",
           "sourceFile"
