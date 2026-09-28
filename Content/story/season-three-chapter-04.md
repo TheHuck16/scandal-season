@@ -137,6 +137,10 @@
 - **Meet it with conduct** — *Composure+; the measured answer.* Let it print; be seen at church, at calls, at the opera — the living refutation. *(Augusta approves; the libel runs its course.)*
 - **Let it print** — *Subtlety+; the long game.* Save the purse and the nerve; watch who profits from the number. *(Lavinia watches with her; the purse shows its hand.)*
 > *(The game remembers the choice — and the means: her nerve, her arithmetic, the hour she chose to spend them. The destination was never in doubt. The signature is hers.)*
+> **Turns (3):**
+> 1. [stance]Hear "expensive to stop" as threat, invitation, or arithmetic. → Remembered:How she reads the offer; it flavors the answer she gives it.
+> 2. [examine]Name what Pyke wants — coin, confession, or the press's own humiliation of her. → Remembered:Her reading of the unspoken price; the game holds it against future offers.
+> 3. [choice]Preempt tonight, meet it with conduct, or let it print — the decision, owned. → Remembered:The road chosen and the hour spent; the destination was never in doubt.
 *Animation: Shared.*
 
 ### L4.S9 · plot beat (villain) · Pyke (observed)
@@ -245,7 +249,7 @@
 > **B. The Magistrate** — the office's gravity. Motif: ledger-rule pinstripes, clerkly and exact, the bodice ruled like a page of evidence. Thread: iron grey silk / steel / silver. Colorway: iron grey on charcoal — the office, worn. Accessories: the campaign book carried openly, the steel pin, gloves buttoned to the elbow.
 > **C. The Witness** — the testimony's clarity. Motif: the white rose of the clean name, worked small at the cuff and nowhere else. Thread: ivory whitework / silver / black silk. Colorway: white severity on black — the testimony, spotless. Accessories: a single white rose at the wrist, the plain band, no veil.
 > *(System: commit to a direction — A, B, or C — then twenty 5-coin pins. 20 pins × 5 coins = 100 coins. Re-picks always free; the jewel shelf stays open and is never a ritual step.)*
-> **Decomposed steps (20 pins × 5 coins = 100 coins):**
+> **Turns (21):**
 > 1. [choice]Commit to the direction — A the Statute, B the Magistrate, or C the Witness. → Remembered: The chosen severity; the chapel will read it all night.
 > *(Story morsel: Augusta, on the stairs — "be seen to be the law, child. That is the whole of it.")*
 > 2. [micro]The gown's black depth — three blacks: lampblack wool, ink-black silk, coal-black crepe. 5 coins. → Remembered: Which black she wears; the chapel reads depth.
@@ -316,6 +320,10 @@
 - **Refuse the press** — *Composure+; the clean hands.* Walk past the idle machine; the truth stays in her book, not in type. *(Augusta approves; the war stays clean.)*
 - **Buy the night's silence** — *Subtlety+; the quiet coin.* Pay for no record of her visit; the press forgets she came. *(Marlowe is protected; the night becomes rumor-proof.)*
 > *(The game remembers the choice — and the means: her restraint or her daring, weighed in the paper-smelling dark. The destination was never in doubt. The signature is hers.)*
+> **Turns (3):**
+> 1. [examine]Touch the sheet — the idle press, waiting. → Remembered:Whether she needs the machine under her hand to decide; the dark keeps it.
+> 2. [stance]Name the temptation's true shape — vindication, corruption, or debt owed to Marlowe. → Remembered:What the offer really was; the game tests it later.
+> 3. [choice]Print the counter-number, refuse the press, or buy the night's silence — decided, and owned. → Remembered:The road chosen in the paper-smelling dark; the signature is hers.
 *Animation: Shared.*
 
 ### L4.S19 · plot beat · Rose (alone)
@@ -452,6 +460,10 @@
 - **Hold her own counsel** — *Composure+; the clean war.* Thank Lavinia; keep the campaign independent. *(Augusta approves; the alliance cools to cordial.)*
 - **Write the contract herself** — *Conduct+; the bold stroke.* Dictate the terms in her own hand; the alliance on her paper. *(Lavinia respects the nerve; the compact bears Rose's seal.)*
 > *(The game remembers the choice — and the means: her pen, her terms, the weight she gave the ally's agenda. The destination was never in doubt. The signature is hers.)*
+> **Turns (3):**
+> 1. [examine]Study Lavinia's watching face — ally, creditor, or creditor of the ally herself. → Remembered:How Rose reads the watcher; the price sits beside the teacups.
+> 2. [stance]Name the unnamed agenda's shape — lever held for whom, and against what. → Remembered:Her measure of the more Lavinia wants; Augusta's counsel holds the margin.
+> 3. [choice]Sign Lavinia's terms, hold her own counsel, or write the contract herself — the seal, chosen. → Remembered:The compact's seal and the hand that set it; the alliance is operational.
 *Animation: Shared.*
 
 ### L4.S28 · plot beat · Rose, Lavinia Crane
@@ -640,6 +652,7 @@
 *Purpose: Bell's verdict on the press war — arch, precise; reward-only, never mystery. (Turns: 1 — the reading)*
 > *"The Lantern prints heat. The Gazette prints weather. Miss Hartwell reads both, and dresses accordingly."*
 > *(The morning Gazette, read over chocolate. Mrs. Nance Bell, proprietor, in her own dry voice — the week's verdict on the press war, arch and precise: the Lantern's acceleration noted, the town's fatigue noted, the lady's composure noted and, in Bell's dry arithmetic, found sufficient. No mystery. No hunt. Only the reward: the press read, the purse traced, the alliance sealed — and the proprietor making it all charming, which is Bell's way of making it permanent. Rose reads it twice, the amusement first, then the reckoning, and files the sting under its lesson: in London, a compliment in print is a fact in public.)*
+> **Turns (1):**
 > 1. [stance]Read it twice — the amusement first, then the reckoning. → Remembered: How she receives reward; twice, then filed.
 *Animation: Shared (sting card).*
 

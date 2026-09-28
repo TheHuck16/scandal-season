@@ -499,6 +499,8 @@
 
 > **Decomposed steps:** twenty-one pins — the direction, then twenty five-coin pins, the gown's whole argument, decided piece by piece. Re-picks are free, now and after — the wardrobe keeps every combination, and the choosing can be revisited without cost. No Crowns touch this ritual; the dressing is the player's own, bought with play.
 
+> **Turns (21):**
+
 > 1. [choice]**Direction — the commitment:** A, B, or C — the morning's reading, chosen first, the pins to follow. → Remembered: the direction; the town gets its first look, managed.
 
 > 2. [micro]**Pin 1 — the silhouette:** the columnar line, plain and upright; or the fuller skirt, the season's. 5 coins. → Remembered: the skirt's argument; the column does not apologize.
@@ -553,14 +555,6 @@
 
 > **Jewels (owned pieces only):** the ritual's jewel shelf draws on pieces the player already owns — the shelf itself is open at any time, never a ritual step. Simple, morning-appropriate pieces — the plain pendant, the tortoiseshell hair comb; the Gazette judges occasion-inappropriate jewels, and the morning's criterion is integrity.
 
-> **Turns (7):**
-> 1. [examine]Re-read "No white" — weigh what the withholding asks. → Remembered:Her reading of the note; it governs color choices till the verdict.
-> 2. [stance]Take "powder, not paint" — wisdom, fussing, or warning. → Remembered:How she takes the aunt's fieldcraft; it sets their register.
-> 3. [examine]Mark the maid's news — Fane read it aloud; learn the readers. → Remembered:Her map of London's opinion-makers; Fane bears watching.
-> 4. [micro]Set the Lantern's paragraph aside "like a pin that pricks" — or don't. → Remembered:Discipline with intrusive text; it serves Thursdays.
-> 5. [choice]Note which direction her hand reaches for first. → Remembered:Her instinct; it colors the outcome.
-> 6. [examine]Weigh pendant against comb — what each says under judgment. → Remembered:Her jewel grammar; she learns the Gazette's language.
-> 7. [stance]Wear "nothing to hide, everything to show" — armor, truth, or dare. → Remembered:The spirit she brings; the town reads it first.
 *Animation: Shared (shared ritual presentation).*
 
 ### L1.S22 · [T] · Rose (alone)
@@ -1081,6 +1075,8 @@
 
 > **Decomposed steps:** twenty pins after the direction, five coins each — the invisibility's whole argument, decided piece by piece. Re-picks are free, now and after — the atelier keeps every combination. Lavinia's note is explicit — no jewels, not one — and the Gazette will notice the restraint, and approve it.
 
+> **Turns (21):**
+
 > 1. [choice]**Direction — the commitment:** A, B, or C — the nobody's reading, chosen first, the pins to follow. → Remembered: the direction; the coffee-house will read her before she sits down.
 
 > 2. [micro]**Pin 1 — the dress's silhouette:** the plain column, no drape to catch the eye; or the fuller skirt's rustle. 5 coins. → Remembered: the line; nobody has no silhouette worth remembering.
@@ -1135,14 +1131,6 @@
 
 > **Jewels (owned pieces only):** the ritual's jewel step draws on pieces the player already owns — the jewel shelf itself is open at any time, never a ritual step. For this brief, the correct choice is none — Lavinia's note is explicit, and the Gazette will notice (and approve) the restraint.
 
-> **Turns (7):**
-> 1. [examine]Weigh "invisibility is absolute." → Remembered:Her grasp of the brief; discipline follows.
-> 2. [stance]Take the plain merino — penance, craft, freedom. → Remembered:What invisibility costs; it sets her endurance.
-> 3. [examine]Learn "plain, but not poor" — study the coffee-house eye. → Remembered:Her class literacy; the gutter reads cloth.
-> 4. [micro]Choose no jewels — "not one." → Remembered:Her first unadorned morning; the Gazette approves.
-> 5. [choice]Note which direction her hand reaches for first. → Remembered:Her instinctive nobody; it colors it.
-> 6. [examine]Take the maid's "indisposed" — or invent better. → Remembered:Managing the house's curiosity; discretion is an asset.
-> 7. [stance]Honor "the art, identical; the direction, reversed." → Remembered:Her grasp of the paradox; all disguises use it.
 *Animation: Shared (shared ritual presentation).*
 
 ### L2.S7 · [T] · Rose (alone)
@@ -1917,6 +1905,8 @@
 > **C. The Quiet Authority** — severity without coldness. Motif: no motif — the plain cloth, the perfect cut, the argument made by absence; the most expensive statement in the room is the one that declines to make one. Thread: none — the cloth speaks unembroidered. Colorway: deep navy merino, black, white linen at the throat. Accessories: the silver brooch, the season's first; white kid gloves; no necklace; half-boots; no fan.
 
 > **Decomposed steps:** twenty pins, five coins each — the gown's whole argument, decided piece by piece. Re-picks are free, now and after — the atelier keeps every combination, and the choosing can be revisited without cost. No Crowns touch this ritual; the dressing is the player's own, bought with play.
+
+> **Turns (21):**
 
 > 1. [choice]**Direction — the commitment:** A, B, or C — the warehouse's reading, chosen first, the pins to follow. → Remembered: the direction; Creech will read the gown before she speaks.
 
