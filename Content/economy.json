@@ -118,14 +118,13 @@
     "role": "soft currency: storyline advancement (scenes, selected estate progress); never Crowns.",
     "purchasable": false,
     "never_sold_for_real_money": "LOCKED Sep 27, 2026 (Beth)",
-    "scene_price": "LOCKED Sep 27, 2026 (Beth): 120-290 coins per scene, scaling across the season",
+    "scene_price": "LOCKED Sep 27, 2026 (Beth): 120 + 15 per item decision + 25 per color/finish decision + 60 for a major plot point; capped at 290; computed from scene metadata, never the season number",
     "chapter_unlock_gating": "DEFAULT: level N at (2xN-2) commissions + (N-1) rituals",
     "sources": [
       "order fulfillment: story commissions round(2 x requestedTier x 3.0); custom orders round(2 x requestedTier x 1.0)",
       "rarity multiplier 1.0-2.0 for spawner-sourced items (per-chain config)",
       "Modiste's Exchange: Common->2, Fine->5, Rare->12, Ultra-Rare->30 (+1 favor kickback on duplicate ultra-rare) - LOCKED Sep 27, 2026",
-      "Daily Vote verdicts: T1-T5 -> 5/10/15/25/40 - LOCKED Sep 27, 2026",
-      "event-currency settlement: 10:1 at event end"
+      "Daily Vote verdicts: T1-T5 -> 5/10/15/25/40 - LOCKED Sep 27, 2026"
     ],
     "sinks": [
       "dressing-ritual components (Beth Sep 27): 5 coins per micro-decision; rituals are event-variable (20-60 steps), so a full ritual costs 100-300 coins by occasion depth; re-picks within the session free; re-styling after the scene always free",
@@ -197,7 +196,7 @@
       "judging Daily Vote entries: 2 event-progress points per judgment, 1:1 to live event currency - LOCKED Sep 27, 2026 (Beth)"
     ],
     "shop": "6 items per event (energy boosts, board items, rarely a premium Fashion Plate) - LOCKED Sep 27, 2026 (Beth)",
-    "settlement": "leftovers auto-convert to coins at 10:1 (rounded down) at event end - DEFAULT"
+    "settlement": "leftovers auto-convert to energy at 10:1 (rounded down) at event end - LOCKED Sep 27, 2026 (Beth): no event-currency-to-coin settlement, ever"
   },
   "energy": {
     "pools": [
@@ -296,9 +295,35 @@
   },
   "starter_pack": {
     "price": 99.99,
-    "contents": "4,500 Crowns + one exclusive outfit + 5 energy refills - LOCKED Sep 27, 2026 (Beth)",
+    "working_name": "Debutante's Chest (replaces the old starter pack)",
+    "contents": "3,000 Crowns + one exclusive outfit + 500 raw energy - LOCKED Sep 27, 2026 (Beth)",
     "player_facing_name": "TBD (never 'whale')",
     "tuning_target": "enough for the first major social payoff and 3-5 high-engagement sessions; must not finish a timed pass, bankroll Vote dominance, or bypass the next replenishment decision"
+  },
+  "iap_packs": {
+    "_note": "Locked pack lineup (Beth, Sep 27, 2026). Money buys Crowns and energy ONLY - never coins, never story advancement. Mirrors StoreCatalog in Assets/Scripts/Domain/Economy/Economy.cs.",
+    "debutantes_chest": {
+      "price_usd": 99.99,
+      "crowns": 3000,
+      "energy": 500,
+      "bonus": "1 exclusive outfit",
+      "status": "LOCKED Sep 27, 2026 (Beth)"
+    },
+    "pin_money": {
+      "price_usd": 49.99,
+      "crowns": 2000,
+      "energy": 150,
+      "bonus": "1 Atelier chest (6 random board items, tiers 2-5)",
+      "note": "value bundle, no chapter framing or progress promises",
+      "status": "LOCKED Sep 27, 2026 (Beth)"
+    },
+    "daily_offer": {
+      "price_usd": 19.99,
+      "crowns": 700,
+      "energy": 100,
+      "player_facing_name": "TBD (never 'Pin Money Daily')",
+      "status": "LOCKED Sep 27, 2026 (Beth)"
+    }
   },
   "time_only_rewards": {
     "status": "LOCKED Sep 27, 2026 (Beth)",
@@ -316,7 +341,7 @@
     "Daily Vote Crown grants: T2-T5 -> 1/2/3/5",
     "Chapter unlock gating: level N at (2xN-2) commissions + (N-1) rituals",
     "Dressing-ritual components (Beth Sep 27): 5 coins per micro-decision; 100-300 coins per full ritual (event-variable step count)",
-    "Event-currency settlement: 10:1",
+    "Event-currency settlement: 10:1 -> energy (never coins)",
     "Refill ladder prices: 15 -> 25 -> 50 -> 100 -> 150",
     "Energy drops: 5% -> +5; Park 60% -> +3",
     "Sink prices: rush 2/min; storage +10 for 50; direct 3x tier; plates 40; skip 10 (max 3)",

@@ -14,6 +14,14 @@ public sealed class EconomyHUD : MonoBehaviour
     public Text coinsText;
     public Text energyText;
 
+    [Header("Premium styling (visual lock v1)")]
+    [Tooltip("Gold for Crowns (premium currency).")]
+    public Color crownsGold = new Color(0.83f, 0.69f, 0.35f);
+    [Tooltip("Warm copper for coins (soft currency).")]
+    public Color coinsCopper = new Color(0.72f, 0.45f, 0.25f);
+    [Tooltip("Soft green for energy.")]
+    public Color energyGreen = new Color(0.45f, 0.65f, 0.45f);
+
     [Header("Nav")]
     public Button storyButton;
     public Button boardButton;
@@ -27,6 +35,11 @@ public sealed class EconomyHUD : MonoBehaviour
             storyButton.onClick.AddListener(() => _game.SetState(GameState.StoryScene));
         if (boardButton != null)
             boardButton.onClick.AddListener(() => _game.SetState(GameState.MergeBoard));
+
+        // Apply premium styling once at startup.
+        if (crownsText != null) crownsText.color = crownsGold;
+        if (coinsText != null) coinsText.color = coinsCopper;
+        if (energyText != null) energyText.color = energyGreen;
     }
 
     private void Update()
