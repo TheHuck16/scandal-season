@@ -23,6 +23,11 @@ public sealed class MergeBoardView : MonoBehaviour
     public Text statusText;
     public Text selectionText;
 
+    [Header("Spawn tier (LOCKED Sep 27: 1/2/4/8 energy -> L1/L2/L3/L4)")]
+    [Tooltip("Player-selected spawn tier. 1=1 energy (L1), 2=2 energy (L2), 3=4 energy (L3), 4=8 energy (L4). UI TBD.")]
+    [Range(1, 4)]
+    public int spawnTierSelection = 1;
+
     private GameManager _game;
     private readonly List<BoardPosition> _selection = new List<BoardPosition>();
     private readonly Dictionary<BoardPosition, GameObject> _cellViews =
@@ -119,12 +124,21 @@ public sealed class MergeBoardView : MonoBehaviour
             return;
         }
 
-        // SCAFFOLD: free level-1 spawn from a random unlocked chain.
-        // Spawn energy cost is UNDECIDED — this is a placeholder, not a rule.
-        string chainId = chains[UnityEngine.Random.Range(0, chains.Count)];
-        if (_game.Board.TrySpawn(chainId, 1, out var pos))
+        // LOCKED Sep 27: atelier multiplier IS the energy spend — 1 energy spawns
+        // L1, 2 energy spawns L2, 4 energy spawns L3, 8 energy spawns L4.
+        // Not a yield boost. (Acquisition: mastery milestones + Crown purchase.)
+        int spawnTier = Mathf.Clamp(spawnTierSelection, 1, 4);
+        int spawnEnergyCost = 1 << (spawnTier - 1); // 1, 2, 4, 8
+        if (_game.Energy == null || !_game.Energy.TryConsume(spawnEnergyCost, DateTime.UtcNow))
         {
-            SetStatus($"Spawned {ChainDisplayName(chainId)} L1 at {pos}.");
+            SetStatus($"Not enough energy to spawn L{spawnTier} ({spawnEnergyCost} energy) — wait for regen.");
+            return;
+        }
+
+        string chainId = chains[UnityEngine.Random.Range(0, chains.Count)];
+        if (_game.Board.TrySpawn(chainId, spawnTier, out var pos))
+        {
+            SetStatus($"Spawned {ChainDisplayName(chainId)} L{spawnTier} at {pos}.");
         }
         else
         {

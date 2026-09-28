@@ -25,18 +25,20 @@ public sealed class GameManager : MonoBehaviour
     [Header("Content (wired by Boot)")]
     public List<SceneDefinitionSO> seasonOneScenes = new List<SceneDefinitionSO>();
     public List<SceneDefinitionSO> seasonTwoScenes = new List<SceneDefinitionSO>();
+    public List<SceneDefinitionSO> seasonThreeScenes = new List<SceneDefinitionSO>();
     public List<ItemChainDefinitionSO> mergeChains = new List<ItemChainDefinitionSO>();
 
-    [Header("Board config (SCAFFOLD default — board size not locked)")]
+    [Header("Board config (LOCKED Sep 27, 2026: 6x6)")]
     public int boardWidth = 6;
     public int boardHeight = 6;
 
-    /// <summary>
-    /// SCAFFOLD: story scene coin cost. Locked: 120–290 coins, never Crowns.
-    /// The per-season figure is UNDECIDED — this uses the locked range floor
-    /// as a placeholder until Beth locks the curve.
-    /// </summary>
-    public const int ScaffoldSceneCostCoins = 120;
+    [Header("Chain unlocks (LOCKED Sep 27: 5 at launch, rest at 5/10/15/20)")]
+    [Tooltip("LOCKED Sep 27: 5 chains at launch (Needlework, Pearls, Ribbon, Lace, Posy); remaining 4 unlock at player levels 5/10/15/20. ID-to-name mapping TBD — placeholder IDs below, do not treat as canonical.")]
+    public List<string> launchChainIds = new List<string>();
+
+    [Header("Chain unlock levels (LOCKED Sep 27: 5 / 10 / 15 / 20)")]
+    [Tooltip("Player levels at which the 4 post-launch chains unlock, in order.")]
+    public int[] chainUnlockLevels = new int[] { 5, 10, 15, 20 };
 
     public GameState CurrentState { get; private set; } = GameState.Boot;
 
@@ -51,6 +53,9 @@ public sealed class GameManager : MonoBehaviour
     public int CurrentSeason { get; private set; } = 1;
     public int CurrentChapter { get; private set; } = 1;
     public int CurrentSceneNumber { get; private set; } = 1;
+
+    // Player level drives chain unlocks (LOCKED Sep 27). Thresholds TBD.
+    public int PlayerLevel { get; private set; } = 1;
 
     public event Action<GameState> OnStateChanged;
 
@@ -70,16 +75,19 @@ public sealed class GameManager : MonoBehaviour
 
     /// <summary>
     /// Called once by Boot after content is loaded. Uses locked economy figures:
-    /// energy cap 200, 1 per 3 minutes. New-player wallet and chain unlocks are
-    /// SCAFFOLD defaults (both undecided) — zero wallet, all chains unlocked.
+    /// energy cap 200, 1 per 3 minutes. Chain unlocks: 5 at launch by player
+    /// level (LOCKED Sep 27); which chains and level thresholds are TBD.
+    /// New-player wallet (LOCKED Sep 27): 100 Crowns, 200 energy, 0 coins.
     /// </summary>
     public void InitializeSession(
         List<SceneDefinitionSO> s1,
         List<SceneDefinitionSO> s2,
+        List<SceneDefinitionSO> s3,
         List<ItemChainDefinitionSO> chains)
     {
         seasonOneScenes = s1 ?? new List<SceneDefinitionSO>();
         seasonTwoScenes = s2 ?? new List<SceneDefinitionSO>();
+        seasonThreeScenes = s3 ?? new List<SceneDefinitionSO>();
         mergeChains = chains ?? new List<ItemChainDefinitionSO>();
 
         _chainsById.Clear();
@@ -87,7 +95,7 @@ public sealed class GameManager : MonoBehaviour
             if (c != null && !string.IsNullOrEmpty(c.chainId))
                 _chainsById[c.chainId] = c;
 
-        Wallet = new Wallet(0, 0);
+        Wallet = new Wallet(crowns: 100, coins: 0);
         Energy = new EnergySystem(
             maxEnergy: 200,
             regenInterval: TimeSpan.FromMinutes(3),
@@ -96,7 +104,12 @@ public sealed class GameManager : MonoBehaviour
         Progression = new SeasonProgression();
         Board = new MergeBoard(boardWidth, boardHeight);
 
-        var unlocked = new List<string>(_chainsById.Keys);
+        // Level-gated unlocks (LOCKED Sep 27): 5 at launch, remaining 4 at
+        // player levels 5/10/15/20. Chain ID lists are TBD pending name mapping.
+        var unlocked = new List<string>();
+        foreach (var id in launchChainIds)
+            if (_chainsById.ContainsKey(id))
+                unlocked.Add(id);
         Orders = new OrderQueue(unlocked);
 
         SetState(GameState.Title);
@@ -120,7 +133,7 @@ public sealed class GameManager : MonoBehaviour
     /// <summary>All scenes for the current season/chapter, ordered by scene number.</summary>
     public List<SceneDefinitionSO> GetChapterScenes(int season, int chapter)
     {
-        var source = season == 1 ? seasonOneScenes : seasonTwoScenes;
+        var source = season == 1 ? seasonOneScenes : season == 2 ? seasonTwoScenes : seasonThreeScenes;
         var result = new List<SceneDefinitionSO>();
         foreach (var s in source)
             if (s != null && s.chapter == chapter)
@@ -160,13 +173,13 @@ public sealed class GameManager : MonoBehaviour
     }
 
     /// <summary>
-    /// Story scenes cost coins (locked: 120–290, never Crowns). The per-season
-    /// figure is undecided — this build uses the scaffold placeholder.
-    /// Returns false when the wallet can't cover it.
+    /// Story scenes cost coins (locked: 120–290 computed at import, never Crowns).
+    /// Uses the scene's imported price. Returns false when the wallet can't cover it.
     /// </summary>
-    public bool TryPaySceneCost()
+    public bool TryPaySceneCost(SceneDefinitionSO scene)
     {
-        return Wallet.TrySpend(Currency.Coins, ScaffoldSceneCostCoins);
+        int cost = scene != null && scene.coinPrice > 0 ? scene.coinPrice : 120;
+        return Wallet.TrySpend(Currency.Coins, cost);
     }
 
     public void Tick(DateTime nowUtc)

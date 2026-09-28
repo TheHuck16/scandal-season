@@ -130,6 +130,16 @@ namespace ScandalSeason.Domain.Economy
             return true;
         }
 
+        /// <summary>
+        /// Grants purchased energy. LOCKED Sep 27: purchased energy stacks ABOVE
+        /// the 200 regen cap with no upper limit. Regen never exceeds the cap.
+        /// </summary>
+        public void GrantPurchased(int amount)
+        {
+            if (amount <= 0) throw new ArgumentOutOfRangeException(nameof(amount));
+            Current += amount;
+        }
+
         public TimeSpan TimeUntilNext(DateTime nowUtc)
         {
             Refresh(nowUtc);
@@ -193,5 +203,45 @@ namespace ScandalSeason.Domain.Economy
             int index = Math.Min(consecutiveDay, dailyTable.Length) - 1;
             return dailyTable[index];
         }
+    }
+
+    /// <summary>
+    /// Locked IAP pack lineup (Beth, Sep 27, 2026). Money buys Crowns and energy
+    /// ONLY — never coins, never story advancement (the firewall). Raw energy
+    /// grants stack above the 200 regen cap; refill packs are dead.
+    /// Promo levers (flash bundles, treasure track, first-buy bonus, piggy bank,
+    /// weekend Crown bonus, $4.99 starter offer) are LOCKED but build when scheduled.
+    /// </summary>
+    public static class StoreCatalog
+    {
+        public sealed class IapPack
+        {
+            public string Id { get; }
+            public string PriceUsd { get; }
+            public int Crowns { get; }
+            public int Energy { get; }
+            public string Bonus { get; }
+
+            public IapPack(string id, string priceUsd, int crowns, int energy, string bonus = "")
+            {
+                Id = id; PriceUsd = priceUsd; Crowns = crowns; Energy = energy; Bonus = bonus;
+            }
+        }
+
+        /// <summary>Debutante's Chest — the $99.99 anchor (replaces the old starter pack).</summary>
+        public static readonly IapPack DebutantesChest = new IapPack(
+            "debutantes_chest", "$99.99", crowns: 3000, energy: 500,
+            bonus: "1 exclusive outfit");
+
+        /// <summary>Pin Money — $49.99 value bundle (Crowns + energy, no chapter framing).</summary>
+        public static readonly IapPack PinMoney = new IapPack(
+            "pin_money", "$49.99", crowns: 2000, energy: 150,
+            bonus: "1 atelier chest (6 random board items, tiers 2-5)");
+
+        /// <summary>Daily offer — $19.99 daily special. Player-facing name TBD (never "Pin Money Daily").</summary>
+        public static readonly IapPack DailyOffer = new IapPack(
+            "daily_offer", "$19.99", crowns: 700, energy: 100);
+
+        public static readonly IapPack[] AllPacks = { DebutantesChest, PinMoney, DailyOffer };
     }
 }

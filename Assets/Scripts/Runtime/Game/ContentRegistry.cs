@@ -13,6 +13,8 @@ public sealed class ContentRegistry : ScriptableObject
     public List<SceneDefinitionSO> seasonOneScenes = new List<SceneDefinitionSO>();
     [Tooltip("All Season Two scene assets (1,200).")]
     public List<SceneDefinitionSO> seasonTwoScenes = new List<SceneDefinitionSO>();
+    [Tooltip("All Season Three scene assets (1,200).")]
+    public List<SceneDefinitionSO> seasonThreeScenes = new List<SceneDefinitionSO>();
     [Tooltip("All merge-chain assets (Board F).")]
     public List<ItemChainDefinitionSO> mergeChains = new List<ItemChainDefinitionSO>();
 }

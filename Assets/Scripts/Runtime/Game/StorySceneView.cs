@@ -152,10 +152,9 @@ public sealed class StorySceneView : MonoBehaviour
 
     private void OnContinue()
     {
-        // Story scenes cost coins, never Crowns (locked). The per-scene figure
-        // is undecided — GameManager uses the scaffold placeholder. Energy is
-        // the only throttle; plot is never time-gated.
-        if (!_game.TryPaySceneCost())
+        // Story scenes cost coins, never Crowns (locked). Price is computed at
+        // import per scene. Energy is the only throttle; plot is never time-gated.
+        if (!_game.TryPaySceneCost(_scene))
         {
             if (bodyText != null)
                 bodyText.text = "Not enough coins — earn them on the merge board, then continue the story.";

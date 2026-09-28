@@ -100,4 +100,6 @@ public sealed class SceneDefinitionSO : ScriptableObject
     [TextArea] public string sting = "";
     [Tooltip("Repo-relative chapter .md this scene was parsed from.")]
     public string sourceFile = "";
+    [Tooltip("Coin price computed at import (LOCKED Sep 27 formula: 120 + 15/item decision + 25/color-finish decision + 60 if major plot, capped at 290). Story costs coins, never Crowns.")]
+    public int coinPrice;
 }

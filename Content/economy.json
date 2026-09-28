@@ -108,9 +108,9 @@
         "status": "ultra-rare/dress/tiara LOCKED Sep 27, 2026 (Beth); Commons/Fines DEFAULT"
       },
       {
-        "item": "Daily Vote upgrades",
-        "price": "Wardrobe Flash 20; Second Opinion 15; Spotlight 30",
-        "status": "DEFAULT"
+        "item": "Belle Assemblée daily upgrade pieces",
+        "price": "real-money packs, escalating ladder from $19.99 entry; bigger variations; repeatable",
+        "status": "LOCKED Sep 27, 2026 (Beth): never required for T5; supersedes Crown-purchase"
       }
     ]
   },
@@ -122,11 +122,8 @@
     "chapter_unlock_gating": "DEFAULT: level N at (2xN-2) commissions + (N-1) rituals",
     "sources": [
       "order fulfillment: story commissions round(2 x requestedTier x 3.0); custom orders round(2 x requestedTier x 1.0)",
-      "random coin drops from board play (allowed, LOCKED Sep 27, 2026)",
       "rarity multiplier 1.0-2.0 for spawner-sourced items (per-chain config)",
-      "half-coin merge: 2 half-coins -> 1 coin (fractional balances permitted internally; display floors)",
       "Modiste's Exchange: Common->2, Fine->5, Rare->12, Ultra-Rare->30 (+1 favor kickback on duplicate ultra-rare) - LOCKED Sep 27, 2026",
-      "Park-board merges: DEFAULT 40% chance +2 coins",
       "Daily Vote verdicts: T1-T5 -> 5/10/15/25/40 - LOCKED Sep 27, 2026",
       "event-currency settlement: 10:1 at event end"
     ],
@@ -138,10 +135,11 @@
       "status": "LOCKED Sep 27, 2026 (Beth)",
       "rule": "The merge board always carries open orders: up to 10 standing order slots (DEFAULT); when a slot empties, the generator deals a new random order after a short delay (DEFAULT: 5 minutes).",
       "difficulty_spread": "Orders span easy to hard (DEFAULT: a mix of low-, mid-, and high-tier requests); payouts scale with tier (commissions round(2*tier*3.0), custom orders round(2*tier*1.0)).",
-      "reachability_guarantee": "Every generated order obeys the reachability guarantee: it never requests an item the player could not merge into existence with unlimited time and energy \u2014 unlocked chains only, always producible.",
+      "reachability_guarantee": "Every generated order obeys the reachability guarantee: it never requests an item the player could not merge into existence with unlimited time and energy — unlocked chains only, always producible.",
       "payouts": "Authored story commissions sit alongside generated custom orders; payouts unchanged.",
       "design_note": "The order queue is the free player's income engine: board play funds the story."
-    }
+    },
+    "sole_faucet": "LOCKED Sep 27, 2026 (Beth): order fulfillment is the SOLE coin faucet; random coin drops from board merges and direct coin-chain merges are cut; atelier multipliers cannot boost coin yields"
   },
   "favors": {
     "name_status": "LOCKED Sep 27, 2026 (Beth): Favors (gemstone names reserved for side games)",
@@ -294,15 +292,6 @@
       "track_template": "40 tiers, free + premium rows - LOCKED Sep 27, 2026 (Beth)",
       "track_contents": "outfit pieces + Crowns + energy - LOCKED Sep 27, 2026 (Beth)",
       "per_event_design": "ADOPTED Sep 27, 2026 (Beth): all three formats coexist - fortnightly 5-day Season Balls (A), weekly 3-day Gazette Challenges (C), monthly 7-day Patron's Ledger galas (B); see event-pass-proposals.md. Per-event content (outfit, occasion) is a content-calendar decision."
-    },
-    "chapter_pass": {
-      "structure": "per-chapter, not per-season - LOCKED Sep 27, 2026 (Beth)",
-      "contents": "exclusive outfits + energy + Crowns - LOCKED Sep 27, 2026 (Beth)",
-      "consumable_sizing_rule": "LOCKED Sep 27, 2026 (Beth): energy + Crowns sized for ~1-2 hours of eager play",
-      "consumable_amounts": "TBD: 150 energy + 23 vs 43 Crowns proposed",
-      "price": "TBD (was $49.99 under the season-pass concept)",
-      "duration": "TBD",
-      "reward_track": "TBD"
     }
   },
   "starter_pack": {
@@ -326,20 +315,17 @@
     "Crown merge spawns: 2% per merge, cap 5 uncollected",
     "Daily Vote Crown grants: T2-T5 -> 1/2/3/5",
     "Chapter unlock gating: level N at (2xN-2) commissions + (N-1) rituals",
-    "Park-board merges: 40% chance +2 coins",
     "Dressing-ritual components (Beth Sep 27): 5 coins per micro-decision; 100-300 coins per full ritual (event-variable step count)",
     "Event-currency settlement: 10:1",
     "Refill ladder prices: 15 -> 25 -> 50 -> 100 -> 150",
     "Energy drops: 5% -> +5; Park 60% -> +3",
-    "Sink prices: rush 2/min; storage +10 for 50; direct 3x tier; plates 40; skip 10 (max 3); vote upgrades 20/15/30",
+    "Sink prices: rush 2/min; storage +10 for 50; direct 3x tier; plates 40; skip 10 (max 3)",
     "Event tasks: 8 per event",
     "Jewel shelf Commons 20 / Fines 60"
   ],
   "_tbd": [
-    "Chapter pass: price, duration, reward track; exact consumable amounts (150 energy + 23 vs 43 Crowns proposed, not yet chosen)",
     "Starter pack player-facing product name (never 'whale')",
     "Atelier 2x/4x/8x energy multipliers: amounts, unlock rules, Crown costs",
-    "Free-player coin-model validation against the ten-slot order queue (Beth's choices pending; per-scene 120-290 coins stands as documented)",
-    "Random board coin drops: whether they remain supplemental and at what rate (drops allowed; no rate set)"
+    "Free-player coin-model validation against the ten-slot order queue (Beth's choices pending; per-scene 120-290 coins stands as documented)"
   ]
 }

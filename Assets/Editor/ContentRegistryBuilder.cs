@@ -22,13 +22,15 @@ public static class ContentRegistryBuilder
 
         registry.seasonOneScenes = FindScenes("s1-");
         registry.seasonTwoScenes = FindScenes("s2-");
+        registry.seasonThreeScenes = FindScenes("s3-");
         registry.mergeChains = FindChains();
 
         EditorUtility.SetDirty(registry);
         AssetDatabase.SaveAssets();
 
         Debug.Log($"[Content] Registry rebuilt: S1={registry.seasonOneScenes.Count}, " +
-                  $"S2={registry.seasonTwoScenes.Count}, chains={registry.mergeChains.Count}.");
+                  $"S2={registry.seasonTwoScenes.Count}, S3={registry.seasonThreeScenes.Count}, " +
+                  $"chains={registry.mergeChains.Count}.");
     }
 
     private static List<SceneDefinitionSO> FindScenes(string prefix)

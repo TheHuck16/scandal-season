@@ -60,6 +60,7 @@ public static class ContentImporter
         ValidateFile<OutfitsFile>(contentDir, "outfits.json", errors, ValidateOutfits);
         ValidateFile<ScenesFile>(contentDir, "scenes.json", errors, ValidateScenes);
         ValidateFile<ScenesFile>(contentDir, "scenes-season2.json", errors, ValidateScenes);
+        ValidateFile<ScenesFile>(contentDir, "scenes-season3.json", errors, ValidateScenes);
         ValidateFile<VoteEventsFile>(contentDir, "vote-events.json", errors, ValidateVoteEvents);
         ValidateFile<SeasonPassesFile>(contentDir, "season-passes.json", errors, ValidateSeasonPasses);
 
@@ -614,7 +615,7 @@ public static class ContentImporter
 
     private static void ImportScenes(string contentDir, List<string> errors)
     {
-        foreach (var fileName in new[] { "scenes.json", "scenes-season2.json" })
+        foreach (var fileName in new[] { "scenes.json", "scenes-season2.json", "scenes-season3.json" })
         {
             var file = ReadJson<ScenesFile>(contentDir, fileName, errors);
             if (file == null) continue;
@@ -669,7 +670,45 @@ public static class ContentImporter
                 .Select(c => new FashionChoiceData { label = c.label, detail = c.detail }).ToArray();
             so.sting = scene.sting ?? "";
             so.sourceFile = scene.sourceFile;
+            so.coinPrice = ComputeScenePrice(scene);
             SaveDefinition("Scenes", scene.id, so);
+    }
+
+    /// <summary>
+    /// LOCKED Sep 27 (Beth): price = 120 + 15 per item decision + 25 per
+    /// color/finish decision + 60 if major plot point, capped at 290.
+    /// Item decisions = ritual steps (non-color/finish) + fashion choices.
+    /// Color/finish decisions = ritual steps naming color, fabric, finish, etc.
+    /// Major plot point = scene carries a key decision.
+    /// </summary>
+    private static int ComputeScenePrice(SceneDto scene)
+    {
+        int itemDecisions = 0;
+        int colorFinishDecisions = 0;
+
+        if (scene.ritual?.steps != null)
+        {
+            foreach (var step in scene.ritual.steps)
+            {
+                if (IsColorFinishStep(step)) colorFinishDecisions++;
+                else itemDecisions++;
+            }
+        }
+        if (scene.fashionChoices != null)
+            itemDecisions += scene.fashionChoices.Length;
+
+        int price = 120 + 15 * itemDecisions + 25 * colorFinishDecisions;
+        if (scene.keyDecision != null) price += 60;
+        return Math.Min(290, price);
+    }
+
+    private static bool IsColorFinishStep(string step)
+    {
+        var lower = step.ToLowerInvariant();
+        return lower.Contains("color") || lower.Contains("fabric") ||
+               lower.Contains("finish") || lower.Contains("trim") ||
+               lower.Contains("thread") || lower.Contains("lace") ||
+               lower.Contains("embroidery");
     }
 
     // ------------------------------------------------------------------ vote events

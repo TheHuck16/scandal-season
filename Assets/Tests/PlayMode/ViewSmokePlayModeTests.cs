@@ -23,6 +23,7 @@ namespace ScandalSeason.Tests.PlayMode
             game.InitializeSession(
                 new List<SceneDefinitionSO>(),
                 new List<SceneDefinitionSO>(),
+                new List<SceneDefinitionSO>(),
                 new List<ItemChainDefinitionSO>());
 
             Assert.IsNotNull(game.Wallet, "GameManager must construct its wallet.");

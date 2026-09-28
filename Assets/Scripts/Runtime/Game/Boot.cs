@@ -26,9 +26,11 @@ public sealed class Boot : MonoBehaviour
         game.InitializeSession(
             registry.seasonOneScenes,
             registry.seasonTwoScenes,
+            registry.seasonThreeScenes,
             registry.mergeChains);
 
         Debug.Log($"[Boot] Session ready: S1={registry.seasonOneScenes.Count}, " +
-                  $"S2={registry.seasonTwoScenes.Count}, chains={registry.mergeChains.Count}.");
+                  $"S2={registry.seasonTwoScenes.Count}, S3={registry.seasonThreeScenes.Count}, " +
+                  $"chains={registry.mergeChains.Count}.");
     }
 }
