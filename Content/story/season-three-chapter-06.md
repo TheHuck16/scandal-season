@@ -1,6 +1,6 @@
 # Scandal Season — Season Three, Chapter 6: "The Hawker's Price" — Full Scene Detail
 
-**STATUS: FULL** — 40 numbered scenes (L6.S1–L6.S40), sequential, no duplicates. September 27, 2026.
+**STATUS: FULL PROSE (locked standard)** — 40 scenes (L6.S1–L6.S40), conformance pass completed September 28, 2026: ordinary scenes 350–450 words / 7–10 turns, 3 key decisions at exactly 3 turns, ritual at exactly 21 turns, S39 one reading turn, all animations Shared.
 **Sources:** `story/season-three-chapter-beats.md` (beat source), `story/season-three-chapters-1-3-pilot.md` (format template + continuity), `story/book-one-arc.md` (S3 canonical).
 
 **Format key.** [D] dialogue-heavy · [F] fashion-selection (2–3 diegetic options, no coin cost, remembered) · [C] dressing-for-climax ritual (full ritual: direction + occasion brief, decomposed micro-decisions, story morsels, reveal coda) · [T] texture micro-beat · plot beat (untagged) · plot beat (villain)/(romance: route) — tagged threads · Gazette sting · cliffhanger. ★ marks the chapter's exactly 3 key decisions (locked rule: 3/chapter). Animation: Shared (reusable staging) or Custom (bespoke, tentpoles only — none in these chapters).
@@ -227,7 +227,7 @@
 - **B. The White Rose** — *Motif:* the white rose worked small, the clean name as emblem. *Colorway:* pearl grey ground, white rose, ivory. *Thread:* ivory silk, silver, white. *Accessories:* the full set — fresh rose at waist, simple pin, plain band, pale gloves, the reticule, no scent, the bearing practiced.
 - **C. The Bearing** — *Motif:* unadorned plainness — presence as the only ornament. *Colorway:* quiet greys, dust colors, the street's own palette. *Thread:* matte wool, undyed linen, plain. *Accessories:* the full set — reticule with coin, book, pencil, plain handkerchief, walking boots, the white rose small at the waist, the unhurried nod.
 **Occasion brief (published):** *Morning among the crowd — the street campaign's set-piece. The brief is ELEVATION: the lady among hawkers, the clean name streeted, the white rose worn where the cry can see it. Dress to be looked up to — not defended, not disguised. The street reads hems; give it a text worth reading.*
-**Decomposed steps (20 pins × 5 coins = 100 coins):**
+> **Turns (21):**
 > *(Story morsel: the flower girl's "For luck, my lady?" — the street's own phrase, the campaign's adopted motto, the white rose bought honest among all the bought cries.)*
 > 1. [choice]Commit the direction — A, B, or C; the brief, answered. → Remembered: The direction; elevation, chosen. Re-picks always free.
 > 2. [micro]The bodice's fabric — clean-lined, the street's reading distance. 5 coins. → Remembered: The fabric; legible at twenty paces.
@@ -255,7 +255,6 @@
 > 21. [micro]The bearing, practiced — unhurried, nodding, the general among the crowd. 5 coins. → Remembered: The bearing; elevation, worn.
 > *(Story morsel: Augusta's "Presence costs you" — the general's arithmetic, the campaign's cheapest weapon, the one the purse cannot buy at any price.)*
 > *(The reveal coda — the mirror, the full length, the street's text complete: the public dress, the white rose, the bearing, the whole of elevation worn like a uniform. Augusta's nod — the general's approval, once. Letitia's "The street will stare, Rose." — the household's blessing. The lookbook save — the chapter's look, entered, the season's archive. Twenty pins, five coins each, one hundred coins — the chapter's spend on being looked up to, the cheapest victory the campaign will buy. The jewel shelf stays open; re-picks always free; no Crown SKU. The ritual, complete — and the street, waiting.)*
-> **Turns (21):** direction committed above; twenty pins, 5 coins each; 20 pins × 5 coins = 100 coins. Re-picks always free; the owned-jewel shelf stays open; no Crown SKU.
 *Animation: Shared.*
 ### L6.S16 · plot beat · Rose
 *Purpose: The ritual worn into the street — presence works against paper.*

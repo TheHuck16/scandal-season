@@ -46,12 +46,14 @@ public sealed class ChainStyleSO : ScriptableObject
     {
         if (chains == null || chains.Length != 5)
             return;
-        // Enforce Board F chain order and family colors
-        SetChain(0, "needlework", "Needlework", new Color(0.83f, 0.69f, 0.22f), new Color(1f, 0.85f, 0.4f));
-        SetChain(1, "pearls", "Pearls", new Color(0.95f, 0.93f, 0.88f), new Color(0.85f, 0.82f, 0.75f));
-        SetChain(2, "ribbon", "Ribbon", new Color(0.96f, 0.75f, 0.78f), new Color(0.9f, 0.55f, 0.6f));
-        SetChain(3, "lace", "Lace", new Color(1f, 1f, 0.97f), new Color(0.92f, 0.9f, 0.82f));
-        SetChain(4, "posy", "Posy", new Color(0.55f, 0.75f, 0.5f), new Color(0.35f, 0.6f, 0.35f));
+        // Enforce Board F chain order and family colors.
+        // LOCKED by Beth Sep 28, 2026: real chain IDs from the content.
+        SetChain(0, "atelier.notions", "Needlework", new Color(0.83f, 0.69f, 0.22f), new Color(1f, 0.85f, 0.4f));
+        SetChain(1, "atelier.jewelry", "Pearls", new Color(0.95f, 0.93f, 0.88f), new Color(0.85f, 0.82f, 0.75f));
+        SetChain(2, "atelier.fabric", "Ribbon", new Color(0.96f, 0.75f, 0.78f), new Color(0.9f, 0.55f, 0.6f));
+        SetChain(3, "park.household", "Lace", new Color(1f, 1f, 0.97f), new Color(0.92f, 0.9f, 0.82f));
+        SetChain(4, "park.seeds", "Posy", new Color(0.55f, 0.75f, 0.5f), new Color(0.35f, 0.6f, 0.35f));
+        // Later unlocks (timing still open): park.topiary, park.masonry, park.ornaments, park.carriages
     }
 
     private void SetChain(int i, string id, string name, Color family, Color accent)

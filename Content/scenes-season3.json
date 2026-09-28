@@ -3732,7 +3732,7 @@
         "Rose (alone)"
       ],
       "animation": "Shared",
-      "animationNote": "shared ritual presentation",
+      "animationNote": "",
       "sourceFile": "Content/story/season-three-chapter-05.md",
       "playerTurns": 21,
       "turnNote": "(Turns: 21",
@@ -4205,9 +4205,7 @@
       "chapterStatus": "FULL",
       "type": "gazette-sting",
       "synopsis": "the Gazette's sting — the proprietor's dry verdict on the street campaign; the street, in the Gazette's own words.",
-      "participants": [
-        "the town (via the Gazette)"
-      ],
+      "participants": [],
       "animation": "Shared",
       "animationNote": "",
       "sourceFile": "Content/story/season-three-chapter-05.md",
@@ -4561,7 +4559,7 @@
         "directions": [],
         "steps": [],
         "coinPerDecision": 5,
-        "coinTotal": 100
+        "coinTotal": 0
       }
     },
     {
@@ -4664,7 +4662,7 @@
       "chapterTitle": "The Hawker's Price",
       "chapterStatus": "FULL",
       "type": "texture",
-      "synopsis": "The studio — new sitters, prompt coin, Madame Vane's card; the clean light.",
+      "synopsis": "The studio — new sitters, prompt coin, a lady's card; the clean light.",
       "participants": [
         "Rose",
         "Octavia"
