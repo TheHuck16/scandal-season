@@ -20,6 +20,11 @@ public sealed class MergeBoardView : MonoBehaviour
     [Header("Board F visual identity")]
     public ChainStyleSO chainStyle;
 
+    [Header("Chain legend (Board F)")]
+    [Tooltip("Parent transform for auto-built legend entries. Each gets Image + Text.")]
+    public Transform legendParent;
+    public GameObject legendEntryPrefab;
+
     [Header("Controls")]
     public Button spawnButton;
     public Button mergeButton;
@@ -42,9 +47,60 @@ public sealed class MergeBoardView : MonoBehaviour
     {
         _game = GameManager.Instance;
         BuildGrid();
+        BuildLegend();
         if (spawnButton != null) spawnButton.onClick.AddListener(OnSpawnPressed);
         if (mergeButton != null) mergeButton.onClick.AddListener(OnMergePressed);
         RefreshAll();
+    }
+
+    /// <summary>
+    /// Board F: builds the chain legend from ChainStyleSO. Each entry shows the
+    /// chain family color swatch and display name. Per the chain bible, the legend
+    /// lives on the board.
+    /// </summary>
+    private void BuildLegend()
+    {
+        if (legendParent == null || chainStyle == null || chainStyle.chains == null) return;
+
+        foreach (Transform child in legendParent)
+            Destroy(child.gameObject);
+
+        foreach (var chain in chainStyle.chains)
+        {
+            if (chain == null) continue;
+            GameObject entry;
+            if (legendEntryPrefab != null)
+            {
+                entry = Instantiate(legendEntryPrefab, legendParent);
+            }
+            else
+            {
+                // Fallback: build a minimal entry programmatically.
+                entry = new GameObject($"Legend_{chain.chainId}", typeof(RectTransform));
+                entry.transform.SetParent(legendParent, false);
+                var bg = entry.AddComponent<Image>();
+                bg.color = new Color(1f, 1f, 1f, 0.1f);
+                var text = new GameObject("Label", typeof(RectTransform)).AddComponent<Text>();
+                text.transform.SetParent(entry.transform, false);
+                text.font = Resources.GetBuiltinResource<Font>("LegacyRuntime.ttf");
+                text.alignment = TextAnchor.MiddleLeft;
+            }
+            entry.name = $"Legend_{chain.chainId}";
+
+            var swatch = entry.GetComponentInChildren<Image>();
+            // First Image is the swatch; recolor it to the family color.
+            // (If the prefab has a dedicated swatch child named "Swatch", prefer it.)
+            var swatchT = entry.transform.Find("Swatch");
+            if (swatchT != null) swatch = swatchT.GetComponent<Image>();
+            if (swatch != null) swatch.color = chain.familyColor;
+
+            var label = entry.GetComponentInChildren<Text>();
+            if (label != null)
+            {
+                label.text = chain.displayName;
+                label.color = new Color(0.25f, 0.2f, 0.15f); // warm dark for ivory bg
+            }
+        }
     }
 
     private void BuildGrid()

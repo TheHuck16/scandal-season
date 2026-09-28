@@ -18,6 +18,14 @@ public sealed class StorySceneView : MonoBehaviour
     public Button continueButton;
     public Button toBoardButton;
 
+    [Header("Editorial styling (visual lock v1)")]
+    [Tooltip("Background image for estate plates / scene art.")]
+    public Image backgroundImage;
+    [Tooltip("Warm dark text for ivory backgrounds.")]
+    public Color bodyTextColor = new Color(0.25f, 0.2f, 0.15f);
+    [Tooltip("Gold accent for headers and badges.")]
+    public Color goldAccent = new Color(0.83f, 0.69f, 0.35f);
+
     private GameManager _game;
     private SceneDefinitionSO _scene;
 
@@ -41,7 +49,10 @@ public sealed class StorySceneView : MonoBehaviour
         if (sceneHeaderText != null)
             sceneHeaderText.text = $"Scene {_scene.sceneNumber} of 40";
         if (typeBadgeText != null)
+        {
             typeBadgeText.text = TypeLabel(_scene.type);
+            typeBadgeText.color = goldAccent;
+        }
         if (turnsText != null)
             turnsText.text = _scene.playerTurns > 0
                 ? $"{_scene.playerTurns} player turns"
