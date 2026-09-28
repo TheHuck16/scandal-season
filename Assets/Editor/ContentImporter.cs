@@ -681,34 +681,24 @@ public static class ContentImporter
     /// Color/finish decisions = ritual steps naming color, fabric, finish, etc.
     /// Major plot point = scene carries a key decision.
     /// </summary>
+    /// <summary>
+    /// Scene price: LOCKED formula is 120 + 15/itemDecision + 25/colorFinishDecision
+    /// + 60/majorPlotPoint, cap 290. HOWEVER the structured inputs
+    /// (itemDecisionCount, colorFinishDecisionCount, isMajorPlotPoint) do not
+    /// exist in the scene JSON yet. The previous implementation inferred them
+    /// via keyword matching on prose ("color", "fabric", etc.) — that inference
+    /// has been REMOVED per the Sep 28 audit. Until the fields are authored,
+    /// every scene prices at the 120 base. Do not reintroduce inference.
+    /// </summary>
     private static int ComputeScenePrice(SceneDto scene)
     {
-        int itemDecisions = 0;
-        int colorFinishDecisions = 0;
-
-        if (scene.ritual?.steps != null)
-        {
-            foreach (var step in scene.ritual.steps)
-            {
-                if (IsColorFinishStep(step)) colorFinishDecisions++;
-                else itemDecisions++;
-            }
-        }
-        if (scene.fashionChoices != null)
-            itemDecisions += scene.fashionChoices.Length;
-
-        int price = 120 + 15 * itemDecisions + 25 * colorFinishDecisions;
-        if (scene.keyDecision != null) price += 60;
-        return Math.Min(290, price);
-    }
-
-    private static bool IsColorFinishStep(string step)
-    {
-        var lower = step.ToLowerInvariant();
-        return lower.Contains("color") || lower.Contains("fabric") ||
-               lower.Contains("finish") || lower.Contains("trim") ||
-               lower.Contains("thread") || lower.Contains("lace") ||
-               lower.Contains("embroidery");
+        // TODO: read scene.itemDecisionCount, scene.colorFinishDecisionCount,
+        // scene.isMajorPlotPoint when the parser emits them. Then:
+        //   int price = 120 + 15 * scene.itemDecisionCount
+        //             + 25 * scene.colorFinishDecisionCount
+        //             + (scene.isMajorPlotPoint ? 60 : 0);
+        //   return Math.Min(290, price);
+        return 120;
     }
 
     // ------------------------------------------------------------------ vote events
