@@ -41,7 +41,11 @@ namespace ScandalSeason.Domain.Economy
     public enum Currency
     {
         Crowns,
-        Coins
+        Coins,
+        /// <summary>Estate Funds — the estate's own currency. Earned only through
+        /// estate-board play; never from orders, never purchasable, never
+        /// Crown-convertible. Coins are entirely outside the estate.</summary>
+        EstateFunds
     }
 
     /// <summary>Player wallet. Balances never go negative; failed spends return false.</summary>
@@ -49,34 +53,49 @@ namespace ScandalSeason.Domain.Economy
     {
         public int Crowns { get; private set; }
         public int Coins { get; private set; }
+        public int EstateFunds { get; private set; }
 
-        public Wallet(int crowns = 0, int coins = 0)
+        public Wallet(int crowns = 0, int coins = 0, int estateFunds = 0)
         {
             if (crowns < 0) throw new ArgumentOutOfRangeException(nameof(crowns));
             if (coins < 0) throw new ArgumentOutOfRangeException(nameof(coins));
+            if (estateFunds < 0) throw new ArgumentOutOfRangeException(nameof(estateFunds));
             Crowns = crowns;
             Coins = coins;
+            EstateFunds = estateFunds;
         }
 
         public void Grant(Currency currency, int amount)
         {
             if (amount < 0) throw new ArgumentOutOfRangeException(nameof(amount), "Use TrySpend to remove funds.");
-            if (currency == Currency.Crowns) Crowns += amount;
-            else Coins += amount;
+            switch (currency)
+            {
+                case Currency.Crowns: Crowns += amount; break;
+                case Currency.Coins: Coins += amount; break;
+                case Currency.EstateFunds: EstateFunds += amount; break;
+                default: throw new ArgumentOutOfRangeException(nameof(currency));
+            }
         }
 
         public bool TrySpend(Currency currency, int amount)
         {
             if (amount <= 0) throw new ArgumentOutOfRangeException(nameof(amount), "Spend amount must be positive.");
-            if (currency == Currency.Crowns)
+            switch (currency)
             {
-                if (Crowns < amount) return false;
-                Crowns -= amount;
-                return true;
+                case Currency.Crowns:
+                    if (Crowns < amount) return false;
+                    Crowns -= amount;
+                    return true;
+                case Currency.Coins:
+                    if (Coins < amount) return false;
+                    Coins -= amount;
+                    return true;
+                case Currency.EstateFunds:
+                    if (EstateFunds < amount) return false;
+                    EstateFunds -= amount;
+                    return true;
+                default: throw new ArgumentOutOfRangeException(nameof(currency));
             }
-            if (Coins < amount) return false;
-            Coins -= amount;
-            return true;
         }
     }
 
@@ -190,30 +209,32 @@ namespace ScandalSeason.Domain.Economy
 
     /// <summary>
     /// Time-based grants: the mechanisms by which time (not money) earns rewards.
-    /// Daily engagement grants coins; some items are time-only and never purchasable.
+    /// Some items are time-only and never purchasable. Daily engagement grants
+    /// NO coins — order fulfillment is the sole coin faucet (Beth, Sep 28 2026).
     /// </summary>
     public static class TimeBasedGrants
     {
-        /// <summary>Coins granted per consecutive day of engagement (day 1-based, capped by the table).</summary>
-        public static int DailyEngagementCoins(int consecutiveDay, int[] dailyTable)
-        {
-            if (dailyTable == null || dailyTable.Length == 0)
-                throw new ArgumentException("Daily grant table is required.", nameof(dailyTable));
-            if (consecutiveDay < 1) throw new ArgumentOutOfRangeException(nameof(consecutiveDay));
-            int index = Math.Min(consecutiveDay, dailyTable.Length) - 1;
-            return dailyTable[index];
-        }
     }
 
     /// <summary>
-    /// Locked IAP pack lineup (Beth, Sep 27, 2026). Money buys Crowns and energy
-    /// ONLY — never coins, never story advancement (the firewall). Raw energy
-    /// grants stack above the 200 regen cap; refill packs are dead.
+    /// Locked IAP pack lineup (Beth, Sep 28, 2026 — pack ladder v1.0, Beth's locks applied same day).
+    /// Entry price is $4.99 — no sub-$4.99 tier. One-time ramp is 5 tiers (Morning Call entry
+    /// through Debutante's Chest anchor). The Atelier chest appears weekly (one purchase per
+    /// appearance) — neither one-time-only nor always-on.
+    /// Money buys Crowns and energy ONLY — never coins, never Estate Funds, never event currency,
+    /// never any future currency (Beth's locked law: we never, ever sell game currency beyond
+    /// Crowns and energy). No story advancement for sale (the firewall).
+    /// Raw energy grants stack above the 200 regen cap; refill packs are dead.
+    /// Value anchored to the Debutante's Chest (~30-40 Crowns, ~5 energy per $).
+    /// Energy-forward flavors may run energy to 8/$ with Crowns at or under 15/$.
+    /// No "whale" language anywhere — player-facing or internal.
     /// Promo levers (flash bundles, treasure track, first-buy bonus, piggy bank,
-    /// weekend Crown bonus, $4.99 starter offer) are LOCKED but build when scheduled.
+    /// weekend Crown bonus) are LOCKED but build when scheduled.
     /// </summary>
     public static class StoreCatalog
     {
+        public enum PackTier { OneTimeRamp, RepeatableShelf, Event, Weekly }
+
         public sealed class IapPack
         {
             public string Id { get; }
@@ -221,27 +242,118 @@ namespace ScandalSeason.Domain.Economy
             public int Crowns { get; }
             public int Energy { get; }
             public string Bonus { get; }
+            public PackTier Tier { get; }
+            public int RampOrder { get; } // 1-5 for the one-time ramp; 0 otherwise
 
-            public IapPack(string id, string priceUsd, int crowns, int energy, string bonus = "")
+            public IapPack(string id, string priceUsd, int crowns, int energy,
+                string bonus = "", PackTier tier = PackTier.RepeatableShelf, int rampOrder = 0)
             {
-                Id = id; PriceUsd = priceUsd; Crowns = crowns; Energy = energy; Bonus = bonus;
+                Id = id; PriceUsd = priceUsd; Crowns = crowns; Energy = energy;
+                Bonus = bonus; Tier = tier; RampOrder = rampOrder;
             }
         }
 
-        /// <summary>Debutante's Chest — the $99.99 anchor (replaces the old starter pack).</summary>
-        public static readonly IapPack DebutantesChest = new IapPack(
-            "debutantes_chest", "$99.99", crowns: 3000, energy: 500,
-            bonus: "1 exclusive outfit");
+        // --- The one-time ramp (sequential unlock; buying tier N unlocks N+1) ---
+        // Entry is $4.99 (Beth-locked Sep 28, 2026) — no sub-$4.99 tier exists.
 
-        /// <summary>Pin Money — $49.99 value bundle (Crowns + energy, no chapter framing).</summary>
+        /// <summary>The Morning Call — $4.99 ENTRY (the sash converts, not the currency).</summary>
+        public static readonly IapPack MorningCall = new IapPack(
+            "morning_call", "$4.99", crowns: 200, energy: 25,
+            bonus: "exclusive silk ribbon sash", tier: PackTier.OneTimeRamp, rampOrder: 1);
+
+        /// <summary>The Promenade — unlocks after the Morning Call.</summary>
+        public static readonly IapPack Promenade = new IapPack(
+            "promenade", "$9.99", crowns: 400, energy: 50,
+            bonus: "exclusive parasol + gloves set", tier: PackTier.OneTimeRamp, rampOrder: 2);
+
+        /// <summary>The Assembly — unlocks after the Promenade.</summary>
+        public static readonly IapPack Assembly = new IapPack(
+            "assembly", "$19.99", crowns: 700, energy: 100,
+            bonus: "exclusive day gown (non-story)", tier: PackTier.OneTimeRamp, rampOrder: 3);
+
+        /// <summary>Pin Money — $49.99 value bundle (Crowns + energy, no chapter framing). One-time; no refresh, ever.</summary>
         public static readonly IapPack PinMoney = new IapPack(
             "pin_money", "$49.99", crowns: 2000, energy: 150,
-            bonus: "1 atelier chest (6 random board items, tiers 2-5)");
+            bonus: "1 atelier chest (6 random board items, tiers 2-5)",
+            tier: PackTier.OneTimeRamp, rampOrder: 4);
 
+        /// <summary>Debutante's Chest — the $99.99 anchor (replaces the old starter pack). One-time.</summary>
+        public static readonly IapPack DebutantesChest = new IapPack(
+            "debutantes_chest", "$99.99", crowns: 3000, energy: 500,
+            bonus: "1 exclusive outfit", tier: PackTier.OneTimeRamp, rampOrder: 5);
+
+        // --- Repeatable shelf ($9.99-$49.99; no subscriptions, no cadence gates) ---
+
+        public static readonly IapPack AtelierCommission = new IapPack(
+            "atelier_commission", "$9.99", crowns: 350, energy: 50, bonus: "balanced");
+        public static readonly IapPack LongAfternoon = new IapPack(
+            "long_afternoon", "$9.99", crowns: 100, energy: 80, bonus: "energy-forward");
+        public static readonly IapPack RibbonBox = new IapPack(
+            "ribbon_box", "$9.99", crowns: 250, energy: 40,
+            bonus: "exclusive rotating accessory (atelier)");
         /// <summary>Daily offer — $19.99 daily special. Player-facing name TBD (never "Pin Money Daily").</summary>
         public static readonly IapPack DailyOffer = new IapPack(
-            "daily_offer", "$19.99", crowns: 700, energy: 100);
+            "daily_offer", "$19.99", crowns: 700, energy: 100, bonus: "balanced");
+        public static readonly IapPack EveningEngagement = new IapPack(
+            "evening_engagement", "$19.99", crowns: 200, energy: 160, bonus: "energy-forward");
+        public static readonly IapPack DressmakersParcel = new IapPack(
+            "dressmakers_parcel", "$19.99", crowns: 500, energy: 80,
+            bonus: "exclusive rotating trim set (atelier)");
+        public static readonly IapPack CountryHouse = new IapPack(
+            "country_house", "$29.99", crowns: 1000, energy: 150, bonus: "balanced");
+        public static readonly IapPack GrandTour = new IapPack(
+            "grand_tour", "$29.99", crowns: 300, energy: 240, bonus: "energy-forward");
+        public static readonly IapPack SeasonsEndowment = new IapPack(
+            "seasons_endowment", "$49.99", crowns: 1800, energy: 250, bonus: "balanced");
+        public static readonly IapPack JewelCase = new IapPack(
+            "jewel_case", "$49.99", crowns: 1200, energy: 200,
+            bonus: "exclusive rotating accessory set (atelier)");
 
-        public static readonly IapPack[] AllPacks = { DebutantesChest, PinMoney, DailyOffer };
+        // --- Event packs (sold only during the event; never event currency or coins) ---
+
+        public static readonly IapPack Invitation = new IapPack(
+            "invitation", "$4.99", crowns: 160, energy: 25,
+            bonus: "exclusive event cosmetic", tier: PackTier.Event);
+        public static readonly IapPack GrandEntrance = new IapPack(
+            "grand_entrance", "$19.99", crowns: 700, energy: 100,
+            bonus: "exclusive event outfit", tier: PackTier.Event);
+
+        public static readonly IapPack[] AllPacks =
+        {
+            MorningCall, Promenade, Assembly, PinMoney, DebutantesChest,
+            AtelierCommission, LongAfternoon, RibbonBox, DailyOffer, EveningEngagement,
+            DressmakersParcel, CountryHouse, GrandTour, SeasonsEndowment, JewelCase,
+            Invitation, GrandEntrance,
+        };
+
+        // --- Weekly offers (cadence-gated; not part of the pack ladder) ---
+
+        /// <summary>
+        /// A weekly store offer. Cadence is the product: it appears once per week and
+        /// allows a fixed number of purchases per appearance. Price is a display string
+        /// because weekly offers are not bound to the pack ladder's value anchor.
+        /// </summary>
+        public sealed class WeeklyOffer
+        {
+            public string Id { get; }
+            public string PriceUsd { get; }
+            public string Bonus { get; }
+            public int PurchasesPerAppearance { get; }
+
+            public WeeklyOffer(string id, string priceUsd, string bonus, int purchasesPerAppearance)
+            {
+                Id = id; PriceUsd = priceUsd; Bonus = bonus;
+                PurchasesPerAppearance = purchasesPerAppearance;
+            }
+        }
+
+        /// <summary>The Atelier chest — appears WEEKLY (Beth-locked Sep 28, 2026).
+        /// One purchase per appearance. Price pending Beth's call.</summary>
+        public static readonly WeeklyOffer AtelierChestWeekly = new WeeklyOffer(
+            "atelier_chest_weekly", "$TBD (Beth to set)",
+            bonus: "1 atelier chest (6 random board items, tiers 2-5)",
+            purchasesPerAppearance: 1);
+
+        public static readonly WeeklyOffer[] AllWeeklyOffers = { AtelierChestWeekly };
     }
 }

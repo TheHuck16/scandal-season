@@ -49,7 +49,7 @@ public sealed class EstateZoneDetailView : MonoBehaviour
         if (zoneTitle != null)
             zoneTitle.text = zone.displayName;
         if (zoneCost != null)
-            zoneCost.text = $"{zone.tierCost} coins";
+            zoneCost.text = $"{zone.tierCost} Estate Funds";
         if (zonePlate != null)
         {
             zonePlate.sprite = state == EstateRepairSystem.ZoneState.Revealed && zone.finalPlate != null
@@ -71,7 +71,7 @@ public sealed class EstateZoneDetailView : MonoBehaviour
             if (label != null)
                 label.text = done
                     ? $"✓ {task.taskName}"
-                    : $"{task.taskName} — {task.coinCost} coins + {task.materialCount}× {task.materialItemId}";
+                    : $"{task.taskName} — {task.fundCost} Estate Funds + {task.materialCount}× {task.materialItemId}";
 
             if (button != null)
             {

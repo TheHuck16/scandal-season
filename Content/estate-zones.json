@@ -1,0 +1,467 @@
+{
+  "schemaVersion": "1.0.0",
+  "zones": [
+    {
+      "zoneId": "arrival_court",
+      "displayName": "Arrival Court",
+      "tagline": "First impressions. The drive, the gates, the gate piers.",
+      "zoneOrder": 0,
+      "tierCost": 100,
+      "unlocksConservatory": false,
+      "finalArtApproved": true,
+      "tasks": [
+        {
+          "taskIndex": 0,
+          "taskName": "Clear the carriage drive",
+          "fundCost": 30,
+          "materialItemId": "park.masonry.l2.gravel",
+          "materialLevel": 2,
+          "materialDetail": "gravel",
+          "materialCount": 1,
+          "primaryChainId": "park.masonry"
+        },
+        {
+          "taskIndex": 1,
+          "taskName": "Repoint the gate piers",
+          "fundCost": 40,
+          "materialItemId": "park.masonry.l3.cut_stone",
+          "materialLevel": 3,
+          "materialDetail": "cut stone",
+          "materialCount": 1,
+          "primaryChainId": "park.masonry"
+        },
+        {
+          "taskIndex": 2,
+          "taskName": "Rehang the gates",
+          "fundCost": 30,
+          "materialItemId": "park.carriages.l2.ironwork",
+          "materialLevel": 2,
+          "materialDetail": "ironwork",
+          "materialCount": 1,
+          "primaryChainId": "park.carriages"
+        }
+      ],
+      "exposureBeat": "the gatehouse logbook — entries in two hands. Rackham's men were coming and going for months before the \"ruin.\" The collapse was visited, not suffered. (Plants S1: the ruin was engineered.)"
+    },
+    {
+      "zoneId": "kitchen_garden",
+      "displayName": "Kitchen Garden",
+      "tagline": "The walled growing garden. Unlocking the Conservatory's gate.",
+      "zoneOrder": 1,
+      "tierCost": 200,
+      "unlocksConservatory": true,
+      "finalArtApproved": true,
+      "tasks": [
+        {
+          "taskIndex": 0,
+          "taskName": "Rebuild the collapsing walls",
+          "fundCost": 60,
+          "materialItemId": "park.masonry.l3.brick",
+          "materialLevel": 3,
+          "materialDetail": "brick",
+          "materialCount": 1,
+          "primaryChainId": "park.masonry"
+        },
+        {
+          "taskIndex": 1,
+          "taskName": "Replant the beds",
+          "fundCost": 50,
+          "materialItemId": "park.seeds.l3.heritage_stock",
+          "materialLevel": 3,
+          "materialDetail": "heritage stock",
+          "materialCount": 1,
+          "primaryChainId": "park.seeds"
+        },
+        {
+          "taskIndex": 2,
+          "taskName": "Restore the potting sheds",
+          "fundCost": 50,
+          "materialItemId": "park.household.l3.joinery",
+          "materialLevel": 3,
+          "materialDetail": "joinery",
+          "materialCount": 1,
+          "primaryChainId": "park.household"
+        },
+        {
+          "taskIndex": 3,
+          "taskName": "Retrain the fruit walls",
+          "fundCost": 40,
+          "materialItemId": "park.topiary.l2.espalier_frames",
+          "materialLevel": 2,
+          "materialDetail": "espalier frames",
+          "materialCount": 1,
+          "primaryChainId": "park.topiary"
+        }
+      ],
+      "exposureBeat": "the old head gardener's buried account book — what the \"ruin years\" really cost, and who was paid to keep the garden dying.",
+      "exposureCapstone": "Capstone (S7): the ceremony of reclamation — the walls come down and the garden is given to the estate's people as well as the house. (Pays off the S7 beat from the plot arc.)"
+    },
+    {
+      "zoneId": "wild_garden",
+      "displayName": "Wild Garden",
+      "tagline": "The wilderness. Overgrown since before the ruin.",
+      "zoneOrder": 2,
+      "tierCost": 300,
+      "unlocksConservatory": false,
+      "finalArtApproved": true,
+      "tasks": [
+        {
+          "taskIndex": 0,
+          "taskName": "Clear the wilderness walks",
+          "fundCost": 70,
+          "materialItemId": "park.topiary.l3.restoration_cuts",
+          "materialLevel": 3,
+          "materialDetail": "restoration cuts",
+          "materialCount": 1,
+          "primaryChainId": "park.topiary"
+        },
+        {
+          "taskIndex": 1,
+          "taskName": "Replant the shrubberies",
+          "fundCost": 70,
+          "materialItemId": "park.seeds.l4.mature_stock",
+          "materialLevel": 4,
+          "materialDetail": "mature stock",
+          "materialCount": 1,
+          "primaryChainId": "park.seeds"
+        },
+        {
+          "taskIndex": 2,
+          "taskName": "Restore the summerhouse",
+          "fundCost": 80,
+          "materialItemId": "park.household.l4.paint_glazing",
+          "materialLevel": 4,
+          "materialDetail": "paint, glazing",
+          "materialCount": 1,
+          "primaryChainId": "park.household"
+        },
+        {
+          "taskIndex": 3,
+          "taskName": "Redig the pond",
+          "fundCost": 80,
+          "materialItemId": "park.masonry.l3.edging_stone",
+          "materialLevel": 3,
+          "materialDetail": "edging stone",
+          "materialCount": 1,
+          "primaryChainId": "park.masonry"
+        }
+      ],
+      "exposureBeat": "the summerhouse hides the grandfather's wartime letters — the first paper evidence that the family money was never clean. (Plants S7: the respectable sin, done with ledgers instead of knives.)"
+    },
+    {
+      "zoneId": "folly",
+      "displayName": "Folly",
+      "tagline": "The eye-catcher on the hill. Ornamental, pointed, and hiding something.",
+      "zoneOrder": 3,
+      "tierCost": 450,
+      "unlocksConservatory": false,
+      "finalArtApproved": true,
+      "tasks": [
+        {
+          "taskIndex": 0,
+          "taskName": "Stabilize the stonework",
+          "fundCost": 120,
+          "materialItemId": "park.masonry.l4.ashlar",
+          "materialLevel": 4,
+          "materialDetail": "ashlar",
+          "materialCount": 1,
+          "primaryChainId": "park.masonry"
+        },
+        {
+          "taskIndex": 1,
+          "taskName": "Reset the urns and finials",
+          "fundCost": 105,
+          "materialItemId": "park.ornaments.l3.cast_stone",
+          "materialLevel": 3,
+          "materialDetail": "cast stone",
+          "materialCount": 1,
+          "primaryChainId": "park.ornaments"
+        },
+        {
+          "taskIndex": 2,
+          "taskName": "Reglaze the belvedere",
+          "fundCost": 115,
+          "materialItemId": "park.household.l4.glazing",
+          "materialLevel": 4,
+          "materialDetail": "glazing",
+          "materialCount": 1,
+          "primaryChainId": "park.household"
+        },
+        {
+          "taskIndex": 3,
+          "taskName": "Replant the approach",
+          "fundCost": 110,
+          "materialItemId": "park.topiary.l4.avenue_trees",
+          "materialLevel": 4,
+          "materialDetail": "avenue trees",
+          "materialCount": 1,
+          "primaryChainId": "park.topiary"
+        }
+      ],
+      "exposureBeat": "the sealed niche — opened during stabilization. Inside: the removed portrait, face turned to the wall, and the reason somebody needed it gone. (Mid-game family evidence.)"
+    },
+    {
+      "zoneId": "orangery",
+      "displayName": "Orangery",
+      "tagline": "Glass, rare stock, and the family's beautiful locked room.",
+      "zoneOrder": 4,
+      "tierCost": 600,
+      "unlocksConservatory": false,
+      "finalArtApproved": true,
+      "tasks": [
+        {
+          "taskIndex": 0,
+          "taskName": "Repair the glass roof",
+          "fundCost": 165,
+          "materialItemId": "park.household.l4.glass_lead",
+          "materialLevel": 4,
+          "materialDetail": "glass, lead",
+          "materialCount": 1,
+          "primaryChainId": "park.household"
+        },
+        {
+          "taskIndex": 1,
+          "taskName": "Restore the heating flues",
+          "fundCost": 135,
+          "materialItemId": "park.masonry.l4.firebrick",
+          "materialLevel": 4,
+          "materialDetail": "firebrick",
+          "materialCount": 1,
+          "primaryChainId": "park.masonry"
+        },
+        {
+          "taskIndex": 2,
+          "taskName": "Replant the rare stock",
+          "fundCost": 150,
+          "materialItemId": "park.seeds.l4.exotics",
+          "materialLevel": 4,
+          "materialDetail": "exotics",
+          "materialCount": 1,
+          "primaryChainId": "park.seeds"
+        },
+        {
+          "taskIndex": 3,
+          "taskName": "Refit the decoration",
+          "fundCost": 150,
+          "materialItemId": "park.ornaments.l4.urns_statuary",
+          "materialLevel": 4,
+          "materialDetail": "urns, statuary",
+          "materialCount": 1,
+          "primaryChainId": "park.ornaments"
+        }
+      ],
+      "exposureBeat": "the sealed cabinet, inventoried at last — émigré silver that was never the Hartwells' to keep. The de Varennes pieces, among others. (Carries S7's sin into the physical estate.)"
+    },
+    {
+      "zoneId": "stables",
+      "displayName": "Stables",
+      "tagline": "The working estate. Boxes, tack room, the carriage house.",
+      "zoneOrder": 5,
+      "tierCost": 800,
+      "unlocksConservatory": false,
+      "finalArtApproved": true,
+      "tasks": [
+        {
+          "taskIndex": 0,
+          "taskName": "Re-roof the loose boxes",
+          "fundCost": 240,
+          "materialItemId": "park.household.l2.timber_slate",
+          "materialLevel": 2,
+          "materialDetail": "timber, slate",
+          "materialCount": 1,
+          "primaryChainId": "park.household"
+        },
+        {
+          "taskIndex": 1,
+          "taskName": "Refit the tack room",
+          "fundCost": 200,
+          "materialItemId": "park.carriages.l3.tack_harness",
+          "materialLevel": 3,
+          "materialDetail": "tack, harness",
+          "materialCount": 1,
+          "primaryChainId": "park.carriages"
+        },
+        {
+          "taskIndex": 2,
+          "taskName": "Restore the carriage house",
+          "fundCost": 200,
+          "materialItemId": "park.carriages.l3.coach_fittings",
+          "materialLevel": 3,
+          "materialDetail": "coach fittings",
+          "materialCount": 1,
+          "primaryChainId": "park.carriages"
+        },
+        {
+          "taskIndex": 3,
+          "taskName": "Repave the stable yard",
+          "fundCost": 160,
+          "materialItemId": "park.masonry.l2.setts",
+          "materialLevel": 2,
+          "materialDetail": "setts",
+          "materialCount": 1,
+          "primaryChainId": "park.masonry"
+        }
+      ],
+      "exposureBeat": "the family carriage — a hidden compartment under the seat holds a packet of Rackham's scattered paper: the first thread of the money trail. (Plants S2: follow the paper up the chain — now landing deep in the game.)",
+      "tasteDecisions": [
+        {
+          "taskIndex": 0,
+          "taskName": "Re-roof the loose boxes",
+          "approaches": [
+            {
+              "name": "Faithful",
+              "description": "re-lay the original slate, course by course.",
+              "gazetteResponse": "\"Hartwell does things properly.\"",
+              "standingNote": "traditionalists."
+            },
+            {
+              "name": "Fashionable",
+              "description": "Westmorland slate in the current manner, with copper flashing.",
+              "gazetteResponse": "Gazette covers the modernity as news.",
+              "standingNote": "the fashionable set."
+            },
+            {
+              "name": "Bold",
+              "description": "a glazed roof-light over the boxes — daring, and the horses seem to approve.",
+              "gazetteResponse": "the paper debates it for a week — half the ton calls it visionary, the other half calls it eccentric, and everyone comes to see it.",
+              "standingNote": "the daring admire it loudly; the cautious raise an eyebrow. Never a penalty."
+            }
+          ]
+        },
+        {
+          "taskIndex": 1,
+          "taskName": "Refit the tack room",
+          "approaches": [
+            {
+              "name": "Faithful",
+              "description": "oak fittings, brass hooks, everything in its 1790 place.",
+              "gazetteResponse": "propriety, approved.",
+              "standingNote": "traditionalists."
+            },
+            {
+              "name": "Fashionable",
+              "description": "the new London stable-fitters' system, labeled and gleaming.",
+              "gazetteResponse": "\"the future, at Hartwell.\"",
+              "standingNote": "the fashionable set."
+            },
+            {
+              "name": "Bold",
+              "description": "open the tack room as a gallery — bridles hung like portraits.",
+              "gazetteResponse": "\"a stable or a salon?\" — the ton cannot stop talking about it.",
+              "standingNote": "the fashionable set is enchanted; traditionalists are bemused but fond. Never a penalty."
+            }
+          ]
+        },
+        {
+          "taskIndex": 2,
+          "taskName": "Restore the carriage house",
+          "approaches": [
+            {
+              "name": "Faithful",
+              "description": "the old coaches conserved, the dust of decades respectfully lifted.",
+              "gazetteResponse": "a proper reverence.",
+              "standingNote": "traditionalists."
+            },
+            {
+              "name": "Fashionable",
+              "description": "re-hang the great coach in the latest springs and varnish.",
+              "gazetteResponse": "Gazette notes the equipage with approval.",
+              "standingNote": "the fashionable set."
+            },
+            {
+              "name": "Bold",
+              "description": "paint the town coach Hartwell racing green and drive it to church.",
+              "gazetteResponse": "half the ton says splendid, half says shocking — and the whole ton watches it go by.",
+              "standingNote": "admiration and eyebrows in equal measure; Hartwell is suddenly interesting. Never a penalty."
+            }
+          ]
+        },
+        {
+          "taskIndex": 3,
+          "taskName": "Repave the stable yard",
+          "approaches": [
+            {
+              "name": "Faithful",
+              "description": "granite setts, laid to the old falls.",
+              "gazetteResponse": "unremarkable, which is the point.",
+              "standingNote": "traditionalists."
+            },
+            {
+              "name": "Fashionable",
+              "description": "the new swept pattern the London mews are adopting.",
+              "gazetteResponse": "mentions it in the fashionable intelligence.",
+              "standingNote": "the fashionable set."
+            },
+            {
+              "name": "Bold",
+              "description": "a geometric parterre of colored stone underfoot — a yard meant to be seen from above.",
+              "gazetteResponse": "\"eccentricity or genius?\" — the paper means it as a compliment either way.",
+              "standingNote": "the daring are delighted; everyone else comes to look. Never a penalty."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "zoneId": "ballroom",
+      "displayName": "Ballroom",
+      "tagline": "The showpiece. Art pending — ships when its plates approve.",
+      "zoneOrder": 6,
+      "tierCost": 1000,
+      "unlocksConservatory": false,
+      "finalArtApproved": false,
+      "tasks": [
+        {
+          "taskIndex": 0,
+          "taskName": "Restore the plasterwork",
+          "fundCost": 260,
+          "materialItemId": "park.household.l4.plaster_gilt",
+          "materialLevel": 4,
+          "materialDetail": "plaster, gilt",
+          "materialCount": 1,
+          "primaryChainId": "park.household"
+        },
+        {
+          "taskIndex": 1,
+          "taskName": "Rehang the chandeliers",
+          "fundCost": 240,
+          "materialItemId": "park.ornaments.l4.crystal_ormolu",
+          "materialLevel": 4,
+          "materialDetail": "crystal, ormolu",
+          "materialCount": 1,
+          "primaryChainId": "park.ornaments"
+        },
+        {
+          "taskIndex": 2,
+          "taskName": "Relay the parquet",
+          "fundCost": 250,
+          "materialItemId": "atelier.fabric.l4.underlay",
+          "materialLevel": 4,
+          "materialDetail": "underlay",
+          "materialCount": 1,
+          "primaryChainId": "atelier.fabric",
+          "materials": [
+            {
+              "materialItemId": "park.household.l4.timber",
+              "materialLevel": 4,
+              "materialDetail": "timber",
+              "materialCount": 1,
+              "primaryChainId": "park.household"
+            }
+          ]
+        },
+        {
+          "taskIndex": 3,
+          "taskName": "Rehang the silk hangings",
+          "fundCost": 250,
+          "materialItemId": "atelier.fabric.l4.silk_damask",
+          "materialLevel": 4,
+          "materialDetail": "silk damask",
+          "materialCount": 1,
+          "primaryChainId": "atelier.fabric"
+        }
+      ],
+      "exposureBeat": "the household ledger, rebound — the house's paper memory. The records remember: where the Network's money sits, and what it wants next. (The library war-room beat; the Ballroom hosts the S4 declaration masquerade.)"
+    }
+  ]
+}

@@ -19,9 +19,11 @@ public sealed class EstateRegistrySO : ScriptableObject
 
     private void OnValidate()
     {
-        // Locked ladder: 100 / 200 / 300 / 450 / 600 / 800 / 1000
+        // Locked ladder (Beth, Sep 28 2026): 100 / 200 / 300 / 450 / 600 / 800 / 1000
+        // Revised route: Arrival Court → Kitchen Garden → Wild Garden → Folly →
+        // Orangery → Stables → Ballroom. Stables moved to second-to-last.
         int[] ladder = { 100, 200, 300, 450, 600, 800, 1000 };
-        string[] ids = { "arrival-court", "stables", "kitchen-garden", "wild-garden", "folly", "orangery", "ballroom" };
+        string[] ids = { "arrival-court", "kitchen-garden", "wild-garden", "folly", "orangery", "stables", "ballroom" };
         if (zones == null || zones.Length != 7) return;
         for (int i = 0; i < 7; i++)
         {

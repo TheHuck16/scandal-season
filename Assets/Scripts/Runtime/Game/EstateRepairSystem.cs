@@ -1,7 +1,7 @@
 // Scandal Season — Hartwell Park estate repair game (v1.0 spec, Sep 28 2026).
 // EstateRepairSystem: tracks zone state, completes repair tasks, fires the
-// reveal coda and exposure beats. No timers, ever — coins + merge energy
-// are the only throttles.
+// reveal coda and exposure beats. No timers, ever — Estate Funds + merge
+// materials are the only throttles. Coins are entirely outside the estate.
 
 using System;
 using System.Collections.Generic;
@@ -44,7 +44,7 @@ public sealed class EstateRepairSystem : MonoBehaviour
         => _completedTasks.TryGetValue(zoneId, out var set) && set.Contains(taskIndex);
 
     /// <summary>
-    /// Attempts a repair task. Costs coins only (never Crowns — story weight).
+    /// Attempts a repair task. Costs Estate Funds only (never Crowns, never coins).
     /// Material availability is checked by the caller via the merge inventory.
     /// </summary>
     public bool TryCompleteTask(string zoneId, int taskIndex)
@@ -55,7 +55,7 @@ public sealed class EstateRepairSystem : MonoBehaviour
         if (IsTaskComplete(zoneId, taskIndex)) return false;
 
         var task = zone.tasks[taskIndex];
-        if (gameManager?.Wallet == null || !gameManager.Wallet.TrySpend(Currency.Coins, task.coinCost)) return false;
+        if (gameManager?.Wallet == null || !gameManager.Wallet.TrySpend(Currency.EstateFunds, task.fundCost)) return false;
 
         _completedTasks[zoneId].Add(taskIndex);
         _states[zoneId] = ZoneState.InRepair;

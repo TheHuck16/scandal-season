@@ -123,8 +123,7 @@
     "sources": [
       "order fulfillment: story commissions round(2 x requestedTier x 3.0); custom orders round(2 x requestedTier x 1.0)",
       "rarity multiplier 1.0-2.0 for spawner-sourced items (per-chain config)",
-      "Modiste's Exchange: Common->2, Fine->5, Rare->12, Ultra-Rare->30 (+1 favor kickback on duplicate ultra-rare) - LOCKED Sep 27, 2026",
-      "Daily Vote verdicts: T1-T5 -> 5/10/15/25/40 - LOCKED Sep 27, 2026"
+      "Modiste's Exchange: NO coin payouts (sole-faucet rule, Sep 28 2026 — supersedes the Sep 27 Exchange coin line); duplicate ultra-rare still grants the +1 favor kickback"
     ],
     "sinks": [
       "dressing-ritual components (Beth Sep 27): 5 coins per micro-decision; rituals are event-variable (20-60 steps), so a full ritual costs 100-300 coins by occasion depth; re-picks within the session free; re-styling after the scene always free",
@@ -242,35 +241,30 @@
       {
         "tier": "T1",
         "standing": 20,
-        "coins": 5,
         "crowns": 0,
         "energy": 5
       },
       {
         "tier": "T2",
         "standing": 40,
-        "coins": 10,
         "crowns": 1,
         "energy": 8
       },
       {
         "tier": "T3",
         "standing": 70,
-        "coins": 15,
         "crowns": 2,
         "energy": 10
       },
       {
         "tier": "T4",
         "standing": 120,
-        "coins": 25,
         "crowns": 3,
         "energy": 12
       },
       {
         "tier": "T5",
         "standing": 200,
-        "coins": 40,
         "crowns": 5,
         "energy": 15
       }

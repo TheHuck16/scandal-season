@@ -119,11 +119,91 @@ public sealed class EconomyTests
     }
 
     [Fact]
-    public void TimeBasedGrants_DailyTableCapsAtMax()
+    public void StoreCatalog_PackLadderAnchoredToDebutantesChest()
     {
-        int[] table = { 100, 150, 200 };
-        Assert.Equal(100, TimeBasedGrants.DailyEngagementCoins(1, table));
-        Assert.Equal(200, TimeBasedGrants.DailyEngagementCoins(3, table));
-        Assert.Equal(200, TimeBasedGrants.DailyEngagementCoins(30, table)); // capped
+        // Anchor: ~30-40 Crowns and ~5 energy per dollar.
+        var anchor = StoreCatalog.DebutantesChest;
+        Assert.Equal(17, StoreCatalog.AllPacks.Length);
+
+        foreach (var pack in StoreCatalog.AllPacks)
+        {
+            decimal price = decimal.Parse(pack.PriceUsd.TrimStart('$'));
+            decimal crownsPerDollar = pack.Crowns / price;
+            decimal energyPerDollar = pack.Energy / price;
+            bool energyForward = pack.Bonus.Contains("energy-forward");
+
+            if (energyForward)
+            {
+                // Energy-forward flavors: energy to 8/$, Crowns at or under 15/$.
+                Assert.True(energyPerDollar <= 8.5m,
+                    $"{pack.Id}: energy-forward energy {energyPerDollar:F1}/$ exceeds 8/$");
+                Assert.True(crownsPerDollar <= 15.5m,
+                    $"{pack.Id}: energy-forward crowns {crownsPerDollar:F1}/$ exceeds 15/$");
+            }
+            else if (pack.Bonus.Contains("atelier"))
+            {
+                // Atelier flavors sell the exclusive cosmetic; currency may run
+                // under the anchor since the accessory carries the value.
+                Assert.True(crownsPerDollar <= 45m,
+                    $"{pack.Id}: atelier crowns {crownsPerDollar:F1}/$ exceeds anchor ceiling");
+            }
+            else
+            {
+                // Balanced: anchored to the Debutante's Chest rates.
+                Assert.True(crownsPerDollar >= 25m && crownsPerDollar <= 45m,
+                    $"{pack.Id}: crowns {crownsPerDollar:F1}/$ outside anchor band");
+                Assert.True(energyPerDollar >= 3m && energyPerDollar <= 7m,
+                    $"{pack.Id}: energy {energyPerDollar:F1}/$ outside anchor band");
+            }
+        }
+    }
+
+    [Fact]
+    public void StoreCatalog_OneTimeRampIsSequential()
+    {
+        var ramp = StoreCatalog.AllPacks
+            .Where(p => p.Tier == StoreCatalog.PackTier.OneTimeRamp)
+            .OrderBy(p => p.RampOrder)
+            .ToArray();
+        Assert.Equal(5, ramp.Length);
+        for (int i = 0; i < ramp.Length; i++)
+            Assert.Equal(i + 1, ramp[i].RampOrder);
+        Assert.Equal("morning_call", ramp[0].Id);
+        Assert.Equal("debutantes_chest", ramp[4].Id);
+    }
+
+    [Fact]
+    public void StoreCatalog_EntryIsFourNinetyNine()
+    {
+        // Beth-locked Sep 28, 2026: entry price is $4.99 — no sub-$4.99 tier exists.
+        var entry = StoreCatalog.AllPacks
+            .Where(p => p.Tier == StoreCatalog.PackTier.OneTimeRamp)
+            .OrderBy(p => p.RampOrder)
+            .First();
+        Assert.Equal("$4.99", entry.PriceUsd);
+        Assert.All(StoreCatalog.AllPacks, p =>
+            Assert.NotEqual("$1.99", p.PriceUsd));
+    }
+
+    [Fact]
+    public void StoreCatalog_AtelierChestIsWeekly()
+    {
+        // Beth-locked Sep 28, 2026: the Atelier chest appears weekly —
+        // neither one-time-only nor always-on. One purchase per appearance.
+        var weekly = StoreCatalog.AllWeeklyOffers;
+        Assert.Single(weekly);
+        Assert.Equal("atelier_chest_weekly", weekly[0].Id);
+        Assert.Equal(1, weekly[0].PurchasesPerAppearance);
+    }
+
+    [Fact]
+    public void StoreCatalog_NoWhaleLanguage()
+    {
+        // The guardrail bans "whale" outright — player-facing and internal.
+        foreach (var pack in StoreCatalog.AllPacks)
+        {
+            Assert.DoesNotContain("whale", pack.Id, StringComparison.OrdinalIgnoreCase);
+            Assert.DoesNotContain("whale", pack.Bonus, StringComparison.OrdinalIgnoreCase);
+        }
     }
 }

@@ -68,7 +68,7 @@ public sealed class EstateMapView : MonoBehaviour
             }
 
             if (label != null)
-                label.text = $"{zone.displayName}\n{zone.tierCost} coins";
+                label.text = $"{zone.displayName}\n{zone.tierCost} Estate Funds";
 
             if (button != null)
             {

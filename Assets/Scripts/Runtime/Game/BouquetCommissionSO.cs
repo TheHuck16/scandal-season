@@ -27,10 +27,12 @@ public sealed class BouquetCommissionSO : ScriptableObject
     public bool allowsProvocative;
     public bool allowsDeceptive;
 
-    [Header("Rewards (coins + standing + mastery; no new currency)")]
-    public int coinReward;
+    [Header("Rewards (standing + mastery + materials; NEVER coins)")]
+    [Tooltip("Commissions never reward coins — sole-faucet rule")]
     public int standingReward;
     public int masteryReward;
+    [Tooltip("Material item IDs granted on delivery")]
+    public string[] materialRewards = new string[0];
 
     [Header("Gazette")]
     [Tooltip("When true, this commission produces a Gazette misunderstanding beat")]
