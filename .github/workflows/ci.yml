@@ -73,10 +73,12 @@ jobs:
           EOF
 
   # GameCI: EditMode + PlayMode tests inside the Unity Editor.
+  # Requires unity-content to run first so the generated SceneDefinitionSO
+  # assets exist for SceneContentEditModeTests.
   unity-tests:
     name: Unity tests (GameCI)
     runs-on: ubuntu-latest
-    needs: [domain-tests, validate-content]
+    needs: [domain-tests, validate-content, unity-content]
     steps:
       - uses: actions/checkout@v4
       - uses: game-ci/unity-test-runner@v4
