@@ -16,11 +16,13 @@ public sealed class AvatarSystem : MonoBehaviour
     public SkinToneSO skinTones;
     public BodyTypeSO bodyTypes;
     public HairPaletteSO hairPalette;
+    public EyeColorSO eyeColors;
 
     [Header("Current avatar (player-chosen, changeable anytime)")]
     public int faceIndex = 0; // 0 = Face A (the default)
     public int skinToneIndex = 0;
     public int bodyTypeIndex = 1; // 1 = Classic (default)
+    public int eyeColorIndex = 0;
 
     public FaceStructureSO.FaceStructure CurrentFace =>
         faceStructures != null && faceIndex >= 0 && faceIndex < faceStructures.structures.Length
@@ -34,17 +36,22 @@ public sealed class AvatarSystem : MonoBehaviour
         bodyTypes != null && bodyTypeIndex >= 0 && bodyTypeIndex < bodyTypes.types.Length
             ? bodyTypes.types[bodyTypeIndex] : null;
 
+    public EyeColorSO.EyeColor CurrentEyeColor =>
+        eyeColors != null && eyeColorIndex >= 0 && eyeColorIndex < eyeColors.colors.Length
+            ? eyeColors.colors[eyeColorIndex] : null;
+
     /// <summary>Resets to the default avatar (Face A). Rose looks like what the player chooses; this is just the starting point.</summary>
     public void ResetToDefault()
     {
         faceIndex = 0;
         skinToneIndex = 0;
         bodyTypeIndex = 1;
+        eyeColorIndex = 0;
     }
 
     /// <summary>Validates indices are in range. Returns false if any axis is unset.</summary>
     public bool IsValid()
     {
-        return CurrentFace != null && CurrentSkinTone != null && CurrentBodyType != null;
+        return CurrentFace != null && CurrentSkinTone != null && CurrentBodyType != null && CurrentEyeColor != null;
     }
 }

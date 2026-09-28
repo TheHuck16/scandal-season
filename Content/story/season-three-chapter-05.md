@@ -1,6 +1,6 @@
 # Scandal Season — Season Three, Chapter 5: "The Street" — Full Scene Detail
 
-**STATUS: FULL** — 40 numbered scenes (L5.S1–L5.S40), sequential, no duplicates. September 27, 2026.
+**STATUS: FULL PROSE (locked standard)** — 40 scenes (L5.S1–L5.S40), conformance pass completed September 28, 2026: ordinary scenes 350–450 words / 7–10 turns, 3 key decisions at exactly 3 turns, ritual at exactly 21 turns, S39 one reading turn, all animations Shared.
 **Sources:** `story/season-three-chapter-beats.md` (beat source), `story/season-three-chapters-1-3-pilot.md` (format template + continuity), `story/book-one-arc.md` (S3 canonical).
 
 **Format key.** [D] dialogue-heavy · [F] fashion-selection (2–3 diegetic options, no coin cost, remembered) · [C] dressing-for-climax ritual (full ritual: direction + occasion brief, decomposed micro-decisions, story morsels, reveal coda) · [T] texture micro-beat · plot beat (untagged) · plot beat (villain)/(romance: route) — tagged threads · Gazette sting · cliffhanger. ★ marks the chapter's exactly 3 key decisions (locked rule: 3/chapter). Animation: Shared (reusable staging) or Custom (bespoke, tentpoles only — none in these chapters).
@@ -91,6 +91,10 @@
 - **Out-cry the libel** — *Conduct+; the bold stroke.* Buy the corners and cry the truth — her answer, rhymed. *(The town hears both; the street becomes a battlefield.)*
 - **Let the cries run** — *Composure+; the long game.* Save the lean purse; trust the town's fatigue. *(Augusta approves; the cries thin on their own.)*
 > *(The game remembers the choice — and the means: her coin, her restraint, the price she set on the town's ears. The destination was never in doubt. The signature is hers.)*
+> **Turns (3):**
+> 1. [examine]Hear the offer — Pyke's man, the slyness never quite a threat. → Remembered: The offer; the street, priced wholesale.
+> 2. [stance]Weigh the three roads — buy the silence, out-cry the libel, or let the cries run. → Remembered: Her weighing; the corners hold their breath.
+> 3. [choice]Choose, with the hawkers watching — the elder, the captain's lads, the street. → Remembered: The choosing; the street's economy, decided.
 *Animation: Shared.*
 
 ### L5.S6 · plot beat · Rose, the elder
@@ -222,6 +226,10 @@
 - **Refuse the street** — *Composure+; the clean hands.* Decline the wholesale; the street stays contested. *(Augusta approves; the war stays honest.)*
 - **Turn the offer** — *Subtlety+; the quiet coin.* Let the offer become intelligence; the price, studied. *(Lavinia is informed; the offer becomes a weapon.)*
 > *(The game remembers the choice — and the means: her nerve, her arithmetic, the price she refused to pay. The destination was never in doubt. The signature is hers.)*
+> **Turns (3):**
+> 1. [examine]Hear the price — the whole street, for a signature in her handwriting. → Remembered: The price; Pyke names it plainly.
+> 2. [stance]Weigh the three roads — buy it, refuse it, or turn the offer into a weapon. → Remembered: Her weighing; the green lamps, the waiting proprietor.
+> 3. [choice]Choose, in the green lamplight — the signature, the refusal, or the intelligence. → Remembered: The choosing; the offer, answered.
 *Animation: Shared.*
 
 ### L5.S14 · plot beat (villain) · Rose, Pyke
@@ -251,6 +259,7 @@
 > **C. The Lady** — the street's guest. Motif: the white rose of the clean name, worked small at the shoulder. Thread: ivory silk / silver / grey. Colorway: the clean name, worn openly over street practicality. Accessories: a white rose at the wrist, the plain band, no badge — presence, not ribbon.
 > *(System: commit to a direction — A, B, or C — then twenty 5-coin pins. 20 pins × 5 coins = 100 coins. Re-picks always free; the jewel shelf stays open and is never a ritual step.)*
 > **Decomposed steps (20 pins × 5 coins = 100 coins):**
+> **Turns (21):**
 > 1. [choice]Commit to the direction — A the Crier, B the Captain, or C the Lady. → Remembered: The chosen street; the corners will read it at dawn.
 > *(Story morsel: the elder — "the street reads the ribbon, miss, but it remembers the wearer.")*
 > 2. [micro]The livery's ribbon — white, grey, or the Gazette's badge: the street's grammar, chosen. 5 coins. → Remembered: The ribbon; the corners read the allegiance.
@@ -278,7 +287,7 @@
 > 21. [micro]The look's seal — the final survey in the hall mirror: the livery perfected, the clean name in the street's grammar. 5 coins. → Remembered: The seal; the mirror confirms the street's own.
 > *(Reveal coda: the hall mirror gives her back the street's armor perfected — the livery, the ribbon, the satchel of honest shillings — and for a moment she sees what the corners will see at dawn: not a lady slumming, but the street's own, walking its round. Augusta, at the stairhead, nods once. "Earned," she says. The look is saved to the season lookbook; the portrait will remember this dawn.)*
 > **Jewels (owned pieces only):** the plain band; nothing that shines on the street. The shelf stays open — re-picks free, never a ritual step, no Crown pieces.
-*Animation: Shared (shared ritual presentation).*
+*Animation: Shared.*
 
 ### L5.S16 · plot beat · Rose, the street
 *Purpose: the livery, worn — the street reads her; the criers' respect; the round, walked.*
@@ -405,6 +414,10 @@
 - **Ignore the cry** — *Composure+; the long game.* The household's dignity, unruffled. *(Augusta approves; the escalation withers.)*
 - **Report the cry** — *Subtlety+; the quiet coin.* Take it to Bell, to the magistrate. *(Bell acts; the statute is invoked.)*
 > *(The game remembers the choice — and the means: her nerve, her loyalty, the line she drew around her household. The destination was never in doubt. The signature is hers.)*
+> **Turns (3):**
+> 1. [examine]Hear the cry sharpened — Letitia named, the household aimed at. → Remembered: The naming; the line is the household.
+> 2. [stance]Weigh the three roads — answer the cry, ignore it, or report it. → Remembered: Her weighing; the street watches her choose.
+> 3. [choice]Choose, at the bookstall corner — the elder, the lads, the lad with his pie. → Remembered: The choosing; the street will remember it.
 *Animation: Shared.*
 
 ### L5.S24 · plot beat · Rose, the household
@@ -653,7 +666,7 @@
 > 7. [choice]Sleep, watch, or write. → Remembered: Her eve; the choice spends it.
 *Animation: Shared.*
 
-### L5.S39 · Gazette sting · the town (via the Gazette)
+### L5.S39 · Gazette sting
 *Purpose: the Gazette's sting — the proprietor's dry verdict on the street campaign; the street, in the Gazette's own words.*
 > *(The Gazette's sting — the proprietor's dry verdict on the street campaign, delivered with the dawn edition: "Miss Hartwell has taken the street without buying a single cry — the town's ears, earned, not purchased. The Lantern's purse pays half again for ruin and buys the street's contempt. The street remembers who earned it." — Mrs. Nance Bell, proprietor, the Gazette.)*
 > **Turns (1):**
