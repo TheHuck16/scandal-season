@@ -17,6 +17,9 @@ public sealed class MergeBoardView : MonoBehaviour
     public Transform gridParent;
     public GridLayoutGroup gridLayout;
 
+    [Header("Board F visual identity")]
+    public ChainStyleSO chainStyle;
+
     [Header("Controls")]
     public Button spawnButton;
     public Button mergeButton;
@@ -221,9 +224,10 @@ public sealed class MergeBoardView : MonoBehaviour
         string shortName = chain != null && !string.IsNullOrEmpty(chain.displayName)
             ? chain.displayName
             : item.ChainId;
-        // Abbreviate to fit the cell; level as roman-ish numeral.
+        // Abbreviate to fit the cell; Board F: roman-numeral stage badge.
         if (shortName.Length > 8) shortName = shortName.Substring(0, 8);
-        return $"{shortName}\nLv{item.Level}";
+        string numeral = chainStyle != null ? chainStyle.RomanNumeral(item.Level) : $"Lv{item.Level}";
+        return $"{shortName}\n{numeral}";
     }
 
     public void RefreshAll()
@@ -244,11 +248,32 @@ public sealed class MergeBoardView : MonoBehaviour
             {
                 bool selected = _selection.Contains(pos);
                 if (item == null)
-                    image.color = new Color(0.16f, 0.16f, 0.18f, 1f); // empty
+                {
+                    // Board F: ivory silk empty cells
+                    image.color = chainStyle != null ? chainStyle.cellEmpty : new Color(1f, 1f, 1f, 0.5f);
+                }
                 else if (selected)
-                    image.color = new Color(0.95f, 0.80f, 0.35f, 1f); // selected gold
+                {
+                    image.color = chainStyle != null ? chainStyle.uiGold : new Color(0.95f, 0.80f, 0.35f, 1f);
+                }
                 else
-                    image.color = new Color(0.28f, 0.42f, 0.30f, 1f); // occupied estate green
+                {
+                    // Board F: chain-family color; higher stages glow more
+                    var style = chainStyle != null ? chainStyle.GetStyle(item.ChainId) : null;
+                    if (style != null)
+                    {
+                        float glow = 0.7f + (item.Level * 0.06f); // L1=0.76 → L5=1.0
+                        image.color = new Color(
+                            Mathf.Min(1f, style.familyColor.r * glow + 0.2f),
+                            Mathf.Min(1f, style.familyColor.g * glow + 0.2f),
+                            Mathf.Min(1f, style.familyColor.b * glow + 0.2f),
+                            1f);
+                    }
+                    else
+                    {
+                        image.color = new Color(0.28f, 0.42f, 0.30f, 1f); // fallback estate green
+                    }
+                }
             }
         }
 
