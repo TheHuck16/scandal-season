@@ -28,9 +28,9 @@ public sealed class GameManager : MonoBehaviour
     public List<SceneDefinitionSO> seasonThreeScenes = new List<SceneDefinitionSO>();
     public List<ItemChainDefinitionSO> mergeChains = new List<ItemChainDefinitionSO>();
 
-    [Header("Board config (LOCKED Sep 28, 2026: 10x10)")]
-    public int boardWidth = 10;
-    public int boardHeight = 10;
+    [Header("Board config (LOCKED Sep 28, 2026: 8x8)")]
+    public int boardWidth = 8;
+    public int boardHeight = 8;
 
     [Header("Chain unlocks (LOCKED Sep 27: 5 at launch, rest at 5/10/15/20)")]
     [Tooltip("LOCKED Sep 27: 5 chains at launch (Needlework, Pearls, Ribbon, Lace, Posy); remaining 4 unlock at player levels 5/10/15/20. ID-to-name mapping TBD — placeholder IDs below, do not treat as canonical.")]

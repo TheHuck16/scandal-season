@@ -1,5 +1,5 @@
 // Scandal Season — Runtime game layer.
-// MergeBoardView: playable 10x10 merge board. Rendering only — all rules live in
+// MergeBoardView: playable 8x8 merge board. Rendering only — all rules live in
 // ScandalSeason.Domain.Merge.MergeBoard. Chain display names and level counts
 // come from ItemChainDefinitionSO (Board F chains). No invented content.
 
