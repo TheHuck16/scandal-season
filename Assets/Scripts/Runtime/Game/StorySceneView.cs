@@ -21,10 +21,8 @@ public sealed class StorySceneView : MonoBehaviour
     [Header("Editorial styling (visual lock v1)")]
     [Tooltip("Background image for estate plates / scene art.")]
     public Image backgroundImage;
-    [Tooltip("Estate plates by scene context (arrival, orangery, folly).")]
-    public Sprite arrivalPlate;
-    public Sprite orangeryPlate;
-    public Sprite follyPlate;
+    [Tooltip("Approved estate plates Sep 28: 3b, 5a, 5b, 7a v2, 7b v2, 8a v2, 8b v4, 9a, 9b, 10a, 10b.")]
+    public Sprite[] estatePlates;
     [Tooltip("Warm dark text for ivory backgrounds.")]
     public Color bodyTextColor = new Color(0.25f, 0.2f, 0.15f);
     [Tooltip("Gold accent for headers and badges.")]
@@ -66,15 +64,12 @@ public sealed class StorySceneView : MonoBehaviour
         if (bodyText != null)
             bodyText.text = BuildBody(_scene);
 
-        // Set background plate by chapter (S1: arrival→orangery→folly rotation).
+        // Background: rotate through the 11 approved estate plates by chapter.
         // Full plate-to-scene mapping is content work; this is the scaffold.
-        if (backgroundImage != null)
+        if (backgroundImage != null && estatePlates != null && estatePlates.Length > 0)
         {
-            Sprite plate = null;
-            int chapterMod = _scene.chapter % 3;
-            if (chapterMod == 1 && arrivalPlate != null) plate = arrivalPlate;
-            else if (chapterMod == 2 && orangeryPlate != null) plate = orangeryPlate;
-            else if (chapterMod == 0 && follyPlate != null) plate = follyPlate;
+            int idx = (_scene.chapter - 1) % estatePlates.Length;
+            var plate = estatePlates[idx];
             if (plate != null)
             {
                 backgroundImage.sprite = plate;
