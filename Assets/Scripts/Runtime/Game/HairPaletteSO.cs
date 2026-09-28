@@ -13,8 +13,8 @@ public sealed class HairPaletteSO : ScriptableObject
     {
         public string colorName;
         public Color color = Color.white;
-        [Tooltip("Canon Rose hair: copper-red/auburn (locked Sep 28, 2026).")]
-        public bool isCanonRoseColor;
+        [Tooltip("The default hair color (copper-red/auburn). Rose looks like what the player chooses.")]
+        public bool isDefaultColor;
     }
 
     [Header("Hair Palette A (APPROVED Sep 28, 2026)")]
@@ -26,7 +26,7 @@ public sealed class HairPaletteSO : ScriptableObject
         SetColor(0, "Jet Black", new Color(0.08f, 0.07f, 0.09f), false);
         SetColor(1, "Deep Espresso", new Color(0.23f, 0.15f, 0.10f), false);
         SetColor(2, "Warm Chestnut", new Color(0.42f, 0.26f, 0.15f), false);
-        SetColor(3, "Copper-Auburn", new Color(0.65f, 0.32f, 0.18f), true); // canon Rose
+        SetColor(3, "Copper-Auburn", new Color(0.65f, 0.32f, 0.18f), true); // the default
         SetColor(4, "Golden Brown", new Color(0.55f, 0.38f, 0.22f), false);
         SetColor(5, "Honey Blonde", new Color(0.78f, 0.62f, 0.38f), false);
     }
@@ -36,13 +36,13 @@ public sealed class HairPaletteSO : ScriptableObject
         if (colors[i] == null) colors[i] = new HairColor();
         colors[i].colorName = name;
         colors[i].color = c;
-        colors[i].isCanonRoseColor = canon;
+        colors[i].isDefaultColor = canon;
     }
 
-    public HairColor CanonRoseColor()
+    public HairColor DefaultColor()
     {
         foreach (var hc in colors)
-            if (hc != null && hc.isCanonRoseColor) return hc;
+            if (hc != null && hc.isDefaultColor) return hc;
         return null;
     }
 }

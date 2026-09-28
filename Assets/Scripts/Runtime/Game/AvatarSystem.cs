@@ -18,7 +18,7 @@ public sealed class AvatarSystem : MonoBehaviour
     public HairPaletteSO hairPalette;
 
     [Header("Current avatar (player-chosen, changeable anytime)")]
-    public int faceIndex = 0; // 0 = Face A (canon Rose)
+    public int faceIndex = 0; // 0 = Face A (the default)
     public int skinToneIndex = 0;
     public int bodyTypeIndex = 1; // 1 = Classic (default)
 
@@ -34,11 +34,12 @@ public sealed class AvatarSystem : MonoBehaviour
         bodyTypes != null && bodyTypeIndex >= 0 && bodyTypeIndex < bodyTypes.types.Length
             ? bodyTypes.types[bodyTypeIndex] : null;
 
-    /// <summary>Resets to canon Rose (Face A). The default avatar.</summary>
-    public void ResetToCanonRose()
+    /// <summary>Resets to the default avatar (Face A). Rose looks like what the player chooses; this is just the starting point.</summary>
+    public void ResetToDefault()
     {
         faceIndex = 0;
-        // Skin tone and body type stay player-chosen; only the face resets.
+        skinToneIndex = 0;
+        bodyTypeIndex = 1;
     }
 
     /// <summary>Validates indices are in range. Returns false if any axis is unset.</summary>

@@ -12,8 +12,8 @@ public sealed class FaceStructureSO : ScriptableObject
     public sealed class FaceStructure
     {
         public string structureName;
-        [Tooltip("Face A is canon Rose (the default).")]
-        public bool isCanonRose;
+        [Tooltip("Face A is the default (starting point). Rose looks like what the player chooses.")]
+        public bool isDefault;
         public string description;
     }
 
@@ -23,7 +23,7 @@ public sealed class FaceStructureSO : ScriptableObject
     private void OnValidate()
     {
         if (structures == null || structures.Length != 5) return;
-        SetStructure(0, "Face A", true, "Canon Rose: freckles, crooked half-smile, natural eyes");
+        SetStructure(0, "Face A", true, "The default: freckles, crooked half-smile, natural eyes");
         SetStructure(1, "Face B", false, "Oval, high cheekbones");
         SetStructure(2, "Face C", false, "Round, soft features");
         SetStructure(3, "Face D", false, "Angular, defined jaw");
@@ -34,14 +34,14 @@ public sealed class FaceStructureSO : ScriptableObject
     {
         if (structures[i] == null) structures[i] = new FaceStructure();
         structures[i].structureName = name;
-        structures[i].isCanonRose = canon;
+        structures[i].isDefault = canon;
         structures[i].description = desc;
     }
 
-    public FaceStructure CanonRose()
+    public FaceStructure DefaultFace()
     {
         foreach (var f in structures)
-            if (f != null && f.isCanonRose) return f;
+            if (f != null && f.isDefault) return f;
         return null;
     }
 }

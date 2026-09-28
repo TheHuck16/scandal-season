@@ -196,14 +196,10 @@
 - **Answer with conduct only** — *Standing+; the long game.* No denials, no letters — only a life so unimpeachable the libel starves for want of a second course. *(Augusta respects it; Lavinia will call it cowardice, later.)*
 - **Bring the libel action now** — *Quill+; the law engaged.* Sue Pyke at once — the writ, the court, the open stage. *(Letitia is thrilled; Augusta warns: a trial is a theatre where the audience outnumbers the jury.)*
 > *(The game remembers the choice — and the means: the paragraph war, the unimpeachable life, the open court. The destination was never the question. The signature is hers.)*
-> **Turns (7):**
+> **Turns (3):**
 > 1. [stance]Hear the three roads as test, gift, or trap. → Remembered:Her posture toward the choosing; it flavors her later defense.
-> 2. [examine]Study Augusta's face — which road the general favors, and whether she hides it. → Remembered:Rose reads the preference or the discipline; it shadows her choosing.
-> 3. [social]Glance at Letitia — seek counsel, warn her off, or shut her out. → Remembered:Who Rose lets in; Letitia's later counsel follows the open or closed door.
-> 4. [micro]Touch the paper once more before choosing — or refuse. → Remembered:Whether she needs the enemy's text under her hand; a habit may harden.
-> 5. [stance]"The choice is the season" — honor, burden, or theater. → Remembered:The register she'll carry it in; the household will quote it.
-> 6. [examine]Weigh what each road costs the people she loves — the price, not strategy. → Remembered:Whose costs she counts first; it reveals her loyalties.
-> 7. [choice]Ask for an hour, decide at once, or ask what Augusta would do. → Remembered:Her choosing style — deliberation, instinct, or deference.
+> 2. [examine]Weigh what each road costs the people she loves — the price, not strategy. → Remembered:Whose costs she counts first; it reveals her loyalties.
+> 3. [choice]Ask for an hour, decide at once, or ask what Augusta would do. → Remembered:Her choosing style — deliberation, instinct, or deference.
 *Animation: Shared.*
 
 ### L1.S10 · [D] · Rose, Augusta
@@ -324,14 +320,10 @@
 > *(She thinks about what each road costs the traveler. Reading: the weekly wound, self-inflicted, on schedule — Quill's "know the enemy's ground" set against Augusta's "it will cost you sleep," and both of them right, which is the trouble with counsel. Refusing: clean hands, and the particular blindness of the clean-handed — Letitia would approve, and Letitia has never needed intelligence she could not get from a drawing room. Delegating: the solicitor's summaries, neat and bloodless, and never quite trusted — she knows Quill, knows his mercy, knows what a kind man leaves out. Three doors. The string winds tighter around her finger. The drawer waits.)*
 > *(And there is the deeper arithmetic, the one she does not say aloud: that not reading is also a kind of reading — the town will read her refusal, and read it as fear or contempt, and she will not control which. Every option costs; the only choice is which coin to pay in — sleep, or knowledge, or trust. She has been paying in all three since Thursday. She unwinds the string from her finger, slowly, and makes the accounts balance.)*
 
-> **Turns (7):**
-> 1. [stance]Augusta's maxim — law, warning, or manipulation. → Remembered:How she receives the general's maxims; it sets their partnership's tone.
-> 2. [examine]Picture the Thursday ritual — damp paper, standing to read — and test it. → Remembered:Her honest estimate of the cost; it shadows the decision.
-> 3. [micro]Wind the string around one finger — habit forming, or fidget to master. → Remembered:The string's evolution; it will be in her hand at hard moments.
-> 4. [social]Think of Letitia — shield her from the readings, or share the burden. → Remembered:Whether Rose trusts her aunt with the ugly parts.
-> 5. [examine]Inventory "what knowing costs the knower." → Remembered:Her price list for intelligence; it governs every bargain.
-> 6. [stance]The boy's bell — the enemy's drum, or mere commerce. → Remembered:Contempt steadies her; hatred would consume her.
-> 7. [choice]Can this choice ever be unmade. → Remembered:Whether she claims finality; the game holds her to it.
+> **Turns (3):**
+> 1. [examine]Picture the Thursday ritual — damp paper, standing to read — and test it. → Remembered:Her honest estimate of the cost; it shadows the decision.
+> 2. [examine]Inventory "what knowing costs the knower." → Remembered:Her price list for intelligence; it governs every bargain.
+> 3. [choice]Can this choice ever be unmade. → Remembered:Whether she claims finality; the game holds her to it.
 
 *Animation: Shared.*
 
@@ -910,14 +902,10 @@
 - **Decline her** — *Independence+; Lavinia intrigued.* A polite refusal — Rose fights her own war, with her own weapons. *(Lavinia will not stay declined; the card was an opening, not an offer.)*
 - **Meet her first, alone** — *Information+; caution kept.* One meeting, no commitments — Rose will hear what Lavinia knows before deciding what Lavinia is. *(Letitia approves the prudence; Augusta approves the nerve.)*
 > *(The game remembers the choice — and the means: the open alliance, the proud refusal, the cautious single meeting. The destination was never the question. The signature is hers.)*
-> **Turns (7):**
-> 1. [stance]Feel the card's weight against the six others — the arithmetic Letitia sees. → Remembered:How she ranks intelligence; the household learns what she values.
-> 2. [examine]Face the real question — "what kind of general she intends to be." → Remembered:Her self-definition; the alliance decision becomes precedent for every ally after.
-> 3. [social]Answer "what does the general say?" — claim the title, deflect it, or earn it. → Remembered:Whether she accepts the generalship aloud; titles accepted become duties.
-> 4. [examine]Weigh "fights alone out of pride" — and name the pride honestly. → Remembered:Her reckoning with pride; it is the enemy inside the war council.
-> 5. [micro]Read it a fourth time — and know what the fourth reading is for. → Remembered:Her thoroughness with offers; Lavinia will be answered with full attention.
-> 6. [choice]Consult Augusta before answering — or decide alone, as the card demands. → Remembered:Whether "come alone" extends to the choosing; the general's counsel is sought or set aside.
-> 7. [stance]Meet "the choice waits" — with appetite, dread, or calm. → Remembered:Her posture toward deciding; it becomes her signature at every key decision.
+> **Turns (3):**
+> 1. [examine]Face the real question — "what kind of general she intends to be." → Remembered:Her self-definition; the alliance decision becomes precedent for every ally after.
+> 2. [examine]Weigh "fights alone out of pride" — and name the pride honestly. → Remembered:Her reckoning with pride; it is the enemy inside the war council.
+> 3. [choice]Consult Augusta before answering — or decide alone, as the card demands. → Remembered:Whether "come alone" extends to the choosing; the general's counsel is sought or set aside.
 *Animation: Shared.*
 
 ### L1.S39 · Gazette sting
@@ -927,14 +915,8 @@
 > *(Rose reads it at breakfast — the* Gazette *comes with the morning post, as it always has, the heavy paper, the clean type, the whole of it a rebuke to the* Lantern's *damp thinness just by existing. She reads Bell's paragraph twice, and then she laughs — properly laughs, for the first time in three days, the sound startling the breakfast table. "Ink this cheap." It is the exact phrase she needed and could not have written herself: contempt, but* precise *contempt — the kind that costs the contemner nothing and the contemned everything. Bell has aimed it, in public, at Pyke. Not at her. At* him*. She feels the paragraph land like reinforcements arriving: the town's unbought judge, speaking, on the record, in her week.)*
 > *(She reads the "yet" three times. It is the whole of the paragraph's second meaning, and it is aimed at* her*: the* Gazette *will judge, when there is something worth judging, and the something will have to be her — unimpeachable, unbowed, week after week, until the judgment is not a kindness but a* recognition*. The "yet" is a standard, and a deadline, and a dare, all in three letters. She takes Letitia's sewing scissors — the aunt surrenders them without a word, which for Letitia is the equivalent of a speech — and cuts the paragraph out, and files it in the drawer with the* Lantern*. Cheap ink below; heavy judgment above. One of them is hers to answer. The other is hers to earn. Augusta says nothing, and the eggs — for the first time all week — are eaten hot.)*
 > *(She keeps the cutting — the paragraph, the scissors' neat work — and holds it up to the light the way she held the* Lantern *to the light on the first morning. Heavy paper. Clean type. The unbought judge, speaking. Three days ago she stood at a window and said "let them print" into the lamplight, and it tasted like sherry. This morning Bell has said her own version of it — printed it, signed it with the proprietor's name, aimed it at Pyke. The town has its verdict on the* Lantern*. Hers is still to earn. She puts the cutting in the drawer, on top of the* Lantern*, where she will see it every Thursday. The "yet," watching her. Good. Let it watch.)*
-> **Turns (7):**
-> 1. [stance]Laugh "for the first time in three days." → Remembered:What loosens her; the household knows she's still in the war.
-> 2. [examine]Read the "yet" three times. → Remembered:Her understanding; the "yet" becomes her deadline.
-> 3. [micro]Cut the paragraph out — Letitia's sewing scissors. → Remembered:The archive's second founding; the scissors become its instrument.
-> 4. [examine]Study "contempt, precisely scored." → Remembered:Her education in the Gazette's register; she'll recognize its judgments.
-> 5. [stance]Receive "one of them is hers to earn." → Remembered:How she carries owed verdicts; the debt drives the campaign.
-> 6. [social]Take Letitia's silence — "the equivalent of a speech." → Remembered:The aunt's eloquent silences; Rose learns to hear them.
-> 7. [micro]Eat the eggs hot — "for the first time all week." → Remembered:Small normalcies as victories; the hot eggs join the ledger.
+> **Turns (1):**
+> 1. [examine]Read Bell's paragraph twice — "ink this cheap," the "yet" three times — laugh, cut it out with Letitia's scissors, file it. → Remembered:How she receives the Gazette's judgments; the "yet" becomes her deadline, the cutting joins the archive.
 *Animation: Shared (sting card).*
 
 ### L1.S40 · cliffhanger · Rose (alone)
@@ -1009,14 +991,10 @@
 - **Full partners** — *Lavinia+; the alliance sealed.* "Broken, not bought. I agree to the terms, and to the partnership." *(Augusta will warn; Lavinia will exult.)*
 - **Use her warily** — *Information+; distance kept.* Take her knowledge, her routes, her introductions — and keep her at arm's length. *(Lavinia, amused: "Wary. How *grandmotherly* of you.")*
 - **Keep her at arm's length** — *Independence+; Lavinia intrigued.* Polite, distant, grateful — and alone in the gutter. *(Lavinia: "Alone in the gutter, darling? How *brave*.")*
-> **Turns (7):**
+> **Turns (3):**
 > 1. [stance]Receive "the first decision truly hers." → Remembered:Her ownership of the choosing; the standard for later key decisions.
-> 2. [examine]Run Augusta's ledger — cost, price, reins — on each road. → Remembered:Her method survives the general's absence; the ledger is hers now.
-> 3. [micro]The cold chocolate — time passing while she decides. → Remembered:Her awareness of decision's duration; Lavinia reads hesitation.
-> 4. [examine]Weigh "no one to blame but herself." → Remembered:Her honesty about solitude; the alone road's cost is counted first.
-> 5. [social]Consult Augusta in memory — or decide unconsulted. → Remembered:Whether the general's voice is counsel or crutch.
-> 6. [stance]Answer beneath the choice — "what kind of general walks what kind of road." → Remembered:Her self-definition; it outlasts the alliance itself.
-> 7. [choice]Deliver the decision — at once, after a night, in writing. → Remembered:The delivery's form; Lavinia reads ceremony like cards.
+> 2. [stance]Answer beneath the choice — "what kind of general walks what kind of road." → Remembered:Her self-definition; it outlasts the alliance itself.
+> 3. [choice]Deliver the decision — at once, after a night, in writing. → Remembered:The delivery's form; Lavinia reads ceremony like cards.
 > *(The game remembers the choice — and the means: the partnership sealed, the wary use, the solitary road. Lavinia will deal with whichever woman chose.)*
 *Animation: Shared.*
 
@@ -1217,14 +1195,10 @@
 - **Walk it herself** — *Agency+; the field general.* "I will walk it. In the invisible gown — coffee-houses, corners, Pump Room. Myself." *(Lavinia: "Brave. Or reckless. We shall see which.")*
 - **Send agents** — *Caution+; the distant general.* Respectable, deniable; paid listeners at the tables, paid eyes on the corners. *(Augusta approves; Lavinia is disappointed, and says so.)*
 - **Let Lavinia guide** — *Alliance+; the conducted tour.* Lavinia's decade of hatred, Lavinia's corners, Lavinia's map. *(The knowledge is expert; the map, at the end, is hers.)*
-> **Turns (7):**
+> **Turns (3):**
 > 1. [choice]Decide who walks — self, agents, Lavinia. → Remembered:Her style of generalship; the whole campaign's posture set here.
-> 2. [stance]Take "the gutter is dirty by definition." → Remembered:How she regards the field; it sets her tolerance.
-> 3. [examine]Price "every report a translation, and every translation a loss." → Remembered:Her epistemology; firsthand knowledge has a price she's willing to pay.
-> 4. [social]Weigh Lavinia's eagerness to conduct. → Remembered:Whether she lets the guide lead; the reins question, again.
-> 5. [examine]Test "a map drawn from reports is a map drawn by other hands." → Remembered:Her authorship of the campaign book; it stays hers.
-> 6. [stance]Answer "brave. Or reckless." → Remembered:Her answer to the charge; it defines her courage's register.
-> 7. [choice]Deliver the decision — to Lavinia's face, or in writing. → Remembered:The delivery's form; Lavinia reads ceremony like cards.
+> 2. [examine]Price "every report a translation, and every translation a loss." → Remembered:Her epistemology; firsthand knowledge has a price she's willing to pay.
+> 3. [stance]Answer "brave. Or reckless." → Remembered:Her answer to the charge; it defines her courage's register.
 > *(The game remembers the choice — and the means: the field general's boots, the distant general's agents, the conducted tour. The gutter will be walked either way — the question was always by whom.)*
 *Animation: Shared.*
 
@@ -1395,14 +1369,10 @@
 - **Press him** — *Directness+; the asker.* Ride at dawn and ask plainly — "what have you guessed, Julian, and how do you know it." *(He will answer; the rope will take the weight all at once.)*
 - **Let him keep it** — *Patience+; the listener.* Ride at dawn, listen, let the guess come in its own time. *(He will tell her when he is certain; the rope takes weight slowly.)*
 - **Pretend it said nothing** — *Caution+; the undisturbed.* The pleasant ride, the careful conversation; the guess left where it lies. *(Nothing is risked; nothing is learned.)*
-> **Turns (7):**
+> **Turns (3):**
 > 1. [choice]Choose the shape — press, patience, pretense. → Remembered:Her handling of frightened men; it sets the romance's whole register.
 > 2. [examine]Weigh "the not-pressing is itself a decision." → Remembered:Her understanding that restraint is active; it governs later silences.
-> 3. [stance]Decide "without the doctrine" — before Augusta speaks. → Remembered:Her independence; the general's counsel arrives after, not before.
-> 4. [social]Consider Lavinia's "openings can be reopened" — and set it aside. → Remembered:Her judgment; not every maxim fits every man.
-> 5. [examine]Feel "the choosing is the weight." → Remembered:Her honesty; the decision tests the rope before the ride does.
-> 6. [micro]The pen — write, or ride with the answer unmade. → Remembered:The answer's form; Julian reads everything, including silence.
-> 7. [choice]Deliver — at once, or on the downs. → Remembered:The delivery's timing; the downs decide some things better than desks.
+> 3. [choice]Deliver — at once, or on the downs. → Remembered:The delivery's timing; the downs decide some things better than desks.
 > *(The game remembers the choice — and the means: the plain asking, the patient listening, the careful pretense. The rope will remember too — ropes always do.)*
 *Animation: Shared.*
 ### L2.S21 · [T] · Rose (alone)
@@ -1756,15 +1726,8 @@
 > *"The Gazette has observed, with interest, Miss Hartwell's week among the coffee-houses. A young lady of rank, taking her coffee at seven in the morning among clerks and merchants, in a gown remarkable chiefly for its restraint — this is either folly or intelligence, and the Gazette inclines to the latter. What she sought there, she found: the libel's road, from press to street, walked and mapped. What she did not do there, the Gazette notes with approval: she did not rant, she did not sue, she did not flinch. Restraint, in a war of print, is itself a kind of eloquence. The Gazette will watch the road she walks next — with interest, and without interference." — Mrs. Nance Bell, proprietor, in Thursday's Gazette.*
 > *(The sting lands the way Bell's stings always land: in heavy type, on good paper, read aloud at breakfast tables all over Bath. Rose reads it twice — the second reading for the subtext, the way one reads Bell. What Bell does not say: whether the walking will work. What Bell says instead: that the walking was well done. "Either folly or intelligence" — the proprietor's dry arithmetic — "and the Gazette inclines to the latter." It is as close to praise as Bell comes. It is closer than praise: it is a verdict.)*
 > *(She clips it — the campaign book's press file, the war's public record — and files it with the map, the blank center, the "J. has guessed" and the "PAPER." The Gazette has judged her week in the gutter and found it intelligent. The gutter writes in pencil. Bell writes in ink that does not smudge. The archive grows. The week is sealed.)*
-> **Turns (8):**
-> 1. [examine]Read "either folly or intelligence." → Remembered:Bell's arithmetic; the verdict's dry form.
-> 2. [stance]Take "the Gazette inclines to the latter." → Remembered:The praise; as close as Bell comes.
-> 3. [examine]Note what she "did not do" — rant, sue, flinch. → Remembered:The restraint; it was the week's whole argument.
-> 4. [social]Receive "a kind of eloquence." → Remembered:Restraint named eloquence; the Gazette's lexicon.
-> 5. [examine]Take "the libel's road, walked and mapped." → Remembered:Her labor, recognized; the map is public now.
-> 6. [stance]"The Gazette will watch" — receive the watching. → Remembered:The judge's attention; it is not alliance, and she knows it.
-> 7. [micro]Clip it — the press file. → Remembered:The filing; the archive holds the verdict.
-> 8. [examine]Take "ink that does not smudge." → Remembered:The permanence; Bell's sentences outlast the gutter's.
+> **Turns (1):**
+> 1. [examine]Read the verdict — "either folly or intelligence," "the Gazette inclines to the latter" — and clip it for the press file. → Remembered:How she takes Bell's measure; restraint named eloquence, filed as precedent.
 *Animation: Shared.*
 
 ### L2.S40 · cliffhanger · Rose, at the window
@@ -1839,14 +1802,10 @@
 - **Quiet evidence** — *Patience+; the case, built.* Gather, file, strike when the weight is undeniable. *(Letitia breathes again; the evidence compounds.)*
 - **The town as weapon** — *Performance+; London, enlisted.* Make the town itself the counter-press. *(Lavinia would approve; the ton becomes an instrument.)*
 > *(The game remembers the choice — and the means: the open court, the quiet evidence, the town enlisted. The destination was never in doubt. The signature is hers.)*
-> **Turns (7):**
-> 1. [examine]Read the moving curtains — what the square wants to know. → Remembered:Her first London reading; curiosity has an edge now.
-> 2. [stance]Time the alighting — the regiment, reconstituted. → Remembered:Her command of return-timing; first impressions matter.
-> 3. [social]The card tray "already filling" — rank the callers. → Remembered:Her intelligence in stationery; first moves are data.
-> 4. [choice]Choose — open court, quiet evidence, town as weapon. → Remembered:The terms of the return; the campaign obeys them.
-> 5. [examine]Test the choice against "we have nothing to hide." → Remembered:Whether the doctrine survived the road; it did.
-> 6. [micro]The London window — headquarters, reoccupied. → Remembered:The window as council chamber; the campaign resumes.
-> 7. [stance]"Done being watched for nothing" — repurposed. → Remembered:How she uses scrutiny; asset, not siege.
+> **Turns (3):**
+> 1. [choice]Choose — open court, quiet evidence, town as weapon. → Remembered:The terms of the return; the campaign obeys them.
+> 2. [examine]Test the choice against "we have nothing to hide." → Remembered:Whether the doctrine survived the road; it did.
+> 3. [stance]"Done being watched for nothing" — repurposed. → Remembered:How she uses scrutiny; asset, not siege.
 *Animation: Shared.*
 ### L3.S4 · [D] · Rose, Mr. Creech
 *Purpose: the paper warehouse — Creech, who sells the Lantern its paper; reams counted like money.*
@@ -2197,14 +2156,10 @@
 - **Hand it to agents** — *Safety+; the network, built.* Hire riders to watch the line; Rose returns to the unimpeachable lady, commanding from headquarters. *(Augusta approves; the information will be second-hand.)*
 - **Ride the Park's own lines** — *Estate+; the stables, claimed.* Turn the lesson homeward — rebuild Hartwell's own courier lines; the Park's news will travel its own roads. *(The B-thread, seeded: the stables season begins.)*
 > *(The game remembers the choice — and the means: the deeper ride, the agents' network, the Park's own lines. The destination was never in doubt. The signature is hers.)*
-> **Turns (7):**
+> **Turns (3):**
 > 1. [examine]Ask what the riding buys — "a general does not ride for pleasure." → Remembered:Her audit; the ride must pay.
-> 2. [stance]Hear Lavinia — "deeper, darling!"; the temptation. → Remembered:Lavinia's appetite; it's the guide's nature.
-> 3. [stance]Hear Augusta — "deeper is where the danger lives." → Remembered:Augusta's warning; both are right.
-> 4. [examine]Price the agents' road — "second-hand" information. → Remembered:The cost of distance; second-hand is the price.
-> 5. [examine]Consider the Park's lines — "the B-thread, seeded." → Remembered:The homeward option; the stables season begins.
-> 6. [micro]See the choice "like a drawn blade" — the gravity. → Remembered:The gravity; it's not just a tactic.
-> 7. [stance]Choose "in daylight, after breakfast, the way generals choose." → Remembered:Her manner; decisions are made in daylight.
+> 2. [stance]Hear Augusta — "deeper is where the danger lives." → Remembered:Augusta's warning; both are right.
+> 3. [stance]Choose "in daylight, after breakfast, the way generals choose." → Remembered:Her manner; decisions are made in daylight.
 *Animation: Shared.*
 ### L3.S21 · [D] · Rose, Letitia
 *Purpose: the aunt discovers the ride — comedy; the worry, real; being known by one's people.*
@@ -2327,14 +2282,10 @@
 - **Deflect** — *Distance+; the honorable arm's length.* Refuse the question's terms; send him back with his own counsel, for his own good. *(The safe road; the suitor kept at distance.)*
 - **Ask** — *Clarity+; the lawyer's road.* Ask exactly what Horse Guards wants — the inquiry's terms, what "unsafe" costs in practice. *(The facts before the philosophy.)*
 > *(The game remembers the choice — and the means: the plain answer, the honorable distance, the lawyer's questions. The Season's question was never going to be answered once. The signature is hers.)*
-> **Turns (7):**
-> 1. [examine]Feel the quiet — "something real being decided"; the gravity. → Remembered:The gravity; the room knows.
-> 2. [examine]See the flowers — forgotten, on the table; the symbol. → Remembered:The forgotten flowers; the council outranks the courtship.
-> 3. [stance]Weigh answering — "simply, at half volume"; the plainness. → Remembered:The plainness; true things are told quietly.
-> 4. [stance]Weigh deflecting — "the honorable arm's length"; the distance. → Remembered:The distance; safety has its own honor.
-> 5. [examine]Weigh asking — "the facts before the philosophy"; the clarity. → Remembered:The clarity; lawyers ask before philosophers answer.
-> 6. [micro]See the choice "like a drawn blade" — beside the flowers; the image. → Remembered:The image; the Season's question, visualized.
-> 7. [stance]Choose "in daylight, in a quiet room" — the manner. → Remembered:Her manner; important things are chosen quietly.
+> **Turns (3):**
+> 1. [stance]Weigh answering — "simply, at half volume"; the plainness. → Remembered:The plainness; true things are told quietly.
+> 2. [stance]Weigh deflecting — "the honorable arm's length"; the distance. → Remembered:The distance; safety has its own honor.
+> 3. [stance]Choose "in daylight, in a quiet room" — the manner. → Remembered:Her manner; important things are chosen quietly.
 *Animation: Shared.*
 ### L3.S28 · [D] · Rose, Henry
 *Purpose: the answer, given — whatever was chosen, the honorable uncertainty; loyalty, defined by refraining.*
@@ -2535,15 +2486,8 @@
 > *(Letitia reads it third — the aunt, at her most bright. "Baffled," she says, delighted. "The ton is* baffled*, darling. By* you*. Studying* paper*." She claps her hands. "Oh, it is* perfect*. The* Lantern *prints lies about you, and the* Gazette *prints that you* study *— and the ton, which understands neither printing nor studying, is* baffled *by the* studying*." She looks at Rose. "Darling — you are* winning*. Not the war — the* bafflement*. And the bafflement is the beginning.")*
 > *(Rose folds the* Gazette *— gently, the way one folds a verdict — and files it with the cuttings in the drawer. "Miss Hartwell studies paper." The ton is baffled. Bell is watching. The paper war has a public face now — not the* Lantern's *shriek, but the* Gazette's *measured sentence. And the measured sentence, she is learning, is the one that lasts.)*
 > *(By noon the paragraph is everywhere: the clubs, the drawing rooms, the milliners, quoted with the particular relish the ton reserves for sentences that sting someone else. "Miss Hartwell studies paper." The ladies repeat it over their embroidery. The gentlemen repeat it over their port. And somewhere, in an office over a printing house, Mrs. Nance Bell, proprietor, judge, the only editor in London who signs her own name, sets tomorrow's type with ink on her fingers and watches her sentence do its work. The* Gazette *does not shriek. It measures. And the measured sentence is the one that lasts.)*
-> **Turns (8):**
-> 1. [examine]Open the Gazette — "a letter from a strict friend"; the attention. → Remembered:Her attention; the judge's voice is read carefully.
-> 2. [examine]Read the sting — "Miss Hartwell studies paper"; the paragraph. → Remembered:The sting; the season's third verdict.
-> 3. [social]Laugh — "the genuine laugh"; the delight. → Remembered:Her laugh; the sting delights.
-> 4. [social]Hear Augusta — "Bell, watching"; the general's reading. → Remembered:Augusta's reading; the sting is permission.
-> 5. [examine]Take "bafflement is the beginning of interest." → Remembered:The sentence; the ton's bafflement is an asset.
-> 6. [social]Hear Letitia — "you are winning the bafflement"; the aunt's joy. → Remembered:Her joy; the aunt claims the victory.
-> 7. [micro]Fold the Gazette — "gently"; file it; the archiving. → Remembered:The filing; the sting joins the archive.
-> 8. [examine]Keep "the measured sentence is the one that lasts." → Remembered:The sentence; the Gazette's measure outlasts the Lantern's shriek.
+> **Turns (1):**
+> 1. [examine]Read the paragraph — "Miss Hartwell studies paper" — hear the household's delight, and fold it gently into the drawer. → Remembered:How she carries a public verdict; the measured sentence, kept where she can find it.
 *Animation: Shared.*
 ### L3.S40 · cliffhanger · Rose (alone)
 *Purpose: the purse quickens — Creech's note; the payment increased; the blank center, trembling.*
