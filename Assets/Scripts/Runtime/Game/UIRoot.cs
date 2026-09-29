@@ -38,7 +38,46 @@ public sealed class UIRoot : MonoBehaviour
         if (startButton != null)
             startButton.onClick.AddListener(OnStartPressed);
 
+        FixTitleLayout();
         ShowAll(false);
+    }
+
+    /// <summary>
+    /// The scene builder's VerticalLayoutGroup collapses Text children to
+    /// zero width (the title rendered as a lone "S"). Position the title
+    /// elements with explicit anchors instead.
+    /// </summary>
+    private void FixTitleLayout()
+    {
+        if (titlePanel == null) return;
+        var vlg = titlePanel.GetComponent<VerticalLayoutGroup>();
+        if (vlg != null) vlg.enabled = false; // synchronous: Destroy() lags a frame
+
+        if (titleText != null)
+        {
+            var rt = titleText.rectTransform;
+            rt.anchorMin = new Vector2(0.05f, 0.72f);
+            rt.anchorMax = new Vector2(0.95f, 0.90f);
+            rt.offsetMin = Vector2.zero; rt.offsetMax = Vector2.zero;
+            titleText.alignment = TextAnchor.MiddleCenter;
+        }
+        if (startButton != null)
+        {
+            var rt = startButton.GetComponent<RectTransform>();
+            rt.anchorMin = new Vector2(0.28f, 0.45f);
+            rt.anchorMax = new Vector2(0.72f, 0.55f);
+            rt.offsetMin = Vector2.zero; rt.offsetMax = Vector2.zero;
+        }
+        var fair = titlePanel.transform.Find("Fair");
+        if (fair != null)
+        {
+            var rt = fair as RectTransform;
+            rt.anchorMin = new Vector2(0.05f, 0.32f);
+            rt.anchorMax = new Vector2(0.95f, 0.40f);
+            rt.offsetMin = Vector2.zero; rt.offsetMax = Vector2.zero;
+            var t = fair.GetComponent<Text>();
+            if (t != null) t.alignment = TextAnchor.MiddleCenter;
+        }
     }
 
     private void OnDestroy()

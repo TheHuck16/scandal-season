@@ -30,6 +30,7 @@ public sealed class StorySceneView : MonoBehaviour
     [Header("UI — Navigation")]
     public Button continueButton;
     public Button toBoardButton;
+    public Text turnsText;
 
     [Header("Editorial styling (visual lock v1)")]
     [Tooltip("Background image for estate plates / scene art.")]
@@ -52,10 +53,21 @@ public sealed class StorySceneView : MonoBehaviour
     {
         _game = GameManager.Instance;
         EnsurePortraitUI();
+        WireFooterButtons();
+    }
+
+    private void WireFooterButtons()
+    {
         if (continueButton != null)
+        {
+            continueButton.onClick.RemoveAllListeners();
             continueButton.onClick.AddListener(OnContinue);
+        }
         if (toBoardButton != null)
+        {
+            toBoardButton.onClick.RemoveAllListeners();
             toBoardButton.onClick.AddListener(() => _game.SetState(GameState.MergeBoard));
+        }
     }
 
     /// <summary>
@@ -69,15 +81,101 @@ public sealed class StorySceneView : MonoBehaviour
         RectTransform panel = transform as RectTransform;
         if (panel == null) return;
 
+        // The scene builder puts a VerticalLayoutGroup on every panel. It
+        // re-anchors children to a single top-left point and leaves their
+        // sizeDelta at (0,0), which collapses every Text and rect on the
+        // panel to invisible (the title screen's lone "S" was the same
+        // disease). We position everything below with explicit anchors,
+        // so the layout group is switched off first — synchronously, since
+        // Destroy() would not process until end of frame while we force
+        // canvas rebuilds below.
+        var panelVlg = panel.GetComponent<VerticalLayoutGroup>();
+        if (panelVlg != null) panelVlg.enabled = false;
+
+        Font builtinFont = Resources.GetBuiltinResource<Font>("LegacyRuntime.ttf");
+
+        // --- Create prose text if the scene doesn't provide it ---
+        if (proseText == null)
+        {
+            GameObject proseGO = new GameObject("ProseText", typeof(RectTransform), typeof(Text));
+            RectTransform proseRT = proseGO.GetComponent<RectTransform>();
+            proseRT.SetParent(panel, false);
+            var pt = proseGO.GetComponent<Text>();
+            pt.font = builtinFont;
+            pt.fontSize = 20;
+            pt.color = lightTextColor;
+            pt.alignment = TextAnchor.UpperLeft;
+            pt.horizontalOverflow = HorizontalWrapMode.Wrap;
+            pt.verticalOverflow = VerticalWrapMode.Overflow;
+            pt.supportRichText = true;
+            proseText = pt;
+        }
+        // --- Create synopsis text if the scene doesn't provide it ---
+        if (synopsisText == null)
+        {
+            GameObject synGO = new GameObject("SynopsisText", typeof(RectTransform), typeof(Text));
+            RectTransform synRT = synGO.GetComponent<RectTransform>();
+            synRT.SetParent(panel, false);
+            var st = synGO.GetComponent<Text>();
+            st.font = builtinFont;
+            st.fontSize = 16;
+            st.fontStyle = FontStyle.Italic;
+            st.color = dimTextColor;
+            st.alignment = TextAnchor.UpperLeft;
+            st.horizontalOverflow = HorizontalWrapMode.Wrap;
+            st.verticalOverflow = VerticalWrapMode.Overflow;
+            synopsisText = st;
+        }
+
+        // --- Create header texts if the scene doesn't provide them ---
+        if (chapterTitleText == null)
+        {
+            GameObject ctGO = new GameObject("ChapterTitle", typeof(RectTransform), typeof(Text));
+            ctGO.GetComponent<RectTransform>().SetParent(panel, false);
+            var ct = ctGO.GetComponent<Text>();
+            ct.font = builtinFont; ct.fontSize = 22; ct.fontStyle = FontStyle.Bold;
+            ct.color = goldAccent; ct.alignment = TextAnchor.MiddleLeft;
+            ct.horizontalOverflow = HorizontalWrapMode.Wrap;
+            chapterTitleText = ct;
+        }
+        if (sceneHeaderText == null)
+        {
+            GameObject shGO = new GameObject("SceneHeader", typeof(RectTransform), typeof(Text));
+            shGO.GetComponent<RectTransform>().SetParent(panel, false);
+            var sh = shGO.GetComponent<Text>();
+            sh.font = builtinFont; sh.fontSize = 16;
+            sh.color = lightTextColor; sh.alignment = TextAnchor.MiddleLeft;
+            sceneHeaderText = sh;
+        }
+        if (typeBadgeText == null)
+        {
+            GameObject tbGO = new GameObject("TypeBadge", typeof(RectTransform), typeof(Text));
+            tbGO.GetComponent<RectTransform>().SetParent(panel, false);
+            var tb = tbGO.GetComponent<Text>();
+            tb.font = builtinFont; tb.fontSize = 16; tb.fontStyle = FontStyle.Italic;
+            tb.color = goldAccent; tb.alignment = TextAnchor.MiddleRight;
+            typeBadgeText = tb;
+        }
+        if (bodyText == null)
+        {
+            GameObject bdGO = new GameObject("BodyText", typeof(RectTransform), typeof(Text));
+            bdGO.GetComponent<RectTransform>().SetParent(panel, false);
+            var bd = bdGO.GetComponent<Text>();
+            bd.font = builtinFont; bd.fontSize = 18;
+            bd.color = lightTextColor; bd.alignment = TextAnchor.MiddleLeft;
+            bd.horizontalOverflow = HorizontalWrapMode.Wrap;
+            bodyText = bd;
+        }
+
         // --- ScrollRect around the prose text ---
-        if (proseScrollRect == null && proseText != null)
+        if (proseScrollRect == null)
         {
             GameObject scrollGO = new GameObject("ProseScroll", typeof(RectTransform), typeof(ScrollRect));
             RectTransform scrollRT = scrollGO.GetComponent<RectTransform>();
             scrollRT.SetParent(panel, false);
             // Fill most of the panel; header above, footer below.
             scrollRT.anchorMin = new Vector2(0.05f, 0.28f);
-            scrollRT.anchorMax = new Vector2(0.95f, 0.82f);
+            scrollRT.anchorMax = new Vector2(0.95f, 0.815f);
             scrollRT.offsetMin = Vector2.zero;
             scrollRT.offsetMax = Vector2.zero;
 
@@ -92,23 +190,17 @@ public sealed class StorySceneView : MonoBehaviour
             vpImg.color = new Color(0, 0, 0, 0.35f); // subtle dark backing
             viewportGO.GetComponent<Mask>().showMaskGraphic = true;
 
-            GameObject contentGO = new GameObject("Content", typeof(RectTransform),
-                typeof(VerticalLayoutGroup), typeof(ContentSizeFitter));
+            GameObject contentGO = new GameObject("Content", typeof(RectTransform));
             RectTransform contentRT = contentGO.GetComponent<RectTransform>();
             contentRT.SetParent(viewportRT, false);
             contentRT.anchorMin = new Vector2(0, 1);
             contentRT.anchorMax = new Vector2(1, 1);
             contentRT.pivot = new Vector2(0.5f, 1);
             contentRT.anchoredPosition = Vector2.zero;
-            var vlg = contentGO.GetComponent<VerticalLayoutGroup>();
-            vlg.childAlignment = TextAnchor.UpperLeft;
-            vlg.spacing = 12f;
-            vlg.padding = new RectOffset(12, 12, 12, 12);
-            vlg.childForceExpandWidth = true;
-            vlg.childForceExpandHeight = false;
-            var csf = contentGO.GetComponent<ContentSizeFitter>();
-            csf.horizontalFit = ContentSizeFitter.FitMode.Unconstrained;
-            csf.verticalFit = ContentSizeFitter.FitMode.PreferredSize;
+            // NOTE: no VerticalLayoutGroup / ContentSizeFitter here — the
+            // builder's layout groups collapse children to zero size, so the
+            // scroll content is measured and stacked by hand in
+            // LayoutScrollContent().
 
             // Move synopsis + prose into the scroll content.
             if (synopsisText != null)
@@ -131,22 +223,17 @@ public sealed class StorySceneView : MonoBehaviour
             proseScrollRect = sr;
         }
 
-        // --- Decision button container ---
+        // --- Decision button container (manual vertical stacking; the
+        // builder's VerticalLayoutGroup collapses children, so none here) ---
         if (decisionButtonContainer == null)
         {
-            GameObject decGO = new GameObject("DecisionButtons", typeof(RectTransform), typeof(VerticalLayoutGroup));
+            GameObject decGO = new GameObject("DecisionButtons", typeof(RectTransform));
             RectTransform decRT = decGO.GetComponent<RectTransform>();
             decRT.SetParent(panel, false);
             decRT.anchorMin = new Vector2(0.05f, 0.16f);
             decRT.anchorMax = new Vector2(0.95f, 0.27f);
             decRT.offsetMin = Vector2.zero;
             decRT.offsetMax = Vector2.zero;
-            var dlg = decGO.GetComponent<VerticalLayoutGroup>();
-            dlg.childAlignment = TextAnchor.UpperCenter;
-            dlg.spacing = 8f;
-            dlg.childForceExpandWidth = true;
-            dlg.childForceExpandHeight = false;
-            dlg.childControlHeight = true;
             decisionButtonContainer = decRT;
         }
 
@@ -196,8 +283,8 @@ public sealed class StorySceneView : MonoBehaviour
             GameObject sliderGO = new GameObject("SceneProgress", typeof(RectTransform), typeof(Slider));
             RectTransform srt = sliderGO.GetComponent<RectTransform>();
             srt.SetParent(panel, false);
-            srt.anchorMin = new Vector2(0.05f, 0.845f);
-            srt.anchorMax = new Vector2(0.95f, 0.865f);
+            srt.anchorMin = new Vector2(0.05f, 0.828f);
+            srt.anchorMax = new Vector2(0.95f, 0.845f);
             srt.offsetMin = Vector2.zero;
             srt.offsetMax = Vector2.zero;
             var slider = sliderGO.GetComponent<Slider>();
@@ -258,6 +345,14 @@ public sealed class StorySceneView : MonoBehaviour
             hrt.anchorMax = new Vector2(0.95f, 0.90f);
             hrt.offsetMin = Vector2.zero; hrt.offsetMax = Vector2.zero;
         }
+        // Turn count sits under the scene header, above the progress slider.
+        if (turnsText != null)
+        {
+            var trt = turnsText.rectTransform;
+            trt.anchorMin = new Vector2(0.05f, 0.848f);
+            trt.anchorMax = new Vector2(0.95f, 0.872f);
+            trt.offsetMin = Vector2.zero; trt.offsetMax = Vector2.zero;
+        }
         // Non-decision body text sits just above the decision buttons.
         // When a key decision is present, this shows the decision title;
         // otherwise it shows ritual/sting/fashion info.
@@ -281,10 +376,86 @@ public sealed class StorySceneView : MonoBehaviour
         }
     }
 
+    /// <summary>
+    /// Measures the synopsis + prose and stacks them by hand inside the
+    /// scroll content. (Layout groups are not used: the builder's
+    /// VerticalLayoutGroup collapses children to zero size.)
+    /// </summary>
+    private void LayoutScrollContent()
+    {
+        if (proseScrollRect == null || proseScrollRect.content == null) return;
+        var contentRT = proseScrollRect.content;
+
+        // Defensive: strip any layout components that fight manual positioning.
+        var vlg = contentRT.GetComponent<VerticalLayoutGroup>();
+        if (vlg != null) vlg.enabled = false;
+        var csf = contentRT.GetComponent<ContentSizeFitter>();
+        if (csf != null) csf.enabled = false;
+
+        Canvas.ForceUpdateCanvases(); // viewport needs a real size before measuring
+        var viewportRT = proseScrollRect.viewport as RectTransform;
+        float viewW = viewportRT != null ? viewportRT.rect.width : 0f;
+        if (viewW <= 1f) viewW = 700f;
+
+        const float pad = 12f;
+        const float spacing = 12f;
+        float y = -pad; // running top edge (pivot is top)
+
+        if (synopsisText != null && !string.IsNullOrEmpty(synopsisText.text))
+        {
+            synopsisText.gameObject.SetActive(true);
+            var srt = synopsisText.rectTransform;
+            srt.anchorMin = new Vector2(0, 1); srt.anchorMax = new Vector2(1, 1);
+            srt.pivot = new Vector2(0.5f, 1);
+            srt.offsetMin = new Vector2(pad, 0);
+            srt.offsetMax = new Vector2(-pad, y);
+            Canvas.ForceUpdateCanvases();
+            float h = Mathf.Max(synopsisText.preferredHeight, 20f);
+            srt.offsetMin = new Vector2(pad, y - h);
+            srt.offsetMax = new Vector2(-pad, y);
+            y -= h + spacing;
+        }
+        else if (synopsisText != null)
+        {
+            synopsisText.gameObject.SetActive(false);
+        }
+
+        if (proseText != null)
+        {
+            var prt = proseText.rectTransform;
+            prt.anchorMin = new Vector2(0, 1); prt.anchorMax = new Vector2(1, 1);
+            prt.pivot = new Vector2(0.5f, 1);
+            prt.offsetMin = new Vector2(pad, 0);
+            prt.offsetMax = new Vector2(-pad, y);
+            Canvas.ForceUpdateCanvases();
+            float h = Mathf.Max(proseText.preferredHeight, 20f);
+            prt.offsetMin = new Vector2(pad, y - h);
+            prt.offsetMax = new Vector2(-pad, y);
+            y -= h + pad;
+        }
+
+        contentRT.anchorMin = new Vector2(0, 1);
+        contentRT.anchorMax = new Vector2(1, 1);
+        contentRT.pivot = new Vector2(0.5f, 1);
+        contentRT.offsetMin = new Vector2(0, y);
+        contentRT.offsetMax = new Vector2(0, 0);
+
+        Canvas.ForceUpdateCanvases();
+        proseScrollRect.verticalNormalizedPosition = 1f; // scroll to top
+    }
+
     /// <summary>Loads and renders a scene. Returns false if the scene is missing.</summary>
     public bool ShowScene(int season, int chapter, int sceneNumber)
     {
-        _scene = _game.GetScene(season, chapter, sceneNumber);
+        // Self-sufficient: ShowScene may be called synchronously right after
+        // the panel is activated (Unity runs Awake on SetActive but defers
+        // Start until before the first Update), so never assume Start ran.
+        if (_game == null)
+            _game = GameManager.Instance;
+        EnsurePortraitUI();
+        WireFooterButtons();
+
+        _scene = _game != null ? _game.GetScene(season, chapter, sceneNumber) : null;
         if (_scene == null) return false;
 
         _selectedDecisionIndex = -1;
@@ -305,6 +476,13 @@ public sealed class StorySceneView : MonoBehaviour
             typeBadgeText.text = TypeLabel(_scene.type);
             typeBadgeText.color = goldAccent;
         }
+        if (turnsText != null)
+        {
+            turnsText.text = _scene.playerTurns > 0
+                ? $"{_scene.playerTurns} turns"
+                : string.Empty;
+            turnsText.color = dimTextColor;
+        }
         if (progressSlider != null)
         {
             progressSlider.minValue = 0;
@@ -323,6 +501,7 @@ public sealed class StorySceneView : MonoBehaviour
         }
         if (proseScrollRect != null)
             proseScrollRect.verticalNormalizedPosition = 1f; // scroll to top
+        LayoutScrollContent();
 
         // Decisions: tappable buttons. Non-decision content goes to bodyText.
         if (_scene.keyDecision != null && _scene.keyDecision.options != null && _scene.keyDecision.options.Length > 0)
@@ -387,11 +566,19 @@ public sealed class StorySceneView : MonoBehaviour
     private void SpawnDecisionButtons(SceneDefinitionSO scene)
     {
         if (decisionButtonContainer == null || decisionButtonPrefab == null) return;
+        // Manual vertical stack (no layout group — see EnsurePortraitUI).
         var options = scene.keyDecision.options;
         for (int i = 0; i < options.Length; i++)
         {
             int idx = i; // capture
             var btn = Instantiate(decisionButtonPrefab, decisionButtonContainer);
+            btn.gameObject.SetActive(true); // Instantiate preserves the template's inactive state
+            var rt = btn.GetComponent<RectTransform>();
+            rt.anchorMin = new Vector2(0, 1);
+            rt.anchorMax = new Vector2(1, 1);
+            rt.pivot = new Vector2(0.5f, 1);
+            rt.offsetMin = new Vector2(0, -(i * 80f) - 72f);
+            rt.offsetMax = new Vector2(0, -(i * 80f));
             var label = btn.GetComponentInChildren<Text>();
             if (label != null)
             {
