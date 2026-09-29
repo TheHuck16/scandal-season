@@ -207,17 +207,16 @@ public sealed class GameManager : MonoBehaviour
     /// <summary>
     /// Story scenes cost coins (locked: 120–290 computed at import, never Crowns).
     /// Uses the scene's imported price. Returns false when the wallet can't cover it.
-    /// Tutorial: S1 C1 opening scenes (1-5) are free — the player gets a taste
+    /// Tutorial: S1 C1 scenes 1-5 are free — the player gets a taste
     /// with no coins from the start, then the coin economy begins.
+    /// (Beth decision Sep 29, 2026: boundary is scenes 1-5, not all of C1.)
     /// </summary>
     public bool TryPaySceneCost(SceneDefinitionSO scene)
     {
-        // Tutorial-free pricing (Beth-locked Sep 27, 2026): "Season One's
-        // tutorial-free pricing" / "the tutorial ritual is FREE — onboarding
-        // teaches the system before the coin band applies." Season 1 Chapter 1
-        // is the tutorial chapter: all 40 scenes free. The coin band applies
-        // from Chapter 2 onward. (Boundary: full C1; narrow per Beth's review.)
-        if (scene != null && scene.season == 1 && scene.chapter == 1)
+        // Tutorial-free boundary (Beth, Sep 29, 2026): Season 1 Chapter 1
+        // scenes 1-5 are free. The 120–290 coin band applies from scene 6.
+        // (Authored: first ritual free, scenes 120–290 — chapter-dressing.md.)
+        if (scene != null && scene.season == 1 && scene.chapter == 1 && scene.sceneNumber <= 5)
             return true;
         int cost = scene != null && scene.coinPrice > 0 ? scene.coinPrice : 120;
         return Wallet.TrySpend(Currency.Coins, cost);
