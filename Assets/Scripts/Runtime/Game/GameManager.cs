@@ -102,7 +102,10 @@ public sealed class GameManager : MonoBehaviour
             startEnergy: 200,
             startUtc: DateTime.UtcNow);
         Progression = new SeasonProgression();
-        Board = new MergeBoard(boardWidth, boardHeight);
+        var chainMaxLevels = new Dictionary<string, int>();
+        foreach (var kv in _chainsById)
+            chainMaxLevels[kv.Key] = kv.Value.levels.Length;
+        Board = new MergeBoard(boardWidth, boardHeight, chainMaxLevels: chainMaxLevels);
 
         // Level-gated unlocks (LOCKED Sep 27): 5 at launch, remaining 4 at
         // player levels 5/10/15/20. Chain ID lists are TBD pending name mapping.
@@ -110,7 +113,7 @@ public sealed class GameManager : MonoBehaviour
         foreach (var id in launchChainIds)
             if (_chainsById.ContainsKey(id))
                 unlocked.Add(id);
-        Orders = new OrderQueue(unlocked);
+        Orders = new OrderQueue(unlocked, chainMaxLevels);
 
         SetState(GameState.Title);
     }
@@ -209,8 +212,12 @@ public sealed class GameManager : MonoBehaviour
     /// </summary>
     public bool TryPaySceneCost(SceneDefinitionSO scene)
     {
-        // Free tutorial: first 5 scenes of S1 C1 cost nothing.
-        if (scene != null && scene.season == 1 && scene.chapter == 1 && scene.sceneNumber <= 5)
+        // Tutorial-free pricing (Beth-locked Sep 27, 2026): "Season One's
+        // tutorial-free pricing" / "the tutorial ritual is FREE — onboarding
+        // teaches the system before the coin band applies." Season 1 Chapter 1
+        // is the tutorial chapter: all 40 scenes free. The coin band applies
+        // from Chapter 2 onward. (Boundary: full C1; narrow per Beth's review.)
+        if (scene != null && scene.season == 1 && scene.chapter == 1)
             return true;
         int cost = scene != null && scene.coinPrice > 0 ? scene.coinPrice : 120;
         return Wallet.TrySpend(Currency.Coins, cost);

@@ -698,6 +698,8 @@ public sealed class StorySceneView : MonoBehaviour
 
         // Story scenes cost coins, never Crowns (locked). Price is computed at
         // import per scene. Energy is the only throttle; plot is never time-gated.
+        // Insufficient funds NEVER route away: the player stays on the story
+        // and is told how to earn coins. (No surprise trips to the merge board.)
         if (!_game.TryPaySceneCost(_scene))
         {
             if (bodyText != null)
@@ -705,14 +707,17 @@ public sealed class StorySceneView : MonoBehaviour
                 bodyText.text = "Not enough coins — earn them on the merge board, then continue the story.";
                 bodyText.color = lightTextColor;
             }
-            _game.SetState(GameState.MergeBoard);
             return;
         }
         _game.AdvanceStory();
         if (!ShowScene(_game.CurrentSeason, _game.CurrentChapter, _game.CurrentSceneNumber))
         {
-            // No more authored scenes — fall back to the board.
-            _game.SetState(GameState.MergeBoard);
+            // No more authored scenes — stay on the last one, do not reroute.
+            if (bodyText != null)
+            {
+                bodyText.text = "To be continued — the next scene isn't written yet.";
+                bodyText.color = lightTextColor;
+            }
         }
     }
 }
