@@ -33,8 +33,15 @@ public sealed class GameManager : MonoBehaviour
     public int boardHeight = 8;
 
     [Header("Chain unlocks (LOCKED Sep 27: 5 at launch, rest at 5/10/15/20)")]
-    [Tooltip("LOCKED Sep 27: 5 chains at launch (Needlework, Pearls, Ribbon, Lace, Posy); remaining 4 unlock at player levels 5/10/15/20. ID-to-name mapping TBD — placeholder IDs below, do not treat as canonical.")]
-    public List<string> launchChainIds = new List<string>();
+    [Tooltip("LOCKED Sep 27: 5 chains at launch; remaining 4 unlock at player levels 5/10/15/20. Mapped Sep 29 to actual Atelier chain IDs from merge-chains.json.")]
+    public List<string> launchChainIds = new List<string>
+    {
+        "atelier.notions",
+        "atelier.fabric",
+        "atelier.jewelry",
+        "atelier.gowns",
+        "atelier.hats"
+    };
 
     [Header("Chain unlock levels (LOCKED Sep 27: 5 / 10 / 15 / 20)")]
     [Tooltip("Player levels at which the 4 post-launch chains unlock, in order.")]

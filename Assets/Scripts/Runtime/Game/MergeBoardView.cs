@@ -50,7 +50,46 @@ public sealed class MergeBoardView : MonoBehaviour
         BuildLegend();
         if (spawnButton != null) spawnButton.onClick.AddListener(OnSpawnPressed);
         if (mergeButton != null) mergeButton.onClick.AddListener(OnMergePressed);
+        CreateBackButton();
         RefreshAll();
+    }
+
+    /// <summary>
+    /// Creates a back button programmatically (Sep 29: scene lacks one, players were trapped).
+    /// </summary>
+    private void CreateBackButton()
+    {
+        var backBtnGO = new GameObject("BackButton", typeof(RectTransform));
+        backBtnGO.transform.SetParent(transform, false);
+        var rect = backBtnGO.GetComponent<RectTransform>();
+        rect.anchorMin = new Vector2(0, 1);
+        rect.anchorMax = new Vector2(0, 1);
+        rect.anchoredPosition = new Vector2(80, -40);
+        rect.sizeDelta = new Vector2(140, 50);
+
+        var image = backBtnGO.AddComponent<Image>();
+        image.color = new Color(0.2f, 0.2f, 0.2f, 0.9f);
+
+        var button = backBtnGO.AddComponent<Button>();
+        button.onClick.AddListener(() =>
+        {
+            if (_game != null)
+                _game.SetState(GameState.StoryScene);
+        });
+
+        var textGO = new GameObject("Text", typeof(RectTransform));
+        textGO.transform.SetParent(backBtnGO.transform, false);
+        var textRect = textGO.GetComponent<RectTransform>();
+        textRect.anchorMin = Vector2.zero;
+        textRect.anchorMax = Vector2.one;
+        textRect.sizeDelta = Vector2.zero;
+
+        var text = textGO.AddComponent<Text>();
+        text.text = "← Story";
+        text.font = Resources.GetBuiltinResource<Font>("LegacyRuntime.ttf");
+        text.alignment = TextAnchor.MiddleCenter;
+        text.color = Color.white;
+        text.fontSize = 24;
     }
 
     /// <summary>
