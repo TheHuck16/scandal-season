@@ -224,14 +224,19 @@ public sealed class StorySceneView : MonoBehaviour
         }
 
         // --- Decision button container (manual vertical stacking; the
-        // builder's VerticalLayoutGroup collapses children, so none here) ---
+        // builder's VerticalLayoutGroup collapses children, so none here).
+        // ShowScene resizes/repositions this explicitly per decision (fixed
+        // pixel heights, bottom-anchored); these are just sane defaults.
         if (decisionButtonContainer == null)
         {
             GameObject decGO = new GameObject("DecisionButtons", typeof(RectTransform));
             RectTransform decRT = decGO.GetComponent<RectTransform>();
             decRT.SetParent(panel, false);
-            decRT.anchorMin = new Vector2(0.05f, 0.105f);
-            decRT.anchorMax = new Vector2(0.95f, 0.325f);
+            decRT.anchorMin = new Vector2(0.05f, 0f);
+            decRT.anchorMax = new Vector2(0.95f, 0f);
+            decRT.pivot = new Vector2(0.5f, 0f);
+            decRT.anchoredPosition = new Vector2(0f, 100f);
+            decRT.sizeDelta = new Vector2(0f, 208f); // 3 x 64px + spacing
             decRT.offsetMin = Vector2.zero;
             decRT.offsetMax = Vector2.zero;
             decisionButtonContainer = decRT;
@@ -364,20 +369,8 @@ public sealed class StorySceneView : MonoBehaviour
             bdy.anchorMax = new Vector2(0.95f, 0.37f);
             bdy.offsetMin = Vector2.zero; bdy.offsetMax = Vector2.zero;
         }
-        // Decision buttons sit below the body text, above the footer.
-        // Container is sized to fit up to 4 buttons; SpawnDecisionButtons
-        // sizes buttons proportionally to the actual container pixel height
-        // so fixed-pixel buttons never overflow an anchor-percentage container.
-        if (decisionButtonContainer != null)
-        {
-            var decRT = decisionButtonContainer as RectTransform;
-            if (decRT != null)
-            {
-                decRT.anchorMin = new Vector2(0.05f, 0.105f);
-                decRT.anchorMax = new Vector2(0.95f, 0.325f);
-                decRT.offsetMin = Vector2.zero; decRT.offsetMax = Vector2.zero;
-            }
-        }
+        // (Decision container positioning is handled explicitly in ShowScene
+        // per decision; no static repositioning here.)
     }
 
     /// <summary>
@@ -528,6 +521,23 @@ public sealed class StorySceneView : MonoBehaviour
         // Decisions: tappable buttons. Non-decision content goes to bodyText.
         if (_scene.keyDecision != null && _scene.keyDecision.options != null && _scene.keyDecision.options.Length > 0)
         {
+            // Size the decision container explicitly to fit the fixed-height
+            // buttons exactly: bottom-anchored, 100px above the panel bottom
+            // (clear of the footer), explicit pixel height. This prevents any
+            // percentage/pixel mismatch from overflowing onto the footer.
+            var containerRT = decisionButtonContainer as RectTransform;
+            if (containerRT != null)
+            {
+                int optCount = _scene.keyDecision.options.Length;
+                const float btnH = 64f;
+                const float btnSpacing = 8f;
+                float totalH = optCount * btnH + (optCount - 1) * btnSpacing;
+                containerRT.anchorMin = new Vector2(0.05f, 0f);
+                containerRT.anchorMax = new Vector2(0.95f, 0f);
+                containerRT.pivot = new Vector2(0.5f, 0f);
+                containerRT.anchoredPosition = new Vector2(0f, 100f);
+                containerRT.sizeDelta = new Vector2(0f, totalH);
+            }
             SpawnDecisionButtons(_scene);
             if (bodyText != null)
             {
@@ -549,16 +559,28 @@ public sealed class StorySceneView : MonoBehaviour
         UpdateContinueLabel();
 
         // Background: rotate through approved estate plates by chapter.
-        if (backgroundImage != null && estatePlates != null && estatePlates.Length > 0)
+        // The background must NEVER block raycasts — a full-screen Image with
+        // raycastTarget=true swallows taps meant for the footer buttons
+        // (v9.6: Scene 4 Continue intermittently dead across sessions).
+        if (backgroundImage != null)
         {
-            int idx = (_scene.chapter - 1) % estatePlates.Length;
-            var plate = estatePlates[idx];
-            if (plate != null)
+            backgroundImage.raycastTarget = false;
+            if (estatePlates != null && estatePlates.Length > 0)
             {
-                backgroundImage.sprite = plate;
-                backgroundImage.color = new Color(1f, 1f, 1f, 0.25f);
+                int idx = (_scene.chapter - 1) % estatePlates.Length;
+                var plate = estatePlates[idx];
+                if (plate != null)
+                {
+                    backgroundImage.sprite = plate;
+                    backgroundImage.color = new Color(1f, 1f, 1f, 0.25f);
+                }
             }
         }
+
+        // Footer buttons must be last in sibling order (on top) so nothing
+        // created earlier can cover them and swallow taps.
+        if (continueButton != null) continueButton.transform.SetAsLastSibling();
+        if (toBoardButton != null) toBoardButton.transform.SetAsLastSibling();
 
         return true;
     }
@@ -589,25 +611,17 @@ public sealed class StorySceneView : MonoBehaviour
     {
         if (decisionButtonContainer == null || decisionButtonPrefab == null) return;
         // Manual vertical stack (no layout group — see EnsurePortraitUI).
-        // Buttons are sized proportionally to the container's ACTUAL pixel
-        // height so fixed-pixel buttons never overflow an anchor-percentage
-        // container on short panels (which hid the 3rd option and squished
-        // the footer Continue into an untappable strip).
+        //
+        // FIX (v9.7): Buttons use a FIXED pixel height and the container is
+        // sized explicitly in ShowScene to fit them exactly. The v9.6 approach
+        // measured the container's rect height (often 0 before first layout)
+        // and fell back to an estimate — on short panels the estimate was too
+        // tall, buttons overflowed the container, covered the footer, and the
+        // Continue button became untappable (Scene 9 dead-end).
         var options = scene.keyDecision.options;
-        var containerRT = decisionButtonContainer as RectTransform;
-        Canvas.ForceUpdateCanvases();
-        float containerH = containerRT != null ? containerRT.rect.height : 0f;
-        if (containerH <= 1f)
-        {
-            // Fallback: estimate from panel height (22% of a 9:16 panel).
-            var panelRT = transform as RectTransform;
-            float panelH = panelRT != null ? panelRT.rect.height : 0f;
-            containerH = panelH > 1f ? panelH * 0.22f : 280f;
-        }
+        const float buttonH = 64f;
         const float spacing = 8f;
         int count = options.Length;
-        // Button height: fill container, reserve spacing, clamp to tappable range.
-        float buttonH = Mathf.Clamp((containerH - (count - 1) * spacing) / count, 48f, 84f);
         for (int i = 0; i < count; i++)
         {
             int idx = i; // capture
