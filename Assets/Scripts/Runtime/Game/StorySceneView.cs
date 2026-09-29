@@ -769,11 +769,18 @@ public sealed class StorySceneView : MonoBehaviour
                 proseText.text = msg;
                 proseText.color = goldAccent;
             }
+            if (synopsisText != null)
+            {
+                synopsisText.text = msg;
+                synopsisText.color = goldAccent;
+            }
             if (bodyText != null)
             {
                 bodyText.text = msg;
                 bodyText.color = lightTextColor;
             }
+            if (proseScrollRect != null)
+                proseScrollRect.verticalNormalizedPosition = 1f; // scroll to top to show message
             return;
         }
         _game.AdvanceStory();
