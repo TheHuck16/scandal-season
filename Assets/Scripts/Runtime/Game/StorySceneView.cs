@@ -483,7 +483,10 @@ public sealed class StorySceneView : MonoBehaviour
         }
         if (sceneHeaderText != null)
         {
-            sceneHeaderText.text = $"Scene {_scene.sceneNumber} of 40";
+            int coins = _game != null && _game.Wallet != null ? _game.Wallet.Coins : -999;
+            int price = _scene.coinPrice > 0 ? _scene.coinPrice : 120;
+            bool free = _scene.season == 1 && _scene.chapter == 1 && _scene.sceneNumber <= 5;
+            sceneHeaderText.text = $"Scene {_scene.sceneNumber} of 40 · ◉{coins} · {(free ? "FREE" : $"{price}c")}";
             sceneHeaderText.color = lightTextColor;
         }
         if (typeBadgeText != null)
