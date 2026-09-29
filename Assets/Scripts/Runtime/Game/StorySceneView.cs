@@ -478,7 +478,10 @@ public sealed class StorySceneView : MonoBehaviour
 
         if (chapterTitleText != null)
         {
-            chapterTitleText.text = $"S{_scene.season} · Chapter {_scene.chapter}: {_scene.chapterTitle}";
+            int coins = _game != null && _game.Wallet != null ? _game.Wallet.Coins : -999;
+            int price = _scene.coinPrice > 0 ? _scene.coinPrice : 120;
+            bool free = _scene.season == 1 && _scene.chapter == 1 && _scene.sceneNumber <= 5;
+            chapterTitleText.text = $"S{_scene.season} · Chapter {_scene.chapter}: {_scene.chapterTitle} [S{_scene.sceneNumber} ◉{coins} {(free ? "FREE" : $"{price}c")}]";
             chapterTitleText.color = goldAccent;
         }
         if (sceneHeaderText != null)
