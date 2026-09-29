@@ -763,9 +763,15 @@ public sealed class StorySceneView : MonoBehaviour
         // and is told how to earn coins. (No surprise trips to the merge board.)
         if (!_game.TryPaySceneCost(_scene))
         {
+            string msg = "Not enough coins — earn them on the merge board, then continue the story.";
+            if (proseText != null)
+            {
+                proseText.text = msg;
+                proseText.color = goldAccent;
+            }
             if (bodyText != null)
             {
-                bodyText.text = "Not enough coins — earn them on the merge board, then continue the story.";
+                bodyText.text = msg;
                 bodyText.color = lightTextColor;
             }
             return;
