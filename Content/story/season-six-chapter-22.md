@@ -1,0 +1,857 @@
+# Scandal Season — Season Six, Chapter 22: "The Acknowledgment"
+
+**STATUS: FULL DRAFT** — awaiting Beth review.
+
+**Format key:** `[D]` dialogue-heavy scene · `[F]` fashion beat (2–3 diegetic options, no coin cost) · `[C]` dressing ritual (direction + twenty 5-coin pins, 21 turns) · `[T]` turn-dense beat · untagged plot beat. `★ KEY DECISION n/3` — exactly three per chapter, parser-critical syntax.
+
+**Turns:** ordinary scenes run 7–10 turns; the `[C]` ritual runs 21 turns; Key Decisions run 3 turns; the S39 Gazette sting runs 1 turn; the S40 cliffhanger runs 8 turns.
+
+**Canon applied:** Season Six storyboard (Act III, "The Reckoning") is highest authority; ten-season plot arc; Season Six Chapters 1–21. Locked money state entering: venture working capital £22,736 · Hartwell face reclaimed £36,500 · outstanding £36,500 of the locked £73,000 · cash in hand £72 10s · Hartwell paper held at cost £12,316 · cumulative venture P&L −£1,948, the venture's trading closed. This chapter: Tuesday — the acknowledgment. Rackham comes in person, alive; the acknowledgment spoken to his face, then written in the buyback book and read back; £14,000 counted and the £21,000 face (the Dealing's £15,000 plus the retained £6,000) assigned, witnessed, filed. Closing state: venture £8,736 (£22,736 − £14,000) · face reclaimed £57,500 · outstanding £15,500 (£9,000 Crown tranche + £6,500 scattered among five holders) · Hartwell paper held at cost £26,316 (£12,316 + £14,000) · cash £72 10s. The Crown's £9,000 held through trustees; Drummond cold, summons answered. The Master's stay not yet moved — the law's door opens Wednesday morning. Sloane unbeaten; the duel's touch-count stands at 29. Pyke and Cecilia do not appear. Lucien de Valcourt is absence-framed, never on-page.
+
+**Occasion:** Tuesday — the acknowledgment's day; the spoken, the written, the twice-heard; the cold's summons answered.
+
+**What changes for Rose:** The living man faced — the acknowledgment spoken and inked, the £21,000 home; fifty-seven five hundred reclaimed; the Crown's door marked (four-fifths, Pemberton) and the law's door opened with sealed papers at dawn.
+
+## Chapter 22 — "The Acknowledgment"
+
+
+### L22.S1 · [F] · Rose (alone)
+*Purpose: the day dressed — Tuesday morning; the grey, the living's; the chosen. (Turns: 8)*
+> *(Tuesday morning, her chambers. The acknowledgment's day wants its cloth — the grey, the endured — and the mirror gets the first look.)*
+> The grey silk waits on its stand. Rose stands in her shift, hair pinned loose, and considers the day the way she considered the week: head-on.
+> (T1 · look closer) *The silk hangs soft and dove-grey — the endured, the professional's wisdom — and the day's first reading is quiet.*
+> "The grey." She steps into it. "The living man gets the grey, and the market gets the truth. Élise was right — the City endures the grey."
+> (T2 · tone) *Calm, certain, and awake to the stakes: ten o'clock wants the acknowledgment, and she means to bring it.*
+> The corset first — not tight, just true. Then the petticoats, the silk over them, the row of buttons she does herself. The skirt falls soft and straight.
+> (T3 · stance) *Upright, unhurried, unadorned — the acknowledgment's woman dresses the acknowledgment's way.*
+> In the glass: a woman in dove grey, plain and unornamented, hair drawn back severe. It says truth without saying the word. Exactly what ten o'clock needs to hear.
+> (T4 · remembered micro-decision) *Keep it plain. Let the grey do the talking — the living man's heard enough splendor from the City.*
+> She pins the white heather at her waist. The week's mark, back for the day. The living man will see what the City's seen all season.
+> (T5 · look closer) *The heather sits against the grey like a quiet signature — hers, and no one's else's.*
+> The hair, last: drawn back, pinned tight, nothing loose. Today is the season's bravest hour. Today wants severity.
+> (T6 · dialogue) *"The day's, worn straight."; "The grey carries it."; "Ten o'clock decides."*
+> The shawl — deep blue — settled over her shoulders. Underneath, the grey waits for its hour.
+> (T7 · choice — no coin cost, remembered) *the grey silk — the endured, the acknowledgment's cloth (the City endures the grey, and today wants enduring); the blue twill — the believed, but belief's yesterday's reading; the heather — pinned, the week's mark, or left, the morning plain.* — remembered: *The grey, worn.*
+> At the door she pauses, hand on the frame. Ten o'clock. The coffee-room. The living man.
+> (T8 · remembered micro-decision) *Bank the morning's resolve with the day's cloth — grey for the living, the acknowledgment faced.*
+> *The morning light takes the grey silk without argument — Tuesday dressed, the acknowledgment's day begun.*
+*Animation: Shared.*
+
+### L22.S2 · [D] · Rose, Julian
+*Purpose: ten o'clock's law — Tuesday morning; the book, the assignment, the fourteen thousand; the counsel's. (Turns: 8)*
+> *(Julian's chambers, Tuesday morning. Ten o'clock's law — the papers, the book, the strongbox — and the counsel's readiness is the law's kind: complete.)*
+> "The assignment." Julian lays the papers in order. "Rackham's own hand, today, witnessed. The fourteen thousand —" he pats the strongbox "— counted. The book —" he lifts the great ledger "— the paragraph's page, ruled."
+> (T1 · look closer) *The chambers' morning light is clean — and the day's law lies ready in its rows, plain and final.*
+> "Ready." Rose takes the book — heavy, leather-bound. "The acknowledgment — spoken first, Julian. To his face, where the market hears. Then the ink."
+> (T2 · tone) *Quiet, certain, and counsel-bound — the day's law deserves its level voice.*
+> "Spoken first." He nods. "The market's men —" he checks the list "— Vale, Rennick, the Company's men, the Gazette. Drayton's arranged the witnesses. The hearing —" he pauses "— is the price, Rose."
+> (T3 · dialogue) *"The witnesses, arranged."; "The hearing, the price."; "The spoken, first."*
+> "The hearing's the price." She closes the book. "Julian — the words. Last night's decision — the paragraph's shape. It's —" she meets his eyes "— chosen."
+> (T4 · stance) *The book in her hands — the day's paragraph waiting on its page, the heiress its scribe.*
+> "Chosen." The counsel's voice is grave. "The Dealing honest, the retained unpressed — the market's books prove it, the paragraph states it. The law —" he pauses "— is satisfied, Rose."
+> (T5 · look closer) *The gravity is the counsel's honesty — the law's ready, the man's unknown.*
+> "Satisfied." She moves to the door. "Ten o'clock, Julian. The coffee-room. Whatever walks in —" she looks back "— the house is ready."
+> (T6 · dialogue) *"The law, satisfied."; "The house, ready."; "Ten o'clock, kept."*
+> He bows her out — the counsel's courtesy, unhurried. "The respect — is absolute, Rose."
+> (T7 · choice) *Take the counsel's respect. The morning's law is done — what comes is ten o'clock's.*
+> The chambers' door closes — the law ready, the book lifted.
+> (T8 · remembered micro-decision) *The readiness filed, the book taken — the counsel's morning kept, the acknowledgment's hour coming.*
+> *The morning's light on the drawn papers — ten o'clock's law ready, the paragraph waiting its speaking.*
+*Animation: Shared.*
+
+### L22.S3 · [D] · Rose, Henry
+*Purpose: the steady's last counsel — Tuesday morning; ten o'clock coming; the steady. (Turns: 8)*
+> *(The war room, Tuesday morning. Henry's last counsel before ten — the steady voice, the plain reading — and the acknowledgment looks different through his eyes.)*
+> "Ten o'clock." Henry doesn't sit. "The coffee-room. The living man. Rose —" he looks at her "— the paper, not the man. Hold the boundary."
+> (T1 · look closer) *The war room's morning light is plain — and the steady man's counsel is the day's ballast, as always.*
+> "Held." She meets his eyes. "The Dealing honest, the retained unpressed — that's what the market hears, Henry. The man —" she pauses "— the man I leave to the paragraph."
+> (T2 · tone) *Steady, certain, and grateful — the steady man gets it all, unadorned.*
+> "The paragraph." He nods — slowly. "Eleven years, Rose — the City called him breaker of houses. Today a Hartwell speaks him honest. That's —" he considers "— that's the bravest thing the season's done."
+> (T3 · dialogue) *"The boundary, held."; "The bravest, today's."; "The steady, standing."*
+> "The bravest." She smiles — tired, true. "Henry — the fourteen thousand. Said plain, once more: twenty-two seven thirty-six becomes eight seven thirty-six."
+> (T4 · stance) *At the ledger, the counting done together — the heiress and the steady man, the day's two keepers.*
+> "Said plain." He closes the book. "And worth it — the books say honest, and I —" a pause "— I believe the books."
+> (T5 · look closer) *The closing's soft thud is the morning's seal — the counsel given, the belief banked.*
+> "Ten o'clock." She moves to the door. "The coffee-room, Henry. Will you be where the market hears?"
+> (T6 · dialogue) *"The belief, banked."; "Ten o'clock, coming."; "The market hears."*
+> "I'll be there." He stands — the steady, unhurried. "Where the figures live, Rose. Someone has to keep them honest."
+> (T7 · choice) *Keep the keeper. The day's numbers need their steady man — ten o'clock, and after.*
+> The war room's morning settles — the counsel given, the boundary held.
+> (T8 · remembered micro-decision) *The counsel filed, the keeper kept — the steady man's morning banked, the acknowledgment's hour coming.*
+> *The morning's plain light on the war room's table — the boundary held, the steady man standing.*
+*Animation: Shared.*
+
+### L22.S4 · [D] · Rose, Augusta
+*Purpose: the dowager's command — Tuesday morning; ten o'clock, the living; the formidable. (Turns: 8)*
+> *(The dowager's drawing room, Tuesday morning. Augusta's command — the day's, the ten o'clock's — and the formidable's word is the morning's seal.)*
+> "Ten o'clock." Augusta doesn't rise. "The coffee-room. The living man. Rose —" the formidable leans forward "— speak it well. The City remembers how a thing's said longer than it remembers what's said."
+> (T1 · look closer) *The drawing room's morning light is gold — and the dowager's command is the day's final counsel: stated once, and finally.*
+> "Well." Rose takes the chair. "Grandmama — the grey. The endured. The acknowledgment — spoken first, then written. The market hears."
+> (T2 · tone) *Respectful, complete, and past flinching — the morning's report delivered to the house's highest court.*
+> "The grey." The formidable studies her. "The house buries no one twice, Rose — and today it proves it. The living —" she pauses "— the living want things the dead never ask for. Learn what, and decide."
+> (T3 · dialogue) *"The living, wanting."; "The house, deciding."; "The learnt, faced."*
+> "The house decides." Rose stands. "Not him — the house. Your word, Grandmama, from last night. Kept."
+> (T4 · stance) *In the chair no longer — the granddaughter rising to the day's command.*
+> Augusta rises too — a dismissal and a benediction in one movement. "Kept." The formidable mouth curves — almost a smile. "Go, Rose. Ten o'clock. And —" at the door "— the heather. Let the living man see the mark."
+> (T5 · look closer) *The benediction's the morning's finest — the formidable's word, given whole.*
+> "The mark." She touches the sprig. "He'll see it, Grandmama. The City's seen it all season — today he does too."
+> (T6 · dialogue) *"The mark, seen."; "The command, kept."; "Ten o'clock, coming."*
+> "Coming." The drawing room door closes — soft, final, the morning's last audience done.
+> (T7 · choice) *Take the benediction. The morning's done, the dowager's commanded — there's no higher court.*
+> The street's morning takes her to the City — the day's command, ten o'clock coming.
+> (T8 · remembered micro-decision) *The command filed, the mark worn — the formidable's morning banked, the living faced.*
+> *The drawing room's gold morning — the command given, the dowager's word the day's seal.*
+*Animation: Shared.*
+
+### L22.S5 · [D] · Rose, Drayton
+*Purpose: the principal's coming — Tuesday morning; ten o'clock's arrangements; the precise. (Turns: 8)*
+> *(The Company's coffee-room, Tuesday morning. Drayton is arranging — the chairs, the witnesses, the hour — and the precise man's arrangements are the week's finest clockwork.)*
+> "Miss Hartwell." Drayton bows — the morning's business in it. "Ten o'clock. The market's men —" he gestures at the chairs "— placed. The Gazette —" a nod toward Bell's corner "— placed. My principal —" he checks the door "— comes."
+> (T1 · look closer) *The coffee-room's morning light is bright — and the precise man's clockwork ticks toward the hour.*
+> "Comes." Rose looks at the chairs — Vale, Rennick, the Company's men, the witnesses. "Mr. Drayton — eleven years you've carried his paper. Today you carry it named."
+> (T2 · tone) *Level, direct, and done with preamble — the hour's coming and the arrangements are made.*
+> "Named." The precision holds — and underneath it, something human. "Miss Hartwell —" he pauses "— my principal is —" he chooses the word "— nervous. Eleven years of being buried teaches a man to distrust rooms."
+> (T3 · dialogue) *"The named, carrying."; "The nervous, buried."; "The room, distrusted."*
+> "Nervous." She takes it in. "Mr. Drayton — tell him the room's the house's, and the house keeps its word. The acknowledgment — spoken first, then written. That's the price, whole."
+> (T4 · stance) *In the coffee-room's bright morning — the heiress steadying the precise man's principal through the precise man.*
+> "Whole." Drayton bows — and goes to the door. "Miss Hartwell —" he looks back "— the unhurried, your grandmother calls us. Today —" a rare, small smile "— we hurry."
+> (T5 · look closer) *The smile is the morning's surprise — the precise man, human at the hour.*
+> The door opens. The clock strikes ten. And Rackham walks in.
+> (T6 · dialogue) *"The hour, struck."; "The door, opened."; "The living, walking."*
+> He's older than the City's memory — silvered, spare, the duelist's courtesy in every line. Eleven years abroad sit lightly on him, and heavily.
+> (T7 · choice) *Face him. The week's price walks through the door — meet it standing.*
+> The coffee-room's morning holds its breath. The market's men rise. The living man stands in the doorway.
+> (T8 · remembered micro-decision) *The coming filed, the hour struck — the principal come, the acknowledgment's hour here.*
+> *The morning's bright light on the doorway — ten o'clock struck, the dead man walking in.*
+*Animation: Shared.*
+
+### L22.S6 · [D] · Rose, Drayton
+*Purpose: ★ KEY DECISION 1/3 — THE RECEIVING (how the house receives Rackham). (Turns: 3 — the decision)*
+> *(Tuesday morning, ten o'clock struck: the living in the doorway — the market's men risen — and the day's first decision is how the house receives him.)*
+> "The receiving." — Rose. "Rackham — *living*, in the *doorway*, the *market's* men *risen*. *How* the house receives him —" she looks to the room "— is the day's to choose."
+*★ KEY DECISION 1/3 — The Receiving:*
+- **Receive him before them all** — *the open road.* "Receive him before the market's men — the acknowledgment spoken in the full room — and let every witness hear the house's words at once." *(The received, the witnessed; the heard, the day's.)*
+- **Receive him privately first** — *the gracious road.* "Receive him privately first — a minute, a greeting, the living met — then bring him to the room, and speak the acknowledgment after." *(The received, the met; the spoken, the day's.)*
+- **Let Drayton present him** — *the broker's road.* "Let Drayton present him — the eleven years' man, the named — and receive the principal through the broker who carried him." *(The received, the presented; the carried, the day's.)*
+> *(The game remembers the choice — and the means: the open, the gracious, or the broker's. The destination was never in doubt. The signature is hers.)*
+*Animation: Shared.*
+
+### L22.S7 · [D] · Rose, Rackham
+*Purpose: the entrance — Tuesday, ten o'clock; the dead man walking; the faced. (Turns: 8)*
+> *(The Company's coffee-room, Tuesday, ten o'clock. Rackham stands in the doorway — the dead man walking — and the room does what rooms do when the buried walk: it goes silent.)*
+> He's silvered, spare, the duelist's courtesy worn like an old coat. Eleven years abroad have thinned him and sharpened him — the eyes are the City's memory of him, and older.
+> (T1 · look closer) *The coffee-room's bright morning finds him — and the living man stands the silence the way he once stood the field: still.*
+> "Miss Hartwell." He bows — deep, the old courtesy entire. "You are —" he pauses "— your father's daughter. The likeness —" he stops.
+> (T2 · tone) *Grave, measured, and past pretense — the living man speaks like a man with eleven years of silence to spend carefully.*
+> "Mr. Rackham." Rose doesn't move from her place. "The City buried you, sir. The duel's report — premature, your broker says. Eleven years."
+> (T3 · dialogue) *"The buried, walking."; "The report, premature."; "The eleven years, faced."*
+> "Premature." A ghost of a smile. "The field was —" he considers "— inconclusive, Miss Hartwell. My second carried me off. The report —" he shrugs, spare "— outran the truth. It usually does."
+> (T4 · stance) *In the doorway still — the living man answering the unasked, the old duelist's economy.*
+> The market's men watch — Vale honest-faced, Rennick plain, the Company's men careful. Bell's pen is already moving in the corner.
+> (T5 · look closer) *The room's attention is total — and the dead man's economy with it is the morning's finest thing.*
+> "Inconclusive." She takes it in. "Mr. Rackham — the paper. Twenty-one thousand face. The Dealing, and the retained. Your broker's word —" she pauses "— the market's books agree. Eleven years honest."
+> (T6 · dialogue) *"The paper, the price."; "The books, agreeing."; "The honest, eleven years."*
+> "Eleven years." He steps forward — into the room, into the light. "Miss Hartwell —" he looks at her level "— I have come to hear it. The price was hearing. Let me hear."
+> (T7 · choice) *Speak it. The week's price stands in the room — pay it the way debts are paid: aloud.*
+> The coffee-room's morning holds — the living man waiting, the market's men witness, the heiress about to speak.
+> (T8 · remembered micro-decision) *The entrance faced, the hearing awaited — the dead man in the room, the acknowledgment's hour here.*
+> *The morning's bright light on the living man — ten o'clock, the doorway, the buried walking.*
+*Animation: Shared.*
+
+### L22.S8 · [D] · Rose, Rackham
+*Purpose: the acknowledgment, spoken — Tuesday, ten o'clock; the true, the market's hearing; the paid. (Turns: 9)*
+> *(The Company's coffee-room, Tuesday, ten o'clock. The acknowledgment, spoken — the true, to his face, where the market hears — and the speaking is the day's great deed.)*
+> Rose stands. The room settles — Vale, Rennick, the Company's men, Bell's pen, Drayton precise at the door, Henry steady at the wall. Rackham faces her — silvered, still, waiting.
+> (T1 · look closer) *The coffee-room's morning holds its breath — and the heiress draws the week's paragraph up from where it's waited.*
+> "Mr. Rackham." Her voice carries — clear, unhurried, certain. "The house of Hartwell holds paper this season that was yours — twenty-one thousand face, the Dealing and the retained."
+> (T2 · tone) *Level, public, and unafraid — the speaking done the way debts are paid: in daylight, where men can see.*
+> The room's murmur dips. Rackham doesn't move — the old duelist's stillness, eleven years' waiting in it.
+> (T3 · dialogue) *"The paper was Rackham's."; "The Dealing, the retained."; "The house speaks."*
+> "The Dealing — fifteen thousand." Her voice doesn't waver. "Sold through ten years at the honest prices of their years. The market's books prove it — Julian checked, and the City keeps records."
+> (T4 · stance) *Standing, grey and severe — the heiress speaking the living man's true like a coin laid on a table: plain, and paid.*
+> A sound from the witnesses — surprise, then something else. The market hadn't expected the books cited, and respects the cited.
+> (T5 · look closer) *The room's face shifts — and the spoken settles over the coffee-room like dust after a gust.*
+> "Six thousand retained." She meets his eyes. "Never pledged. Never pressed against the house — through eleven years of war. The pistol —" she pauses "— unfired."
+> (T6 · dialogue) *"The retained, unpressed."; "The pistol, unfired."; "The true, spoken."*
+> Rackham's face does something — the old courtesy cracking, just once, around something human. He bows his head — not submission. Hearing.
+> (T7 · choice) *Let him hear. The price was hearing — pay it whole, and let the market witness the payment.*
+> "The market hears a Hartwell say it." Her voice is quiet now. "Rackham dealt straight in the paper. Whatever else —" she stops. "The paper's the price. And it's paid."
+> (T8 · remembered micro-decision) *The spoken paid, the hearing witnessed — the day's great deed done, the living heard.*
+> The coffee-room's morning holds — then breaks, the murmur rising. The acknowledgment's spoken, and the City's carrying it.
+> (T9 · tone) *Complete, certain, and past the speaking — the deed's done, and the deed stands.*
+> *The morning's light on the living man's bowed head — the true spoken, the market having heard it. The deed done.*
+*Animation: Shared.*
+
+### L22.S9 · [D] · Rose, Rackham, Drayton
+*Purpose: the book, the pounds — Tuesday morning; the entry written, the fourteen thousand counted; the sealed. (Turns: 9)*
+> *(The Company's private room, Tuesday morning. The book, the pounds — the entry written, the fourteen thousand counted — and the sealing is the witnessed kind.)*
+> The buyback book lies open — the ruled page, the paragraph. Rose takes up the pen, and the witnesses gather: Drayton precise, Julian counsel, Henry steady, Bell's pen ready.
+> (T1 · look closer) *The private room's morning light is clean — and the week's paragraph waits on its ruled page.*
+> She writes — the Dealing honest, the retained unpressed, the market's books cited. The paragraph's shape — chosen last night, spoken this morning — goes down in her hand.
+> (T2 · tone) *Formal, final, and exact — the writing done the way the speaking was: plainly.*
+> Rackham watches — the living man, the old courtesy, the hearing still in his face. Drayton stands at his shoulder — eleven years' precision, witnessing.
+> (T3 · dialogue) *"The written, the spoken's."; "The witnessed, the priced."; "The book, the hearing's."*
+> She lifts the pen. Drayton steps forward — and reads the paragraph aloud, precise, unhurried, to the room. The market hears it twice — spoken, then inked.
+> (T4 · stance) *The reading done standing — the broker's voice carrying the heiress's words, the price paid double.*
+> Then the pounds. Julian opens the strongbox — fourteen thousand, counted, banded. Rackham counts it back — the old duelist's economy, to the pound.
+> (T5 · look closer) *Two counts, one exchange — the house's money for the living man's paper, even and exact.*
+> "Twenty-one thousand face." Drayton squares the certificates. "The Dealing's fifteen, the retained's six — assigned, Miss Hartwell. The price —" he looks up "— paid, and heard."
+> (T6 · dialogue) *"The assigned, twenty-one."; "The paid, fourteen."; "The heard, priced."*
+> "Fifty-seven thousand five hundred." Julian writes it — slowly, legibly, finally. "Of seventy-three thousand locked. The face —" he blots "— reclaimed."
+> (T7 · choice) *Take the number. The day's arithmetic is the season's hinge — fifty-seven five hundred.*
+> Rackham takes up the pen — and signs the assignment, his own hand, witnessed. The living man's signature, eleven years late.
+> (T8 · remembered micro-decision) *The signature dried, the assignment sealed — the living man's hand, the paper home.*
+> The private room's morning closes on the deed — written, counted, signed, witnessed. The acknowledgment's day, sealed.
+> (T9 · tone) *Complete, sealed, and witnessed — the book's paragraph inked, the pounds counted, the paper home.*
+> *The morning's clean light on the signed page — the entry written, the fourteen thousand counted. The deed done.*
+*Animation: Shared.*
+
+### L22.S10 · [T] · Rose (alone)
+*Purpose: the signature, drying — Tuesday noon; fifty-seven five hundred; the faced. (Turns: 8)*
+> *(The war room, Tuesday noon. The signature, drying — fifty-seven five hundred — and the facing's the mind's to do alone.)*
+> The ledger lies open. Fifty-seven thousand, five hundred — of seventy-three thousand locked. The ink's still drying on Julian's hand.
+> (T1 · look closer) *The figures stand in their columns — plain, final, and entirely the house's own.*
+> Thirty-six five hundred we held. Twenty-one thousand assigned today — the Dealing's fifteen, the retained's six. Fifty-seven five hundred.
+> (T2 · tone) *Plain, careful, and complete — the facing done the way the City does it: to the pound.*
+> Fourteen thousand paid — twenty-two seven thirty-six become eight seven thirty-six. The venture's remainder, said plain.
+> (T3 · dialogue) *"Fifty-seven five hundred."; "Eight seven thirty-six."; "The faced, the day's."*
+> The outstanding — fifteen five hundred. The Crown's nine thousand — Drummond cold. The scattered — sixty-five hundred, five holders.
+> (T4 · remembered micro-decision) *Count the outstanding, bank the facing — the nine, the sixty-five, the day faced.*
+> And Rackham — living. The acknowledgment spoken, then written. The market heard it twice. The old man's bowed head — hearing.
+> (T5 · look closer) *The morning sits in the ledger's margins — uninked in pounds, paid in full.*
+> She closes the ledger. The war room's noon falls across the cover — plain leather, worn edges, the season's arithmetic in it.
+> (T6 · dialogue) *"The deed, done."; "The face, fifty-seven."; "The noon, filed."*
+> The coffee's hot. She drinks it standing — the day's habit, bitter and necessary. Outside the war room's windows the City goes about its noon business, and for once she doesn't have to chase it. The morning's great deed sits in the ledger, drying. Let the afternoon come when it comes.
+> (T7 · choice) *Drink it. The morning's great deed is done — what comes is the afternoon's.*
+> The war room's noon holds its quiet — fifty-seven five hundred, the signature drying.
+> (T8 · remembered micro-decision) *Bank the noon's facing with the afternoon's coming — the deed faced, the day turning.*
+> *The noon on the war room's table — fifty-seven five hundred, the ink drying. The arithmetic faced.*
+*Animation: Shared.*
+### L22.S11 · [D] · Rose, Julian
+*Purpose: the assignment, filed — Tuesday noon; eight seven thirty-six, fifty-seven five hundred; the counsel's. (Turns: 8)*
+> *(Julian's chambers, Tuesday noon. The assignment, filed — the figures, the filed — and the counsel's pen moves like a seal.)*
+> "Fifty-seven thousand five hundred." Julian writes it down — slowly, legibly, finally. "Of seventy-three thousand locked. The Dealing's fifteen, the retained's six — assigned, witnessed, filed."
+> (T1 · look closer) *The pen moves across the page — and the day's great number takes its place in ink, permanent.*
+> "The venture." Rose watches him write. "Twenty-two seven thirty-six — less fourteen thousand. Eight thousand, seven hundred and thirty-six."
+> (T2 · tone) *Quiet, satisfied, and tired to the bone — the morning's hinge has closed, and the tired is honest.*
+> "Eight seven thirty-six." He blots the page. "The estate uncharged — that's recorded too. The held —" he checks "— twenty-six thousand three hundred sixteen in Hartwell paper, at cost."
+> (T3 · dialogue) *"The filed, fifty-seven."; "The venture, eight seven."; "The held, twenty-six three."*
+> "Twenty-six three sixteen." She does the sum. "Twelve three sixteen we held, fourteen thousand today's. The day's cost, stated."
+> (T4 · stance) *In the chambers' lamplight — the heiress hearing the day's accounts read back, complete and exact.*
+> Julian looks up. "The acknowledgment — spoken, then written. The market heard it twice, Rose. There's —" he pauses "— no better reading."
+> (T5 · look closer) *The counsel's face in the noon light — tired, respectful, and conceding the day its greatness.*
+> "Twice." She stands. "Julian — the Dealing's registration. Fifteen thousand — the paper's home, but the registry —" she stops.
+> (T6 · dialogue) *"The registered, pending."; "The paper, home."; "The morrow's law."*
+> "The morrow's." He stands too. "The registration's filed tomorrow, Rose. Today —" he gestures at the book "— today was the speaking's."
+> (T7 · choice) *Take the counsel's word. The day's done its great things — the spoken, the written, the counted.*
+> The chambers settle into noon. The ledger lies open, the assignment filed, the ink drying on the day's great number.
+> (T8 · remembered micro-decision) *The record kept, the counsel thanked — the day's accounts filed, the fifty-seven inked.*
+> *The noon's light over the ledger — fifty-seven five hundred, inked and filed. The record keeps.*
+*Animation: Shared.*
+
+### L22.S12 · [F] · Rose, Élise
+*Purpose: the afternoon's cloth — Tuesday noon; the grey, the day's; the professional. (Turns: 8)*
+> *(Tuesday noon. Élise comes with the afternoon's eye — the day's cloth, the deed's — and the professional's verdict is the satisfied kind.)*
+> "The grey." Élise circles her slowly. "The endured — and it endured, Rose. Ten o'clock, the living man, the spoken —" she smiles "— the cloth never wavered."
+> (T1 · look closer) *The professional's eye travels the length of her — and the day's cloth is approved before Rose can argue.*
+> "It endured." Rose turns in the glass. "Élise — the afternoon. The summons — Drummond, the Crown's tranche. What does the house wear to face the cold?"
+> (T2 · tone) *Amused, compliant, and aware — the agent dresses the principal, and the principal knows better than to interfere.*
+> "The grey." Élise doesn't hesitate. "The grey for the cold, Rose — the endured endures Drummond too. The City reads the grey as —" she pins a fold "— unmovable."
+> (T3 · dialogue) *"The grey, unmovable."; "The cold, faced."; "The afternoon's, kept."*
+> "Unmovable." She holds still. "The acknowledgment's spoken, Élise — twice heard. The book's paragraph — inked. The day's done its great deed."
+> (T4 · stance) *Mid-pinning — the day's news delivered between fittings, the way everything important gets delivered.*
+> Élise's hands still. "Twice heard." A beat. "The market's carrying it, Rose — the coffee-room's still buzzing. That's —" she resumes pinning "— that's the season's bravest paragraph."
+> (T5 · look closer) *The pins go back in, quick and sure — and the professional's mind is already cutting the afternoon to fit the news.*
+> "The bravest." Rose looks in the glass: dove grey, white heather, a woman's level gaze. "The afternoon, Élise — Drummond's summons. The cold."
+> (T6 · dialogue) *"The cold, coming."; "The grey, ready."; "The afternoon's dressed."*
+> "The grey's ready." Élise steps back. "Done. Wear it like the house buries no one twice — and outlasts the cold."
+> (T7 · choice — no coin cost, remembered) *the grey kept on — the endured, the afternoon's cloth (the deed's done, the cloth stands); the blue for the morrow — the believed, Wednesday's reading; the heather — re-pinned, the day's mark, or rested, the afternoon plain.* — remembered: *The grey, kept.*
+> The carriage waits. Rose takes the shawl and goes down to the afternoon — grey, severe, heather-marked, unmovable.
+> (T8 · remembered micro-decision) *The afternoon dressed, the mark worn — the professional's work filed, the cold faced in grey.*
+> *The noon takes the grey silk like it was made for it — the afternoon's cloth ready, the professional's belief in it.*
+*Animation: Shared.*
+
+### L22.S13 · [D] · Rose, Octavia
+*Purpose: the painter on the deed — Tuesday afternoon; the living painted; the honest. (Turns: 8)*
+> *(Octavia's studio, Tuesday afternoon. The painter's on the deed — the living, the spoken — and the canvas is already reaching for the morning.)*
+> "He came." Octavia doesn't look up from the palette. "The living man — I was there, Rose, where the market hears. Sit. I need the grey while the morning's still in it."
+> (T1 · look closer) *The studio smells of turpentine and afternoon — and the painter's eye is already three brushstrokes into ten o'clock.*
+> "The spoken." Rose takes the pose — chin up, shoulders square. "Twice heard, Octavia — spoken first, then Drayton read it. The market —" she holds still "— heard it twice."
+> (T2 · tone) *Easy, unguarded, and half-distracted by the canvas — the studio is the one room where the day can't follow.*
+> "Twice." The brush moves — fast, certain. "His face, Rose — when you said the pistol unfired. The old courtesy —" she pauses "— cracking. That's the portrait's truth, you know. Not the paper. The hearing."
+> (T3 · dialogue) *"The hearing, painted."; "The cracking, caught."; "The truth, the face's."*
+> "The hearing." Rose holds the pose. "Octavia — the portrait. The season's face. It's —" she doesn't move her head "— nearing, you said."
+> (T4 · stance) *Chin up, unmoving — the sitter's discipline, the heiress's certainty, held in the painter's light.*
+> "Nearing." The brush doesn't stop. "The grey's going in today — the endured. The heather —" she smiles "— the mark. Another sitting, maybe two, and the season's face is finished."
+> (T5 · look closer) *The canvas fills — dove grey, white heather, a woman's set jaw — and the day's likeness takes its shape.*
+> "Finished." Rose doesn't move. "And then, Octavia — what will it say?"
+> (T6 · dialogue) *"The finished, coming."; "The saying, the look's."; "The season's face."*
+> "Look." The painter's eyes shine. "That's all, Rose — look. The portrait's nearly done, and the looking's nearly true."
+> (T7 · choice) *Let the painter look. The canvas keeps what the ledger can't — the morning the buried walked.*
+> The sitting ends. Rose stands, shakes out the silk, and looks at the canvas — herself in grey, half-finished, the day's face still drying.
+> (T8 · remembered micro-decision) *The sitting kept, the nearing noted — the painter's progress filed, the likeness nearing.*
+> *The studio door closes on the turpentine — the portrait nearing, the painter's eye on the deed.*
+*Animation: Shared.*
+
+### L22.S14 · [D] · Rose, Letitia
+*Purpose: the aunt on the deed — Tuesday afternoon; the spoken's standing; the comfort. (Turns: 8)*
+> *(The sitting room, Tuesday afternoon. Letitia comes with the deed already half-heard — and the comfort the unforced kind: warm, stated, and the tea hot.)*
+> "The spoken, darling." Letitia pours — warm to the bone. "Twice heard — the coffee-room's still buzzing, and I'm delighted. The pistol unfired —" she pats her heart "— the aunt heard it."
+> (T1 · look closer) *The sitting room's afternoon light is kind — and the aunt's delight is the day's warmest thing: stated plain, and delighted.*
+> "Twice heard." Rose takes the tea. "Aunt — the living man. His face — when the market heard it. The old courtesy —" she stops.
+> (T2 · tone) *Warm, easy, and niece-soft — the afternoon's end with the aunt is the day's softest hour.*
+> "Cracking." Letitia's eyes shine — the comic, delighted. "They say he bowed his head, darling — hearing. Eleven years buried, and a Hartwell speaks him honest —" she shakes her head "— the aunt's delighted, and the aunt's not ashamed to say it."
+> (T3 · dialogue) *"The bowed, hearing."; "The delighted, unashamed."; "The deed, done."*
+> "The deed's done." Rose smiles. "Fifty-seven five hundred, Aunt — of seventy-three thousand. The face —" she counts "— the Dealing's fifteen, the retained's six, all home."
+> (T4 · stance) *At ease with the tea — the niece letting the aunt's delight wash over the day's tired.*
+> "Home." Letitia pours again. "And the fourteen thousand —" she does the sum "— the venture's eight seven thirty-six now. Darling —" she leans in "— the afternoon's summons. Drummond."
+> (T5 · look closer) *The second cup steams — and the aunt's counsel turns to the cold, the comic set aside.*
+> "Drummond." Rose stands. "The Crown's tranche — nine thousand. The cold hand moves, Aunt. The summons —" she checks the clock "— is now."
+> (T6 · dialogue) *"The summons, now."; "The cold, moving."; "The tranche, nine."*
+> "Now." Letitia shoos her — the formidable, quiet. "Go, darling — the grey, the endured. The cold wants enduring."
+> (T7 · choice) *Go. The aunt's orders are the afternoon's kindest — and the easiest to obey.*
+> The sitting room door closes on the tea's steam — the afternoon's warmth, kept.
+> (T8 · remembered micro-decision) *The comfort banked, the orders taken — the aunt's delight filed, the cold faced.*
+> *The afternoon's kind light on the sitting room — the deed told, the comfort holding warm.*
+*Animation: Shared.*
+
+### L22.S15 · [D] · Rose, Lavinia
+*Purpose: the friend on the deed — Tuesday afternoon; the circle's talk; the young. (Turns: 8)*
+> *(The drawing room, Tuesday afternoon. Lavinia's heard the deed — the whole circle has — and the friend's caught between the telling and the hearing.)*
+> "Twice heard." Lavinia paces. "The circle's full of it, Rose — the living man, the pistol unfired, the market hearing it twice. They're —" she stops. "They don't know what to do with it."
+> (T1 · look closer) *The pacing is quick, the worry is real — and the friend's loyalty is pulling hard against the circle's undertow.*
+> "Let them." Rose doesn't rise. "The deed's done, Lavinia — spoken, written, counted. Fifty-seven five hundred. The circle can do what it likes with it."
+> (T2 · tone) *Patient, plain, and finished with the circle — the friend gets the truth; the circle gets nothing.*
+> "Sloane's circle —" Lavinia stops. "They're saying Merrivale's furious. The Dealing — assigned under his nose. Rose —" she looks down "— the widow's dinners. Tonight. I'm —"
+> (T3 · dialogue) *"The circle, full."; "Merrivale, furious."; "The dinners, tonight."*
+> "Go." Rose meets her eyes. "Lavinia — go to the dinner. Hear the glitter. And the true —" she takes her hand "— you hear from me first. Always."
+> (T4 · stance) *Seated, open-handed — the older friend's grace extended to the younger, no strings on it.*
+> Lavinia's face does something complicated. "The pull —" she starts, then stops. "Stays, Rose. Whatever the widow's circle says tonight — the friend keeps."
+> (T5 · look closer) *The promise costs her — and the friend's keeping is the loyalty's bravest act: the pull, stayed.*
+> "Kept." Rose squeezes her hand. "And Lavinia — Drummond's summons. The Crown's tranche. The cold —" she stands "— is now."
+> (T6 · dialogue) *"The friend, kept."; "The summons, now."; "The cold, faced."*
+> "Now." Lavinia's smile is small but real. "Rose — the grey. The endured. Go and endure."
+> (T7 · choice) *Go and endure. The friend's orders are the afternoon's kindest — and the truest.*
+> The drawing room settles into afternoon quiet — the promise holding its order: the friend hears the true first.
+> (T8 · remembered micro-decision) *The promise made, the dinner allowed — the friend's loyalty filed, the cold faced.*
+> *The afternoon's soft light on the drawing room — the deed told, the loyalty staying.*
+*Animation: Shared.*
+
+### L22.S16 · [D] · Rose, Sloane
+*Purpose: the widow on the deed — Tuesday afternoon; the spoken's reading; the duel's twenty-ninth touch. (Turns: 8)*
+> *(The Company's coffee-room, Tuesday afternoon. Mrs. Sloane is waiting — crimson deep as ever — and the widow on the deed is the gracious kind: the duel's twenty-ninth touch, and glad of it.)*
+> "Miss Hartwell." Sloane's smile is genuine. "Twice heard — the coffee-room's still ringing, and the City's still carrying it. The pistol unfired —" she touches her diamonds "— the widow heard it."
+> (T1 · look closer) *The coffee-room's afternoon light gilds the crimson — and the widow's pleasure in the day's outcome is the gracious kind: stated plain, and warm.*
+> "Mrs. Sloane." Rose takes the offered seat. "The deed's done — spoken, written, counted. Fifty-seven five hundred. The market heard it twice."
+> (T2 · tone) *Warm, junior, and honest — the widow gets the junior's grace, and the grace is real.*
+> "Twice." Sloane leans in. "The young speak truly, Miss Hartwell — I said it at the twenty-eighth, and I say it at the twenty-ninth. You spoke a living man's true to his face —" she pauses "— that's the bravest paragraph in London."
+> (T3 · dialogue) *"The young speak truly."; "The bravest paragraph."; "The duel's twenty-ninth."*
+> "The books spoke it." Rose meets her eyes. "Julian checked — ten years, every sale honest. The paragraph only —" she stops.
+> (T4 · stance) *Forward, earnest — the junior giving the widow the day's truth, whole.*
+> "Only wrote what was done." The widow considers — the compliment whole. "The acknowledged holds, Miss Hartwell. And the unbeaten —" she smiles "— remains unbeaten still. The widow's record's intact."
+> (T5 · look closer) *The smile is mischievous, the diamonds flash — and the duel's twenty-ninth touch lands like a toast.*
+> "Unbeaten still." Rose laughs. "Mrs. Sloane, the day keeps trying to end your record. It never manages."
+> (T6 · dialogue) *"Unbeaten still."; "The record holds."; "The day's trying."*
+> "Nor shall it." The widow rises — graceful to the last. "This afternoon — Drummond's summons, I hear. The cold." She pauses. "Miss Hartwell — the grey endures the cold. Wear it well."
+> (T7 · choice) *Take the widow's counsel — it's the professional's too, and the afternoon's cloth is chosen twice over.*
+> They part at the coffee-room door — the widow crimson, the heiress grey, the duel's twenty-ninth touch complete.
+> (T8 · remembered micro-decision) *The reading kept, the laugh banked — the widow's twenty-ninth filed, the day's grace noted.*
+> *The afternoon's light on the crimson — the twenty-ninth touch counted, the widow's warmth lingering.*
+*Animation: Shared.*
+
+### L22.S17 · [F] · Rose (alone)
+*Purpose: the summons' cloth — Tuesday afternoon; the fifty-seven faced, the grey chosen; the faced, the day's. (Turns: 8)*
+> *(The war room, Tuesday afternoon. The fifty-seven, faced — the day's arithmetic — and the facing's the mind's to do alone.)*
+> The ledger lies open. Fifty-seven thousand, five hundred. Eight seven thirty-six, the venture. Fifteen five hundred, outstanding.
+> (T1 · look closer) *The figures stand in their columns — plain, final, and entirely the house's own.*
+> The Dealing's fifteen — home, assigned, the living man's hand on it. The retained's six — home. The Crown's nine — Drummond cold. The scattered sixty-five — five holders.
+> (T2 · tone) *Plain, careful, and complete — the facing done the way the City does it: to the pound.*
+> "Fifty-seven five hundred." She says it aloud. "Of seventy-three thousand. The deed's done — spoken, written, counted."
+> (T3 · dialogue) *"Fifty-seven five hundred."; "The deed done."; "The faced, the day's."*
+> The summons — Drummond's. The Crown's tranche — nine thousand, held through the trustees, the cold hand moving at last. The afternoon's the hour, and the grey's the cloth — the endured, the unmovable. The cold wants enduring, and she'll give it the grey entire — the City-read proof that the house never flinches, not today.
+> (T4 · remembered micro-decision) *Count the summons, bank the facing — the cold coming, the day faced.*
+> She closes the ledger. The war room's afternoon falls across the cover — plain leather, worn edges, the day's arithmetic in it.
+> (T5 · look closer) *The cover's worn at the edges — the season's handling, the deed's keeping, complete.*
+> The grey silk. The heather. The summons — now. The cold, faced in grey.
+> (T6 · dialogue) *"The summons, now."; "The cold, faced."; "The grey, enduring."*
+> She goes — the afternoon's light, the City, Drummond's door.
+> (T7 · choice — no coin cost, remembered) *the grey — the endured, the unmovable (the cold wants enduring, and the grey endures); the blue — the believed, but belief's not the cold's currency; the heather — pinned, the week's mark, the house's signature on the summons.* — remembered: *The grey, for the cold.*
+> The war room's afternoon holds its quiet — fifty-seven five hundred, the deed faced.
+> (T8 · remembered micro-decision) *Bank the afternoon's facing with the summons' hour — the deed faced, the cold coming.*
+> *The afternoon on the war room's table — fifty-seven five hundred faced, the summons' hour here.*
+*Animation: Shared.*
+
+### L22.S18 · [D] · Rose, Julian
+*Purpose: ★ KEY DECISION 2/3 — THE SUMMONS (how the house answers Drummond). (Turns: 3 — the decision)*
+> *(Tuesday afternoon, Julian's chambers: the summons — Drummond's, the Crown's tranche — and the day's second decision is how the house answers the cold hand.)*
+> "The summons." — Rose. "Drummond — the *Crown's* *tranche*, nine *thousand*, the *cold* hand *moving*. *How* the house answers it —" she looks to Julian "— is the day's to choose."
+*★ KEY DECISION 2/3 — The Summons:*
+- **Go at once** — *the prompt road.* "Go at once — the summons answered within the hour — and let the cold see the house does not keep it waiting." *(The answered, the prompt; the seen, the day's.)*
+- **Keep him waiting** — *the patient road.* "Keep him waiting — the day's deed first, the summons after — and let the cold learn the house has its own hours." *(The answered, the patient; the learnt, the day's.)*
+- **Send Julian first** — *the counsel's road.* "Send Julian to hear Drummond first — the law's ear, the house's shield — and go with counsel beside her." *(The answered, the shielded; the heard, the day's.)*
+> *(The game remembers the choice — and the means: the prompt, the patient, or the counsel's. The destination was never in doubt. The signature is hers.)*
+*Animation: Shared.*
+
+### L22.S19 · [D] · Rose, Drummond
+*Purpose: the summons, answered — Tuesday afternoon; the cold hand, the tranche; the informed. (Turns: 8)*
+> *(Drummond's chambers, Tuesday afternoon. The summons, answered — the cold hand, the tranche — and the answering is the careful kind: the grey, the endured, the unmovable.)*
+> Drummond doesn't rise. He's spare, precise, the establishment's cold entire — and the room is arranged the way power arranges rooms: to make the visitor feel the distance.
+> (T1 · look closer) *The chambers' afternoon light is thin — and the cold sits in it like a fourth person at the table.*
+> "Miss Hartwell." The voice is dry, minimal. "The Crown's tranche. Nine thousand. You have —" a pause "— asked after it."
+> (T2 · tone) *Cold, exact, and finished with courtesy — the summons answered the way the cold answers: minimally.*
+> "I have asked, Mr. Drummond." Rose doesn't sit — isn't asked to. "Nine thousand of Hartwell face, held through the trustees. The house —" she pauses "— would treat for it."
+> (T3 · dialogue) *"The asked, stated."; "The treated, offered."; "The house, ready."*
+> "The trustees." He steeples his fingers. "Do not treat, Miss Hartwell. They —" the pause is glacial "— hold."
+> (T4 · stance) *Standing in the thin light — the heiress facing the cold the way the grey faces it: unmoved.*
+> "Hold." She takes it in. "Mr. Drummond — the Dealing's assigned today. Twenty-one thousand. The market heard it. The tranche —" she meets his eyes "— is the next paragraph."
+> (T5 · look closer) *The cold doesn't flicker — and the heiress's paragraph lands in it like a stone in a pond's ice.*
+> "The trustees hold." He rises — the dismissal entire. "Miss Hartwell —" at the door of the interview, such as it is "— the Crown's paper is not the market's. Good afternoon."
+> (T6 · dialogue) *"The held, repeated."; "The not-market's, stated."; "The afternoon, ended."*
+> "Good afternoon." She goes — the grey unmoved, the heather steady, the cold answered.
+> (T7 · choice) *Leave it. The cold's said its piece — the house will find another door.*
+> The chambers' door closes — the summons answered, the cold unmoved.
+> (T8 · remembered micro-decision) *The answering filed, the cold kept — the summons' hour done, the tranche still held.*
+> *The afternoon's thin light on the closed door — the cold hand moved, and moved nothing.*
+*Animation: Shared.*
+
+### L22.S20 · [D] · Rose, Julian
+*Purpose: counsel on the cold — Tuesday afternoon; Drummond's words, the law's reading; the counsel's. (Turns: 8)*
+> *(Julian's chambers, Tuesday afternoon. Counsel on the cold — Drummond's words, the law's reading — and the reading the law's kind: stated plain, and grave.)*
+> "The trustees hold." Julian repeats it back. "The Crown's paper is not the market's. Rose —" he looks up "— that's not a refusal. That's —" he pauses "— altitude."
+> (T1 · look closer) *The chambers' afternoon light is low — and the counsel's reading of the cold is the law's kind: stated plain.*
+> "Altitude." She sits. "Julian — the trustees. Three of them. The deed —" she leans forward "— what does it say about the holding?"
+> (T2 · tone) *Grave, attentive, and counsel-bound — the afternoon's cold deserves the law's ear.*
+> "The deed." He pulls the papers. "Three trustees — and a clause, Rose. Four-fifths —" he reads "— on a bona fide tender at four-fifths of face or better, any trustee may convey, the others declining in writing."
+> (T3 · dialogue) *"The deed, the clause."; "Four-fifths, the tender."; "The any-trustee, the conveying."*
+> "Four-fifths." She does the arithmetic. "Nine thousand — four-fifths is seven thousand two hundred. Any trustee —" she meets his eyes "— the others declining in writing."
+> (T4 · stance) *Forward in the chair — the heiress seeing the deed's door, the counsel holding it open.*
+> "Declining in writing." Julian's precision is absolute. "Drummond will decline, Rose — in writing, gladly. The cold —" he pauses "— writes its refusals beautifully."
+> (T5 · look closer) *The precision is the counsel's honesty — the deed's door, the cold's pen.*
+> "Then the door's the dissent's." She stands. "Three trustees, Julian — and one of them —" she stops.
+> (T6 · dialogue) *"The dissent's door."; "The three, the one."; "The deed, the key."*
+> "One of them." He stands too. "The counsel's reading the trustees' tempers, Rose. The door —" he bows her out "— is there. The key's the finding."
+> (T7 · choice) *Find the key. The afternoon's cold has a deed's door — and the house will find it.*
+> The chambers' door closes — the counsel's reading kept, the deed's door marked.
+> (T8 · remembered micro-decision) *The clause filed, the door found — the law's afternoon kept, the dissent sought.*
+> *The lamp burns low over the deed — four-fifths, the any-trustee, the door.*
+*Animation: Shared.*
+### L22.S21 · [C] · Rose (alone)
+*Purpose: the acknowledgment's ritual — Tuesday night; dressing the deed; the floating ritual, the twenty pins; the spoken, the written. (Turns: 21)*
+> *(Tuesday night, her chambers: the acknowledgment's ritual — the dressing of the deed, the floating ritual — and the twenty pins go in one by one, each with its meaning.)*
+> Direction: toward Wednesday's carrying — the fifty-seven five hundred held, the tranche sought.
+> (T1 · pin 1) *For the spoken — the acknowledgment first, to his face, where the market hears.* — placed: *The spoken kept: first, the night's.*
+> (T2 · pin 2) *For the written — the paragraph inked, Drayton's reading, the book.* — placed: *The written kept: inked, the night's.*
+> (T3 · pin 3) *For the living — Rackham, silvered, the bowed head hearing.* — placed: *The living kept: heard, the night's.*
+> (T4 · pin 4) *For the Dealing — fifteen thousand, honest by the market's books.* — placed: *The Dealing kept: honest, the night's.*
+> (T5 · pin 5) *For the retained — six thousand, the pistol unfired.* — placed: *The retained kept: unpressed, the night's.*
+> (T6 · pin 6) *For the fourteen thousand — counted even and exact, the venture's remainder.* — placed: *The counted kept: exact, the night's.*
+> (T7 · pin 7) *For the fifty-seven five hundred — of seventy-three thousand, the face reclaimed.* — placed: *The fifty-seven kept: reclaimed, the night's.*
+> (T8 · pin 8) *For the eight seven thirty-six — the venture's remainder, said plain.* — placed: *The remainder kept: said, the night's.*
+> (T9 · pin 9) *For the twice-heard — the market's ears, the price's coin.* — placed: *The twice-heard kept: priced, the night's.*
+> (T10 · pin 10) *For the counsel's readiness — Julian's papers, the book ruled.* — placed: *The readiness kept: ruled, the night's.*
+> (T11 · pin 11) *For the steady's boundary — the paper, not the man.* — placed: *The boundary kept: held, the night's.*
+> (T12 · pin 12) *For the dowager's command — speak it well, the City remembers.* — placed: *The command kept: well, the night's.*
+> (T13 · pin 13) *For the aunt's delight — the tea, the pistol unfired heard.* — placed: *The delight kept: warm, the night's.*
+> (T14 · pin 14) *For the friend's keeping — Lavinia's pull stayed, the dinner allowed.* — placed: *The keeping kept: stayed, the night's.*
+> (T15 · pin 15) *For the painter's nearing — the portrait, the grey going in.* — placed: *The nearing kept: grey, the night's.*
+> (T16 · pin 16) *For the widow's twenty-ninth — the young speak truly, the unbeaten.* — placed: *The twenty-ninth kept: gracious, the night's.*
+> (T17 · pin 17) *For the cold's moving — Drummond's summons, the tranche held.* — placed: *The moving kept: cold, the night's.*
+> (T18 · pin 18) *For the deed's door — four-fifths, the any-trustee, the dissent.* — placed: *The door kept: marked, the night's.*
+> (T19 · pin 19) *For the grey — the endured, the day's cloth.* — placed: *The grey kept: endured, the night's.*
+> (T20 · pin 20) *For the morrow's carrying — how the house carries fifty-seven five hundred.* — placed: *The carrying kept: chosen, the night's.*
+> (T21 · direction) *Toward Wednesday's carrying — the fifty-seven five hundred held, the tranche sought, the deed carried.* — remembered: *The ritual faced: twenty placed, the night's.*
+> *The twentieth pin clicks home — Tuesday night in the glass, the deed's dressing underway.*
+*Animation: Shared.*
+
+### L22.S22 · [D] · Rose, Henry
+*Purpose: the day's arithmetic — Tuesday night; fifty-seven five hundred, fifteen five hundred; the stated. (Turns: 8)*
+> *(The war room, Tuesday night. Henry comes with the day's arithmetic — the figures plain, the steadiness sure — and the day stated the steady way: plain, and to the pound.)*
+> "The figures, Rose." Henry opens the ledger. "The venture — eight thousand seven hundred thirty-six. The face — fifty-seven thousand five hundred. The outstanding — fifteen thousand five hundred."
+> (T1 · look closer) *The numbers stand in the lamplight — the day's arithmetic, stated plain.*
+> "Stated." Rose nods. "Henry — the outstanding. Fifteen five hundred — the Crown's nine thousand, and sixty-five hundred scattered among five."
+> (T2 · tone) *Level, certain, and quietly proud — the day's arithmetic deserves its steadiness.*
+> "The nine and the sixty-five." He counts. "Drummond cold — the trustees hold. The five —" he looks up "— the week's after next, Rose."
+> (T3 · dialogue) *"Fifty-seven five hundred, the face."; "Eight seven thirty-six, the venture."; "The nine, the sixty-five."*
+> "The nine and the sixty-five." She does the sum aloud. "The deed's clause — four-fifths, the any-trustee. The dissent's door —" she meets his eyes "— marked."
+> (T4 · stance) *At the ledger, the day's account — the heiress and the steady man, the arithmetic's two keepers.*
+> Henry closes the book. "The day's arithmetic, Rose. Stated, and to the pound."
+> (T5 · look closer) *The closing's soft thud is the night's most satisfying sound — the numbers shut up in their book, behaved.*
+> "The day's arithmetic." She smiles — tired, true. "Henry — the spoken. Twice heard. Was it —" she pauses "— enough?"
+> (T6 · dialogue) *"The arithmetic stated."; "The spoken, twice."; "The enough, asked."*
+> "Enough." He stands — the steady, unhurried. "The market heard a Hartwell speak true, Rose. There's no more enough than that."
+> (T7 · choice) *Take the steady man's word. The day's done its great deed — the spoken stands.*
+> The war room's lamplight falls across the closed ledger — the day's arithmetic in plain leather.
+> (T8 · remembered micro-decision) *The figures filed, the word taken — the day's arithmetic stated, the deed's numbers housed.*
+> *The night on the war room's ledger — fifty-seven five hundred, eight seven thirty-six. The arithmetic stated, the day done.*
+*Animation: Shared.*
+
+### L22.S23 · [D] · Rose, Vale
+*Purpose: Vale on the deed — Tuesday night; the sugar's reading; the honest. (Turns: 8)*
+> *(The Company's coffee-room, Tuesday night. Jasper Vale comes with the deed's reading — the sugar's honesty — and the honest the kept.)*
+> "Miss Hartwell." Vale bows — the sugar to the last. "The deed — fifty-seven five hundred. Twice heard —" he smiles "— the sugar heard both times."
+> (T1 · look closer) *The coffee-room's night light is low — and the sugar merchant's pleasure is the plain kind: stated plain, and honest.*
+> "Both times." Rose gestures to the seat. "Mr. Vale — the Dealing. Assigned, witnessed, filed. And Merrivale —" she watches him "— furious, the circle says."
+> (T2 · tone) *Direct, unadorned, and past pretense — the sugar gets the plain truth, and the plain truth only.*
+> "Furious." Vale's smile fades. "Silas Merrivale wanted the fifteen thousand, Miss Hartwell — his men asked after it all week. The assignment —" he leans in "— took it off the table. Under his nose."
+> (T3 · dialogue) *"The assigned, taken."; "Merrivale, furious."; "The nose, under."*
+> "Under his nose." She takes it in. "Mr. Vale — the furious. What does a furious Merrivale do?"
+> (T4 · stance) *Seated, level — the heiress hearing the night's intelligence straight, and filing it straight.*
+> "Moves." Vale nods — the honest to the last. "The law, Miss Hartwell — Merrivale's weapon's the law. Watch the law's door."
+> (T5 · look closer) *The warning's the sugar's finest — given plain, and left to ripen overnight.*
+> "The law's door." Rose stands. "Watched, Mr. Vale. The house thanks the sugar — for the hearing, and the warning."
+> (T6 · dialogue) *"The law's door, watched."; "The sugar, thanked."; "The night, filed."*
+> "The house holds." He bows — and goes, the honest to the last. "Miss Hartwell — the sugar stands with the house. Whatever the law brings."
+> (T7 · choice) *Take the pledge. The night's allies are counted — and the sugar's among them, warning.*
+> The coffee-room's night settles — the night's sugar, kept honest to the last.
+> (T8 · remembered micro-decision) *The reading kept, the warning banked — the honest's standing filed, the law's door watched.*
+> *The night's low light on the coffee-room — the honest kept, the sugar's warning given, the morrow coming.*
+*Animation: Shared.*
+
+### L22.S24 · [F] · Rose (alone)
+*Purpose: the day's cloth, kept — Tuesday night; the grey, the deed's; the dressing. (Turns: 8)*
+> *(Tuesday night, her chambers. The day's cloth, kept — the grey, the deed's — and the keeping is the day's quietest hour.)*
+> The grey silk hangs on its stand — the deed's cloth, the endured. Rose stands before it in her shift, and the day's weight settles with it.
+> (T1 · look closer) *The silk takes the lamplight without shining — and the day's great cloth waits like a promise kept in cloth.*
+> "The deed." She says it to the empty room. "Spoken, written, counted. Fifty-seven five hundred."
+> (T2 · tone) *Soft, certain, and alone with it — the day's number spoken to no one, and believed.*
+> The blue twill lies folded — yesterday's, the believed's. The grey — today's, the endured's. Two cloths, two readings, the week dressed for the week.
+> (T3 · dialogue) *"The grey endured."; "The deed's done."; "The week's dressed."*
+> She unpins her hair — the severe day's undoing — and it falls loose around her shoulders. The mirror shows a different woman: softer, younger, the day's face unmade.
+> (T4 · stance) *Hair down, shoulders dropped — the heiress unmade, the woman beneath the day's readings.*
+> The white heather's still at her waist — she moves it to the nightstand, careful. It's been the day's mark. Tomorrow it goes back on.
+> (T5 · look closer) *The sprig lies on the wood, small and stubborn — and the day's luck rests with it overnight.*
+> Tomorrow: the carrying. How the house carries fifty-seven five hundred — the day's last decision, made tonight.
+> (T6 · dialogue) *"Tomorrow, the carrying."; "The fifty-seven's keeping."; "The night's last choice."*
+> She blows out the lamp. In the dark, the grey's a paler shadow among shadows — the deed's cloth, waiting.
+> (T7 · choice — no coin cost, remembered) *the grey hung for the morrow — the endured, Wednesday's cloth; the blue folded for reserve — the believed, the week's spare reading; the heather — on the nightstand tonight, back at her waist by morning.* — remembered: *The week's dressed.*
+> Sleep comes slow. The day's numbers turn behind her eyes — fifty-seven five hundred, eight seven thirty-six — until they blur into the dark.
+> (T8 · remembered micro-decision) *Bank the night's quiet with the day's done — the deed closed, the fifty-seven held, the morning coming.*
+> *The dark outside the chamber glass — the silk waiting, Wednesday coming with the carrying.*
+*Animation: Shared.*
+
+### L22.S25 · [D] · Rose, Augusta
+*Purpose: the dowager on the deed — Tuesday night; the spoken's standing; the formidable. (Turns: 8)*
+> *(The dowager's drawing room, Tuesday night. Augusta on the deed — the spoken paid, the written inked — and the dowager the formidable kind: stated plain, and the reading the day's.)*
+> "The spoken, Rose." Augusta doesn't rise. "Twice heard — the market's carrying it, the coffee-room's still buzzing. The written —" the formidable leans forward "— inked, witnessed, filed."
+> (T1 · look closer) *The drawing room's night light is amber — and the dowager's satisfaction is the formidable kind: stated once, and meant.*
+> "Inked." Rose takes the chair. "Grandmama — the living man. His face — when the market heard it twice. The old courtesy —" she stops.
+> (T2 · tone) *Respectful, complete, and quietly triumphant — the night's report delivered to the house's highest court.*
+> "Cracking." The formidable nods — slowly, the full approval. "Eleven years buried, Rose — and a Hartwell speaks him honest. The City —" she pauses "— will talk of nothing else for a month."
+> (T3 · dialogue) *"The spoken stands."; "The City talks."; "The deed, done."*
+> "A month." Rose meets her eyes. "Grandmama — Drummond's summons. The cold — answered. The trustees hold. But the deed —" she leans in "— four-fifths, the any-trustee. The dissent's door."
+> (T4 · stance) *Forward in the chair — the granddaughter laying the deed's door before the house's highest court.*
+> Augusta's eyes sharpen. "Four-fifths." She tastes the clause. "Seven thousand two hundred, Rose — and a dissenting trustee. The cold —" she smiles, thin "— writes its refusals beautifully. Let it."
+> (T5 · look closer) *The thin smile is the formidable's finest — the dowager seeing the deed's door, and liking it.*
+> "Let it." Rose stands. "The dissent — sought, Grandmama. The door — marked. Tomorrow, the carrying."
+> (T6 · dialogue) *"The dissent, sought."; "The door, marked."; "Tomorrow, the carrying."*
+> "Tomorrow." Augusta rises — a dismissal and a benediction in one movement. "And Rose —" at the door "— the grey endured today. Tomorrow it carries."
+> (T7 · choice) *Take the benediction. The night's done, the dowager's pleased — there's no higher court.*
+> The drawing room door closes behind her — soft, final, the night's last audience done.
+> (T8 · remembered micro-decision) *The deed blessed, the door marked — the formidable's word filed, the carrying begun.*
+> *The drawing room's amber night — the spoken standing, the dowager's approval the day's seal.*
+*Animation: Shared.*
+
+### L22.S26 · [D] · Rose, Laurent
+*Purpose: the Frenchman on the deed — Tuesday night; the living faced; the familiar. (Turns: 8)*
+> *(Laurent calls Tuesday night — the deed done, fifty-seven five hundred — and the Frenchman on the deed is the honest kind: precise, pained, and the familiar faced.)*
+> "The deed, Rose." Laurent is grave. "Fifty-seven five hundred — the spoken, the written. I was there —" he pauses "— where the market hears."
+> (T1 · look closer) *The lamplight finds the pain in his face — and the Frenchman's honesty is the night's most familiar thing: precise, pained, and faced.*
+> "There." Rose gestures him in. "Laurent — the living man. Eleven years. The duel's report —" she stops.
+> (T2 · tone) *Gentle, direct, and done with distance — the familiar deserves the plain account.*
+> "Premature." He sits — heavily, for him. "The ruin —" he stops. "Was dealt, once, Rose — the paper, the ruin, my country. The familiar —" he meets her eyes "— stands."
+> (T3 · dialogue) *"The premature, faced."; "The familiar stands."; "The ruin, dealt."*
+> "The familiar stands." She takes his hand — brief, warm. "Laurent — the acknowledgment. The Dealing honest, the retained unpressed. The paper, not the man —" she holds his gaze "— the boundary held."
+> (T4 · stance) *The hand taken, the pain acknowledged — the heiress and the Frenchman, the night's familiar faced.*
+> "The boundary." He bows over her hand. "The courage —" he looks up "— is yours, Rose. The staying —" a pause "— is mine. The deed —" he smiles, pained "— is done."
+> (T5 · look closer) *The bow says it all — passion, pain, and the staying's pledge, all in one movement.*
+> "Done." She smiles. "Laurent — the Crown's tranche. Drummond cold. The deed's door — four-fifths, the dissent. Tomorrow, the carrying."
+> (T6 · dialogue) *"The deed, done."; "The door, marked."; "Tomorrow, the carrying."*
+> "The carrying." He goes — the familiar to the last, the pain faced and the staying pledged. "I will be there, Rose — where the house carries."
+> (T7 · choice) *Let the familiar be there. The night's pain is acknowledged — and the staying's the answer.*
+> The night settles — the Frenchman's visit, the familiar faced, and staying.
+> (T8 · remembered micro-decision) *The pain heard, the staying kept — the familiar's pledge filed, the night's honesty housed.*
+> *The night's lamplight on the empty chair — the familiar standing, the deed's reading shared, the Frenchman gone home.*
+*Animation: Shared.*
+
+### L22.S27 · [D] · Rose, Lavinia
+*Purpose: the friend's night — Tuesday night; the deed's carrying; the loyalty. (Turns: 8)*
+> *(The drawing room, Tuesday night. Lavinia comes with the deed's carrying already heard — and the friend the loyal kind: stated plain, and the pull the stayed's.)*
+> "The carrying, Rose." Lavinia's loyalty is absolute. "Tomorrow — how the house carries fifty-seven five hundred. The circle —" she pauses "— hears, Rose."
+> (T1 · look closer) *The lamplight softens the drawing room — and the young friend's report is the loyalty's kind: told true, and plain.*
+> "Hears." Rose pours. "Lavinia — the carrying — is the day's. The deed — done. The cold — answered. The morrow —" she stops.
+> (T2 · tone) *Warm, steady, and friend-true — the night's end with Lavinia is the loyalty's reward.*
+> "The morrow." Lavinia takes the cup — the loyalty steady. "The widow's dinner —" she looks down "— tonight. I went, Rose. The glitter —" she stops.
+> (T3 · dialogue) *"The dinner, went."; "The glitter, heard."; "The friend, kept."*
+> "And?" Rose sits beside her. "Lavinia — the circle's glitter. What did it say?"
+> (T4 · stance) *Side by side, the night's promise kept — the older friend's grace, the younger's loyalty, steady.*
+> "Merrivale." Lavinia's voice drops. "The widow's circle — they say he's moving. The law, Rose —" she looks up "— they say his weapon's the law."
+> (T5 · look closer) *The whisper's the undertow's — and the friend's telling is the loyalty's bravest act: the warning, given twice.*
+> "The law's door." Rose's voice doesn't change. "Vale said it too, Lavinia — watched. The house watches the law's door."
+> (T6 · dialogue) *"The law's door, watched."; "The warning, twice."; "The house, ready."*
+> "Ready." Lavinia's smile is small but real. "Rose — the friend keeps. Whatever the law brings —" she squeezes her hand "— the friend keeps."
+> (T7 · choice) *Keep the friend. The loyalty's earned its keeping — tonight, tomorrow, the law's door.*
+> The night settles — the drawing room's quiet, the friendship's, holding.
+> (T8 · remembered micro-decision) *The warning heard twice, the friend kept — the loyalty filed, the night's telling complete.*
+> *The night's soft lamplight on the two cups — the loyalty staying, the deed's carrying witnessed by the friend.*
+*Animation: Shared.*
+
+### L22.S28 · [T] · Rose (alone)
+*Purpose: the book, closed — Tuesday night; the paragraph inked, the day done; the kept. (Turns: 8)*
+> *(Her chambers, Tuesday night. The book, closed — the paragraph inked, the day done — and the keeping's the mind's to do alone.)*
+> The buyback book lies closed on the desk — the paragraph inked, the witnesses' names beneath it. Rose stands before it, and the day's great deed rests.
+> (T1 · look closer) *The chamber's night holds the book — the paragraph, the ink, the day's deed.*
+> The Dealing honest — written. The retained unpressed — written. The market's books cited — written. The living man's signature — dried.
+> (T2 · tone) *Quiet, certain, and complete — the keeping done the way the deed was: deliberately.*
+> Fifty-seven five hundred — inked. Eight seven thirty-six — the venture's remainder. Fifteen five hundred — outstanding.
+> (T3 · dialogue) *"The written, inked."; "The fifty-seven, held."; "The night, kept."*
+> The cold — answered, unmoved. The deed's door — four-fifths, marked. The dissent — sought. The law's door — watched, twice warned.
+> (T4 · remembered micro-decision) *Count the doors, bank the keeping — the cold's, the deed's, the law's.*
+> She touches the book's cover — plain leather, worn edges, the season's complete record in it, every paragraph a day's deed. The leather's warm from the lamplight, and it feels less like a book tonight than a held breath, kept.
+> (T5 · look closer) *The leather's worn at the edges — the season's handling, the deed's keeping, complete.*
+> Tomorrow: the carrying. How the house carries fifty-seven five hundred — the night's last decision, made.
+> (T6 · dialogue) *"Tomorrow, the carrying."; "The book, closed."; "The night's choice, made."*
+> She blows out the lamp. The book waits in the dark — the paragraph, the ink, the day.
+> (T7 · choice) *Rest. The book's closed — tomorrow's carrying can wait for morning.*
+> Sleep comes slow. The day's paragraph turns behind her eyes — spoken, written, twice heard — until it blurs into the dark.
+> (T8 · remembered micro-decision) *Bank the night's keeping with the morrow's carrying — the book closed, the deed kept.*
+> *The dark on the chamber's desk — the book closed, the paragraph inked, Wednesday coming.*
+*Animation: Shared.*
+
+### L22.S29 · [D] · Rose, Julian
+*Purpose: ★ KEY DECISION 3/3 — THE CARRYING (how the house carries the fifty-seven five hundred). (Turns: 3 — the decision)*
+> *(Tuesday night, Julian's chambers: the fifty-seven five hundred — the deed done, the cold answered — and the night's last decision is how the house carries it.)*
+> "The carrying." — Rose. "The *fifty-seven* *five* hundred — *spoken*, *written*, *counted*. *How* the house carries it —" she looks to Julian "— is the night's to choose."
+*★ KEY DECISION 3/3 — The Carrying:*
+- **Publish the deed** — *the open road.* "Publish the deed and the paragraph — the Gazette's ink, the City told — and carry fifty-seven five hundred openly." *(The published, the told; the carried, the night's.)*
+- **Hold it quiet** — *the patient's road.* "Hold the deed quiet — the book closed, the paragraph kept — and let the carrying come unannounced." *(The held, the unannounced; the come, the night's.)*
+- **Warn Merrivale off** — *the cold road.* "Send Merrivale word — the Dealing assigned, the paper home — and let the circling learn the table's taken." *(The warned, the learnt; the taken, the night's.)*
+> *(The game remembers the choice — and the means: the open, the patient's, or the cold. The destination was never in doubt. The signature is hers.)*
+*Animation: Shared.*
+
+### L22.S30 · [D] · Rose, Henry
+*Purpose: the night's arithmetic — Tuesday night; the deed's account; the stated. (Turns: 9)*
+> *(The war room, Tuesday night. Henry comes with the night's arithmetic — the deed's account balanced, the fifty-seven stated — and the night stated the steady way: plain, and to the pound.)*
+> "The figures, Rose." Henry opens the ledger — the respect unfeigned. "The venture — eight thousand seven hundred thirty-six. The face — fifty-seven thousand five hundred. The outstanding — fifteen thousand five hundred."
+> (T1 · look closer) *The numbers stand in the lamplight — the night's account, stated plain.*
+> "Stated." Rose nods. "Henry — the outstanding. Fifteen five hundred — the Crown's nine, the scattered sixty-five. The deed's door —" she meets his eyes "— four-fifths."
+> (T2 · tone) *Level, certain, and complete — the night's arithmetic deserves its full reading.*
+> "Four-fifths." He counts. "Seven thousand two hundred, Rose — the any-trustee's price. The venture —" he checks "— holds eight seven thirty-six. The arithmetic —" he looks up "— allows it."
+> (T3 · dialogue) *"Eight seven thirty-six, the venture."; "Seven two hundred, the price."; "The allows, the arithmetic's."*
+> "Allows it." She does the sum aloud. "Eight seven thirty-six — less seven two hundred — leaves one five thirty-six. Thin, Henry — but the deed's door is worth the thinning."
+> (T4 · stance) *At the ledger, the night's account — the heiress and the steady man, the arithmetic's two keepers.*
+> Henry closes the book — the night's thud, soft and final. "The night's arithmetic, Rose. Stated, and to the pound."
+> (T5 · look closer) *The closing's the night's most honest sound — the numbers shut up in their book, the account balanced.*
+> "The night's arithmetic." She smiles — tired, true. "Henry — the law's door. Vale warned, Lavinia warned twice. Watched?"
+> (T6 · dialogue) *"The account stated."; "The fifty-seven precisely."; "The law's door, watched."*
+> "Watched." He stands — the steady, unhurried. "Where the figures live, Rose — the law's door's watched from there too."
+> (T7 · remembered micro-decision) *Keep the keeper. The night's numbers need their steady man — tonight, tomorrow, the law's door.*
+> The war room's lamplight falls across the closed ledger — the night's arithmetic in plain leather.
+> (T8 · look closer) *The leather's worn at the edges — the night's handling, the deed's keeping, complete.*
+> "The estate —" she pauses at the door "— uncharged, Henry."
+> (T9 · dialogue) *"The estate uncharged."; "The night filed."; "The deed stated."*
+> *The night on the war room's ledger — the night's arithmetic stated: fifty-seven five hundred, the deed's account closed.*
+*Animation: Shared.*
+### L22.S31 · [D] · Rose, Laurent
+*Purpose: the Frenchman's accounting — Tuesday night; the staying, the ruin's keeping; the steady. (Turns: 8)*
+> *(Tuesday night, late. Laurent comes with the Frenchman's accounting — the staying's arithmetic — and the late hour's the honest kind: precise, pained, and kept.)*
+> "The arithmetic, Rose." Laurent is quiet. "Fifty-seven five hundred — the spoken, the written. The ruin —" he pauses "— keeps its books too, you know."
+> (T1 · look closer) *The night's lamp burns low — and the Frenchman's candor is the evening's bravest thing: stated plain, and kept.*
+> "Its books." Rose gestures him in. "Laurent — the familiar. Was dealt, once — the paper, the ruin. Tell me —" she sits "— the keeping's whole."
+> (T2 · tone) *Open, listening, and done with distance — the night's late hour gets the familiar's full account.*
+> "The ruin's arithmetic." He sits — heavy, for him. "The ledger —" he stops. "The figures, Rose. The ruin's figures —" he looks away "— and the staying's. I stayed —" he meets her eyes "— I kept the staying."
+> (T3 · dialogue) *"The ruin kept."; "The staying kept."; "The books, two."*
+> "The staying." She takes his hand — the night's comfort, brief. "Laurent — the Frenchman's account. The night hears it whole."
+> (T4 · stance) *The hand taken, the late hour's intimacy — the heiress hearing the ruin's books, the staying's, complete.*
+> "The whole." He bows over her hand. "The figures —" he recites them, low "— and the staying's sum. The deed —" he looks up "— is done, Rose. The staying —" a pause "— is the night's."
+> (T5 · look closer) *The recitation's the bravest thing — the ruin's numbers said aloud, and the staying's pledged with them.*
+> "The night's." She smiles. "Laurent — the carrying. How the house carries fifty-seven five hundred — chosen tonight."
+> (T6 · dialogue) *"The staying, pledged."; "The carrying, chosen."; "The night, kept."*
+> "Chosen." He goes — the Frenchman to the last, the ruin kept and the staying pledged. "Where the house carries, Rose — I am there."
+> (T7 · choice) *Let the familiar be there. The late hour's account is closed — and the staying's the sum.*
+> The night settles — the Frenchman's ledger shut, the familiar's keeping filed.
+> (T8 · remembered micro-decision) *The account heard, the staying banked — the night's arithmetic complete, the ruin acknowledged.*
+> *The night's low lamplight on the empty chair — the ruin's books kept, the staying's sum the night's.*
+*Animation: Shared.*
+
+### L22.S32 · [D] · Rose, Julian
+*Purpose: the counsel's night — Tuesday night; the law's doors, the two; the counsel's. (Turns: 8)*
+> *(Julian's chambers, Tuesday night. The counsel's night — the law's doors, the two — and the reading the night's kind: stated plain, and complete.)*
+> "The two doors, Rose." Julian spreads the papers. "The deed's — four-fifths, the any-trustee, seven two hundred. The law's —" he looks up "— Merrivale's, warned twice. Both watched."
+> (T1 · look closer) *The night's lamp burns over the papers — and the counsel's watch is the law's kind: stated plain, and kept.*
+> "Both." Rose takes the chair. "Julian — the deed's door. The dissent — the any-trustee. Who's the finding?"
+> (T2 · tone) *Grave, attentive, and counsel-bound — the night's doors deserve the law's ear.*
+> "The finding." He pulls a memorandum. "The trustees' tempers — three of them. One —" he reads "— inclined to convey, if the tender's bona fide. The cold —" he pauses "— writes the refusal. The third —" he stops.
+> (T3 · dialogue) *"The three, the tempers."; "The inclined, the one."; "The refused, the cold."*
+> "The one." She leans forward. "Julian — the name. The inclined one's —" she meets his eyes "— name."
+> (T4 · stance) *Forward in the chair — the heiress pressing the counsel for the finding, the night's law demanded.*
+> "Pemberton." Julian's precision is absolute. "The inclined one's Pemberton, Rose — inclined to convey, if the tender's bona fide at four-fifths. The deed's door —" he pauses "— is Pemberton's."
+> (T5 · look closer) *The name lands in the lamplight — Pemberton, the any-trustee, the deed's door personified.*
+> "Pemberton." She stands. "The night's finding — the dissent's name. Julian — the counsel's night is —" she smiles "— the law's finest."
+> (T6 · dialogue) *"Pemberton, the door."; "The finding, the night's."; "The counsel's finest."*
+> "The law's finest." He bows her out — the night's counsel, complete. "And Rose — the law's door. Merrivale's. The watching —" he holds the door "— is mine."
+> (T7 · choice) *Let the counsel watch. The night's two doors — the deed's, the law's — are both kept.*
+> The chambers' door closes — the counsel's night filed, the two doors watched.
+> (T8 · remembered micro-decision) *The doors marked, the name found — Pemberton, the night's finding, the watching kept.*
+> *The night's lamp over the papers — two doors, the deed's and the law's, both watched.*
+*Animation: Shared.*
+
+### L22.S33 · [D] · Rose, Octavia
+*Purpose: the painter's night — Tuesday night; the deed painted, the nearing; the night. (Turns: 8)*
+> *(Octavia's studio, Tuesday night. The painter's night — the deed painted, the nearing — and the canvas is the night's to keep.)*
+> "The deed, Rose." Octavia doesn't look up. "The painted — the spoken's, the twice-heard's. The canvas —" the brush moves "— keeps the day."
+> (T1 · look closer) *The studio's night smells of turpentine and lamp — and the painter's eye is still three brushstrokes into ten o'clock.*
+> "Keeps it." Rose takes the pose — the night's sitting, the deed's. "Octavia — the grey. The endured — today, and the carrying tomorrow."
+> (T2 · tone) *Easy, unguarded, and half-distracted — the night's studio is the one room where the day can't follow.*
+> "The endured." The brush doesn't stop. "The portrait's nearing, Rose — the grey's in, the heather's in. Another sitting —" she smiles "— and the season's face is finished."
+> (T3 · dialogue) *"The nearing, the portrait's."; "The finished, coming."; "The face, the season's."*
+> "Finished." Rose holds the pose. "And then, Octavia — the Gazette. The deed —" she doesn't move "— published or quiet?"
+> (T4 · stance) *Chin up, unmoving — the sitter's discipline, the night's keeping, held.*
+> "Published." The painter's eyes shine. "The deed's the season's bravest paragraph, Rose — the City should read it. But —" the brush pauses "— the carrying's yours, not the canvas's."
+> (T5 · look closer) *The pause's the painter's wisdom — the canvas advises, the heiress decides.*
+> "Mine." Rose smiles — the night's ease, the sitter's. "The carrying — chosen tonight, Octavia. The night decides, and the canvas keeps the day."
+> (T6 · dialogue) *"The carrying, the night's."; "The chosen, tonight."; "The canvas, advised."*
+> "Tonight." Octavia's brush resumes. "Sit. The night's sitting — the deed's keeping — and the portrait's nearing's kept."
+> (T7 · choice) *Sit. The night's keeping is the painter's — and the heiress's.*
+> The sitting ends. Rose stands — the night's canvas, the deed half-painted, the portrait nearing.
+> (T8 · remembered micro-decision) *The sitting kept, the counsel heard — the painter's night filed, the carrying the heiress's.*
+> *The studio's night on the canvas — the deed painted, the nearing kept, the night's.*
+*Animation: Shared.*
+
+### L22.S34 · [F] · Rose (alone)
+*Purpose: the morrow's cloth — Tuesday night; the deed's doors faced, Wednesday's dressing; the faced, the night's. (Turns: 8)*
+> *(Her chambers, Tuesday night. The night's facing — the deed's doors, the two — and the facing's the mind's to do alone.)*
+> The deed's door — Pemberton, the any-trustee, seven two hundred. The law's door — Merrivale's, warned twice, watched.
+> (T1 · look closer) *The night's doors stand in the mind's eye — plain, marked, and entirely the house's to open.*
+> The fifty-seven five hundred — carried, how chosen. The nine thousand — the deed's door's price. The sixty-five — five holders.
+> (T2 · tone) *Plain, careful, and complete — the facing done the way the night does it: deliberately.*
+> "The two doors." She says it aloud. "Pemberton's — and Merrivale's. The deed's, and the law's."
+> (T3 · dialogue) *"The two doors."; "Pemberton's, Merrivale's."; "The faced, the night's."*
+> The carrying — chosen. The fifty-seven's keeping — the night's choice. The morrow — Wednesday.
+> (T4 · remembered micro-decision) *Count the doors, bank the facing — the night's choice made, the morrow coming.*
+> She stands at the glass — the night's woman, hair down, the day's readings put away.
+> (T5 · look closer) *The mirror shows the unmade — the woman beneath the deed's cloth, faced and kept.*
+> The grey hangs waiting on its stand, the heather resting on the nightstand beside it — the day's two marks, kept. The night's last hour is the facing's, and the facing's done: two doors, the deed's and the law's, both marked, both watched. Tomorrow's carrying can find her ready.
+> (T6 · dialogue) *"The night's last hour."; "The facing, done."; "The morrow, Wednesday."*
+> She turns from the glass. The night's done its facing — the doors marked, the carrying chosen, the grey waiting for Wednesday.
+> (T7 · choice — no coin cost, remembered) *the grey for Wednesday — the endured, the law's day's cloth (the carrying wants enduring); the blue — the believed, held for the hearing's fortnight; the heather — pinned, the week's mark, or rested, the night plain.* — remembered: *The grey, for Wednesday.*
+> Sleep comes slow. The night's doors turn behind her eyes — Pemberton's, Merrivale's — until they blur into the dark.
+> (T8 · remembered micro-decision) *Bank the night's facing with the morrow's carrying — the doors faced, the night done.*
+> *The dark outside the chamber glass — the doors marked, Wednesday coming with the carrying.*
+*Animation: Shared.*
+
+### L22.S35 · [D] · Rose, Lavinia
+*Purpose: the friend's keeping — Tuesday night, late; the deed's morrow; the stayed. (Turns: 8)*
+> *(The drawing room, Tuesday night, late. Lavinia comes with the deed's morrow already kept — and the friend the stayed kind: stated plain, and the pull's.)*
+> "The morrow, Rose." Lavinia's loyalty is absolute. "Wednesday — the carrying. The circle —" she pauses "— will hear it, Rose."
+> (T1 · look closer) *The night's lamp burns low — and the young friend's report is the loyalty's kind: told true, and plain.*
+> "Hear it." Rose pours — the night's late tea. "Lavinia — the deed's door. Pemberton — the any-trustee. The dissent —" she stops.
+> (T2 · tone) *Warm, steady, and friend-true — the late night's end with Lavinia is the loyalty's reward.*
+> "Pemberton." Lavinia takes the cup. "The inclined one — the deed's door. Rose —" she looks up "— the widow's circle. They say —" she stops.
+> (T3 · dialogue) *"Pemberton, the door."; "The circle, saying."; "The friend, telling."*
+> "Say." Rose sits beside her. "Lavinia — the circle's saying. The night hears it whole."
+> (T4 · stance) *Side by side, the night's promise kept — the older friend's grace, the younger's loyalty, steady.*
+> "The law." Lavinia's voice drops. "The widow's circle — Merrivale's moving, Rose. The law's door —" she squeezes her hand "— they say tonight's the night."
+> (T5 · look closer) *The whisper's the undertow's — and the friend's telling is the loyalty's bravest act: the warning, given thrice.*
+> "Tonight." Rose's voice doesn't change. "Lavinia — the watching. Julian's, mine, the house's. The law's door —" she stands "— is watched."
+> (T6 · dialogue) *"The law's door, watched."; "The warning, thrice."; "The house, ready."*
+> "Ready." Lavinia's smile is small but real. "Rose — the friend keeps. Whatever the night brings —" she goes "— the friend keeps."
+> (T7 · choice) *Keep the friend. The loyalty's earned its keeping — tonight, the morrow, the law's door.*
+> The night settles — the drawing room's quiet, the friendship's, holding.
+> (T8 · remembered micro-decision) *The warning heard thrice, the friend kept — the loyalty filed, the night's telling complete.*
+> *The night's low lamplight on the two cups — the loyalty staying, the deed's morrow witnessed by the friend.*
+*Animation: Shared.*
+
+### L22.S36 · [D] · Rose, Henry
+*Purpose: the steady man's night — Tuesday night, late; the deed's keeping; the steady. (Turns: 8)*
+> *(The war room, Tuesday night, late. Henry comes with the steady man's night — the deed's keeping, the fifty-seven's — and the late hour's the steady kind: plain, and to the pound.)*
+> "The figures, Rose." Henry opens the ledger — the late hour's account. "The venture — eight seven thirty-six. The face — fifty-seven five hundred. The outstanding — fifteen five hundred."
+> (T1 · look closer) *The numbers stand in the lamplight — the late night's account, stated plain.*
+> "Stated." Rose nods. "Henry — the law's door. Thrice warned — Vale, Lavinia twice. Watched?"
+> (T2 · tone) *Level, certain, and quietly watchful — the late night's arithmetic deserves its steady man.*
+> "Watched." He closes the book. "The figures — and the doors, Rose. The deed's — Pemberton's. The law's —" he looks up "— Merrivale's. Both."
+> (T3 · dialogue) *"The figures, the doors."; "Pemberton's, Merrivale's."; "The both, watched."*
+> "Both." She stands. "Henry — the carrying. Chosen tonight — the night's choice. The morrow —" she pauses "— carries it."
+> (T4 · stance) *At the ledger, the late night's account — the heiress and the steady man, the keeping's two keepers.*
+> "The morrow." He stands too — the steady, unhurried. "The carrying —" he bows her out "— is the house's, Rose. The steady man —" a pause "— keeps the books."
+> (T5 · look closer) *The bow says it all — the steadiness, the keeping, the night's.*
+> "Keeps them." She smiles — tired, true. "Henry — the night's done. The deed's kept —" she goes "— and the morrow's coming."
+> (T6 · dialogue) *"The books, kept."; "The night, done."; "The morrow, coming."*
+> "Coming." He turns down the lamp — the war room's night, closed. "The steady man's night, Rose —" the door "— the deed's keeping, complete."
+> (T7 · choice) *Take the steady man's night. The late hour's done — the morrow's carrying can wait for morning.*
+> The war room's dark holds the closed ledger — the late night's account in plain leather.
+> (T8 · remembered micro-decision) *The keeping filed, the night closed — the steady man's watch banked, the morrow coming.*
+> *The dark on the war room's table — the ledger closed, the night done, Wednesday coming with the carrying.*
+*Animation: Shared.*
+
+### L22.S37 · [T] · Rose (alone)
+*Purpose: the night's last — Tuesday night, late; the deed's close; the kept. (Turns: 8)*
+> *(Her chambers, Tuesday night, late. The night's last — the deed's close — and the keeping's the mind's to do alone.)*
+> The day's done. The deed — spoken, written, counted. Fifty-seven five hundred. The cold — answered. The doors — marked. The carrying — chosen.
+> (T1 · look closer) *The night's last hour stands in the chamber — plain, complete, and entirely the house's own.*
+> The spoken — twice heard. The written — inked, witnessed. The counted — fourteen thousand, even. The living — bowed, hearing.
+> (T2 · tone) *Quiet, certain, and complete — the last hour done the way the deed was: deliberately.*
+> "The day." She says it aloud. "The acknowledgment — spoken, written. The fifty-seven — held."
+> (T3 · dialogue) *"The day, done."; "The fifty-seven, held."; "The night, last."*
+> The law's door — watched, thrice warned. The deed's door — Pemberton's, marked. The morrow — Wednesday, the carrying.
+> (T4 · remembered micro-decision) *Count the day, bank the last — the doors watched, the carrying chosen.*
+> She stands at the glass — the night's last woman, the day's readings put away.
+> (T5 · look closer) *The mirror shows the unmade — the woman beneath the deed's cloth, kept and faced.*
+> The grey hangs waiting, the heather rests on the nightstand — the day's marks, kept safe. The night's last hour is the deed's close, and the close is complete: spoken, written, counted, faced. The carrying's chosen. There's nothing left but sleep, and the morning's papers.
+> (T6 · dialogue) *"The night's last."; "The deed, closed."; "The morrow, Wednesday."*
+> She turns from the glass. The night's done its last — the day closed, the carrying chosen, the fifty-seven held against the morning.
+> (T7 · choice) *Rest. The night's last has closed — Wednesday's carrying can wait for morning.*
+> Sleep comes at last. The day's numbers turn no more — fifty-seven five hundred, held, and the dark.
+> (T8 · remembered micro-decision) *Bank the night's last with the morrow's carrying — the deed closed, the fifty-seven held.*
+> *The dark outside the chamber glass — the night's last done, Wednesday coming with the carrying.*
+*Animation: Shared.*
+
+### L22.S38 · [D] · Rose, Bell
+*Purpose: the Gazette on the deed — Wednesday morning; the spoken's ink; the independent. (Turns: 8)*
+> *(The Gazette's offices, Wednesday morning. Mrs. Nance Bell on the deed — the spoken's ink, the twice-heard's — and the proprietor the independent kind: soft-voiced, sharp-eyed, and the City's judge.)*
+> "Miss Hartwell." Bell's voice is soft — the sharp eyes sharper. "The deed — fifty-seven five hundred. Twice heard —" she smiles "— the Gazette heard both times."
+> (T1 · look closer) *The offices' morning light is clear — and the proprietor's interest is the independent kind: stated plain, and the judgment the day's.*
+> "Both times." Rose takes the chair. "Mrs. Bell — the acknowledgment. Spoken first, then written — the paragraph inked, the book. The market heard it twice —" she pauses "— and the carrying's the night's choice."
+> (T2 · tone) *Respectful, complete, and past pretense — the Gazette gets the plain account, and the plain account only.*
+> "The carrying." Bell leans forward — the proprietor's attention entire. "The deed — published, Miss Hartwell? The Gazette's ink —" she pauses "— the City told?"
+> (T3 · dialogue) *"The published, asked."; "The Gazette's ink."; "The City, told."*
+> "The night chose." Rose meets her eyes. "Mrs. Bell — the carrying's the house's. The deed —" she stops.
+> (T4 · stance) *Forward in the chair — the heiress facing the proprietor the way the deed faces it: deliberately.*
+> "The house's." Bell nods — the independent to the last. "The Gazette —" she smiles "— serializes, Miss Hartwell. It judges, it doesn't serve. The deed —" she rises "— is the season's bravest paragraph. Whatever the carrying —" the door "— the ink's ready."
+> (T5 · look closer) *The rising's the proprietor's finest — the independence stated plain, the readiness the professional's.*
+> "Ready." Rose stands. "The Gazette's readiness — noted, Mrs. Bell. The house thanks the independent —" she goes "— for the hearing, and the ink."
+> (T6 · dialogue) *"The ink, ready."; "The independent, thanked."; "The morning, filed."*
+> "The season's bravest." Bell's smile is real. "Miss Hartwell — the Gazette will carry it true. Published or quiet —" the door closes "— the ink's ready."
+> (T7 · choice) *Take the readiness. The morning's ink is the independent's — and the carrying's the house's.*
+> The offices' morning settles — the Gazette's ink, the deed's, ready.
+> (T8 · remembered micro-decision) *The ink banked, the independence kept — the proprietor's readiness filed, the carrying the house's.*
+> *The morning's clear light on the Gazette's offices — the deed's ink ready, the carrying chosen, Wednesday here.*
+*Animation: Shared.*
+
+### L22.S39 · [D] · Rose, Henry · Gazette sting
+*Purpose: Gazette sting — Wednesday morning; the fifty-seven's account; the independent. (Turns: 1)*
+> *(The Gazette's morning edition, Wednesday — the fifty-seven's account, the deed's — and the sting the independent's kind: the City's judge, and the verdict the day's.)*
+> *The Gazette prints its account of Tuesday's acknowledgment — and the City's judge delivers the verdict on the spoken, the written, the twice-heard.*
+*Gazette sting · The Acknowledgment's Account — The Gazette judges the deed: "Twice heard in the market, once inked in the book — the season's bravest paragraph stands, and the City carries it." (Turns: 1)*
+*Animation: Shared.*
+
+### L22.S40 · [D] · Rose, Law · Cliffhanger
+*Purpose: the law's door — Wednesday morning; the sealed papers; the unopened. (Turns: 8)*
+> *(Wednesday morning, the war room — the law's door, the sealed papers — and the morning the night warned of: thrice warned, and come.)*
+> The papers arrive at eight — sealed, stamped, the law's. The footman lays them on the ledger, and the morning's light goes thin around the wax.
+> (T1 · look closer) *The seal's wax is dark — and the morning's paper is the law's kind: stamped, sealed, and unopened.*
+> "Merrivale's." Henry doesn't touch them. "The law's door, Rose — Vale warned, Lavinia warned thrice. The watching —" he looks up "— was for this."
+> (T2 · tone) *Quiet, grave, and finished with morning — the law's move arrives like frost on the day's arithmetic.*
+> "For this." She takes the papers — the weight of them, the law's. "The Dealing's fifteen — assigned, witnessed, filed. The registry —" she stops.
+> (T3 · dialogue) *"The sealed, arrived."; "The fifteen, named."; "The registry, pending."*
+> "Pending." Henry's voice is low. "The morning's carrying — chosen last night. Rose —" he meets her eyes "— the law doesn't unchoose it."
+> (T4 · stance) *At the war room's table, the morning's frost — the heiress and the steady man, the sealed papers between them.*
+> The fifty-seven five hundred — the deed's great number — and the law's seal on the morning's papers. The carrying, chosen. The seal, unbroken.
+> (T5 · look closer) *The papers lie on the ledger — the law's wax over the day's ink, the morning held.*
+> "The carrying." She sets her thumb on the seal — the grey, the endured. "Henry — the carrying was chosen. The seal —" she pauses "— breaks now."
+> (T6 · dialogue) *"The carrying, chosen."; "The seal, breaking."; "The grey, enduring."*
+> "Breaks." He stands beside her — the steady, unhurried. "The house carries, Rose — sealed or open. The fifty-seven —" the morning "— stands."
+> (T7 · choice) *Break it. The law's seal can't unchoose the night's choice — the carrying stands.*
+> Her thumb presses the wax — the seal cracks, the papers open, and Wednesday morning holds its breath.
+> (T8 · remembered micro-decision) *The seal broken, the papers opened — the law's door swung, Wednesday's morning held.*
+> *The morning's thin light on the opened papers — the law's door open, the carrying standing, the reading begun.*
+*Animation: Shared.*
