@@ -173,8 +173,8 @@ public sealed class StorySceneView : MonoBehaviour
             GameObject scrollGO = new GameObject("ProseScroll", typeof(RectTransform), typeof(ScrollRect));
             RectTransform scrollRT = scrollGO.GetComponent<RectTransform>();
             scrollRT.SetParent(panel, false);
-            // Fill most of the panel; header above, footer below.
-            scrollRT.anchorMin = new Vector2(0.05f, 0.28f);
+            // Fill most of the panel; header above, body/decisions/footer below.
+            scrollRT.anchorMin = new Vector2(0.05f, 0.375f);
             scrollRT.anchorMax = new Vector2(0.95f, 0.815f);
             scrollRT.offsetMin = Vector2.zero;
             scrollRT.offsetMax = Vector2.zero;
@@ -230,8 +230,8 @@ public sealed class StorySceneView : MonoBehaviour
             GameObject decGO = new GameObject("DecisionButtons", typeof(RectTransform));
             RectTransform decRT = decGO.GetComponent<RectTransform>();
             decRT.SetParent(panel, false);
-            decRT.anchorMin = new Vector2(0.05f, 0.16f);
-            decRT.anchorMax = new Vector2(0.95f, 0.27f);
+            decRT.anchorMin = new Vector2(0.05f, 0.105f);
+            decRT.anchorMax = new Vector2(0.95f, 0.325f);
             decRT.offsetMin = Vector2.zero;
             decRT.offsetMax = Vector2.zero;
             decisionButtonContainer = decRT;
@@ -309,18 +309,19 @@ public sealed class StorySceneView : MonoBehaviour
         }
 
         // Pin the footer buttons to the bottom of the portrait panel.
+        // (Decision container sits at 0.105-0.325, so footer stays below 0.10.)
         if (continueButton != null)
         {
             var crt = continueButton.GetComponent<RectTransform>();
-            crt.anchorMin = new Vector2(0.05f, 0.03f);
-            crt.anchorMax = new Vector2(0.62f, 0.13f);
+            crt.anchorMin = new Vector2(0.05f, 0.02f);
+            crt.anchorMax = new Vector2(0.62f, 0.095f);
             crt.offsetMin = Vector2.zero; crt.offsetMax = Vector2.zero;
         }
         if (toBoardButton != null)
         {
             var brt = toBoardButton.GetComponent<RectTransform>();
-            brt.anchorMin = new Vector2(0.65f, 0.03f);
-            brt.anchorMax = new Vector2(0.95f, 0.13f);
+            brt.anchorMin = new Vector2(0.65f, 0.02f);
+            brt.anchorMax = new Vector2(0.95f, 0.095f);
             brt.offsetMin = Vector2.zero; brt.offsetMax = Vector2.zero;
         }
         // Header texts to the top.
@@ -359,18 +360,21 @@ public sealed class StorySceneView : MonoBehaviour
         if (bodyText != null)
         {
             var bdy = bodyText.rectTransform;
-            bdy.anchorMin = new Vector2(0.05f, 0.275f);
-            bdy.anchorMax = new Vector2(0.95f, 0.325f);
+            bdy.anchorMin = new Vector2(0.05f, 0.33f);
+            bdy.anchorMax = new Vector2(0.95f, 0.37f);
             bdy.offsetMin = Vector2.zero; bdy.offsetMax = Vector2.zero;
         }
         // Decision buttons sit below the body text, above the footer.
+        // Container is sized to fit up to 4 buttons; SpawnDecisionButtons
+        // sizes buttons proportionally to the actual container pixel height
+        // so fixed-pixel buttons never overflow an anchor-percentage container.
         if (decisionButtonContainer != null)
         {
             var decRT = decisionButtonContainer as RectTransform;
             if (decRT != null)
             {
-                decRT.anchorMin = new Vector2(0.05f, 0.15f);
-                decRT.anchorMax = new Vector2(0.95f, 0.27f);
+                decRT.anchorMin = new Vector2(0.05f, 0.105f);
+                decRT.anchorMax = new Vector2(0.95f, 0.325f);
                 decRT.offsetMin = Vector2.zero; decRT.offsetMax = Vector2.zero;
             }
         }
@@ -380,6 +384,12 @@ public sealed class StorySceneView : MonoBehaviour
     /// Measures the synopsis + prose and stacks them by hand inside the
     /// scroll content. (Layout groups are not used: the builder's
     /// VerticalLayoutGroup collapses children to zero size.)
+    ///
+    /// CRITICAL: Uses EXPLICIT pixel widths (not stretched anchors) for the
+    /// text rects. Stretched anchors can yield zero width if the canvas hasn't
+    /// laid out yet (panel just activated), which makes preferredHeight return
+    /// garbage and the scroll content too short — the ScrollRect then clamps
+    /// as if at the bottom while text overflows invisibly below.
     /// </summary>
     private void LayoutScrollContent()
     {
@@ -395,24 +405,38 @@ public sealed class StorySceneView : MonoBehaviour
         Canvas.ForceUpdateCanvases(); // viewport needs a real size before measuring
         var viewportRT = proseScrollRect.viewport as RectTransform;
         float viewW = viewportRT != null ? viewportRT.rect.width : 0f;
-        if (viewW <= 1f) viewW = 700f;
+        if (viewW <= 1f)
+        {
+            // Panel just activated / canvas not laid out yet. Fall back to an
+            // estimated portrait width so preferredHeight measures correctly.
+            viewW = Screen.width * 0.9f;
+            if (viewW <= 1f) viewW = 700f;
+        }
 
         const float pad = 12f;
         const float spacing = 12f;
+        float textW = Mathf.Max(viewW - pad * 2f, 100f);
         float y = -pad; // running top edge (pivot is top)
+
+        // Position the content: top-anchored, full viewport width, explicit size.
+        contentRT.anchorMin = new Vector2(0, 1);
+        contentRT.anchorMax = new Vector2(0, 1);
+        contentRT.pivot = new Vector2(0, 1);
+        contentRT.anchoredPosition = Vector2.zero;
 
         if (synopsisText != null && !string.IsNullOrEmpty(synopsisText.text))
         {
             synopsisText.gameObject.SetActive(true);
             var srt = synopsisText.rectTransform;
-            srt.anchorMin = new Vector2(0, 1); srt.anchorMax = new Vector2(1, 1);
-            srt.pivot = new Vector2(0.5f, 1);
-            srt.offsetMin = new Vector2(pad, 0);
-            srt.offsetMax = new Vector2(-pad, y);
+            // Explicit top-left anchored rect: guaranteed valid width for measurement.
+            srt.anchorMin = new Vector2(0, 1);
+            srt.anchorMax = new Vector2(0, 1);
+            srt.pivot = new Vector2(0, 1);
+            srt.anchoredPosition = new Vector2(pad, y);
+            srt.sizeDelta = new Vector2(textW, 10000f); // tall temp, shrinks to preferred
             Canvas.ForceUpdateCanvases();
             float h = Mathf.Max(synopsisText.preferredHeight, 20f);
-            srt.offsetMin = new Vector2(pad, y - h);
-            srt.offsetMax = new Vector2(-pad, y);
+            srt.sizeDelta = new Vector2(textW, h);
             y -= h + spacing;
         }
         else if (synopsisText != null)
@@ -423,22 +447,20 @@ public sealed class StorySceneView : MonoBehaviour
         if (proseText != null)
         {
             var prt = proseText.rectTransform;
-            prt.anchorMin = new Vector2(0, 1); prt.anchorMax = new Vector2(1, 1);
-            prt.pivot = new Vector2(0.5f, 1);
-            prt.offsetMin = new Vector2(pad, 0);
-            prt.offsetMax = new Vector2(-pad, y);
+            prt.anchorMin = new Vector2(0, 1);
+            prt.anchorMax = new Vector2(0, 1);
+            prt.pivot = new Vector2(0, 1);
+            prt.anchoredPosition = new Vector2(pad, y);
+            prt.sizeDelta = new Vector2(textW, 10000f);
             Canvas.ForceUpdateCanvases();
             float h = Mathf.Max(proseText.preferredHeight, 20f);
-            prt.offsetMin = new Vector2(pad, y - h);
-            prt.offsetMax = new Vector2(-pad, y);
+            prt.sizeDelta = new Vector2(textW, h);
             y -= h + pad;
         }
 
-        contentRT.anchorMin = new Vector2(0, 1);
-        contentRT.anchorMax = new Vector2(1, 1);
-        contentRT.pivot = new Vector2(0.5f, 1);
-        contentRT.offsetMin = new Vector2(0, y);
-        contentRT.offsetMax = new Vector2(0, 0);
+        // Content size: full viewport width, height covering all stacked text.
+        float contentH = Mathf.Max(-y, 20f);
+        contentRT.sizeDelta = new Vector2(viewW, contentH);
 
         Canvas.ForceUpdateCanvases();
         proseScrollRect.verticalNormalizedPosition = 1f; // scroll to top
@@ -567,8 +589,26 @@ public sealed class StorySceneView : MonoBehaviour
     {
         if (decisionButtonContainer == null || decisionButtonPrefab == null) return;
         // Manual vertical stack (no layout group — see EnsurePortraitUI).
+        // Buttons are sized proportionally to the container's ACTUAL pixel
+        // height so fixed-pixel buttons never overflow an anchor-percentage
+        // container on short panels (which hid the 3rd option and squished
+        // the footer Continue into an untappable strip).
         var options = scene.keyDecision.options;
-        for (int i = 0; i < options.Length; i++)
+        var containerRT = decisionButtonContainer as RectTransform;
+        Canvas.ForceUpdateCanvases();
+        float containerH = containerRT != null ? containerRT.rect.height : 0f;
+        if (containerH <= 1f)
+        {
+            // Fallback: estimate from panel height (22% of a 9:16 panel).
+            var panelRT = transform as RectTransform;
+            float panelH = panelRT != null ? panelRT.rect.height : 0f;
+            containerH = panelH > 1f ? panelH * 0.22f : 280f;
+        }
+        const float spacing = 8f;
+        int count = options.Length;
+        // Button height: fill container, reserve spacing, clamp to tappable range.
+        float buttonH = Mathf.Clamp((containerH - (count - 1) * spacing) / count, 48f, 84f);
+        for (int i = 0; i < count; i++)
         {
             int idx = i; // capture
             var btn = Instantiate(decisionButtonPrefab, decisionButtonContainer);
@@ -577,8 +617,9 @@ public sealed class StorySceneView : MonoBehaviour
             rt.anchorMin = new Vector2(0, 1);
             rt.anchorMax = new Vector2(1, 1);
             rt.pivot = new Vector2(0.5f, 1);
-            rt.offsetMin = new Vector2(0, -(i * 80f) - 72f);
-            rt.offsetMax = new Vector2(0, -(i * 80f));
+            float top = i * (buttonH + spacing);
+            rt.offsetMin = new Vector2(0, -(top + buttonH));
+            rt.offsetMax = new Vector2(0, -top);
             var label = btn.GetComponentInChildren<Text>();
             if (label != null)
             {
