@@ -103,8 +103,8 @@
 > (T7 · remembered micro-decision) *the sum — the ruin's, the read; the purse — the lighter, the week's; the £5,000 — the untouched, the assembling, the Tuesday's.* — remembered: *the Tuesday, kept.*
 > (T8 · dialogue) *"The book balances, Henry." — Rose* — remembered: *the balancing, confirmed.*
 > "The balancing is the week's. The week's is the arithmetic's. See that it stays balanced — the staying is the security."
-> *(Henry keeps the study. The columns stay neat, and the Monday morning settles into its balancing.)*
-> *Ink, paper, the banker's steady hand — and the costs entered, the purse lighter, the £5,000 untouched.*
+> *(Henry keeps the study, and the columns stay neat, and the Monday morning settles into its balancing.)*
+> *Ink, paper, the banker's steady hand — and the costs entered, the purse lighter, the £5,000 untouched, the damage counted to the penny.*
 *Animation: Shared.*
 
 ### L13.S6 · [D] · Rose, Mrs. Nance Bell
@@ -148,30 +148,30 @@
 
 ### L13.S8 · ★ KEY DECISION 1/3 — The staking
 *Purpose: Monday evening — the staking; the atelier's name, damaged; the Hartwell's name, offered in the open. (Turns: 3 — the decision)*
-> *(Monday evening, the villa's drawing room. The atelier's name is damaged — the Thursday fitting's telling, the town's reading, the dragon's weather. The Hartwell's name is the week's capital, and the question is how it is spent: staked on the atelier in the open, lent quietly behind the scenes, or held back until the war is won. Three roads, one name.)*
-> (T1 · the choice — how the name is spent) *The staking: her name staked on the atelier in the open — worn and spoken, the patronage public, the damage answered with the Hartwell's weight. The quiet lending: the name lent behind the scenes — the orders placed, the bills paid, the patronage real but unspoken. The holding back: the name held until the war is won — the atelier left to answer alone, the Hartwell's capital kept clean.*
-> (T2 · the turn — what the town reads) *The staking reads as the Hartwell, committed: the atelier's, the week's, the open. The quiet lending reads as the Hartwell, cautious: the patronage real, the courage unspoken. The holding back reads as the Hartwell, prudent: the capital kept, the atelier abandoned to its telling.*
-> (T3 · the consequence — what it costs) *The staking costs the openness: the name, staked, the damage shared. The quiet lending costs the credit: the work, unclaimed, the triumph unattributed. The holding back costs the atelier: the girl, alone, the war unfunded.*
+> *(Monday evening, the villa's drawing room, the lamps lit against the early dark. The atelier's name is damaged — the Thursday fitting's telling, the town's reading, the dragon's weather. The Hartwell's name is the week's capital, and the question is how it is spent: staked on the atelier in the open, lent quietly behind the scenes, or held back until the war is won. Three roads, one name, and the name is the only coin that matters.)*
+> (T1 · the choice — how the name is spent) *The staking: her name staked on the atelier in the open — worn and spoken, the patronage public, the damage answered with the Hartwell's weight, the town invited to judge. The quiet lending: the name lent behind the scenes — the orders placed, the bills paid, the patronage real but unspoken, the atelier kept from the open war. The holding back: the name held until the war is won — the atelier left to answer alone, the Hartwell's capital kept clean, the girl left to fund the fight herself.*
+> (T2 · the turn — what the town reads) *The staking reads as the Hartwell, committed: the atelier's, the week's, the open, the courage on the town's tongue. The quiet lending reads as the Hartwell, cautious: the patronage real, the courage unspoken, the help invisible to the Steine's readers. The holding back reads as the Hartwell, prudent: the capital kept, the atelier abandoned to its telling, the war fought without the name's weight.*
+> (T3 · the consequence — what it costs) *The staking costs the openness: the name, staked, the damage shared, the atelier's ruin worn on the Hartwell's sleeve. The quiet lending costs the credit: the work, unclaimed, the triumph unattributed, the girl's name never spoken on the Steine. The holding back costs the atelier: the girl, alone, the war unfunded, the damage left to do its work.*
 *★ KEY DECISION 1/3 — The staking:*
 - **The staking** — *Stake her name on the atelier in the open: worn and spoken, the patronage public, the damage answered with the Hartwell's weight.*
 - **The quiet lending** — *Lend the name behind the scenes: the orders placed, the bills paid, the patronage real but unspoken.*
 - **The open holding** — *Hold the name back until the war is won: the atelier left to answer alone, the capital kept clean.*
-> *(She chooses the staking. Her name is staked on the atelier in the open — worn and spoken, the patronage public; the damage, answered with the Hartwell's weight; the openness, spent.)*
+> *(The three roads lie open in the drawing room's lamplight — the staking, the quiet lending, the holding back — and the atelier's name hangs in the balance like a gown on a stand, and the choosing is the evening's own wager.)*
 *Animation: Shared.*
 
 ### L13.S9 · [T] · Rose, the town's reading
 *Purpose: Tuesday morning — the staking's first reading; the town, deciding what the openness means. (Turns: 7)*
-> *(Tuesday morning, the Steine. The staking has had one night to travel — her name, staked on the atelier in the open — and the town is deciding what the openness means, the way the town always decides: loudly, inaccurately, and all at once.)*
+> *(Tuesday morning, the Steine, the promenade already busy. The staking has had one night to travel — her name, staked on the atelier in the open, carried from drawing room to breakfast table — and the town is deciding what the openness means, the way the town always decides: loudly, inaccurately, and all at once.)*
 > (T1 · look closer) *the Steine — the Tuesday's, the promenade's, the gossips'; the reading — traveling fast, fond in places, sharp in others; the openness — the staked, the worn, the spoken, the decided-about.* — remembered: *the deciding, heard.*
 > (T2 · dialogue) *"The Hartwell has staked her name." — the town, coming across the promenade* — remembered: *the traveling, overheard.*
 > "The atelier's. The French girl's. The staked is the committed — the committed is the week's whole story, and the story is the pleasure's."
 > (T3 · tone) *pleased, because the fond places are fond; watchful, because the sharp places are sharp; steady, because the staking was the staking and the staking does not wobble.* — remembered: *the steadiness, staked.*
-> (T4 · social maneuver) *walk the Steine — the staking's, the open; let the town read the walking; keep the war's shape out of the promenade, the keeping being the walking's whole office.* — remembered: *the office, walked.*
+> (T4 · social maneuver) *walk the Steine — the staking's, the open; let the town read the walking; keep the war's shape out of the promenade, the keeping being the walking's whole office, the war kept behind the parasol's edge.* — remembered: *the office, walked.*
 > (T5 · remembered micro-decision) *the reading — the town's, the deciding; the openness — the staked, the held; the week — the story's, the pleasure's, the committed.* — remembered: *the committed, read.*
 > (T6 · choice) *let the town decide — the reading's, the loud; keep the staking staked; let the story be the pleasure's, the pleasure's be the week's.* — remembered: *the letting, done.*
 > (T7 · look closer) *the sea — the Tuesday's, the glittering; the promenaders — the deciding, the loud; the Hartwell — the staked, the walking, the un-wobbled.* — remembered: *the un-wobbled, seen.*
-> *(Rose keeps the Steine. The town goes on deciding, and the Tuesday morning settles into its reading.)*
-> *Sea, promenade, the gossips' loud deciding — and the staking read, the openness held, the story pleasure's.*
+> *(Rose keeps the Steine, walking its length twice. The town goes on deciding, and the Tuesday morning settles into its reading.)*
+> *Sea, promenade, the gossips' loud deciding — and the staking read, the openness held, the story pleasure's, the walking watched.*
 *Animation: Shared.*
 
 ### L13.S10 · [D] · Rose, Quill's letter
@@ -213,17 +213,17 @@
 
 ### L13.S12 · [T] · Rose, the dragon's weather
 *Purpose: Tuesday evening — the dragon's weather; Agatha's move, felt before it is seen; the circling, tightening. (Turns: 7)*
-> *(Tuesday evening, the villa's terrace. The dragon's weather comes ahead of the dragon — Agatha's move, felt before it is seen: the merchant's debt, the circling tightening, the buying's shadow on the week's wall.)*
+> *(Tuesday evening, the villa's terrace, the stone flags still warm from the day. The dragon's weather comes ahead of the dragon — Agatha's move, felt before it is seen: the merchant's debt, the circling tightening, the buying's shadow lengthening across the week's wall.)*
 > (T1 · look closer) *the terrace — the stone flags still warm from the day, the balustrade's iron cool under her palm; the weather — the dragon's, the felt, the un-seen; the shadow — the buying's, the circling's, long across the week's wall.* — remembered: *the shadow, felt.*
 > (T2 · tone) *cold, because the circling is cold; alert, because the felt wants the watching; unhurried, because the hurrying is the dragon's game and the game's is not hers.* — remembered: *the unhurried, kept.*
-> (T3 · stance) *stand the terrace — the evening's, the felt; let the weather be the weather; keep the week's, the answering, the promised.* — remembered: *the promised, kept.*
+> (T3 · stance) *stand the terrace — the evening's, the felt; let the weather be the weather and the weather be the dragon's; keep the week's, the answering, the promised.* — remembered: *the promised, kept.*
 > (T4 · remembered micro-decision) *the move — the felt, the un-seen; the debt — the merchant's, the named; the circling — the tightening, the buying's.* — remembered: *the tightening, noted.*
 > (T5 · dialogue) *"The dragon circles, and the circling tightens." — Rose, to the sea* — remembered: *the saying, seaward.*
 > "The tightening is the buying's. The buying's is the owning's. The owning's is the leash — the leash is around Lavinia's name."
 > (T6 · choice) *meet the tightening — the week's, the held; let the answering be the week's own hour; keep the promise, the taken, the heard.* — remembered: *the hour, week's.*
 > (T7 · look closer) *the sea — the evening's, the darkening, white horses running before the wind; the wall — the week's, the shadowed; the Hartwell — the standing, the unhurried, the promised.* — remembered: *the standing, terrace.*
-> *(Rose keeps the terrace. The weather stays felt, and the Tuesday evening settles into its circling.)*
-> *Sea, stone, the dragon's felt weather — and the move un-seen, the circling tightening, the answering held.*
+> *(Rose keeps the terrace until the light goes, and the sea darkens. The weather stays felt, and the Tuesday evening settles into its circling.)*
+> *Sea, stone, the dragon's felt weather — and the move un-seen, the circling tightening, the answering held for the week's own hour.*
 *Animation: Shared.*
 
 ### L13.S13 · [D] · Rose, Augusta
@@ -248,7 +248,7 @@
 
 ### L13.S14 · [T] · Rose, the commission's ruin
 *Purpose: Wednesday morning — the commission's ruin, spreading; the client's temper; the town's telling, unshaped. (Turns: 7)*
-> *(Wednesday morning, the atelier's front room. The commission's ruin has spread past the telling's shaping — the client's temper, the town's unshaped reading, the brown's rumor walking the Steine with its shoes on.)*
+> *(Wednesday morning, the atelier's front room, the chairs set out and empty. The commission's ruin has spread past the telling's shaping — the client's temper, the town's unshaped reading, the brown's rumor walking the Steine with its shoes on.)*
 > (T1 · look closer) *the front room — the Wednesday's, the empty's, the waiting; the chairs set out for a client who may not sit; the rumor — the brown's, the walking, the shod; the temper — the client's, the un-met, the coming.* — remembered: *the coming, tempered.*
 > (T2 · dialogue) *"The client comes at noon." — Élise, from the workroom door* — remembered: *the noon, cliented.*
 > "The temper comes with her. The with is the warning — the warning is the workroom's, and the workroom's is yours."
@@ -257,7 +257,7 @@
 > (T5 · remembered micro-decision) *the ruin — the spreading, the commission's; the telling — the unshaped, the town's; the shaping — the week's, the to-be-done, the noon's.* — remembered: *the shaping, nooned.*
 > (T6 · stance) *stand the front room — the waiting, the Wednesday's; let the rumor walk past; keep the fitting, the re-promised, the defended.* — remembered: *the defended, kept.*
 > (T7 · look closer) *the door — the noon's, the coming, its brass handle polished to a mirror; the workroom — behind it, the shears' metronome; the Hartwell — the standing, the ready, the unflinching.* — remembered: *the standing, fronted.*
-> *(Rose keeps the front room. The rumor walks on, and the Wednesday morning settles into its waiting.)*
+> *(Rose keeps the front room, and the chairs stay empty, and the rumor walks on past the windows. The Wednesday morning settles into its waiting.)*
 > *Empty chairs, the shears behind the door, the rumor's shoes on the pavement — and the ruin spreading, the temper coming, the shaping planned.*
 *Animation: Shared.*
 
@@ -312,7 +312,7 @@
 
 ### L13.S17 · [D] · Rose, the dragon's answer
 *Purpose: Wednesday night — the dragon's answer; Agatha's move on the merchant's debt; the buying, begun. (Turns: 8)*
-> *(Wednesday night, the villa's drawing room, the dinner done. The dragon's answer arrives with the coffee — Agatha's move, at last: the merchant's debt, the buying begun, the leash's first link forged in the open.)*
+> *(Wednesday night, the villa's drawing room, the dinner done and the cloth drawn. The dragon's answer arrives with the coffee — Agatha's move, at last: the merchant's debt, the buying begun, the leash's first link forged in the open.)*
 > (T1 · dialogue) *"The merchant has sold." — Henry, very quietly, with the coffee* — remembered: *the selling, coffeed.*
 > "The debt. The buying is begun — the dragon's offer, the merchant's considering. The considering is the danger."
 > (T2 · dialogue) *"The considering is the owning's first link, Henry." — Rose* — remembered: *the link, first.*
@@ -324,21 +324,21 @@
 > (T6 · choice) *answer now — the buying's, the begun; let the week's hour be the answering; keep the promise, the taken, the heard.* — remembered: *the answering, now.*
 > (T7 · remembered micro-decision) *the debt — the merchant's, the selling; the dragon — the buying, the begun; the answering — the week's, the now, the resolved.* — remembered: *the now, answered.*
 > (T8 · stance) *stand the drawing room — the coffee's, the begun; let the buying be the answered; keep Lavinia's name, the unleashed, the week's.* — remembered: *the unleashed, kept.*
-> *(Rose keeps the drawing room. The coffee cools, and the Wednesday night settles into its answering.)*
-> *Coffee, candlelight, the buying's first link — and the dragon answered, the hour now, the name kept.*
+> *(Rose keeps the drawing room. The coffee cools untouched, and the Wednesday night settles into its answering.)*
+> *Coffee, candlelight, the buying's first link — and the dragon answered, the hour now, the name kept from the leash.*
 *Animation: Shared.*
 
 ### L13.S18 · ★ KEY DECISION 2/3 — The debt, released
 *Purpose: Wednesday night — the debt, the dragon, the merchant; the answering's hour. (Turns: 3 — the decision)*
-> *(Wednesday night, the villa's study. The merchant is considering the dragon's offer for Lavinia's debt — the buying begun, the leash's first link. The answering's hour is now, and the week has three answers: the debt, released; the debt, bought; or the debt, left to the dragon. Three roads, one leash.)*
-> (T1 · the choice — how the debt is answered) *The debt, released: Lavinia's debt paid and released — the merchant paid in full, the paper burned, the girl unleashed, the merchant left to choose freely. The debt, bought: the debt bought from the merchant before the dragon — the paper held by the Hartwell, the leash transferred, the girl owned by a kinder hand. The debt, left: the debt left to the dragon's buying — the merchant's considering completed, the leash forged, the week's hands clean.*
-> (T2 · the turn — what the week reads) *The debt released reads as the Hartwell, unpriced: the loyalty, unasked, the girl freed. The debt bought reads as the Hartwell, practical: the leash transferred, the danger managed. The debt left reads as the Hartwell, prudent: the hands clean, the girl leashed.*
-> (T3 · the consequence — what it costs) *The debt released costs the coin: the purse, lightened, the loyalty unpriced. The debt bought costs the owning: the paper, held, the kinder leash still a leash. The debt left costs Lavinia: the name, leashed, the circle's reading darkened.*
+> *(Wednesday night, the villa's study, the coffee cups still on the tray. The merchant is considering the dragon's offer for Lavinia's debt — the buying begun, the leash's first link. The answering's hour is now, and the week has three answers: the debt, released; the debt, bought; or the debt, left to the dragon. Three roads, one leash, and the leash is around a girl's name.)*
+> (T1 · the choice — how the debt is answered) *The debt, released: Lavinia's debt paid and released — the merchant paid in full, the paper burned, the girl unleashed, the merchant left to choose freely, the week's hands open. The debt, bought: the debt bought from the merchant before the dragon — the paper held by the Hartwell, the leash transferred, the girl owned by a kinder hand, the danger kept inside the house. The debt, left: the debt left to the dragon's buying — the merchant's considering completed, the leash forged, the week's hands clean, the girl the dragon's to command.*
+> (T2 · the turn — what the week reads) *The debt released reads as the Hartwell, unpriced: the loyalty, unasked, the girl freed, the week's generosity worn in the open. The debt bought reads as the Hartwell, practical: the leash transferred, the danger managed, the girl safer but not free. The debt left reads as the Hartwell, prudent: the hands clean, the girl leashed, the week's conscience kept unspent.*
+> (T3 · the consequence — what it costs) *The debt released costs the coin: the purse, lightened, the loyalty unpriced, the merchant's choosing no longer the week's to command. The debt bought costs the owning: the paper, held, the kinder leash still a leash, the girl's freedom postponed to a safer season. The debt left costs Lavinia: the name, leashed, the circle's reading darkened, the dragon's first link forged around a friend.*
 *★ KEY DECISION 2/3 — The debt, released:*
 - **The debt, released** — *Pay Lavinia's debt and release it: the merchant paid in full, the paper burned, the girl unleashed, the merchant left to choose freely.*
 - **The debt, bought** — *Buy the debt before the dragon: the paper held by the Hartwell, the leash transferred to a kinder hand.*
 - **The debt, left** — *Leave the debt to the dragon's buying: the considering completed, the week's hands clean.*
-> *(She chooses the debt, released. Lavinia's debt is paid and released — the merchant paid in full, the paper burned; the girl, unleashed; the merchant, left to choose freely; the loyalty, unpriced and unasked.)*
+> *(The three roads lie open on the study's desk — the release, the buying, the leaving — and the merchant's paper waits for its answer, and the choosing is the night's own reckoning.)*
 *Animation: Shared.*
 
 ### L13.S19 · [D] · Rose, Lavinia Crane
@@ -362,9 +362,9 @@
 
 ### L13.S20 · [T] · Rose, the merchant
 *Purpose: Wednesday night — the merchant, paid and freed; the choosing, left to him; the week's honor, kept. (Turns: 7)*
-> *(Wednesday night, the villa's study. The merchant takes the Hartwell's coin for Lavinia's debt — paid in full, the paper burned before his eyes — and the choosing is left to him: the dragon's offer, declined or considered, his own.)*
+> *(Wednesday night, the villa's study, the fire low. The merchant takes the Hartwell's coin for Lavinia's debt — paid in full, counted twice, the paper burned before his eyes in the grate — and the choosing is left to him: the dragon's offer, declined or considered, his own, the first free choice he has had in a long while.)*
 > (T1 · dialogue) *"The paper is burned." — the merchant, watching the ash* — remembered: *the ash, watched.*
-> "The burned is the debt's end. The end is the Hartwell's — the Hartwell's is the paid-in-full's."
+> "The burned is the debt's end. The end is the Hartwell's — the Hartwell's is the paid-in-full's, and the paid-in-full is the first clean page of my ledger in longer than I can remember."
 > (T2 · dialogue) *"The choosing is yours." — Rose* — remembered: *the choosing, given.*
 > "The dragon's offer is declined or considered as you please. The pleasing is the free's — the free is the leaving."
 > (T3 · dialogue) *"The free is the rare's." — the merchant, at the study door* — remembered: *the rarity, doored.*
@@ -373,13 +373,13 @@
 > (T5 · tone) *even, because the transaction wants it; honorable, because the freeing is the honor's; done, because the paper is ash and the ash is the end.* — remembered: *the doneness, ashed.*
 > (T6 · remembered micro-decision) *the debt — the paid, the burned; the merchant — the freed, the choosing; the honor — the week's, the kept, the remembered.* — remembered: *the remembering, merchant's.*
 > (T7 · stance) *stand the study — the lamp's, the done; let the choosing be his; keep the week's honor, the kept.* — remembered: *the honor, kept.*
-> *(Rose keeps the study. The ash cools, and the Wednesday night settles into its freeing.)*
+> *(Rose keeps the study. The ash cools in the grate, and the merchant's shoulders come down an inch, and the Wednesday night settles into its freeing.)*
 > *Lamp, ash, the merchant's bow — and the debt paid, the choosing freed, the honor kept.*
 *Animation: Shared.*
 
 ### L13.S21 · [D] · Rose, Lord Julian Ashcombe
 *Purpose: Wednesday night — Julian's report; the dye room, watched; the footprints, found. (Turns: 8)*
-> *(Wednesday night, the villa's terrace. Julian reports — the dye room watched, the guarding complete: the footprints, found; the hand, closer; the war's shape, narrowing.)*
+> *(Wednesday night, the villa's terrace, the sea a black plate beyond the balustrade. Julian reports — the dye room watched, the guarding complete: the footprints, found; the hand, closer; the war's shape, narrowing.)*
 > (T1 · dialogue) *"The footprints." — Julian, without preamble* — remembered: *the footprints, reported.*
 > "The dye-room door. The watched's — my man at it since Tuesday. The prints are a woman's — the woman's is the narrow's, the narrow's is the heel's."
 > (T2 · dialogue) *"The heel is the hand's, Julian." — Rose* — remembered: *the hand's, heeled.*
@@ -392,7 +392,7 @@
 > (T7 · remembered micro-decision) *the footprints — the found, the narrow; the hand — the narrowing, the unnamed; the guarding — the complete, the glad.* — remembered: *the gladness, guarded.*
 > (T8 · dialogue) *"The guarding holds, Julian." — Rose* — remembered: *the holding, confirmed.*
 > "The holding is the week's. The week's is the assignment's. The assignment is glad — the glad is the thanks."
-> *(Julian keeps the terrace. The sea stays dark, and the Wednesday night settles into its narrowing.)*
+> *(Julian keeps the terrace, and the report is done, and the sea stays dark. The Wednesday night settles into its narrowing.)*
 > *Night, sea, the guardsman's quiet report — and the footprints found, the hand narrowing, the guarding held.*
 *Animation: Shared.*
 
@@ -436,7 +436,7 @@
 
 ### L13.S24 · [T] · Rose, the atelier at dawn
 *Purpose: Thursday dawn — the atelier; the fitting, re-promised; the double tides, done. (Turns: 7)*
-> *(Thursday dawn, the atelier's workroom. The double tides are done — the fitting re-promised, the new silk made good, the brown nowhere: the work's triumph, the shears', the twenty-two-year-old's.)*
+> *(Thursday dawn, the atelier's workroom, the lamps still burning against the grey window. The double tides are done — the fitting re-promised, the new silk made good, the brown nowhere, not a thread of it: the work's triumph, the shears', the twenty-two-year-old's, and Élise asleep at last in the chair by the stove.)*
 > (T1 · look closer) *the workroom — the dawn's, the lamp's, the done; the floor swept clean of cuttings, the dress-stand bare; the gown — the re-cut, the clean, the re-promised; the shears — the still, the triumphant, the laid-down.* — remembered: *the laying-down, seen.*
 > (T2 · dialogue) *"The fitting is re-promised." — Élise, at the workroom door* — remembered: *the promise, re-made.*
 > "The noon. The client's. The brown is nowhere — the nowhere is the work's, and the work's is the telling."
@@ -445,8 +445,8 @@
 > (T5 · choice) *take the triumph — the work's, the done; let the noon be the fitting's; keep the atelier, the answered, the week's.* — remembered: *the keeping, dawned.*
 > (T6 · look closer) *the silk — the new, the clean, the made-good, pearl-grey catching the dawn; the lamp — the dawn's, the guttering; the girl — the twenty-two, the unbowed, the done.* — remembered: *the doneness, girled.*
 > (T7 · stance) *stand the workroom — the dawn's, the triumphant; let the fitting be the noon's; keep the work, the answered, the shears'.* — remembered: *the shears, kept.*
-> *(Rose keeps the workroom. The lamp gutters, and the Thursday dawn settles into its triumph.)*
-> *Dawn, silk, the shears laid down — and the double tides done, the fitting re-promised, the brown nowhere.*
+> *(Rose keeps the workroom, and does not wake her, and the dawn comes grey. The lamp gutters, and the Thursday dawn settles into its triumph.)*
+> *Dawn, silk, the shears laid down — and the double tides done, the fitting re-promised, the brown nowhere, the girl asleep by the stove.*
 *Animation: Shared.*
 
 ### L13.S25 · [D] · Rose, Élise
@@ -470,7 +470,7 @@
 
 ### L13.S26 · [D] · Rose, Aunt Letitia Hartwell
 *Purpose: Thursday morning — Letitia's verdict on the ball gown; the aunt's sense, entire. (Turns: 7)*
-> *(Thursday morning, the villa's morning room. Letitia has the ball gown's news from Rose and the verdict ready before the chocolate is poured — the aunt's sense, entire: the commission, the wisdom, the week's.)*
+> *(Thursday morning, the villa's morning room, the chocolate steaming. Letitia has the ball gown's news from Rose and the verdict ready and sharpened before the first cup is poured — the aunt's sense, entire: the commission, the wisdom, the week's.)*
 > (T1 · dialogue) *"The ball gown." — Letitia, with great satisfaction* — remembered: *the satisfaction, great.*
 > "The French girl's. The Brighton's. The commission is the staking's crown — the crown's is the wisdom's, and the wisdom's is the week."
 > (T2 · dialogue) *"The crown is the work's, Aunt." — Rose* — remembered: *the work's, crowned.*
@@ -482,41 +482,41 @@
 > (T6 · remembered micro-decision) *the gown — the commissioned, the ball's; the sense — the entire, the aunt's; the week — the crowned, the wise, the yours.* — remembered: *the yours, crowned.*
 > (T7 · dialogue) *"The week is the sense's, Aunt." — Rose* — remembered: *the sense, week's.*
 > "The sense's is the entire's. The entire's is the week's. Drink the chocolate, darling — the chocolate is the morning's, and the morning's is the ball gown's."
-> *(Letitia keeps the morning room. The chocolate is poured, and the Thursday morning settles into its entirety.)*
+> *(Letitia keeps the morning room, and pours the second cup herself. The Thursday morning settles into its chocolate-scented entirety.)*
 > *Chocolate, satisfaction, the aunt's entire sense — and the ball gown commissioned, the crown placed, the week wise.*
 *Animation: Shared.*
 
 ### L13.S27 · [T] · Rose, the town's anticipation
 *Purpose: Thursday morning — the town, anticipating the ball; the week's end, in sight; the pleasure, priced. (Turns: 7)*
-> *(Thursday morning, the Steine. The town anticipates the ball — the week's end in sight, the pleasure priced, the gowns discussed the way generals discuss terrain.)*
+> *(Thursday morning, the Steine, the promenade already full and loud with it. The town anticipates the ball — the week's end in sight, the pleasure priced, the gowns discussed the way generals discuss terrain, and the milliners' windows dressed like battle standards.)*
 > (T1 · look closer) *the Steine — the Thursday's, the bright, the anticipating; the bathing machines drawn up like patient horses; the town — the discussing, the gowned, the terrain's; the ball — the Brighton's, the week's end, the in-sight.* — remembered: *the sight, in.*
 > (T2 · dialogue) *"The ball." — the town, coming across the promenade* — remembered: *the ball, arrived.*
 > "The Brighton's. The week's end. The Hartwell's gown — the French girl's making. The making is the week's whole story, and the story is the pleasure's."
 > (T3 · tone) *amused, because the terrain deserves it; pleased, because the story is the story; watchful, because the anticipating is the town's and the town's wants the watching.* — remembered: *the watching, balled.*
-> (T4 · social maneuver) *walk the Steine — the Thursday's, the anticipated; let the town discuss the terrain; keep the war's shape out of the promenade.* — remembered: *the keeping, walked.*
+> (T4 · social maneuver) *walk the Steine — the Thursday's, the anticipated; let the town discuss the terrain; keep the war's shape out of the promenade, the gowns and the gossip doing the week's talking.* — remembered: *the keeping, walked.*
 > (T5 · remembered micro-decision) *the ball — the anticipated, the week's end; the gown — the discussed, the French girl's; the pleasure — the priced, the week's.* — remembered: *the pricing, pleasured.*
 > (T6 · choice) *let the town anticipate — the ball's, the loud; keep the staking staked; let the end be the week's, the week's be the pleasure's.* — remembered: *the letting, done.*
 > (T7 · look closer) *the sea — the Thursday's, the glittering, the tide at the turn; the promenaders — the anticipating, the gowned; the Hartwell — the walking, the staked, the un-wobbled.* — remembered: *the un-wobbled, seen.*
-> *(Rose keeps the Steine. The town anticipates, and the Thursday morning settles into its ball.)*
-> *Sea, promenade, the town's loud terrain — and the ball anticipated, the gown discussed, the pleasure priced.*
+> *(Rose keeps the Steine, and lets the anticipation wash past her like the tide. The Thursday morning settles into its ball.)*
+> *Sea, promenade, the town's loud terrain — and the ball anticipated, the gown discussed, the pleasure priced, the war kept off the promenade, the choosing held.*
 *Animation: Shared.*
 
 ### L13.S28 · ★ KEY DECISION 3/3 — The ball gown
 *Purpose: Thursday morning — the ball gown; the atelier's name, the ball's; the commission, the week's. (Turns: 3 — the decision)*
-> *(Thursday morning, the atelier's workroom. The ball gown is proposed — the Brighton ball, the week's end, the atelier's name to be worn. The commission is the week's to give, and the week has three answers: the ball gown, commissioned; the ball gown, declined; or the ball gown, delayed. Three roads, one ball.)*
-> (T1 · the choice — how the gown is commissioned) *The ball gown, commissioned: Élise commissioned to make the ball gown — the atelier's name worn at the ball, the staking's crown, the work's triumph. The ball gown, declined: the gown declined — a London modiste engaged instead, the atelier spared the ball's glare, the staking kept from the ballroom. The ball gown, delayed: the commission delayed — the gown promised but not yet cut, the week's end left open, the atelier's name held back from the ball.*
-> (T2 · the turn — what the week reads) *The ball gown commissioned reads as the Hartwell, crowned: the atelier's name, the ball's. The ball gown declined reads as the Hartwell, careful: the atelier spared, the staking private. The ball gown delayed reads as the Hartwell, waiting: the commission open, the ball unanswered.*
-> (T3 · the consequence — what it costs) *The ball gown commissioned costs the glare: the atelier, the ball's, the work judged by the ton. The ball gown declined costs the crown: the staking, kept from the ballroom, the triumph unattributed. The ball gown delayed costs the answer: the week, unanswered, the ball uncommissioned.*
+> *(Thursday morning, the atelier's workroom, the dress-stand bare and waiting. The ball gown is proposed — the Brighton ball, the week's end, the atelier's name to be worn. The commission is the week's to give, and the week has three answers: the ball gown, commissioned; the ball gown, declined; or the ball gown, delayed. Three roads, one ball, and the ball is the town's own reading room.)*
+> (T1 · the choice — how the gown is commissioned) *The ball gown, commissioned: Élise commissioned to make the ball gown — the atelier's name worn at the ball, the staking's crown, the work's triumph, the town's eye invited. The ball gown, declined: the gown declined — a London modiste engaged instead, the atelier spared the ball's glare, the staking kept from the ballroom, the crown left unworn. The ball gown, delayed: the commission delayed — the gown promised but not yet cut, the week's end left open, the atelier's name held back from the ball, the ballroom's judgment postponed.*
+> (T2 · the turn — what the week reads) *The ball gown commissioned reads as the Hartwell, crowned: the atelier's name, the ball's, the week's courage in silk. The ball gown declined reads as the Hartwell, careful: the atelier spared, the staking private, the ballroom never seeing the work. The ball gown delayed reads as the Hartwell, waiting: the commission open, the ball unanswered, the town left to wonder.*
+> (T3 · the consequence — what it costs) *The ball gown commissioned costs the glare: the atelier, the ball's, the work judged by the ton, the girl's name on every tongue. The ball gown declined costs the crown: the staking, kept from the ballroom, the triumph unattributed, the week's end left in London's keeping. The ball gown delayed costs the answer: the week, unanswered, the ball uncommissioned, the workroom waiting on the choosing.*
 *★ KEY DECISION 3/3 — The ball gown:*
 - **The ball gown** — *Commission Élise to make the ball gown: the atelier's name worn at the Brighton ball, the staking's crown, the work's triumph.*
 - **The gown, declined** — *Decline the ball gown: engage a London modiste instead, spare the atelier the ball's glare.*
 - **The gown, delayed** — *Delay the commission: promise the gown but do not cut it yet, leave the week's end open.*
-> *(She chooses the ball gown. Élise is commissioned to make the ball gown — the atelier's name worn at the Brighton ball; the staking's crown; the work's triumph; the glare, faced.)*
+> *(The three roads lie open on the workroom table — the commission, the declining, the delay — and the Brighton ball waits at the week's end like a held breath, and the choosing is the morning's own commission.)*
 *Animation: Shared.*
 
 ### L13.S29 · [T] · Rose, the gutter sheet
 *Purpose: Thursday morning — the gutter sheet, hawked on the Steine; the lying headline; the ink, wet. (Turns: 8)*
-> *(Thursday morning, the Steine. The gutter sheet is hawked at the promenade's end — the unnamed paper, the boy's shrill cry, the lying headline: the atelier, the brown, the Hartwell's name dragged through the week's own telling.)*
+> *(Thursday morning, the Steine. The gutter sheet is hawked at the promenade's end, a penny a sheet, the ink still wet — the unnamed paper, the boy's shrill cry, the lying headline: the atelier, the brown, the Hartwell's name dragged through the week's own telling.)*
 > (T1 · look closer) *the sheet — the gutter's, the hawked, the unnamed; the boy — the shrill, the crying, the penny's; the headline — the lying, the brown's, the dragged.* — remembered: *the dragging, headlined.*
 > (T2 · dialogue) *"The atelier." — the boy, shrill* — remembered: *the shrill, heard.*
 > "The brown! The French girl's ruin! The Hartwell's name — the name's is the week's whole shame, and the shame's is the penny's!"
@@ -527,13 +527,13 @@
 > (T7 · stance) *stand the Steine — the Thursday's, the hawked; let the lie travel; keep the week's, the shaped, the true.* — remembered: *the true, kept.*
 > (T8 · dialogue) *"The lying is the war's, and the war's is the open's." — Rose, very quietly* — remembered: *the openness, warred.*
 > "The open's is the week's. The week's is the answering's. The answering's hour is now — the now is the reading."
-> *(Rose keeps the Steine. The boy cries on, and the Thursday morning settles into its hawking.)*
+> *(Rose keeps the Steine. The boy cries on without pause, and the Thursday morning settles into its hawking.)*
 > *Penny, paper, the boy's shrill cry — and the sheet hawked, the headline lying, the ink wet.*
 *Animation: Shared.*
 
 ### L13.S30 · [D] · Rose, the lying headline
 *Purpose: Thursday morning — the headline, read; the lie's shape; the week's answer, begun. (Turns: 8)*
-> *(Thursday morning, the villa's study. The sheet is spread on the desk — the lying headline read in full: the atelier's ruin, the brown, the Hartwell's name; the lie's shape, the week's answer begun.)*
+> *(Thursday morning, the villa's study, the curtains still half-drawn. The sheet is spread on the desk — the lying headline read in full: the atelier's ruin, the brown, the Hartwell's name; the lie's shape, the week's answer begun.)*
 > (T1 · look closer) *the sheet — the spread, the gutter's, the read; the headline — the lying, the full, the shaped-against; the lie — the printed, the penny's, the deliberate.* — remembered: *the deliberate, printed.*
 > (T2 · dialogue) *"The lie's shape." — Rose, reading* — remembered: *the shape, lied.*
 > "The atelier, ruined. The brown, the French girl's. The Hartwell, shamed. The shamed is the telling's — the telling's is the dragon's."
@@ -545,13 +545,13 @@
 > (T7 · dialogue) *"The sheet is the fury's, Henry." — Rose* — remembered: *the fury, sheeted.*
 > "The fury's is the failed buying's. The failed is the released's. The released is the week's — the week's is the answer."
 > (T8 · stance) *stand the study — the Thursday's, the spread sheet's; let the lie be the lie; keep the week's answer, the begun, the true.* — remembered: *the begun, kept.*
-> *(Rose keeps the study. The sheet lies spread, and the Thursday morning settles into its answering.)*
+> *(Rose keeps the study, and reads the lie twice. The sheet lies spread, and the Thursday morning settles into its answering.)*
 > *Desk, paper, the lie's clear shape — and the headline read, the fury named, the answer begun.*
 *Animation: Shared.*
 
 ### L13.S31 · [D] · Rose, Henry
 *Purpose: Thursday morning — Henry's assessment; the damage, priced; the week's arithmetic, held. (Turns: 8)*
-> *(Thursday morning, the villa's study. Henry has the damage assessed — the gutter sheet's price, the week's arithmetic held: the lie's cost, the truth's value, the book's balance.)*
+> *(Thursday morning, the villa's study. Henry has the damage assessed to the penny before the ink is dry — the gutter sheet's price, the week's arithmetic held: the lie's cost, the truth's value, the book's balance.)*
 > (T1 · dialogue) *"The damage." — Henry, with the book* — remembered: *the damage, booked.*
 > "The sheet's price. The lie's cost. The week's arithmetic holds — the holding is the book's, and the book's is the morning."
 > (T2 · dialogue) *"The book holds, Henry." — Rose* — remembered: *the holding, confirmed.*
@@ -564,13 +564,13 @@
 > (T7 · remembered micro-decision) *the damage — the priced, the sheet's; the piece — the staking's, the printing; the answer — the Gazette's, the today's, the true's.* — remembered: *the today's, answered.*
 > (T8 · dialogue) *"The arithmetic holds." — Rose* — remembered: *the holding, stated.*
 > "The holding is the week's. The week's is the true's. See that it stays held — the staying is the morning."
-> *(Henry keeps the study. The book stays balanced, and the Thursday morning settles into its holding.)*
+> *(Henry keeps the study, and the columns stay neat, and the book stays balanced. The Thursday morning settles into its holding.)*
 > *Book, balance, the banker's steady hand — and the damage priced, the arithmetic held, the answer printing.*
 *Animation: Shared.*
 
 ### L13.S32 · [D] · Rose, Mrs. Nance Bell
 *Purpose: Thursday morning — Bell's answer; the Gazette's piece, printing; the judging, the week's. (Turns: 8)*
-> *(Thursday morning, the Gazette's office. Bell's answer is printing — the staking piece, the Gazette's telling: the atelier, answering sabotage with work; the Hartwell, committed in the open; the judging, the week's.)*
+> *(Thursday morning, the Gazette's office, the press already rolling downstairs. Bell's answer is printing — the staking piece, the type still warm, the Gazette's telling: the atelier, answering sabotage with work; the Hartwell, committed in the open; the judging, the week's.)*
 > (T1 · dialogue) *"The piece prints." — Bell, soft-voiced* — remembered: *the printing, pieced.*
 > "The staking's. The Gazette's telling. The judging says: the work, not the struggle. The triumph, not the damage. The printed is the week's."
 > (T2 · dialogue) *"The printed is the answer's, Mrs. Bell." — Rose* — remembered: *the answer's, printed.*
@@ -583,13 +583,13 @@
 > (T7 · remembered micro-decision) *the piece — the staking's, the printing; the answer — the gutter's opposite, the true's; the telling — the Gazette's, the week's.* — remembered: *the week's, told.*
 > (T8 · dialogue) *"The judging is the week's, Mrs. Bell." — Rose, at the office door* — remembered: *the door, judged.*
 > "The week's is the telling's. The telling's is the Gazette's. Print the truth — the truth is the office."
-> *(Bell keeps the office. The press rolls on, and the Thursday morning settles into its judging.)*
+> *(Bell keeps the office, and the press rolls on, and the Thursday morning settles into its judging.)*
 > *Press, ink, the soft voice's sharp eyes — and the piece printing, the answer true, the judging week's.*
 *Animation: Shared.*
 
 ### L13.S33 · [D] · Rose, Octavia
 *Purpose: Thursday morning — Octavia's reading; the unshaped telling, re-shaped; the precision, unsparing. (Turns: 8)*
-> *(Thursday morning, the villa's library. Octavia has the gutter sheet's reading and the re-shaping ready — thirty-four, the precision unsparing: the unshaped telling, the re-shaped.)*
+> *(Thursday morning, the villa's library, the sun full on the shelves. Octavia has the gutter sheet's reading and the re-shaping ready — thirty-four, the precision unsparing: the unshaped telling, the re-shaped.)*
 > (T1 · dialogue) *"The unshaped." — Octavia, with the sheet* — remembered: *the unshaped, sheeted.*
 > "The gutter's telling. The lying's. The unshaped is the fury's — the fury's is the failed buying's. The failed is the released's."
 > (T2 · dialogue) *"The released is the week's, Octavia." — Rose* — remembered: *the week's, released.*
@@ -602,13 +602,13 @@
 > (T7 · remembered micro-decision) *the unshaped — the gutter's, the fury's; the re-shaped — the Gazette's, the true's; the telling — the week's, the triumphant.* — remembered: *the triumph, told.*
 > (T8 · dialogue) *"The telling is the week's, Octavia." — Rose, at the library door* — remembered: *the door, told.*
 > "The week's is the true's. The true's is the work's. The work's is the shears' — the shears' is the answer."
-> *(Octavia keeps the library. The morning brightens, and the Thursday morning settles into its re-shaping.)*
+> *(Octavia keeps the library, and the pencil moves, and the morning brightens. The Thursday morning settles into its re-shaping.)*
 > *Books, morning light, the precision's edge — and the unshaped answered, the telling re-shaped, the triumph week's.*
 *Animation: Shared.*
 
 ### L13.S34 · [D] · Rose, Lord Julian Ashcombe
 *Purpose: Thursday morning — Julian's war; the hand, nearer; the open, the week's. (Turns: 8)*
-> *(Thursday morning, the villa's terrace. Julian has the war's news — the hand, nearer; the gutter sheet, the fury's; the open, the week's.)*
+> *(Thursday morning, the villa's terrace, the sea glittering beyond the balustrade. Julian has the war's fresh news — the hand, nearer; the gutter sheet, the fury's; the open, the week's.)*
 > (T1 · dialogue) *"The hand is nearer." — Julian, without preamble* — remembered: *the nearness, handed.*
 > "The dye-room's watching. The footprints' — the narrow, the heeled. The heeled is the vat's knower's. The knower's is narrowing."
 > (T2 · dialogue) *"The narrowing is the week's, Julian." — Rose* — remembered: *the week's, narrowed.*
@@ -621,26 +621,26 @@
 > (T7 · remembered micro-decision) *the hand — the nearer, the narrowing; the war — the open's, the answered; the guarding — the complete's, the week's.* — remembered: *the week's, guarded.*
 > (T8 · dialogue) *"The war is the week's, Julian." — Rose* — remembered: *the week's, warred.*
 > "The week's is the open's. The open's is the answered's. Guard the dye room — the guarding is the office."
-> *(Julian keeps the terrace. The sea glitters, and the Thursday morning settles into its warring.)*
+> *(Julian keeps the terrace, and the fury stays banked, and the sea glitters. The Thursday morning settles into its warring.)*
 > *Sea, light, the guardsman's steady report — and the hand nearer, the war open, the guarding week's.*
 *Animation: Shared.*
 
 ### L13.S35 · [D] · Rose, Lavinia Crane
 *Purpose: Thursday morning — Lavinia, unleashed; the week's circle; the gratitude, the week's. (Turns: 7)*
-> *(Thursday morning, the villa's garden. Lavinia walks the garden unleashed — twenty-four, the standing composure, the week's circle; the gratitude, the week's.)*
+> *(Thursday morning, the villa's garden, the roses at their height. Lavinia walks the garden unleashed — twenty-four, the standing composure recovered, the week's circle whole again; the gratitude, the week's, and the debt's shadow gone from her step.)*
 > (T1 · dialogue) *"The unleashed." — Lavinia, at the garden's end* — remembered: *the unleashed, walked.*
 > "The morning's. The week's. The name's — the circle's, the pleasure's. The pleasure's is the walking's."
 > (T2 · dialogue) *"The walking is the week's, Lavinia." — Rose* — remembered: *the week's, walked.*
 > "The week's is the circle's. The circle's is yours. The yours is the un-leashed's — the un-leashed's is the thanks."
 > (T3 · dialogue) *"The thanks is the loyalty's." — Lavinia, very quietly* — remembered: *the loyalty, thanked.*
 > "The loyalty's is the unpriced's. The unpriced's is the unasked's. The unasked's is the week's — the week's is the giving."
-> (T4 · look closer) *the garden — the Thursday's, the morning's, the roses'; the bees working the lavender border; the girl — twenty-four, the unleashed, the walking; the gratitude — the week's, the loyalty's, the unpriced.* — remembered: *the gratitude, gardened.*
+> (T4 · look closer) *the garden — the Thursday's, the morning's, the roses'; the bees working the lavender border, the gravel raked in morning curls; the girl — twenty-four, the unleashed, the walking; the gratitude — the week's, the loyalty's, the unpriced.* — remembered: *the gratitude, gardened.*
 > (T5 · tone) *warm, because the walking is warm; light, because the morning wants it; complete, because the unleashing is the unleashing.* — remembered: *the completeness, walked.*
 > (T6 · remembered micro-decision) *the unleashed — the walked, the week's; the loyalty — the unpriced, the unasked; the giving — the week's, the complete.* — remembered: *the giving, week's.*
 > (T7 · dialogue) *"The week is the giving's, Lavinia." — Rose, at the gate* — remembered: *the giving, gated.*
-> "The giving's is the week's. The week's is the circle's. Walk it — the walking is the morning."
-> *(Lavinia keeps the garden. The roses stay roses, and the Thursday morning settles into its walking.)*
-> *Morning, roses, the girl's free stride — and the unleashed walking, the loyalty week's, the giving complete.*
+> "The giving's is the week's. The week's is the circle's. Walk it — the walking is the morning, and the morning is yours."
+> *(Lavinia keeps the garden, and the walk is unhurried, and the roses stay roses. The Thursday morning settles into its walking.)*
+> *Morning, roses, the girl's free stride — and the unleashed walking, the loyalty week's, the giving complete, the debt's shadow gone at last.*
 *Animation: Shared.*
 
 ### L13.S36 · [D] · Rose, Augusta
@@ -684,17 +684,17 @@
 
 ### L13.S38 · [T] · Rose, the town's reading
 *Purpose: Thursday morning — the town, reading the sheet and the answer; the week's telling, the town's. (Turns: 7)*
-> *(Thursday morning, the Steine. The town reads the sheet and the answer together — the gutter's lying, the Gazette's true; the week's telling, the town's deciding.)*
+> *(Thursday morning, the Steine, the promenade divided. The town reads the sheet and the answer together — the gutter's lying, the Gazette's true; the week's telling, the town's deciding, the two papers side by side in every hand.)*
 > (T1 · look closer) *the Steine — the Thursday's, the reading, the deciding; the newsboys at the promenade's end, their cries thinning in the sea wind; the sheet — the gutter's, the lying, the penny's; the answer — the Gazette's, the true, the printing.* — remembered: *the deciding, read.*
 > (T2 · dialogue) *"The sheet and the answer." — the town, coming across the promenade* — remembered: *the coming, read.*
 > "The gutter's lying. The Gazette's true. The true's is the week's — the week's is the work's, and the work's is the shears'."
-> (T3 · tone) *satisfied, because the deciding is the deciding; watchful, because the town is the town; unhurried, because the answering is the answering.* — remembered: *the unhurried, towned.*
+> (T3 · tone) *satisfied, because the deciding is the deciding; watchful, because the town is the town and the town's mind changes with the wind; unhurried, because the answering is the answering and the answering has been given.* — remembered: *the unhurried, towned.*
 > (T4 · social maneuver) *walk the Steine — the Thursday's, the read; let the town decide; keep the week's, the true, the told.* — remembered: *the keeping, walked.*
 > (T5 · remembered micro-decision) *the sheet — the lying, the gutter's; the answer — the true, the Gazette's; the telling — the week's, the town's, the decided.* — remembered: *the decided, told.*
 > (T6 · choice) *let the town read — the sheet's, the answer's; keep the true true; let the telling be the week's.* — remembered: *the letting, done.*
-> (T7 · look closer) *the sea — the Thursday's, the glittering; a cutter standing out for the open water; the promenaders — the reading, the deciding; the Hartwell — the walking, the true, the un-wobbled.* — remembered: *the un-wobbled, seen.*
-> *(Rose keeps the Steine. The town reads on, and the Thursday morning settles into its deciding.)*
-> *Sea, promenade, the town's loud reading — and the sheet read, the answer true, the telling week's.*
+> (T7 · look closer) *the sea — the Thursday's, the glittering; a cutter standing out for the open water, its wake white; the promenaders — the reading, the deciding, the paper folded under every third arm; the Hartwell — the walking, the true, the un-wobbled.* — remembered: *the un-wobbled, seen.*
+> *(Rose keeps the Steine, and the town reads on, and the Thursday morning settles into its deciding.)*
+> *Sea, promenade, the town's loud reading — and the sheet read, the answer true, the telling week's, the deciding done.*
 *Animation: Shared.*
 
 ### L13.S39 · Gazette sting

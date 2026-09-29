@@ -50,7 +50,7 @@
 
 ### L12.S3 · [T] · Rose, the race
 *Purpose: the week's first race — the fleet in motion; the sea stage, at full stretch; pleasure as the arena. (Turns: 8)*
-> *(Ten o'clock, and the week's first race is run: twelve hulls on the starting line, the Pavilion set distributed among them like prizes, the sea chopped bright and entirely indifferent to rank.)*
+> *(Ten o'clock, and the week's first race is run: twelve hulls on the starting line, the Pavilion set distributed among them like prizes, the sea chopped bright and entirely indifferent to rank, the wind coming in off the Channel with a sailor's appetite.)*
 > (T1 · look closer) *the starting line — hulls, crews, pennants snapping; the set — shouting, wagering, afloat; the water — blue, indifferent, honest in a way drawing rooms never are.* — remembered: *the honesty, raced.*
 > (T2 · tone) *exhilarated, because the speed is honest; competitive, because the week insists; delighted, because the sea does not care about dragons and the not-caring is contagious.* — remembered: *the contagion, caught.*
 > (T3 · remembered micro-decision) *the fleet — cutters, sloops, the week's racing; the set — shouting, wagering, afloat; herself — shouting too, the armor's whole dignity mislaid for the duration.* — remembered: *the mislaying, enjoyed.*
@@ -60,7 +60,7 @@
 > (T6 · look closer) *the sails bellied full — canvas, strain, speed; the other hulls falling back, drawing even, falling back again; her hull taking the mark first while the set's cheering carries across the water like weather.* — remembered: *the weather, cheered.*
 > (T7 · choice) *race the week the way she does everything now — openly, gaily, entirely on purpose; let the winning be gaily done; let the town read it exactly as intended.* — remembered: *the reading, intended.*
 > (T8 · tone) *bright, because the morning is; fierce, because the race is; triumphant, because the mark is taken.* — remembered: *the mark, taken twice.*
-> *(Her hull takes the mark first, and the Pavilion set's cheering comes across the water, and Rose stands at the rail with the wind in her face.)*
+> *(Her hull takes the mark first, and the Pavilion set's cheering comes across the water, and Rose stands at the rail with the wind in her face, salt on her lips.)*
 > *Canvas, salt, speed — and the week's first race won gaily, the Hartwell's pleasure taking the mark while the town watches.*
 *Animation: Shared.*
 
@@ -127,7 +127,7 @@
 
 ### L12.S7 · [T] · Rose, Octavia
 *Purpose: Octavia afloat — the sketching; the week's lines, caught; the precision, amused by pleasure. (Turns: 8)*
-> *(The yacht's deck at two, the set at rest. Octavia is sketching the fleet at speed, thirty-four, the pencil moving with the economy of a woman who has stopped apologizing for seeing clearly.)*
+> *(The yacht's deck at two, the set at rest after luncheon. Octavia is sketching the fleet at speed from the lee rail, thirty-four, a carpenter's pencil thick as a finger moving with the economy of a woman who has stopped apologizing for seeing clearly, on paper already half-dark with rigging.)*
 > (T1 · look closer) *the sketch — twelve hulls in ten lines, the sea in three; the hand — moving without looking up; the seeing — total, amused, entirely without mercy.* — remembered: *the mercy, absent.*
 > (T2 · dialogue) *"The week's first race." — Octavia, not looking up* — remembered: *the subject, caught.*
 > "Won. Gaily. The gaiety is the hard part. The hard part is always the part that looks easy."
@@ -139,22 +139,24 @@
 > "Draw the pleasure, Octavia. Not the armor." — Rose
 > (T7 · dialogue) *"The pleasure is the armor." — Octavia, looking up at last* — remembered: *the armor, identified.*
 > "The armor is the interesting part. The interesting part is always the part that looks easy."
-> (T8 · remembered micro-decision) *the hand — the economy of it; the seeing — the mercilessness of it; herself — caught in ten lines, and the catching is a kindness.* — remembered: *the kindness, caught.*
-> *(Octavia keeps the sketch. The fleet stays ten lines and three, and the two o'clock hour takes its reading.)*
+> (T8 · remembered micro-decision) *the hand — the economy of it, the carpenter's pencil worn to a nub; the seeing — the mercilessness of it, and the mercy underneath it; herself — caught in ten lines, and the catching is a kindness she will not name aloud.* — remembered: *the kindness, caught.*
+> *(Octavia keeps the sketch, sliding it between the pages of her pocket-book. The fleet stays ten lines and three, and the two o'clock hour takes its reading.)*
 > *Pencil, paper, the sketcher's unsparing eye — and the week deliberate, the pleasure armored, the Hartwell caught and kept.*
 *Animation: Shared.*
 
 ### L12.S8 · ★ KEY DECISION 1/3 — The week's first race
 *Purpose: the week's first race is run and won; the week asks its first question — where does the Hartwell stand in it? (Turns: 3 — the decision)*
-> *(Tuesday afternoon, the first race won. The fleet at anchor, the set at tea on the flagship, and the week lays its first question on the table like a card: the Hartwell's pleasure has been priced, entered, and won gaily. The question is where she stands in the week she is hosting — the helm, the book, or the rail. Three roads, one week.)*
+> *(Tuesday afternoon, the first race won — the Hartwell's cutter first across, Henry's flag dipped in salute. The fleet at anchor, the set at tea on the flagship, the cups rattling in their saucers with the last of the swell, and the week lays its first question on the table like a card: the Hartwell's pleasure has been priced, entered, and won gaily. The question is where she stands in the week she is hosting — the helm, the book, or the rail. Three roads, one week.)*
 > (T1 · the choice — where she stands) *The helm: her hand on the tiller for the week's second race, the yacht's whole management hers, the winning or the losing done in the open. The book: Henry's book, her name among the bankers, the week's wagers laid and balanced by her hand. The rail: the hostess's post, glittering and watched, the week's pleasure curated from the rail like a garden.*
-> (T2 · the turn — what the week reads) *The helm reads as the wager, taken personally: the Hartwell racing her own week. The book reads as the banker, trusted: the Hartwell holding the week's arithmetic. The rail reads as the hostess, perfect: the Hartwell presiding, untouched by the spray.*
+> (T2 · the turn — what the week reads) *The helm reads as the wager, taken personally: the Hartwell racing her own week, the ton watching her win or lose in the open. The book reads as the banker, trusted: the Hartwell holding the week's arithmetic, the ton's coin in her keeping. The rail reads as the hostess, perfect: the Hartwell presiding, glittering, untouched by the spray.*
 > (T3 · the consequence — what it costs) *The helm costs the dignity of distance: the spray, the shouting, the losing in public. The book costs the innocence of pleasure: the wagers, the arithmetic, the ton's money in her hands. The rail costs nothing, and the nothing is the price: the week, watched, never sailed.*
+> "Thursday's tide, then." — Henry, dealing the week's book like cards across the table. "The helm's a public wager, the book's a quiet one, and the rail —"
+> "The rail is a garden party," Rose says, "and I have had enough of garden parties."
 *★ KEY DECISION 1/3 — The week's first race:*
 - **The helm** — *Take the tiller for the week's second race: the yacht's management hers, the winning or losing done in the open, the wager taken personally.*
 - **The book** — *Take Henry's pencil: her name among the week's bankers, the wagers laid and balanced by her hand, the arithmetic held.*
 - **The rail** — *Keep the hostess's post: glittering, watched, presiding over the week's pleasure from the rail, untouched by the spray.*
-> *(She chooses the helm. The week's second race is named for Thursday's tide, and the Hartwell's hand is on the tiller: the wager, taken personally; the dignity of distance, spent; the spray, accepted in advance.)*
+> *(The three roads lie open on the table between the teacups — the helm, the book, the rail — and Thursday's tide is already turning, and the choosing is the week's first real wager.)*
 *Animation: Shared.*
 
 ### L12.S9 · [D] · Rose, Lavinia Crane
@@ -347,15 +349,16 @@
 
 ### L12.S18 · ★ KEY DECISION 2/3 — The banking houses
 *Purpose: Wednesday evening, the banking houses ask their questions — the £5,000, assembling on its Tuesday; the week, asked to answer in coin. (Turns: 3 — the decision)*
-> *(Wednesday evening, the flagship's great cabin. The banking houses have sent their men down to the fleet: three questions, asked politely, over the week's wine. The £5,000 assembles on its Tuesday, at noon, at the London house — Quill's paper says so, the eleventh movement. The question is how the week answers: the coin, early; the house, friendly; or the books, open. Three roads, one Tuesday.)*
-> (T1 · the choice — how the coin answers) *The early payment: the installment's first movement paid early, in coin, before the Tuesday — the security, demonstrated. The friendly house: the banking houses taken into the week's confidence — dinners, wagers, the pleasure shared, the arithmetic social. The open books: the paper laid open — Quill's movements, the steward's figures, the everything, shown.*
-> (T2 · the turn — what the houses read) *The early payment reads as the Hartwell, solvent: the coin, early, the question answered before it is asked. The friendly house reads as the Hartwell, gracious: the arithmetic, social, the houses flattered into patience. The open books reads as the Hartwell, transparent: the everything, shown, the houses satisfied and the paper exposed.*
+> *(Wednesday evening, the flagship's great cabin, lamplight on the mahogany. The banking houses have sent their men down to the fleet: three questions, asked politely over the week's claret, the way creditors ask questions that are not quite questions. The £5,000 assembles on its Tuesday, at noon, at the London house — Quill's paper says so, the eleventh movement. The question is how the week answers: the coin, early; the house, friendly; or the books, open. Three roads, one Tuesday.)*
+> (T1 · the choice — how the coin answers) *The early payment: the installment's first movement paid early, in coin, before the Tuesday — the security, demonstrated, the dragon answered in advance. The friendly house: the banking houses taken into the week's confidence — dinners, wagers, the pleasure shared, the arithmetic made social over the fleet's wine. The open books: the paper laid open — Quill's movements, the steward's figures, the everything, shown without a fold hidden.*
+> (T2 · the turn — what the houses read) *The early payment reads as the Hartwell, solvent: the coin, early, the question answered before it is asked, the houses impressed in spite of themselves. The friendly house reads as the Hartwell, gracious: the arithmetic, social, the houses flattered into patience over good claret. The open books reads as the Hartwell, transparent: the everything, shown, the houses satisfied and the paper exposed to every eye at the table.*
 > (T3 · the consequence — what it costs) *The early payment costs the coin, early: the week's small purse, lightened. The friendly house costs the distance: the houses, inside the week, the pleasure no longer entirely hers. The open books costs the privacy: the paper, shown, the movements no longer hers alone.*
+> "The Tuesday is the Tuesday." — the eldest of the three men, turning his glass in the lamplight, and the other two nod like a tide coming in.
 *★ KEY DECISION 2/3 — The banking houses:*
 - **The early payment** — *Pay the installment's first movement early, in coin, before the Tuesday: the security demonstrated, the question answered before it is asked.*
 - **The friendly house** — *Take the banking houses into the week's confidence: dinners, wagers, the pleasure shared, the arithmetic made social.*
 - **The open books** — *Lay the paper open: Quill's movements, the steward's figures, the everything, shown to the houses.*
-> *(She chooses the early payment. The coin goes early, in coin, before the Tuesday: the security, demonstrated; the purse, lightened; the question, answered before it is asked.)*
+> *(The three roads lie open in the lamplight — the coin, the house, the books — and the Tuesday sits at the end of all three like a harbor wall, and the choosing is the evening's own arithmetic.)*
 *Animation: Shared.*
 
 ### L12.S19 · [D] · Rose, Miss Honoria Drummond
@@ -524,15 +527,16 @@
 
 ### L12.S28 · ★ KEY DECISION 3/3 — The sabotage, widening
 *Purpose: Friday evening — the sabotage, widening; the atelier's war, declared; the week, asked its third question. (Turns: 3 — the decision)*
-> *(Friday evening, the yacht at anchor. The sabotage has widened: the second gown, the brown bleed, the Thursday fitting lost. The atelier's war is declared. The week asks its third question — how does the Hartwell answer the widening? The rework, redoubled; the naming, public; or the withdrawal, strategic. Three roads, one brown.)*
-> (T1 · the choice — how the sabotage is answered) *The rework, redoubled: the atelier works double tides — new silk, clean vat, the fitting re-promised, the war answered with work. The naming, public: the sabotage named in the open — the Gazette, the town, the hand exposed. The withdrawal, strategic: the atelier's commissions withdrawn for the week — the gowns, the fittings, the war, paused.*
-> (T2 · the turn — what the town reads) *The rework redoubled reads as the Hartwell, unbowed: the atelier answering sabotage with work. The naming reads as the Hartwell, at war: the sabotage named, the hand exposed, the town choosing sides. The withdrawal reads as the Hartwell, prudent: the commissions paused, the war declined, the week kept clean.*
-> (T3 · the consequence — what it costs) *The rework redoubled costs the double tides: the atelier's whole strength, spent. The naming costs the open war: the town, choosing sides, the pleasure no longer the week's whole story. The withdrawal costs the fitting: the client's silk, the promise, the atelier's name, paused.*
+> *(Friday evening, the yacht at anchor, the water gone flat as glass. The sabotage has widened: the second gown, the brown bleed along the hem like a tide mark, the Thursday fitting lost and the client sent home with apologies and a promise. The atelier's war is declared. The week asks its third question — how does the Hartwell answer the widening? The rework, redoubled; the naming, public; or the withdrawal, strategic. Three roads, one brown.)*
+> (T1 · the choice — how the sabotage is answered) *The rework, redoubled: the atelier works double tides — new silk, clean vat, the fitting re-promised to the client, the war answered with work. The naming, public: the sabotage named in the open — the Gazette, the town, the hand exposed for all to see. The withdrawal, strategic: the atelier's commissions withdrawn for the week — the gowns, the fittings, the war itself, paused until the fleet comes home.*
+> (T2 · the turn — what the town reads) *The rework redoubled reads as the Hartwell, unbowed: the atelier answering sabotage with work, the double tides a kind of defiance. The naming reads as the Hartwell, at war: the sabotage named in the open, the hand exposed, the town choosing sides before the week is out. The withdrawal reads as the Hartwell, prudent: the commissions paused, the war declined, the week kept clean of the quarrel.*
+> (T3 · the consequence — what it costs) *The rework redoubled costs the double tides: the atelier's whole strength, spent to the last hand. The naming costs the open war: the town, choosing sides, the pleasure no longer the week's whole story. The withdrawal costs the fitting: the client's silk, the promise, the atelier's name, paused for the week.*
+> "Double tides," Élise says quietly, "and the vat is clean, and the silk is new." She does not say what it costs. She does not have to.
 *★ KEY DECISION 3/3 — The sabotage, widening:*
 - **The rework, redoubled** — *Work double tides: new silk, clean vat, the fitting re-promised, the sabotage answered with work.*
 - **The naming, public** — *Name the sabotage in the open: the Gazette, the town, the hand exposed, the war declared publicly.*
 - **The withdrawal, strategic** — *Withdraw the atelier's commissions for the week: the gowns, the fittings, the war, paused until the week is done.*
-> *(She chooses the rework, redoubled. The atelier works double tides: new silk, clean vat, the fitting re-promised; the sabotage, answered with work; the double tides, spent.)*
+> *(The three roads lie open on the dark water — the rework, the naming, the withdrawal — and the brown bleed dries on the hem like evidence, and the tide turns under the hull, and the choosing is the week's third wager.)*
 *Animation: Shared.*
 
 ### L12.S29 · [T] · Rose, the fleet at anchor

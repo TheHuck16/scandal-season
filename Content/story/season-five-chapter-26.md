@@ -64,7 +64,7 @@
 > (T1 · look closer) *the household's — the preparation's; the doors' — Julian's; the entire — the readying's, the morning's.* — remembered: *The morning's, faced.*
 > (T2 · remembered micro-decision) *ready as chosen — the hour's, the honored; ready truly — the preparation's, the owned; ready finally — the entire, the kept.* — remembered: *The kept, readied.*
 > (T3 · tone) *steady — the readied, the entire; bright — the faced, the morning's; certain — the afternoon's, the owned.* — remembered: *The owned, steadily.*
-> *(Julian checks the carriage — the twenty-eight, the brother, the trust entire — and the household moves with the particular order of a house that has done this before.)*
+> *(Julian checks the carriage — the twenty-eight, the brother, the trust unbroken — and the household moves with the particular order of a house that has done this before.)*
 > (T4 · look closer) *the checked — the carriage's; the entire — the trust's; the before — the done-this, the order's.* — remembered: *The order's, witnessed.*
 > (T5 · stance) *as the strategist — the witnessed, the owned; as the sister — the brother's, the held; as the Hartwell — the readied, the entered.* — remembered: *The entered, entire.*
 > (T6 · social maneuver) *before the household — the honored, the permitted; before the carriage — the checked, the filed; before the afternoon — the readied, the owned.* — remembered: *The owned, banked.*
@@ -112,7 +112,7 @@
 *Purpose: the glove receives — Drummond House at half past twelve; Honoria, forty-eight; the welcome, the entire. (Turns: 9)*
 > *(Drummond House at half past twelve, Sunday. Honoria is at the door — forty-eight, the soft glove, the receiving — with the welcome entire in her manner.)*
 > (T1 · look closer) *the at-the-door — the forty-eight's; the glove — the soft; the entire — the welcome's, the manner's.* — remembered: *The manner's, faced.*
-> "Miss Hartwell. Mother is in the parlor." — Honoria (the smile, the unkind-never, the texture's whole)
+> "Miss Hartwell. Mother is in the parlor." — Honoria (the smile, the unkind-never, the texture complete)
 > (T2 · dialogue) *"The in-the-parlor — the Mother's."; "The texture's — the whole."; "The smiled — the unkind-never."* — remembered: *The unkind-never, heard.*
 > (T3 · tone) *pleasant — the heard, the answered; steady — the faced, the entire; unafraid — the door's, the entered.* — remembered: *The entered, pleasantly.*
 > "Miss Drummond. The house," Rose steps inside, "is kind to receive me." — Rose
@@ -143,14 +143,14 @@
 
 ### L26.S9 · [D] · Rose, Lady Agatha
 *Purpose: the reckoning begun — the parlor at half past one; Lady Agatha, fifty-four; the pleasant, the entire; the conversation's conclusion, the opened. (Turns: 9)*
-> *(The parlor at half past one, Sunday afternoon. Lady Agatha is at the tea table — fifty-four, the dragon, the pleasant entire — and the opening is the conversation's whole conclusion begun.)*
+> *(The parlor at half past one, Sunday afternoon. Lady Agatha is at the tea table — fifty-four, the dragon, the pleasant entire — and the opening is the conversation's conclusion, begun.)*
 > (T1 · look closer) *the at-the-tea-table — the fifty-four's; the dragon's — the pleasant; the entire — the begun's, the opening's.* — remembered: *The opening's, faced.*
 > "Miss Hartwell. Your address was —" the pause is the pleasantness itself, "— distinctly heard." — Lady Agatha
 > (T2 · dialogue) *"The distinctly — the heard."; "The pause — the pleasantness'."; "The entire — the opened."* — remembered: *The opened, heard.*
 > (T3 · tone) *steady — the heard, the answered; pleasant — the faced, the entire; unafraid — the begun's, the met.* — remembered: *The met, pleasantly.*
 > "Lady Agatha. The evening's conversation," Rose accepts the tea, "deserves its conclusion." — Rose
 > (T4 · dialogue) *"The deserves — the conclusion's."; "The accepted — the tea's."; "The entire — the pleasant."* — remembered: *The pleasant, stated.*
-> "Indeed. The £5,000, Miss Hartwell — named before four hundred witnesses." — Lady Agatha (the smile, the unkind-never, the arithmetic's whole)
+> "Indeed. The £5,000, Miss Hartwell — named before four hundred witnesses." — Lady Agatha (the smile, the unkind-never, the arithmetic precise)
 > (T5 · dialogue) *"The named — the figure's."; "The witnesses' — the four-hundred."; "The arithmetic's — the whole."* — remembered: *The whole, noted.*
 > (T6 · look closer) *the noted — the whole's; the stated — the pleasant's; the heard — the named's, the entire.* — remembered: *The entire, witnessed.*
 > (T7 · stance) *as the strategist — the witnessed, the filed; as the debtor — the named, the honored; as the Hartwell — the begun, the entered.* — remembered: *The entered, entire.*
@@ -183,7 +183,7 @@
 > "The figure was met on its Tuesday, Lady Agatha, and acknowledged. The formal settling," Rose sets down the cup, "is Monday — in public, before witnesses, on my terms." — Rose
 > (T2 · dialogue) *"The met — the Tuesday's."; "The Monday — the public."; "The mine — the terms'."* — remembered: *The terms', stated.*
 > (T3 · tone) *steady — the stated, the entire; plain — the answer's, the owned; unafraid — the begun's, the faced.* — remembered: *The faced, steadily.*
-> "On your terms, Miss Hartwell." — Lady Agatha (the smile, the unkind-never, the tasting's whole)
+> "On your terms, Miss Hartwell." — Lady Agatha (the smile, the unkind-never, the tasting deliberate)
 > (T4 · dialogue) *"The yours — the terms'."; "The tasting — the whole."; "The smiled — the unkind-never."* — remembered: *The unkind-never, heard.*
 > (T5 · look closer) *the heard — the tasting's; the stated — the mine's; the faced — the begun's, the entire.* — remembered: *The entire, witnessed.*
 > (T6 · stance) *as the strategist — the witnessed, the filed; as the answered — the pleasant's, the met; as the Hartwell — the held, the entered.* — remembered: *The entered, entire.*
@@ -301,7 +301,7 @@
 > "The terms are mine, Lady Agatha. The figure was met, and is acknowledged. Monday," Rose meets the fifty-four's eyes, "the town shall see it paid." — Rose
 > (T2 · dialogue) *"The mine — the terms'."; "The Monday — the public."; "The met-eyes — the fifty-four's."* — remembered: *The fifty-four's, stated.*
 > (T3 · tone) *steady — the stated, the entire; plain — the decisive, the owned; unafraid — the exchange's, the faced.* — remembered: *The faced, steadily.*
-> "The town shall see it, Miss Hartwell." — Lady Agatha (the smile, the unkind-never, the conceding's whole)
+> "The town shall see it, Miss Hartwell." — Lady Agatha (the smile, the unkind-never, the conceding complete)
 > (T4 · dialogue) *"The shall-see — the town's."; "The conceding — the whole."; "The smiled — the unkind-never."* — remembered: *The unkind-never, heard.*
 > (T5 · look closer) *the heard — the conceding's; the stated — the mine's; the faced — the met-eyes', the entire.* — remembered: *The entire, witnessed.*
 > "And the season's whispers, Lady Agatha — do they conclude with the conclusion?" — Rose
@@ -379,7 +379,7 @@
 > (T1 · look closer) *the House's — the behind; the left — the ground's; the entire — the leaving's, the carried.* — remembered: *The carried, faced.*
 > (T2 · remembered micro-decision) *carry the answered — the for-now's, the owned; carry the unbowed — the entire, the noted; carry the reckoning — the whole, the kept.* — remembered: *The kept, carried.*
 > (T3 · tone) *steady — the carried, the entire; tired — the evening's, the answered; content — the reckoning's, the faced.* — remembered: *The faced, steadily.*
-> *(The gates pass — the stone, the windows, the dragon's ground receding — and the carriage carries the afternoon's whole weight: stated, answered, for now.)*
+> *(The gates pass — the stone, the windows, the dragon's ground receding — and the carriage carries the afternoon's weight: stated, answered, for now.)*
 > (T4 · look closer) *the passed — the gates'; the receding — the ground's; the entire — the weight's, the afternoon's.* — remembered: *The afternoon's, witnessed.*
 > (T5 · stance) *as the strategist — the witnessed, the filed; as the carried — the reckoning's, the held; as the Hartwell — the left, the entered.* — remembered: *The entered, entire.*
 > (T6 · social maneuver) *before the gates — the honored, the permitted; before the ground — the receding, the noted; before the carried — the entire, the owned.* — remembered: *The owned, banked.*
@@ -447,7 +447,7 @@
 > (T1 · look closer) *the column's — the unwritten; the open — the table's; the entire — the yet's, the privacy's.* — remembered: *The privacy's, faced.*
 > (T2 · remembered micro-decision) *grant the yet — the entire, the permitted; grant the unwritten — the column's, the noted; grant the privacy — the reckoning's, the owned.* — remembered: *The owned, granted.*
 > (T3 · tone) *grateful — the granted, the entire; private — the privacy's, the answered; steady — the evening's, the faced.* — remembered: *The faced, gratefully.*
-> *(The pencil rests — the notebook open, the reckoning unrecorded — and the column's whole restraint is visible: some afternoons are not the town's.)*
+> *(The pencil rests — the notebook open, the reckoning unrecorded — and the column's restraint is visible: some afternoons are not the town's.)*
 > (T4 · look closer) *the rested — the pencil's; the visible — the restraint's; the not-the-town's — the entire, the afternoons'.* — remembered: *The afternoons', witnessed.*
 > (T5 · stance) *as the strategist — the witnessed, the filed; as the private — the privacy's, the kept; as the Hartwell — the yet, the permitted.* — remembered: *The permitted, entered.*
 > (T6 · social maneuver) *before the pencil — the permitted, the honored; before the column — the noted, the filed; before the yet — the entire, the owned.* — remembered: *The owned, banked.*

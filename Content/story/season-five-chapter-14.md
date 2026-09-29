@@ -46,13 +46,13 @@
 > (T7 · remembered micro-decision) *the answer — the printing, the true's; the war — the ink's, the week's; the telling — the Gazette's, the judged.* — remembered: *the judged, week's.*
 > (T8 · dialogue) *"Print the truth, Mrs. Bell." — Rose, at the office door* — remembered: *the door, trued.*
 > "The truth's is the week's. The week's is the ink's. The ink's is the Gazette's — the Gazette's is the war's."
-> *(Bell keeps the office. The press rolls on, and the Thursday morning settles into its truthing.)*
+> *(Bell keeps the office, and the press rolls on, and the Thursday morning settles into its truthing.)*
 > *Press, ink, the soft voice's sharp eyes — and the answer printing, the true rolling, the war week's.*
 *Animation: Shared.*
 
 ### L14.S3 · [D] · Rose, Henry
 *Purpose: Thursday morning — Henry's book; the ink's costs; the £5,000, untouched. (Turns: 9)*
-> *(Thursday morning, the villa's study. Henry has the ink's costs entered — the Gazette's piece, the week's arithmetic: the lying's price, the truth's value, the book's balance.)*
+> *(Thursday morning, the villa's study, the ledger open at the ink's page. Henry has the ink's costs entered — the Gazette's piece, the week's arithmetic: the lying's price, the truth's value, the book's balance.)*
 > (T1 · dialogue) *"The costs." — Henry, with the book* — remembered: *the costs, booked.*
 > "The Gazette's piece. The ink's. The week's small purse is lighter, and the lighter is the honest's."
 > (T2 · dialogue) *"The honest is the week's, Henry." — Rose* — remembered: *the week's, honest.*
@@ -67,17 +67,17 @@
 > (T8 · look closer) *the study — the Thursday's, the morning's, the honest; the inkwell — the dipped, the true's; the Hartwell — the businesslike, the satisfied, the unhurried.* — remembered: *the unhurried, inked.*
 > (T9 · dialogue) *"The arithmetic holds." — Rose* — remembered: *the holding, stated.*
 > "The holding is the week's. See that it stays held."
-> *(Henry keeps the study. The book stays balanced, and the Thursday morning settles into its holding.)*
+> *(Henry keeps the study, and the book stays balanced, and the Thursday morning settles into its holding.)*
 > *Ink, paper, the banker's steady hand — and the costs entered, the purse honest, the £5,000 untouched.*
 *Animation: Shared.*
 
 ### L14.S4 · [D] · Rose, Octavia
 *Purpose: Thursday morning — Octavia's reading; the war of ink; the precision, unsparing. (Turns: 8)*
-> *(Thursday morning, the villa's library. Octavia has the war of ink's reading ready — thirty-four, the precision unsparing: the gutter's lying, the Gazette's true, the week's.)*
+> *(Thursday morning, the villa's library, the sun full on the shelves. Octavia has the war of ink's reading ready — thirty-four, the precision unsparing: the gutter's lying, the Gazette's true, the week's.)*
 > (T1 · dialogue) *"The war of ink." — Octavia, with both papers* — remembered: *the war, inked.*
 > "The gutter's lying. The Gazette's true. The true's is the week's — the week's is the judged's."
 > (T2 · dialogue) *"The judged is the printed's, Octavia." — Rose* — remembered: *the printed's, judged.*
-> "The printed's is the Gazette's. The Gazette's is Bell's — the soft-voiced, the sharp-eyed, the blunt."
+> "The printed's is the Gazette's. The Gazette's is Bell's — the soft-voiced, the sharp-eyed, the blunt, the paperknife kept honed."
 > (T3 · dialogue) *"The blunt is the honest's." — Octavia* — remembered: *the honest's, blunted.*
 > "The honest's is the paperknife's. The paperknife's cuts clean — the clean is the telling's."
 > (T4 · look closer) *the library — the Thursday's, the morning's, the books'; the papers — the gutter's, the Gazette's, the side-by-side; the woman — thirty-four, the unsparing, the reading.* — remembered: *the reading, papered.*
@@ -85,8 +85,8 @@
 > (T6 · choice) *take the reading — the war's, the ink's; let the true be the true; keep the week's, the judged, the clean.* — remembered: *the keeping, read.*
 > (T7 · remembered micro-decision) *the war — the ink's, the week's; the lying — the gutter's, the fury's; the true — the Gazette's, the clean.* — remembered: *the clean, true.*
 > (T8 · dialogue) *"The telling is clean, Octavia." — Rose, at the library door* — remembered: *the door, cleaned.*
-> "The clean's is the week's. The week's is the ink's. The ink's is the Gazette's."
-> *(Octavia keeps the library. The morning brightens, and the Thursday morning settles into its reading.)*
+> "The clean's is the week's. The week's is the ink's. The ink's is the Gazette's — the Gazette's keeps its paperknife honed."
+> *(Octavia keeps the library, and the pencil moves, and the morning brightens. The Thursday morning settles into its reading.)*
 > *Books, morning light, two papers side by side — and the war inked, the true clean, the telling week's.*
 *Animation: Shared.*
 
@@ -125,13 +125,13 @@
 > "The Hartwell wears the gutter's ink like a medal. The medal's is the week's."
 > (T8 · look closer) *the companions — the promenade's, the whispering, the convinced; the medal — the ink's, the worn, the telling; the Hartwell — the walking, the overhearing, the pleased.* — remembered: *the pleasing, overheard.*
 > (T9 · look closer) *the sea — the Thursday's, the glittering;> (T7 · look closer) *the sea — the Thursday's, the glittering; the promenaders — the reading, the comparing; the Hartwell — the walking, the stained-gloved, the un-wobbled.* — remembered: *the un-wobbled, seen.*
-> *(Rose keeps the Steine. The town reads on, and the Thursday morning settles into its comparing.)*
+> *(Rose keeps the Steine, and the town reads on, and the Thursday morning settles into its comparing, and the stain stays worn.)*
 > *Sea, promenade, the town's loud comparing — and the war read, the stain worn, the telling week's.*
 *Animation: Shared.*
 
 ### L14.S7 · [D] · Rose, Lord Julian Ashcombe
 *Purpose: Thursday noon — Julian's news; the footprints, followed; the hand, the vat's knower. (Turns: 8)*
-> *(Thursday noon, the atelier's dye room. Julian's man has followed the footprints — the narrow, the heeled — to their ending: the hand, the vat's knower, the deliberate's.)*
+> *(Thursday noon, the atelier's dye room, the vats lidded and innocent. Julian's man has followed the footprints — the narrow, the heeled — to their ending: the hand, the vat's knower, the deliberate's.)*
 > (T1 · dialogue) *"The footprints end." — Julian, in the dye room's doorway* — remembered: *the ending, printed.*
 > "The narrow. The heeled. They end at the lodging house in East Street — the lodging's is the rented's, the rented's is the paid-in-coin's."
 > (T2 · dialogue) *"The coin is the buying's, Julian." — Rose* — remembered: *the buying's, coined.*
@@ -143,27 +143,27 @@
 > (T6 · choice) *follow the ending — the footprints', the found; let the hand be found in the week's hour; keep the dye room watched.* — remembered: *the keeping, followed.*
 > (T7 · remembered micro-decision) *the footprints — the followed, the ended; the hand — the findable, the knower's; the coin — the buying's, the dragon's.* — remembered: *the finding, week's.*
 > (T8 · dialogue) *"Find the hand, Julian." — Rose* — remembered: *the finding, charged.*
-> "The finding's is the week's. The week's is the guarding's."
-> *(Julian keeps the dye room's doorway. The vat stays lidded, and the Thursday noon settles into its following.)*
+> "The finding's is the week's. The week's is the guarding's — and the guarding's is the dye room's own."
+> *(Julian keeps the dye room's doorway, and the vat stays lidded, and the Thursday noon settles into its following.)*
 > *Dye-smell, lamplight, the narrow heeled prints in the dust — and the footprints followed, the hand findable, the week following.*
 *Animation: Shared.*
 
 ### L14.S8 · ★ KEY DECISION 1/3 — The work
 *Purpose: Thursday afternoon — the work; the atelier's answer; the week's. (Turns: 3 — the decision)*
-> *(Thursday afternoon, the atelier's workroom. The war of ink is the week's — the gutter's lying, the Gazette's true. The atelier's answer is the work, and the week has three answers for how the work is shown: the work, displayed; the work, worn; or the work, spoken. Three roads, one atelier.)*
-> (T1 · the choice — how the work answers) *The work, displayed: the atelier's work displayed — the gowns, the shears' triumph, the brown nowhere, shown to the town. The work, worn: the work worn — the Hartwell in the atelier's silk, the patronage carried, the proof on her back. The work, spoken: the work spoken — Élise's name said aloud, the twenty-two-year-old's, the credit given.*
-> (T2 · the turn — what the week reads) *The work displayed reads as the Hartwell, confident: the atelier's, the shown. The work worn reads as the Hartwell, committed: the proof, the carried. The work spoken reads as the Hartwell, generous: the credit, the given.*
-> (T3 · the consequence — what it costs) *The work displayed costs the showing: the atelier, the town's, the judged. The work worn costs the wearing: the Hartwell's back, the proof's. The work spoken costs the naming: the girl, the known, the targeted.*
+> *(Thursday afternoon, the atelier's workroom, the cuttings still on the floor. The war of ink is the week's — the gutter's lying, the Gazette's true. The atelier's answer is the work, and the week has three answers for how the work is shown: the work, displayed; the work, worn; or the work, spoken. Three roads, one atelier, and the atelier's name is the week's whole wager.)*
+> (T1 · the choice — how the work answers) *The work, displayed: the atelier's work displayed — the gowns, the shears' triumph, the brown nowhere, shown to the town in the front room's windows, the work doing the answering. The work, worn: the work worn — the Hartwell in the atelier's silk, the patronage carried, the proof on her back, the town reading the silk. The work, spoken: the work spoken — Élise's name said aloud, the twenty-two-year-old's, the credit given, the girl's name on the week's tongue.*
+> (T2 · the turn — what the week reads) *The work displayed reads as the Hartwell, confident: the atelier's, the shown, the town invited to judge the work and finding it good. The work worn reads as the Hartwell, committed: the proof, the carried, the silk answering the gutter's lying on the Steine. The work spoken reads as the Hartwell, generous: the credit, the given, the twenty-two-year-old's name said aloud in the week's hearing.*
+> (T3 · the consequence — what it costs) *The work displayed costs the showing: the atelier, the town's, the judged, the gowns under the ton's eye. The work worn costs the wearing: the Hartwell's back, the proof's, the patronage carried in silk through the week's glare. The work spoken costs the naming: the girl, the known, the targeted, the twenty-two-year-old's name exposed to the dragon's reading.*
 *★ KEY DECISION 1/3 — The work:*
 - **The work** — *Show the atelier's work: displayed, worn, and spoken — the gowns shown, the silk worn, Élise's name said aloud.*
 - **The work, displayed** — *Display the work to the town: the gowns, the shears' triumph, the brown nowhere, shown.*
 - **The work, worn** — *Wear the work: the Hartwell in the atelier's silk, the proof carried on her back.*
-> *(She chooses the work. The atelier's work is shown — displayed, worn, and spoken: the gowns, the shears' triumph; the silk, worn; Élise's name, said aloud.)*
+> *(The three roads lie open on the cutting table — the display, the wearing, the speaking — and the atelier's work waits to be shown, and the choosing is the afternoon's own answer.)*
 *Animation: Shared.*
 
 ### L14.S9 · [D] · Rose, Élise
 *Purpose: Thursday afternoon — Élise and the ball gown; the cutting, begun; the commission, the week's. (Turns: 8)*
-> *(Thursday afternoon, the atelier's workroom. The ball gown's cutting is begun — the silk, the shears, the twenty-two-year-old's whole office: the commission, the week's, the Brighton ball's.)*
+> *(Thursday afternoon, the atelier's workroom, the silk spread and waiting. The ball gown's cutting is begun — the silk, the shears, the twenty-two-year-old's whole office: the commission, the week's, the Brighton ball's.)*
 > (T1 · dialogue) *"The cutting is begun." — Élise, at the table* — remembered: *the beginning, cut.*
 > "The ball gown's. The silk's. The begun is the commission's — the commission's is the week's."
 > (T2 · dialogue) *"The week's is the work's, Élise." — Rose* — remembered: *the work's, week's.*
@@ -171,18 +171,18 @@
 > (T3 · dialogue) *"The name's is the shears'." — Élise, not looking up* — remembered: *the shears, named.*
 > "The shears' is the hand's. The hand's is mine. The mine is the twenty-two's — the twenty-two's is the credit."
 > (T4 · look closer) *the workroom — the Thursday's, the afternoon's, the silk's; the silk — the ball gown's, the spread, the waiting; the girl — twenty-two, the cutting, the certain.* — remembered: *the certainty, cut.*
-> (T5 · tone) *proud, because the certain deserves it; practical, because the ball is the ball; moved, because the shears are a form of courage.* — remembered: *the courage, sheared.*
+> (T5 · tone) *proud, because the certain deserves it; practical, because the ball is the ball; moved, because the shears are a form of courage, and the courage is the week's.* — remembered: *the courage, sheared.*
 > (T6 · choice) *take the cutting — the begun, the week's; let the ball gown be the ball gown's; keep the work, the shown, the spoken.* — remembered: *the keeping, cut.*
 > (T7 · remembered micro-decision) *the cutting — the begun, the ball gown's; the commission — the week's, the Brighton's; the name — the spoken, the shears', the twenty-two's.* — remembered: *the naming, done.*
 > (T8 · dialogue) *"Cut well, girl." — Rose, at the workroom door* — remembered: *the door, cut.*
 > "The well's is the week's. The week's is the ball's."
-> *(Élise keeps the cutting table. The shears move, and the Thursday afternoon settles into its cutting.)*
+> *(Élise keeps the cutting table, and the shears move, and the Thursday afternoon settles into its cutting.)*
 > *Silk, shears, the girl's certain hands — and the ball gown begun, the commission week's, the name spoken.*
 *Animation: Shared.*
 
 ### L14.S10 · [D] · Rose, Lavinia Crane
 *Purpose: Thursday afternoon — Lavinia and the week's circle; the unleashed, the pleasure's. (Turns: 9)*
-> *(Thursday afternoon, the villa's garden. Lavinia walks with the week's circle — twenty-four, the unleashed, the pleasure's: the debt released, the name un-leashed, the walking.)*
+> *(Thursday afternoon, the villa's garden, the roses at their height. Lavinia walks with the week's circle — twenty-four, the unleashed, the pleasure's: the debt released, the name un-leashed, the walking.)*
 > (T1 · dialogue) *"The circle." — Lavinia, at the garden's end* — remembered: *the circle, walked.*
 > "The week's. The pleasure's. The unleashed's — the unleashed's is the walking's."
 > (T2 · dialogue) *"The walking's is yours, Lavinia." — Rose* — remembered: *the yours, walked.*
@@ -193,11 +193,11 @@
 > (T5 · tone) *warm, because the walking is warm; easy, because the afternoon wants it; complete, because the unleashing holds.* — remembered: *the completeness, walked.*
 > (T6 · remembered micro-decision) *the unleashed — the walking, the week's; the circle — the pleasure's, the hers; the loyalty — the unpriced, the week's.* — remembered: *the week's, loyal.*
 > (T7 · dialogue) *"The circle walks with me." — Lavinia, turning back* — remembered: *the turning, circled.*
-> "The week's. The pleasure's. The unleashed's — the unleashed's walks the Steine at noon, and the noon's is the town's."
+> "The week's. The pleasure's. The unleashed's — the unleashed's walks the Steine at noon, and the noon's is the town's, and the town's will see the walking."
 > (T8 · tone) *delighted, because the turning-back is the turning-back; confident, because the noon is the noon; unhurried, because the afternoon is long.* — remembered: *the delight, turned.*
 > (T9 · dialogue) *"Walk the circle, Lavinia." — Rose, at the gate*> (T7 · dialogue) *"Walk the circle, Lavinia." — Rose, at the gate* — remembered: *the gating, walked.*
 > "The walking's is the week's."
-> *(Lavinia keeps the garden. The roses stay roses, and the Thursday afternoon settles into its circling.)*
+> *(Lavinia keeps the garden, and the roses stay roses, and the Thursday afternoon settles into its circling.)*
 > *Afternoon, roses, the girl's free stride — and the circle walked, the unleashed pleasure's, the loyalty week's.*
 *Animation: Shared.*
 
@@ -240,7 +240,7 @@
 > (T8 · look closer) *the bow — the Frenchman's, the flourished, the delighted; the Steine — the afternoon's, the bright, the entertained; the charm — the deployed, the airtight, the week's.* — remembered: *the entertaining, bowed.*
 > (T9 · dialogue) *"The charm is deployed, Laurent." — Rose*> (T7 · dialogue) *"The charm is deployed, Laurent." — Rose* — remembered: *the deploying, noted.*
 > "The deployed's is the week's."
-> *(Laurent keeps the Steine. The charm stays raised, and the Thursday afternoon settles into its delighting.)*
+> *(Laurent keeps the Steine, and the charm stays raised, and the Thursday afternoon settles into its delighting.)*
 > *Afternoon, sea wind, the Frenchman's enormous ease — and the war read, the charm deployed, the logic airtight.*
 *Animation: Shared.*
 
@@ -323,16 +323,16 @@
 > (T5 · choice) *let the making be the making — the gown's, the morning's; keep the quiet noticed.* — remembered: *the keeping, noticed.*
 > (T6 · look closer) *the silk — the spread, the waiting, the ball's; the pins — the bright, the many; the girl — the twenty-two, the quiet, the cutting.* — remembered: *the cutting, quieted.*
 > (T7 · dialogue) *"The quiet is the story's." — Rose, very quietly* — remembered: *the quiet, storied.*
-> "The story's keeps its hour. The hour's is the week's — the week's is the telling's."
+> "The story's keeps its hour. The hour's is the week's — the week's is the telling's, and the telling's will come."
 > (T8 · look closer) *the pins — the bright, the many, the waiting; the silk — the ball's, the half-cut; the girl — the twenty-two, the quiet, the heard.* — remembered: *the hearing, pinned.*
 > (T9 · stance) *stand the workroom — the Friday's, the making's;> (T7 · stance) *stand the workroom — the Friday's, the making's; let the gown be the gown's; keep the quiet, the noticed.* — remembered: *the noticed, kept.*
-> *(Rose keeps the workroom. The shears move on, and the Friday morning settles into its making.)*
+> *(Rose keeps the workroom, and the shears move on, and the Friday morning settles into its making, and the quiet stays noticed.)*
 > *Morning, silk, the shears' quiet motion — and the ball gown making, the girl quieter, the quiet noticed.*
 *Animation: Shared.*
 
 ### L14.S17 · [D] · Rose, Élise
 *Purpose: Friday noon — Élise and the story's edge; the quiet, the hiding; the hand, the known. (Turns: 8)*
-> *(Friday noon, the atelier's workroom. The ball gown waits on the stand — half-made, the silk's promise — and Élise is at the window with the story's edge: the quiet, the hiding, the hand known.)*
+> *(Friday noon, the atelier's workroom, the light full on the stand. The ball gown waits on the stand — half-made, the silk's promise — and Élise is at the window with the story's edge: the quiet, the hiding, the hand known.)*
 > (T1 · dialogue) *"The hand." — Élise, to the window* — remembered: *the hand, windowed.*
 > "The vat's knower. The deliberate's. I know the hand — the knowing's is the story's, and the story's is the quiet."
 > (T2 · dialogue) *"The quiet is the hiding's, Élise." — Rose* — remembered: *the hiding's, quieted.*
@@ -345,21 +345,22 @@
 > (T7 · remembered micro-decision) *the hand — the known, the knew's; the story — the untold, the edged; the telling — the week's, the held.* — remembered: *the holding, storied.*
 > (T8 · dialogue) *"The story keeps its hour, Élise." — Rose* — remembered: *the hour, kept.*
 > "The hour's is the week's. The week's is the telling's."
-> *(Élise keeps the window. The gown waits half-made, and the Friday noon settles into its edging.)*
+> *(Élise keeps the window, and the gown waits half-made, and the Friday noon settles into its edging.)*
 > *Noon, window light, the girl's turned face — and the hand known, the story edged, the telling held.*
 *Animation: Shared.*
 
 ### L14.S18 · ★ KEY DECISION 2/3 — The story
 *Purpose: Friday afternoon — the story; Élise's knowing, the hand's; the telling's hour. (Turns: 3 — the decision)*
-> *(Friday afternoon, the atelier's workroom. Élise knows the hand — the vat's knower, the deliberate's, someone she knew. The story's hour is the week's, and the week has three answers for how it is told: the story, told openly; the story, told privately; or the story, left untold. Three roads, one knowing.)*
-> (T1 · the choice — how the story is told) *The story, told openly: Élise's story told in the open — the hand named, the knew told, the week hearing. The story, told privately: the story told privately — to Rose alone, the naming kept, the week unhearing. The story, left untold: the story left untold — the knowing kept, the hand unnamed, the girl unasked.*
-> (T2 · the turn — what the week reads) *The story told openly reads as the Hartwell, fearless: the knowing, the week's. The story told privately reads as the Hartwell, careful: the naming, the kept. The story left untold reads as the Hartwell, merciful: the girl, the unasked.*
-> (T3 · the consequence — what it costs) *The story told openly costs the naming: the hand, the known, the exposed. The story told privately costs the hearing: the week, the unhearing, the truth kept. The story left untold costs the answer: the knowing, the kept, the hand unnamed.*
+> *(Friday afternoon, the atelier's workroom, the ball gown half-made on the stand. Élise knows the hand — the vat's knower, the deliberate's, someone she knew. The story's hour is the week's, and the week has three answers for how it is told: the story, told openly; the story, told privately; or the story, left untold. Three roads, one knowing, and the knowing is a girl's whole past.)*
+> (T1 · the choice — how the story is told) *The story, told openly: Élise's story told in the open — the hand named, the knew told, the week hearing, the twenty-two-year-old's past laid before the town. The story, told privately: the story told privately — to Rose alone, the naming kept, the week unhearing, the knowing held inside the house. The story, left untold: the story left untold — the knowing kept, the hand unnamed, the girl unasked, the past left to keep its own silence.*
+> (T2 · the turn — what the week reads) *The story told openly reads as the Hartwell, fearless: the knowing, the week's, the girl's past given to the town's judging. The story told privately reads as the Hartwell, careful: the naming, the kept, the week unhearing and the knowing kept from the telling. The story left untold reads as the Hartwell, merciful: the girl, the unasked, the past left in the girl's keeping.*
+> (T3 · the consequence — what it costs) *The story told openly costs the naming: the hand, the known, the exposed, the knew laid bare before the week's reading. The story told privately costs the hearing: the week, the unhearing, the truth kept, the hand unnamed beyond the house. The story left untold costs the answer: the knowing, the kept, the hand unnamed, the week's questions left to stand.*
 *★ KEY DECISION 2/3 — The story:*
 - **The story** — *Have Élise tell her story openly: the hand named, the knew told, the week hearing.*
 - **The story, private** — *Hear the story privately: to Rose alone, the naming kept, the week unhearing.*
 - **The story, untold** — *Leave the story untold: the knowing kept, the hand unnamed, the girl unasked.*
-> *(She chooses the story. Élise tells her story openly — the hand named, the knew told; the week, hearing; the naming, spent.)*
+> *(The three roads lie open on the workroom floor — the telling, the privacy, the silence — and Élise's knowing waits for its hour, and the choosing is the afternoon's own story.)*
+> *Workroom, half-made gown, the girl's held breath — and the story edged, the hand known, the hour kept.*
 *Animation: Shared.*
 
 ### L14.S19 · [D] · Rose, Élise
@@ -408,7 +409,7 @@
 
 ### L14.S21 · [T] · Rose, the town's reading
 *Purpose: Friday evening — the town, reading the story; the week's telling, the town's. (Turns: 9)*
-> *(Friday evening, the Steine. The town reads the story — the hand named, the knew told; the week's telling, the town's deciding.)*
+> *(Friday evening, the Steine, the lamps being lit. The town reads the story — the hand named, the knew told; the week's telling, the town's deciding.)*
 > (T1 · look closer) *the Steine — the Friday's, the evening's, the lamp-lit; the town — the reading, the deciding, the story's; the story — the told, the open's, the week's.* — remembered: *the week's, read.*
 > (T2 · dialogue) *"The story." — the town, coming across the promenade* — remembered: *the coming, storied.*
 > "The told's. The hand's. The named's."
@@ -420,8 +421,8 @@
 > "The French girl named her. The naming's is the week's — the week's is the courageous's."
 > (T8 · look closer) *the companions — the evening's, the nodding, the convinced; the naming — the week's, the courageous; the Hartwell — the walking, the overhearing, the proud.* — remembered: *the pride, overheard.*
 > (T9 · look closer) *the lamps — the evening's, the lit; the sea — the darkening; the Hartwell — the walking, the told, the un-wobbled.*> (T7 · look closer) *the lamps — the evening's, the lit; the sea — the darkening; the Hartwell — the walking, the told, the un-wobbled.* — remembered: *the un-wobbled, seen.*
-> *(Rose keeps the Steine. The town reads on, and the Friday evening settles into its storying.)*
-> *Lamplight, sea, the town's reading — and the story told, the town deciding, the telling week's.*
+> *(Rose keeps the Steine, and the town reads on, and the Friday evening settles into its storying, and the reading stays week's.)*
+> *Lamplight, sea, the town's reading — and the story told, the town deciding, the telling week's, the evening's own hour.*
 *Animation: Shared.*
 
 ### L14.S22 · [D] · Rose, Mrs. Nance Bell
@@ -470,7 +471,7 @@
 
 ### L14.S24 · [T] · Rose, the gown's finishing
 *Purpose: Saturday morning — the workroom; the ball gown, the finishing; the shears, the last. (Turns: 9)*
-> *(Saturday morning, the atelier's workroom. The ball gown is the finishing — the last seams, the last pressing, the shears' last: the commission, the week's, the tonight's.)*
+> *(Saturday morning, the atelier's workroom, the press hissing. The ball gown is the finishing — the last seams, the last pressing, the shears' last: the commission, the week's, the tonight's.)*
 > (T1 · look closer) *the workroom — the Saturday's, the morning's, the last; the gown — the finishing, the ball's, the nearly; the shears — the last, the certain, the week's.* — remembered: *the last, sheared.*
 > (T2 · dialogue) *"The finishing." — Élise, not looking up* — remembered: *the finishing, stated.*
 > "The ball gown's. The last's. The last's is the commission's."
@@ -482,8 +483,8 @@
 > "The commission's is the week's. The week's is the tonight's — the tonight's is the ball's."
 > (T8 · look closer) *the press — the hissing, the steam, the final; the seam — the last, the true, the pressed; the girl — twenty-two, the finishing, the certain.* — remembered: *the certainty, pressed.*
 > (T9 · stance) *stand the workroom — the Saturday's, the last's;> (T7 · stance) *stand the workroom — the Saturday's, the last's; let the gown be the gown's; keep the finishing.* — remembered: *the finishing, kept.*
-> *(Rose keeps the workroom. The press hisses, and the Saturday morning settles into its finishing.)*
-> *Morning, steam, the shears' last motion — and the ball gown finishing, the commission tonight's, the last last.*
+> *(Rose keeps the workroom, and the press hisses, and the Saturday morning settles into its finishing, and the finishing stays week's.)*
+> *Morning, steam, the shears' last motion — and the ball gown finishing, the commission tonight's, the pressing done, the seams true.*
 *Animation: Shared.*
 
 ### L14.S25 · [D] · Rose, Élise
@@ -510,7 +511,7 @@
 
 ### L14.S26 · [D] · Rose, Aunt Letitia Hartwell
 *Purpose: Saturday afternoon — Letitia and the ball's eve; the aunt's verdict, entire. (Turns: 9)*
-> *(Saturday afternoon, the villa's morning room. Letitia has the ball's eve news — the gown done, the commission complete — and the verdict ready: the aunt's, the entire.)*
+> *(Saturday afternoon, the villa's morning room, the chocolate steaming. Letitia has the ball's eve news — the gown done, the commission complete — and the verdict ready: the aunt's, the entire.)*
 > (T1 · dialogue) *"The ball's eve." — Letitia, with great satisfaction* — remembered: *the satisfaction, great.*
 > "The gown's done. The commission's complete. The eve's is the week's."
 > (T2 · dialogue) *"The week's is the wearing's, Aunt." — Rose* — remembered: *the wearing's, week's.*
@@ -549,15 +550,15 @@
 
 ### L14.S28 · ★ KEY DECISION 3/3 — The wearing
 *Purpose: Saturday evening — the wearing; the ball gown, the ball's; the answer, the week's. (Turns: 3 — the decision)*
-> *(Saturday evening, her bedroom. The ball gown is done — on the stand, the atelier's whole answer. The wearing is the week's to choose, and the week has three answers: the wearing, the ball's; the wearing, delayed; or the wearing, declined. Three roads, one gown.)*
-> (T1 · the choice — how the gown is worn) *The wearing: the ball gown worn at the ball — the atelier's name, the shears' triumph, the answer worn. The wearing, delayed: the wearing delayed — the gown kept for a later night, the ball unanswered, the triumph postponed. The wearing, declined: the wearing declined — another gown worn instead, the atelier's name kept from the ballroom, the commission unshown.*
-> (T2 · the turn — what the week reads) *The wearing reads as the Hartwell, answered: the atelier's, the ball's. The wearing delayed reads as the Hartwell, waiting: the triumph, the postponed. The wearing declined reads as the Hartwell, careful: the name, the kept.*
-> (T3 · the consequence — what it costs) *The wearing costs the ballroom: the gown, the judged, the ton's. The wearing delayed costs the tonight: the ball, the unanswered. The wearing declined costs the answer: the commission, the unshown.*
+> *(Saturday evening, her bedroom, the ball gown done and waiting on the stand, the silk catching the lamplight. The gown is the atelier's whole answer — the silk, the shears' triumph. The wearing is the week's to choose, and the week has three answers: the wearing, the ball's; the wearing, delayed; or the wearing, declined. Three roads, one gown, and the gown is the week's whole proof.)*
+> (T1 · the choice — how the gown is worn) *The wearing: the ball gown worn at the ball — the atelier's name, the shears' triumph, the answer worn, the ballroom reading the silk. The wearing, delayed: the wearing delayed — the gown kept for a later night, the ball unanswered, the triumph postponed, the ton's eye turned elsewhere. The wearing, declined: the wearing declined — another gown worn instead, the atelier's name kept from the ballroom, the commission unshown, the week's proof left in the wardrobe.*
+> (T2 · the turn — what the week reads) *The wearing reads as the Hartwell, answered: the atelier's, the ball's, the week's courage in silk before the ton, the dragon's eye on the gown. The wearing delayed reads as the Hartwell, waiting: the triumph, the postponed, the ball left to wonder what the wardrobe holds, the ton's questions unanswered. The wearing declined reads as the Hartwell, careful: the name, the kept, the atelier's triumph hidden from the ballroom's judging, the week's proof folded away.*
+> (T3 · the consequence — what it costs) *The wearing costs the ballroom: the gown, the judged, the ton's, the atelier's name on every tongue, the dragon's reading of the silk. The wearing delayed costs the tonight: the ball, the unanswered, the week's end left without its proof, the commission's triumph postponed to a colder season. The wearing declined costs the answer: the commission, the unshown, the shears' triumph kept from the town's reading, the week's whole wager folded in tissue.*
 *★ KEY DECISION 3/3 — The wearing:*
 - **The wearing** — *Wear the ball gown at the ball: the atelier's name, the shears' triumph, the answer worn.*
 - **The wearing, delayed** — *Delay the wearing: keep the gown for a later night, leave the ball unanswered.*
 - **The wearing, declined** — *Decline the wearing: wear another gown instead, keep the atelier's name from the ballroom.*
-> *(She chooses the wearing. The ball gown is worn at the ball — the atelier's name, the shears' triumph; the answer, worn; the ballroom, faced.)*
+> *(The three roads lie open on the bedroom floor — the wearing, the delay, the declining — and the ball gown waits on the stand, and the choosing is the evening's own wearing, and the wearing is the week's whole answer.)*
 *Animation: Shared.*
 
 ### L14.S29 · [T] · Rose, the gown worn
@@ -577,7 +578,7 @@
 > (T10 · dialogue) *"The ballroom waits." — Rose, at the bedroom door*> (T8 · dialogue) *"The ballroom waits." — Rose, at the bedroom door* — remembered: *the door, waited.*
 > "The waiting's is the tonight's."
 > *(Rose keeps the bedroom. The mirror holds her, and the Saturday night settles into its wearing.)*
-> *Mirror, silk, the diamonds' weight — and the gown worn, the answer carried, the ballroom waiting.*
+> *Mirror, silk, the diamonds' weight — and the gown worn, the answer carried, the ballroom waiting, the night week's.*
 *Animation: Shared.*
 
 ### L14.S30 · [D] · Rose, Élise
@@ -604,7 +605,7 @@
 
 ### L14.S31 · [D] · Rose, Henry
 *Purpose: Saturday night — Henry's book; the week's arithmetic; the £5,000, the Tuesday's. (Turns: 9)*
-> *(Saturday night, the villa's study. Henry has the week's book — the arithmetic, the held: the ink's costs, the gown's commission, the £5,000, the Tuesday's.)*
+> *(Saturday night, the villa's study, the ledger open at the week's page. Henry has the week's book — the arithmetic, the held: the ink's costs, the gown's commission, the £5,000, the Tuesday's.)*
 > (T1 · dialogue) *"The week's book." — Henry, with the book* — remembered: *the booking, week's.*
 > "The arithmetic's. The held's. The ink's costs, the gown's commission — the purse is lighter, the honest's."
 > (T2 · dialogue) *"The honest's is the week's, Henry." — Rose* — remembered: *the week's, honest.*
@@ -615,7 +616,7 @@
 > (T5 · tone) *businesslike, because the book deserves it; satisfied, because the holding is the holding; ready, because the Tuesday is the Tuesday.* — remembered: *the readiness, booked.*
 > (T6 · remembered micro-decision) *the book — the week's, the balanced; the costs — the ink's, the gown's; the £5,000 — the untouched, the Tuesday's.* — remembered: *the Tuesday, kept.*
 > (T7 · dialogue) *"The balancing is the honest's." — Henry, closing the book* — remembered: *the closing, honest.*
-> "The honest's is the week's. The week's pays its ink and its silk — the paying's is the holding's."
+> "The honest's is the week's. The week's pays its ink and its silk — the paying's is the holding's, and the holding's is the Tuesday's own."
 > (T8 · look closer) *the book — the closed, the balanced, the week's; the lamp — the night's, the study's; the banker — thirty-three, the closing, the satisfied.* — remembered: *the satisfaction, closed.*
 > (T9 · dialogue) *"The book balances, Henry." — Rose*> (T7 · dialogue) *"The book balances, Henry." — Rose* — remembered: *the balancing, stated.*
 > "The balancing's is the week's."
@@ -645,13 +646,13 @@
 
 ### L14.S33 · [D] · Rose, Lord Julian Ashcombe
 *Purpose: Saturday night — Julian and the ball; the watch, the week's; the trust, the kept. (Turns: 9)*
-> *(Saturday night, the villa's terrace. Julian has the ball's watch — twenty-eight, the week's: the East Street lodging watched, the hand found, the dye room kept.)*
+> *(Saturday night, the villa's terrace, the sea a black plate. Julian has the ball's watch — twenty-eight, the week's: the East Street lodging watched, the hand found, the dye room kept.)*
 > (T1 · dialogue) *"The East Street lodging." — Julian, without preamble* — remembered: *the lodging, watched.*
 > "The watched's. The week's. My man's at the door — the door's is the kept's."
 > (T2 · dialogue) *"The kept's is the trust's, Julian." — Rose* — remembered: *the trust's, kept.*
 > "The trust's is the week's. The week's is the ball's."
 > (T3 · dialogue) *"The ball's is the guarded's." — Julian, very quietly* — remembered: *the guarded's, balled.*
-> "The guarded's is the complete's. The complete's is the guardsman's — the guardsman's is the office."
+> "The guarded's is the complete's. The complete's is the guardsman's — the guardsman's is the office, and the office holds."
 > (T4 · look closer) *the terrace — the Saturday's, the night's, the sea's; the man — twenty-eight, the watching, the quiet; the lodging — the East Street's, the watched, the kept.* — remembered: *the keeping, lodged.*
 > (T5 · tone) *trusting, because the watch is the watch; grateful, because the complete is the complete; unhurried, because the night wants it.* — remembered: *the unhurried, trusted.*
 > (T6 · choice) *take the watch — the ball's, the week's; let the guarding be the guarding; keep the trust, the kept, the complete.* — remembered: *the completeness, kept.*
@@ -659,8 +660,8 @@
 > (T8 · dialogue) *"The office is complete, Julian." — Rose* — remembered: *the completeness, stated.*
 > "The complete's is the week's. The week's is the ball's."
 > (T9 · stance) *stand the terrace — the night's, the watched; let the ball be the ball's; keep the trust kept.* — remembered: *the kept, stood.*
-> *(Julian keeps the terrace. The sea darkens, and the Saturday night settles into its watching.)*
-> *Night, sea, the East Street door watched — and the ball guarded, the trust kept, the office complete.*
+> *(Julian keeps the terrace, and the sea darkens, and the Saturday night settles into its watching, and the watch stays kept.)*
+> *Night, sea, the East Street door watched — and the ball guarded, the trust kept, the office complete, the watch week's, the keeping done.*
 *Animation: Shared.*
 
 ### L14.S34 · [D] · Rose, Lavinia Crane
@@ -679,7 +680,7 @@
 > (T8 · remembered micro-decision) *the dance — the first, the circle's; the girl — the twenty-four, the unleashed; the night — the pleasure's, the week's.* — remembered: *the week's, danced.*
 > (T9 · dialogue) *"Dance the night, Lavinia." — Rose, at the gate* — remembered: *the gating, danced.*
 > "The night's is the circle's. The circle's is yours."
-> *(Lavinia keeps the garden. The roses keep their counsel, and the Saturday night settles into its dancing.)*
+> *(Lavinia keeps the garden, and the roses keep their counsel, and the Saturday night settles into its dancing.)*
 > *Night, roses, the girl's practicing steps — and the first dance waited, the unleashed dancing, the circle week's.*
 *Animation: Shared.*
 
@@ -706,7 +707,7 @@
 
 ### L14.S36 · [D] · Rose, Mrs. Nance Bell
 *Purpose: Saturday night — Bell and the ball; the coverage, the Gazette's; the judging, the week's. (Turns: 9)*
-> *(Saturday night, the Gazette's office. Bell is planning the ball's coverage — soft-voiced, sharp-eyed: the gown worn, the story printed, the judging week's.)*
+> *(Saturday night, the Gazette's office, the lamps lit against the dark. Bell is planning the ball's coverage — soft-voiced, sharp-eyed: the gown worn, the story printed, the judging week's.)*
 > (T1 · dialogue) *"The ball's coverage." — Bell, soft-voiced* — remembered: *the coverage, planned.*
 > "The Gazette's. The telling's. The gown worn, the story printed — the printed's is the week's."
 > (T2 · dialogue) *"The week's is the judging's, Mrs. Bell." — Rose* — remembered: *the judging's, week's.*
@@ -720,13 +721,13 @@
 > (T8 · dialogue) *"Tell the ball, Mrs. Bell." — Rose, at the office door* — remembered: *the door, told.*
 > "The ball's is the week's. The week's is the true's."
 > (T9 · stance) *stand the office — the night's, the planned; let the coverage be the coverage; keep the telling.* — remembered: *the telling, stood.*
-> *(Bell keeps the office. The night deepens, and the Saturday night settles into its planning.)*
+> *(Bell keeps the office, and the night deepens, and the Saturday night settles into its planning.)*
 > *Night, ink, the soft voice's sharp plans — and the ball covered, the judging week's, the true told.*
 *Animation: Shared.*
 
 ### L14.S37 · [D] · Rose, the dragon's weather
 *Purpose: Saturday night — the dragon at the ball; Agatha, attending; the weather, the week's. (Turns: 9)*
-> *(Saturday night, the ballroom's approach. The dragon attends — Agatha, fifty-four, the unbowed's: the ball's, the week's, the faced.)*
+> *(Saturday night, the ballroom's approach, the doors shut and the music behind them. The dragon attends — Agatha, fifty-four, the unbowed's: the ball's, the week's, the faced.)*
 > (T1 · look closer) *the approach — the Saturday's, the night's, the ballroom's; the carriage — the dragon's, the arrived, the fifty-four's; the weather — the attending, the unbowed, the week's.* — remembered: *the week's, weathered.*
 > (T2 · dialogue) *"The dragon attends." — Rose, very quietly* — remembered: *the attending, stated.*
 > "The attending's is the unbowed's. The unbowed's is the fifty-four's."
@@ -739,13 +740,13 @@
 > (T8 · dialogue) *"The ball is the week's." — Rose, at the ballroom's doors* — remembered: *the doors, balled.*
 > "The week's is the wearing's. The wearing's is the answer's."
 > (T9 · look closer) *the doors — the ballroom's, the shut, the waiting; the carriage — the dragon's, the emptied; the Hartwell — the standing, the ready, the un-wobbled.* — remembered: *the standing, doored.*
-> *(Rose keeps the approach. The doors stand shut, and the Saturday night settles into its attending.)*
-> *Night, closed doors, the dragon's arrived carriage — and the attending faced, the ball week's, the wearing kept.*
+> *(Rose keeps the approach, and the doors stand shut, and the Saturday night settles into its attending.)*
+> *Night, closed doors, the dragon's arrived carriage — and the attending faced, the ball week's, the wearing kept, the unbowed met.*
 *Animation: Shared.*
 
 ### L14.S38 · [D] · Rose, Élise
 *Purpose: Saturday night — Élise and the ball; the maker, the seeing; the gown, the worn. (Turns: 9)*
-> *(Saturday night, the ballroom's approach. Élise sees her gown — twenty-two, the maker's, the seeing: the silk worn, the shears still, the triumph's.)*
+> *(Saturday night, the ballroom's approach, the music leaking through the shut doors. Élise sees her gown — twenty-two, the maker's, the seeing: the silk worn, the shears still, the triumph's.)*
 > (T1 · look closer) *the gown — the worn, the silk's, the ball's; the maker — the twenty-two, the seeing, the still; the triumph — the worn's, the week's, the hers.* — remembered: *the hers, triumphed.*
 > (T2 · dialogue) *"The gown." — Élise, very quietly* — remembered: *the quiet, gowned.*
 > "The worn's. The ball's. The seeing's — the seeing's is the maker's."

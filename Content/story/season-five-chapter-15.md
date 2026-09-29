@@ -19,7 +19,7 @@
 ### L15.S1 · [T] · Rose, the ballroom
 *Purpose: Saturday night — the ballroom, entered; the gown, worn; the answer, the carried. (Turns: 10)*
 > *(Saturday night, the ballroom. The doors are open — the light, the music, the ton's whole glitter — and she enters: the gown worn, the atelier's silk, the answer carried.)*
-> *The candles are lit in their hundreds, and the wax scents the air — the ballroom, the Saturday's, the entered. The ton turns as one, and the turning is the reading The reading is the week's, and the week's is the ballroom's. The ballroom holds its breath, and the holding is the week's.*
+> *The candles are lit in their hundreds, and the wax scents the air — the ballroom, the Saturday's, the entered. The ton turns as one, and the turning is the reading. The reading is the week's, and the week's is the ballroom's. The ballroom holds its breath, and the holding is the week's.*
 > (T1 · look closer) *the ballroom — the Saturday's, the night's, the lit; the light — the candles', the many, the glittering; the music — the playing, the dancing, the week's.* — remembered: *the week's, musicked.*
 > (T2 · dialogue) *"The Hartwell." — the ton, turning* — remembered: *the turning, tonned.*
 > "The gown's. The French girl's. The atelier's — the atelier's is the week's."
@@ -39,7 +39,7 @@
 ### L15.S2 · [T] · Rose, the wearing's triumph
 *Purpose: Saturday night — the wearing's triumph; the ton's reading; the atelier's name. (Turns: 10)*
 > *(Saturday night, the ballroom. The wearing's triumph is the ton's reading — the gown, the atelier's; the shears' triumph, the week's.)*
-> *The silk catches the candlelight and throws it back — the gown, the worn, the triumph. The ton's murmur rises and falls like the sea outside, and the murmuring is the judging The judging is the true's, and the true's is the worn's. The worn is the triumph's, and the triumph's is the atelier's.*
+> *The silk catches the candlelight and throws it back — the gown, the worn, the triumph. The ton's murmur rises and falls like the sea outside, and the murmuring is the judging. The judging is the true's, and the true's is the worn's. The worn is the triumph's, and the triumph's is the atelier's.*
 > (T1 · look closer) *the gown — the worn, the atelier's, the triumph; the ton — the reading, the turning, the convinced; the name — the atelier's, the spoken, the week's.* — remembered: *the week's, named.*
 > (T2 · dialogue) *"The atelier's." — the ton, over the music* — remembered: *the music, ateliered.*
 > "The French girl's. The shears'. The twenty-two's — the twenty-two's is the week's."
@@ -60,7 +60,7 @@
 ### L15.S3 · [D] · Rose, Aunt Letitia Hartwell
 *Purpose: Saturday night — Letitia at the ball; the aunt's delight, entire. (Turns: 10)*
 > *(Saturday night, the ballroom. Letitia is in her element — the aunt's delight, entire: the gown worn, the triumph read, the week's.)*
-> *Letitia's fan moves like a semaphore — the aunt's, the delighted, the entire. Her jewels catch the light with every gesture, and the gesturing is the beaming The beaming is the entire's, and the entire's is the delighted's. The delighted is the week's, and the week's is the aunt's.*
+> *Letitia's fan moves like a semaphore — the aunt's, the delighted, the entire. Her jewels catch the light with every gesture, and the gesturing is the beaming. The beaming is the entire's, and the entire's is the delighted's. The delighted is the week's, and the week's is the aunt's.*
 > (T1 · dialogue) *"The ball." — Letitia, with enormous satisfaction* — remembered: *the satisfaction, balled.*
 > "The gown's worn. The triumph's read. The read's is the week's — the week's is the night."
 > (T2 · dialogue) *"The night's is the wearing's, Aunt." — Rose* — remembered: *the wearing's, nighted.*
@@ -83,7 +83,7 @@
 ### L15.S4 · [D] · Rose, Octavia
 *Purpose: Saturday night — Octavia at the ball; the sketch, the dancing; the precision, unsparing. (Turns: 10)*
 > *(Saturday night, the ballroom. Octavia is sketching the dancing — thirty-four, the pencil moving, the precision unsparing: the gown worn, the drawn, the week's.)*
-> *Octavia's pencil never stops — the sketching, the thirty-four, the unsparing. The paper fills with the dancing's line, and the filling is the keeping The keeping is the drawn's, and the drawn's is the dancing's. The dancing is the line's, and the line's is the precision's.*
+> *Octavia's pencil never stops — the sketching, the thirty-four, the unsparing. The paper fills with the dancing's line, and the filling is the keeping. The keeping is the drawn's, and the drawn's is the dancing's. The dancing is the line's, and the line's is the precision's.*
 > (T1 · dialogue) *"The dancing's line." — Octavia, not looking up* — remembered: *the line, danced.*
 > "The gown's. The worn's. The atelier's — the atelier's is the week's."
 > (T2 · dialogue) *"The week's is the drawn's, Octavia." — Rose* — remembered: *the drawn's, week's.*
@@ -106,7 +106,7 @@
 ### L15.S5 · [D] · Rose, Lord Julian Ashcombe
 *Purpose: Saturday night — Julian at the ball; the dance, the asked; the trust, the kept. (Turns: 10)*
 > *(Saturday night, the ballroom. Julian asks for the dance — twenty-eight, the asked, the week's: the trust kept, the guarding complete, the ball's.)*
-> *Julian stands very straight in his regimentals — the twenty-eight, the asking, the week's. The candlelight finds the braid on his cuffs, and the finding is the trust The trust is the kept's, and the kept's is the asked's. The asked is the week's, and the week's is the dancing's.*
+> *Julian stands very straight in his regimentals — the twenty-eight, the asking, the week's. The candlelight finds the braid on his cuffs, and the finding is the trust. The trust is the kept's, and the kept's is the asked's. The asked is the week's, and the week's is the dancing's.*
 > (T1 · dialogue) *"The dance." — Julian, bowing* — remembered: *the bowing, danced.*
 > "The asked's. The week's. The ball's — the ball's is the dancing's."
 > (T2 · dialogue) *"The dancing's is the trust's, Julian." — Rose* — remembered: *the trust's, danced.*
@@ -129,7 +129,7 @@
 ### L15.S6 · [D] · Rose, Lavinia Crane
 *Purpose: Saturday night — Lavinia at the ball; the dancing, the unleashed; the circle, the week's. (Turns: 10)*
 > *(Saturday night, the ballroom. Lavinia dances — twenty-four, the unleashed, the week's: the circle's, the pleasure's, the free.)*
-> *Lavinia's slippers are already dusty — the dancing, the twenty-four, the unleashed. She moves like the music was written for her feet alone, and the moving is the free The free is the unleashed's, and the unleashed's is the shining's. The shining is the twenty-four's, and the twenty-four's is the free's.*
+> *Lavinia's slippers are already dusty — the dancing, the twenty-four, the unleashed. She moves like the music was written for her feet alone, and the moving is the free. The free is the unleashed's, and the unleashed's is the shining's. The shining is the twenty-four's, and the twenty-four's is the free's.*
 > (T1 · look closer) *the dancing — the Saturday's, the night's, the unleashed; the girl — twenty-four, the moving, the free; the circle — the week's, the pleasure's, the hers.* — remembered: *the hers, danced.*
 > (T2 · dialogue) *"The dancing." — Lavinia, breathless, shining* — remembered: *the shining, danced.*
 > "The unleashed's. The week's. The free's — the free's is the circle's."
@@ -152,7 +152,7 @@
 ### L15.S7 · [D] · Rose, Augusta
 *Purpose: Saturday night — Augusta at the ball; the dealing, the week's; the ground, the minded. (Turns: 10)*
 > *(Saturday night, the ballroom. Augusta holds her corner — seventy, the dealing's, the week's: the ground minded, the glitter floating.)*
-> *Augusta's corner commands the room — the seventy, the dealing, the week's. Her chair is high-backed and her gaze is higher, and the gazing is the surveying The surveying is the seventy's, and the seventy's is the dealing's. The dealing is the kept's, and the kept's is the minded's.*
+> *Augusta's corner commands the room — the seventy, the dealing, the week's. Her chair is high-backed and her gaze is higher, and the gazing is the surveying. The surveying is the seventy's, and the seventy's is the dealing's. The dealing is the kept's, and the kept's is the minded's.*
 > (T1 · dialogue) *"The ball." — Augusta, from her corner* — remembered: *the ball, cornered.*
 > "The week's. The wearing's. The triumph's — the triumph's is the dealing's."
 > (T2 · dialogue) *"The dealing's is the kept's, Augusta." — Rose* — remembered: *the kept's, dealt.*
@@ -175,21 +175,22 @@
 
 ### L15.S8 · ★ KEY DECISION 1/3 — The dance
 *Purpose: Saturday night — the dance; the ball's, the week's; the asking. (Turns: 3 — the decision)*
-> *(Saturday night, the ballroom. The dance is the week's to choose — the ball's, the asking: the first dance, the partner, the night's. Three roads, one dance.)*
-> (T1 · the choice — how the dance is chosen) *The dance: the first dance with Julian — the asked, the trust's, the kept. The dance, the circle's: the dance with the week's circle — Lavinia, the unleashed, the pleasure's. The dance, the town's: the dance with the town — the ton's, the reading's, the glitter's.*
-> (T2 · the turn — what the night reads) *The dance with Julian reads as the Hartwell, true: the trust's, the kept. The dance with the circle reads as the Hartwell, generous: the pleasure's, the shared. The dance with the town reads as the Hartwell, glittering: the reading's, the worn.*
-> (T3 · the consequence — what it costs) *The dance with Julian costs the privacy: the asked, the seen. The dance with the circle costs the exclusivity: the pleasure, the shared. The dance with the town costs the intimacy: the glitter, the worn.*
+> *(Saturday night, the ballroom, the music playing for the first dance. The dance is the week's to choose — the ball's, the asking: the first dance, the partner, the night's. Three roads, one dance, and the whole ballroom is watching the choosing.)*
+> *The musicians wait with their bows raised — the dance, the week's, the choosing. The ballroom holds its breath, and the holding is the asking. The asking is the night's, and the night's is the first dance's. The first dance is the week's, and the week's is the choosing's.*
+> (T1 · the choice — how the dance is chosen) *The dance: the first dance with Julian — the asked, the trust's, the kept, the guardsman's bow answered. The dance, the circle's: the dance with the week's circle — Lavinia, the unleashed, the pleasure's, the circle's joy given the night. The dance, the town's: the dance with the town — the ton's, the reading's, the glitter's, the ballroom's whole turning satisfied.*
+> (T2 · the turn — what the night reads) *The dance with Julian reads as the Hartwell, true: the trust's, the kept, the week's loyalty in the ballroom's light. The dance with the circle reads as the Hartwell, generous: the pleasure's, the shared, the circle's joy worn in the open. The dance with the town reads as the Hartwell, glittering: the reading's, the worn, the ton's whole glitter answered.*
+> (T3 · the consequence — what it costs) *The dance with Julian costs the privacy: the asked, the seen, the trust's keeping under the ballroom's eye. The dance with the circle costs the exclusivity: the pleasure, the shared, the night's joy divided among the week's own. The dance with the town costs the intimacy: the glitter, the worn, the first dance spent on the ton's reading.*
 *★ KEY DECISION 1/3 — The dance:*
 - **The dance** — *Take the first dance with Julian: the asked, the trust's, the kept.*
 - **The circle's dance** — *Dance with the week's circle: Lavinia, the unleashed, the pleasure's.*
 - **The town's dance** — *Dance with the town: the ton's, the reading's, the glitter's.*
-> *(She chooses the dance. The first dance is Julian's — the asked, the trust's, the kept; the privacy, spent.)*
+> *(The three roads lie open on the ballroom floor — the guardsman's dance, the circle's, the town's — and the music plays for the first dance, and the choosing is the night's own turning.)*
 *Animation: Shared.*
 
 ### L15.S9 · [D] · Rose, Henry
 *Purpose: Saturday night — Henry at the ball; the accounts, the week's; the banker, satisfied. (Turns: 10)*
 > *(Saturday night, the ballroom's edge. Henry is content — thirty-three, the banker's, the satisfied: the week's accounts, the triumph read.)*
-> *Henry's waistcoat is buttoned to the throat — the thirty-three, the watching, the week's. He holds his wine but does not drink, and the holding is the accounts The accounts are the week's, and the week's is the honestly-paid's.*
+> *Henry's waistcoat is buttoned to the throat — the thirty-three, the watching, the week's. He holds his wine but does not drink, and the holding is the accounts. The accounts are the week's, and the week's is the honestly-paid's.*
 > (T1 · dialogue) *"The ball's costs." — Henry, over the music* — remembered: *the music, costed.*
 > "The week's. The honestly-paid's. The ink's is the paid's — the paid's is the week's."
 > (T2 · dialogue) *"The week's is the keeping's, Henry." — Rose* — remembered: *the keeping's, week's.*
@@ -212,7 +213,7 @@
 ### L15.S10 · [D] · Rose, the dragon at the ball
 *Purpose: Saturday night — Agatha at the ball; the attending, the unbowed; the answer, the carried. (Turns: 10)*
 > *(Saturday night, the ballroom. The dragon attends — fifty-four, the unbowed's: the ball's, the week's, the faced.)*
-> *Agatha's black silk absorbs the candlelight — the fifty-four, the attending, the unbowed. She stands where the room must pass her, and the standing is the facing The facing is the unbowed's, and the unbowed's is the fifty-four's.*
+> *Agatha's black silk absorbs the candlelight — the fifty-four, the attending, the unbowed. She stands where the room must pass her, and the standing is the facing. The facing is the unbowed's, and the unbowed's is the fifty-four's.*
 > (T1 · look closer) *the ballroom — the Saturday's, the night's, the attending; the dragon — the fifty-four, the arrived, the unbowed; the answer — the carried, the worn, the week's.* — remembered: *the week's, answered.*
 > (T2 · dialogue) *"The Hartwell's gown." — Agatha, very coolly* — remembered: *the coolness, gowned.*
 > "The French girl's. The shears'. The atelier's — the atelier's is the week's."
@@ -234,7 +235,7 @@
 ### L15.S11 · [D] · Rose, Élise at the ball
 *Purpose: Saturday night — Élise at the ball; the maker, the seen; the triumph, the hers. (Turns: 10)*
 > *(Saturday night, the ballroom. Élise stands at the edge — twenty-two, the maker's, the seen: her gown, worn; her triumph, the hers.)*
-> *Elise's hands are folded very tight — the twenty-two, the edge's, the seeing. She wears her best, but her best is the watching, and the watching is the shining The shining is the twenty-two's, and the twenty-two's is the maker's.*
+> *Elise's hands are folded very tight — the twenty-two, the edge's, the seeing. She wears her best, but her best is the watching, and the watching is the shining. The shining is the twenty-two's, and the twenty-two's is the maker's.*
 > (T1 · look closer) *the ballroom — the Saturday's, the night's, the triumph; the girl — twenty-two, the edge's, the seeing; the gown — the worn, the hers, the shears'.* — remembered: *the hers, seen.*
 > (T2 · dialogue) *"The gown." — Élise, very quietly* — remembered: *the quiet, gowned.*
 > "The worn's. The ball's. The triumph's — the triumph's is the maker's."
@@ -256,7 +257,7 @@
 ### L15.S12 · [D] · Rose, Bell at the ball
 *Purpose: Saturday night — Bell at the ball; the judging, the week's; the Gazette, the narrating. (Turns: 10)*
 > *(Saturday night, the ballroom. Bell observes — soft-voiced, sharp-eyed: the gown worn, the story read, the judging week's.)*
-> *Bell's notebook is small and dark — the soft-voiced, the sharp-eyed, the observing. She writes without looking down, and the writing is the narrating The narrating is the Gazette's, and the Gazette's is the true's.*
+> *Bell's notebook is small and dark — the soft-voiced, the sharp-eyed, the observing. She writes without looking down, and the writing is the narrating. The narrating is the Gazette's, and the Gazette's is the true's.*
 > (T1 · dialogue) *"The ball." — Bell, soft-voiced* — remembered: *the ball, voiced.*
 > "The gown's. The atelier's. The shears' — the shears' is the week's."
 > (T2 · dialogue) *"The week's is the judging's, Mrs. Bell." — Rose* — remembered: *the judging's, week's.*
@@ -279,7 +280,7 @@
 ### L15.S13 · [T] · Rose, the week's end
 *Purpose: Saturday night — the week's end; the price, the paid; the ball, the crown. (Turns: 10)*
 > *(Saturday night, the ballroom. The week ends as it should — the price paid, the ball crowned: the wearing's triumph, the ascent's waiting.)*
-> *The candles burn lower now — the Saturday's, the night's, the ending. The wax pools in the sconces like small moons, and the pooling is the week's The week's is the ending's, and the ending's is the crowned's.*
+> *The candles burn lower now — the Saturday's, the night's, the ending. The wax pools in the sconces like small moons, and the pooling is the week's. The week's is the ending's, and the ending's is the crowned's.*
 > (T1 · look closer) *the ballroom — the Saturday's, the night's, the ending; the week — the priced, the paid, the crowned; the price — the ink's, the silk's, the honestly-paid.* — remembered: *the paying, priced.*
 > (T2 · dialogue) *"The week's end." — Rose, very quietly* — remembered: *the ending, week's.*
 > "The priced's. The paid's. The crowned's — the crowned's is the ball's."
@@ -300,7 +301,7 @@
 ### L15.S14 · [T] · Rose, the midnight's approach
 *Purpose: Saturday night — the midnight's approach; the ascent, the prepared; the balloon, the waiting. (Turns: 10)*
 > *(Saturday night, near midnight. The ascent approaches — the prepared, the waiting: the balloon, the field's; the ton, the gathering.)*
-> *The doors stand open to the night — the ballroom's, the pouring, the midnight's. The torchlight from the field reaches in like fingers, and the reaching is the waiting The waiting is the midnight's, and the midnight's is the ascent's.*
+> *The doors stand open to the night — the ballroom's, the pouring, the midnight's. The torchlight from the field reaches in like fingers, and the reaching is the waiting. The waiting is the midnight's, and the midnight's is the ascent's.*
 > (T1 · look closer) *the field — the Saturday's, the night's, the waiting; the balloon — the prepared, the great, the midnight's; the ton — the gathering, the ballroom's, the below.* — remembered: *the below, gathered.*
 > (T2 · dialogue) *"The midnight." — a footman, at the ballroom's doors* — remembered: *the doors, midnighted.*
 > "The ascent's. The balloon's. The waiting's — the waiting's is the ton's."
@@ -353,7 +354,7 @@
 ### L15.S16 · [T] · Rose, the field
 *Purpose: Saturday night, midnight — the field; the ton, below; the balloon, the great. (Turns: 10)*
 > *(Saturday night, midnight. The field is torchlit — the ton, the gathered, the below: the balloon, the great, the waiting.)*
-> *The burner's roar is the field's heartbeat — the midnight's, the great, the waiting. The envelope strains against the ropes like a living thing, and the straining is the ready The ready is the held's, and the held's is the sure's.*
+> *The burner's roar is the field's heartbeat — the midnight's, the great, the waiting. The envelope strains against the ropes like a living thing, and the straining is the ready. The ready is the held's, and the held's is the sure's.*
 > (T1 · look closer) *the field — the midnight's, the torchlit, the gathered; the balloon — the great, the swaying, the waiting; the ton — the below, the looking-up, the week's.* — remembered: *the week's, looked-up.*
 > (T2 · dialogue) *"The balloon." — the ton, as one* — remembered: *the oneness, ballooned.*
 > "The great's. The midnight's. The ascent's — the ascent's is the week's."
@@ -374,7 +375,7 @@
 ### L15.S17 · [D] · Rose, Aunt Letitia Hartwell
 *Purpose: Saturday night, midnight — Letitia at the field; the aunt's terror, the entire. (Turns: 10)*
 > *(Saturday night, midnight, the field. Letitia is terrified and delighted — the aunt's terror, entire: the balloon, the great; the niece, the ascending.)*
-> *Letitia's knuckles are white on Rose's arm — the entire, the terrified, the loving. The balloon's shadow crosses the torches, and the crossing is the daring The daring is the Hartwell's, and the Hartwell's is the not-falling's.*
+> *Letitia's knuckles are white on Rose's arm — the entire, the terrified, the loving. The balloon's shadow crosses the torches, and the crossing is the daring. The daring is the Hartwell's, and the Hartwell's is the not-falling's.*
 > (T1 · dialogue) *"The balloon." — Letitia, clutching Rose's arm* — remembered: *the clutching, ballooned.*
 > "The great's. The ascending's. The niece's — the niece's is the aloft's."
 > (T2 · dialogue) *"The aloft's is the not-falling's, Aunt." — Rose* — remembered: *the not-falling's, alofted.*
@@ -396,15 +397,16 @@
 
 ### L15.S18 · ★ KEY DECISION 2/3 — The kind
 *Purpose: Saturday night, midnight — the kind; the field's, the week's; the maker's, the brought-forward. (Turns: 3 — the decision)*
-> *(Saturday night, midnight, the field. The kind is the week's to choose — the field's, the watching: the maker brought forward, the boy reassured, the ton waved to. Three roads, one kindness.)*
-> (T1 · the choice — how the kind is done) *The kind to the maker: bring Élise to the front — the twenty-two, the seeing, the triumph's. The kind to the boy: reassure the balloonist's lad — the nervous, the young, the rope's. The kind to the ton: wave to the gathered — the below, the looking-up, the week's.*
-> (T2 · the turn — what the field reads) *The kind to the maker reads as the Hartwell, generous: the seeing's, the hers. The kind to the boy reads as the Hartwell, gentle: the reassuring's, the young's. The kind to the ton reads as the Hartwell, gracious: the waving's, the gathered's.*
-> (T3 · the consequence — what it costs) *The kind to the maker costs the front: the brought-forward, the seen. The kind to the boy costs the moment: the reassuring, the paused. The kind to the ton costs the privacy: the waving, the watched.*
+> *(Saturday night, midnight, the field, the torches lit against the dark. The kind is the week's to choose — the field's, the watching: the maker brought forward, the boy reassured, the ton waved to. Three roads, one kindness, and the whole field is watching the choosing.)*
+> *The torches gutter in the sea wind — the field, the midnight, the choosing. The crowd below looks up as one, and the looking is the waiting. The waiting is the kind's, and the kind's is the midnight's. The midnight is the week's, and the week's is the field's.*
+> (T1 · the choice — how the kind is done) *The kind to the maker: bring Élise to the front — the twenty-two, the seeing, the triumph's, the girl's name said before the ton. The kind to the boy: reassure the balloonist's lad — the nervous, the young, the rope's, the lad's fear steadied by a word. The kind to the ton: wave to the gathered — the below, the looking-up, the week's, the field's whole watching answered.*
+> (T2 · the turn — what the field reads) *The kind to the maker reads as the Hartwell, generous: the seeing's, the hers, the twenty-two-year-old's triumph given its name. The kind to the boy reads as the Hartwell, gentle: the reassuring's, the young's, the lad's nerves steadied in the week's hearing. The kind to the ton reads as the Hartwell, gracious: the waving's, the gathered's, the field's whole watching honored.*
+> (T3 · the consequence — what it costs) *The kind to the maker costs the front: the brought-forward, the seen, the girl's triumph under the field's eye. The kind to the boy costs the moment: the reassuring, the paused, the midnight's rising held for a word. The kind to the ton costs the privacy: the waving, the watched, the week's kindness spent on the gathered.*
 *★ KEY DECISION 2/3 — The kind:*
 - **The kind** — *Bring Élise to the front: the twenty-two, the seeing, the triumph's.*
 - **The boy's kind** — *Reassure the balloonist's lad: the nervous, the young, the rope's.*
 - **The ton's kind** — *Wave to the gathered: the below, the looking-up, the week's.*
-> *(She chooses the kind. Élise is brought to the front — the twenty-two, the seeing, the triumph's; the front, given.)*
+> *(The three roads lie open on the torchlit field — the maker's front, the boy's reassuring, the ton's waving — and the midnight waits for its kindness, and the choosing is the field's own watching.)*
 *Animation: Shared.*
 
 ### L15.S19 · [D] · Rose, Octavia
@@ -433,7 +435,7 @@
 ### L15.S20 · [D] · Rose, Lord Julian Ashcombe
 *Purpose: Saturday night, midnight — Julian at the field; the guarding, the complete; the ropes, the held. (Turns: 10)*
 > *(Saturday night, midnight, the field. Julian holds the ropes' line — twenty-eight, the guarding's, the complete: the balloon, the great; the ascent, the kept.)*
-> *Julian's hands are sure on the rope — the twenty-eight, the line's, the checking. The hemp is rough and the knot is true, and the trueness is the guarding The guarding is the complete's, and the complete's is the twenty-eight's.*
+> *Julian's hands are sure on the rope — the twenty-eight, the line's, the checking. The hemp is rough and the knot is true, and the trueness is the guarding. The guarding is the complete's, and the complete's is the twenty-eight's.*
 > (T1 · dialogue) *"The ropes." — Julian, at the line* — remembered: *the line, roped.*
 > "The held's. The ready's. The ascent's — the ascent's is the week's."
 > (T2 · dialogue) *"The week's is the guarding's, Julian." — Rose* — remembered: *the guarding's, week's.*
@@ -456,7 +458,7 @@
 ### L15.S21 · [D] · Rose, Lavinia Crane
 *Purpose: Saturday night, midnight — Lavinia at the field; the watching, the unleashed; the aloft, the week's. (Turns: 10)*
 > *(Saturday night, midnight, the field. Lavinia watches the balloon — twenty-four, the unleashed's watching: the great, the swaying, the week's.)*
-> *Lavinia has climbed on a bench to see — the twenty-four, the watching, the unleashed. Her shawl slips from her shoulders unnoticed, and the slipping is the shining The shining is the watching's, and the watching's is the unleashed's.*
+> *Lavinia has climbed on a bench to see — the twenty-four, the watching, the unleashed. Her shawl slips from her shoulders unnoticed, and the slipping is the shining. The shining is the watching's, and the watching's is the unleashed's.*
 > (T1 · look closer) *the watching — the midnight's, the field's, the unleashed; the girl — twenty-four, the looking-up, the shining; the balloon — the great, the swaying, the week's.* — remembered: *the week's, watched.*
 > (T2 · dialogue) *"The aloft." — Lavinia, breathless* — remembered: *the breath, alofted.*
 > "The great's. The ascending's. The not-falling's — the not-falling's is the week's."
@@ -479,7 +481,7 @@
 ### L15.S22 · [D] · Rose, Augusta
 *Purpose: Saturday night, midnight — Augusta at the field; the dealing, the week's; the aloft, the minded. (Turns: 10)*
 > *(Saturday night, midnight, the field. Augusta watches the balloon — seventy, the dealing's watching: the great, the swaying, the week's.)*
-> *Augusta's shawl is drawn tight against the midnight — the seventy, the minding, the week's. Her eyes reflect the torchlight, and the reflecting is the dealing The dealing is the minded's, and the minded's is the kept's.*
+> *Augusta's shawl is drawn tight against the midnight — the seventy, the minding, the week's. Her eyes reflect the torchlight, and the reflecting is the dealing. The dealing is the minded's, and the minded's is the kept's.*
 > (T1 · dialogue) *"The balloon." — Augusta, looking up* — remembered: *the looking-up, ballooned.*
 > "The great's. The ascending's. The daring's — the daring's is the week's."
 > (T2 · dialogue) *"The week's is the dealing's, Augusta." — Rose* — remembered: *the dealing's, week's.*
@@ -503,7 +505,7 @@
 ### L15.S23 · [D] · Rose, Bell at the field
 *Purpose: Saturday night, midnight — Bell at the field; the narrating, the week's; the aloft, the printing. (Turns: 10)*
 > *(Saturday night, midnight, the field. Bell observes the balloon — soft-voiced, sharp-eyed: the great, the swaying, the narrating week's.)*
-> *Bell's pencil moves in the torchlight — the soft-voiced, the sharp-eyed, the narrating. The words come fast and true, and the coming is the printing The printing is the aloft's, and the aloft's is the narrated's.*
+> *Bell's pencil moves in the torchlight — the soft-voiced, the sharp-eyed, the narrating. The words come fast and true, and the coming is the printing. The printing is the aloft's, and the aloft's is the narrated's.*
 > (T1 · dialogue) *"The ascent." — Bell, soft-voiced* — remembered: *the ascent, voiced.*
 > "The great's. The midnight's. The daring's — the daring's is the week's."
 > (T2 · dialogue) *"The week's is the narrating's, Mrs. Bell." — Rose* — remembered: *the narrating's, week's.*
@@ -526,7 +528,7 @@
 ### L15.S24 · [T] · Rose, the basket
 *Purpose: Saturday night, midnight — the basket; the boarding, the week's; the aloft, the about-to-be. (Turns: 10)*
 > *(Saturday night, midnight, the field. The basket waits — the woven, the ready: the boarding, the week's; the aloft, the about-to-be.)*
-> *The basket's weave is tight and dark — the midnight's, the waiting, the woven. It smells of willow and rope and daring, and the smelling is the now The now is the boarding's, and the boarding's is the week's.*
+> *The basket's weave is tight and dark — the midnight's, the waiting, the woven. It smells of willow and rope and daring, and the smelling is the now. The now is the boarding's, and the boarding's is the week's.*
 > (T1 · look closer) *the basket — the midnight's, the woven, the waiting; the ropes — the held, the ready, the sure; the boarding — the week's, the daring's, the now.* — remembered: *the now, boarded.*
 > (T2 · dialogue) *"The basket." — the balloonist, with a bow* — remembered: *the bowing, basketed.*
 > "The woven's. The waiting's. The aloft's — the aloft's is the week's."
@@ -546,7 +548,7 @@
 
 ### L15.S25 · [T] · Rose, the ascent (CUSTOM — tentpole)
 *Purpose: Saturday night, midnight — the ascent; Rose, aloft; the ton, below; the not-falling. (Turns: 9)*
-> *(Saturday night, midnight. The ropes are loosed — the great balloon rises: Rose, aloft; the ton, below; the not-falling, the kept.)*
+> *(Saturday night, midnight. The ropes are loosed — the great balloon rises: Rose, aloft; the ton, below; the not-falling, the kept, the week's daring given to the sky.)*
 > (T1 · look closer) *the rising — the midnight's, the great, the loosed; the basket — the woven, the lifting, the aloft; the Hartwell — the standing, the silk-for-the-aloft, the not-falling.* — remembered: *the not-falling, risen.*
 > (T2 · dialogue) *"The aloft." — the ton, below, as one* — remembered: *the oneness, alofted.*
 > "The Hartwell's. The ascending's. The not-falling's — the not-falling's is the week's."
@@ -554,11 +556,11 @@
 > (T4 · tone) *exultant, because the rising is the rising; steady, because the standing is the standing; unhurried, because the sky is the sky.* — remembered: *the unhurried, exulted.*
 > (T5 · stance) *stand the basket — the aloft's, the lifting; let the ton look up; keep the not-falling.* — remembered: *the keeping, stood.*
 > (T6 · remembered micro-decision) *the ascent — the great's, the week's; the aloft — the silk's, the not-falling's; the below — the ton's, the whole's.* — remembered: *the wholeness, ascended.*
-> (T7 · look closer) *the sky — the midnight's, the open, the starred; the silk — the worn-for-the-aloft, the catching-starlight; the Hartwell — the aloft, the un-wobbled, the week's.* — remembered: *the un-wobbled, skied.*
+> (T7 · look closer) *the sky — the midnight's, the open, the starred; the silk — the worn-for-the-aloft, the catching-starlight; the Hartwell — the aloft, the un-wobbled, the week's, the not-falling given to the stars.* — remembered: *the un-wobbled, skied.*
 > (T8 · choice) *take the sky — the midnight's, the open; let the rising be the rising; keep the daring.* — remembered: *the daring, taken.*
 > (T9 · dialogue) *"The week is the aloft's." — Rose, to the stars* — remembered: *the starring, week's.*
 > "The aloft's is the not-falling's."
-> *(Rose keeps the sky. The balloon rises on, and the Saturday night settles into its ascending.)*
+> *(Rose keeps the sky, and the balloon rises on, and the Saturday night settles into its ascending, and the ton stays below, upturned.)*
 > *Starred sky, great balloon, the ton's whole upturned watching — and Rose aloft, the week ascending, the not-falling kept., the rising not-falling's
 *Animation: Custom.*
 
@@ -586,7 +588,7 @@
 ### L15.S27 · [D] · Rose, Aunt Letitia Hartwell
 *Purpose: Sunday morning — Letitia; the aunt's account, entire; the ascent, the retold. (Turns: 10)*
 > *(Sunday morning, the villa. Letitia retells the ascent — the aunt's account, entire: the aloft, the not-falling, the week's.)*
-> *Letitia's chocolate is thick and dark — the entire, the retelling, the delighted. The cup steams in the morning light, and the steaming is the account The account is the entire's, and the entire's is the retold's.*
+> *Letitia's chocolate is thick and dark — the entire, the retelling, the delighted. The cup steams in the morning light, and the steaming is the account. The account is the entire's, and the entire's is the retold's.*
 > (T1 · dialogue) *"The ascent." — Letitia, with enormous relish* — remembered: *the relish, ascended.*
 > "The aloft's. The not-falling's. The niece's — the niece's is the week's."
 > (T2 · dialogue) *"The week's is the retold's, Aunt." — Rose* — remembered: *the retold's, week's.*
@@ -608,21 +610,22 @@
 
 ### L15.S28 · ★ KEY DECISION 3/3 — The coin
 *Purpose: Sunday morning — the coin; the week's, the kept; the paying, the honest. (Turns: 3 — the decision)*
-> *(Sunday morning, the villa. The coin is the week's to settle — the kept, the honest: the ball's costs, the week's small debts, the £5,000 assembling. Three roads, one coin.)*
-> (T1 · the choice — how the coin is kept) *The coin for the ball: pay the ball's costs — the honestly-paid, the week's. The coin for the small: settle the week's small debts — the ink's, the silk's, the paid. The coin for the Tuesday: hold the £5,000 — the assembling, the untouched, the noon's.*
-> (T2 · the turn — what the villa reads) *The coin for the ball reads as the Hartwell, honest: the paid's, the week's. The coin for the small reads as the Hartwell, thorough: the settled's, the true's. The coin for the Tuesday reads as the Hartwell, patient: the holding's, the assembling's.*
-> (T3 · the consequence — what it costs) *The coin for the ball costs the purse: the paid, the lightened. The coin for the small costs the morning: the settling, the counted. The coin for the Tuesday costs the waiting: the holding, the untouched.*
+> *(Sunday morning, the villa, the week's book open on the desk. The coin is the week's to settle — the kept, the honest: the ball's costs, the week's small debts, the £5,000 assembling. Three roads, one coin, and the arithmetic is the week's own reckoning.)*
+> *The book lies open at the week's page — the coin, the Sunday's, the settling. The columns stand neat and the ink is dry, and the drying is the holding. The holding is the honest's, and the honest's is the week's. The week's is the arithmetic's, and the arithmetic's is the coin's.*
+> (T1 · the choice — how the coin is kept) *The coin for the ball: pay the ball's costs — the honestly-paid, the week's, the ballroom's accounts settled. The coin for the small: settle the week's small debts — the ink's, the silk's, the paid, the week's arithmetic kept clean. The coin for the Tuesday: hold the £5,000 — the assembling, the untouched, the noon's, the London house's, the installment kept whole.*
+> (T2 · the turn — what the villa reads) *The coin for the ball reads as the Hartwell, honest: the paid's, the week's, the ballroom's costs met without flinching. The coin for the small reads as the Hartwell, thorough: the settled's, the true's, the week's small debts counted and paid. The coin for the Tuesday reads as the Hartwell, patient: the holding's, the assembling's, the £5,000 kept whole for the noon's assembling.*
+> (T3 · the consequence — what it costs) *The coin for the ball costs the purse: the paid, the lightened, the week's small purse thinner for the honesty. The coin for the small costs the morning: the settling, the counted, the Sunday's hours spent on the arithmetic. The coin for the Tuesday costs the waiting: the holding, the untouched, the £5,000 kept from the week's spending.*
 *★ KEY DECISION 3/3 — The coin:*
 - **The coin** — *Pay the ball's costs: the honestly-paid, the week's.*
 - **The small's coin** — *Settle the week's small debts: the ink's, the silk's, the paid.*
 - **The Tuesday's coin** — *Hold the £5,000: the assembling, the untouched, the noon's.*
-> *(She chooses the coin. The ball's costs are paid — the honestly-paid, the week's; the purse, lightened.)*
+> *(The three roads lie open on the desk — the ball's paying, the small debts' settling, the Tuesday's holding — and the week's book waits for its balancing, and the choosing is the morning's own arithmetic.)*
 *Animation: Shared.*
 
 ### L15.S29 · [D] · Rose, Octavia
 *Purpose: Sunday morning — Octavia; the sketch, the aloft; the precision, the kept. (Turns: 10)*
 > *(Sunday morning, the villa. Octavia shows the ascent's sketch — thirty-four, the kept: the great, the aloft, the week's.)*
-> *Octavia's portfolio is worn at the corners — the thirty-four, the kept, the showing. The leather smells of pencil and years, and the smelling is the precision The precision is the unsparing's, and the unsparing's is the drawn's.*
+> *Octavia's portfolio is worn at the corners — the thirty-four, the kept, the showing. The leather smells of pencil and years, and the smelling is the precision. The precision is the unsparing's, and the unsparing's is the drawn's.*
 > (T1 · dialogue) *"The aloft's line." — Octavia, turning the paper* — remembered: *the turning, alofted.*
 > "The great's. The ascending's. The not-falling's — the not-falling's is the week's."
 > (T2 · dialogue) *"The week's is the kept's, Octavia." — Rose* — remembered: *the kept's, week's.*
@@ -645,7 +648,7 @@
 ### L15.S30 · [D] · Rose, Lord Julian Ashcombe
 *Purpose: Sunday morning — Julian; the guarding, the complete; the ascent, the watched. (Turns: 10)*
 > *(Sunday morning, the villa. Julian reports the ascent watched — twenty-eight, the complete: the ropes, the held; the not-falling, the kept.)*
-> *Julian's boots are dusty from the field — the twenty-eight, the reporting, the complete. He stands at ease for the first time in days, and the easing is the glad The glad is the complete's, and the complete's is the watched's.*
+> *Julian's boots are dusty from the field — the twenty-eight, the reporting, the complete. He stands at ease for the first time in days, and the easing is the glad. The glad is the complete's, and the complete's is the watched's.*
 > (T1 · dialogue) *"The ascent, watched." — Julian* — remembered: *the watching, ascended.*
 > "The ropes'. The held's. The not-falling's — the not-falling's is the week's."
 > (T2 · dialogue) *"The week's is the guarding's, Julian." — Rose* — remembered: *the guarding's, week's.*
@@ -668,7 +671,7 @@
 ### L15.S31 · [D] · Rose, Henry
 *Purpose: Sunday morning — Henry; the week's final accounts; the coin, the kept. (Turns: 10)*
 > *(Sunday morning, the villa. Henry closes the week's book — thirty-three, the final: the ball's costs, the honestly-paid, the kept.)*
-> *Henry's ledger is bound in green morocco — the thirty-three, the closing, the balanced. The pages whisper as he turns them, and the whispering is the honest The honest is the balanced's, and the balanced's is the week's.*
+> *Henry's ledger is bound in green morocco — the thirty-three, the closing, the balanced. The pages whisper as he turns them, and the whispering is the honest. The honest is the balanced's, and the balanced's is the week's.*
 > (T1 · dialogue) *"The week's book." — Henry, closing it* — remembered: *the closing, week's.*
 > "The ball's. The honestly-paid's. The kept's — the kept's is the true's."
 > (T2 · dialogue) *"The true's is the coin's, Henry." — Rose* — remembered: *the coin's, trued.*
@@ -691,7 +694,7 @@
 ### L15.S32 · [D] · Rose, Lavinia Crane
 *Purpose: Sunday morning — Lavinia; the dancing, the remembered; the unleashed, the week's. (Turns: 10)*
 > *(Sunday morning, the villa. Lavinia remembers the dancing — twenty-four, the remembered: the unleashed, the week's, the free.)*
-> *Lavinia's roses are wet with morning — the twenty-four, the remembering, the dancing. The petals hold the light like small cups, and the holding is the free The free is the remembered's, and the remembered's is the dancing's.*
+> *Lavinia's roses are wet with morning — the twenty-four, the remembering, the dancing. The petals hold the light like small cups, and the holding is the free. The free is the remembered's, and the remembered's is the dancing's.*
 > (T1 · dialogue) *"The dancing." — Lavinia, with a happy sigh* — remembered: *the sighing, danced.*
 > "The unleashed's. The week's. The remembered's — the remembered's is the free's."
 > (T2 · dialogue) *"The free's is the kept's, Lavinia." — Rose* — remembered: *the kept's, freed.*
@@ -714,7 +717,7 @@
 ### L15.S33 · [D] · Rose, Augusta
 *Purpose: Sunday morning — Augusta; the dealing, the week's; the ascent, the minded. (Turns: 10)*
 > *(Sunday morning, the villa. Augusta minds the ascent — seventy, the minded: the aloft, the not-falling, the week's.)*
-> *Augusta's tea is poured to the brim — the seventy, the minding, the kept. The steam rises in the quiet room, and the rising is the dealing The dealing is the week's, and the week's is the minded's.*
+> *Augusta's tea is poured to the brim — the seventy, the minding, the kept. The steam rises in the quiet room, and the rising is the dealing. The dealing is the week's, and the week's is the minded's.*
 > (T1 · dialogue) *"The ascent." — Augusta* — remembered: *the ascent, minded.*
 > "The aloft's. The not-falling's. The daring's — the daring's is the week's."
 > (T2 · dialogue) *"The week's is the dealing's, Augusta." — Rose* — remembered: *the dealing's, week's.*
@@ -738,7 +741,7 @@
 ### L15.S34 · [D] · Rose, Bell
 *Purpose: Sunday morning — Bell; the Gazette's account; the judging, the week's. (Turns: 10)*
 > *(Sunday morning, the villa. Bell brings the Gazette's account — soft-voiced, sharp-eyed: the ball, the ascent, the judging week's.)*
-> *Bell's proof is damp from the press — the soft-voiced, the sharp-eyed, the bringing. The ink smells fresh and true, and the smelling is the judged The judged is the true's, and the true's is the told's.*
+> *Bell's proof is damp from the press — the soft-voiced, the sharp-eyed, the bringing. The ink smells fresh and true, and the smelling is the judged. The judged is the true's, and the true's is the told's.*
 > (T1 · dialogue) *"The account." — Bell, soft-voiced* — remembered: *the account, voiced.*
 > "The ball's. The ascent's. The not-falling's — the not-falling's is the week's."
 > (T2 · dialogue) *"The week's is the judging's, Mrs. Bell." — Rose* — remembered: *the judging's, week's.*
@@ -761,7 +764,7 @@
 ### L15.S35 · [D] · Rose, Élise
 *Purpose: Sunday morning — Élise; the maker, the week's; the gown, the ascended. (Turns: 10)*
 > *(Sunday morning, the villa. Élise sees the ascent's meaning — twenty-two, the week's: her gown, ascended; her triumph, the aloft's.)*
-> *Elise's workroom is tidy for once — the twenty-two, the seeing, the week's. The shears rest in their case like sleeping birds, and the resting is the triumph The triumph is the hers', and the hers' is the aloft's.*
+> *Elise's workroom is tidy for once — the twenty-two, the seeing, the week's. The shears rest in their case like sleeping birds, and the resting is the triumph. The triumph is the hers', and the hers' is the aloft's.*
 > (T1 · look closer) *the villa — the Sunday's, the morning's, the meaning; the girl — twenty-two, the sitting, the seeing; the gown — the ascended, the hers, the aloft's.* — remembered: *the aloft's, seen.*
 > (T2 · dialogue) *"The gown, ascended." — Élise, very quietly* — remembered: *the quiet, ascended.*
 > "The aloft's. The not-falling's. The triumph's — the triumph's is the week's."
@@ -783,7 +786,7 @@
 ### L15.S36 · [D] · Rose, the dragon's answer
 *Purpose: Sunday morning — Agatha's answer; the unbowed, the week's; the dealing, the done. (Turns: 10)*
 > *(Sunday morning, the villa. Agatha's answer arrives — fifty-four, the unbowed's: a note, the week's; the dealing, the done.)*
-> *The dragon's seal is black wax — the fifty-four, the arrived, the unbowed. It cracks cleanly under Rose's thumb, and the cracking is the answered The answered is the done's, and the done's is the dealing's.*
+> *The dragon's seal is black wax — the fifty-four, the arrived, the unbowed. It cracks cleanly under Rose's thumb, and the cracking is the answered. The answered is the done's, and the done's is the dealing's.*
 > (T1 · look closer) *the note — the Sunday's, the morning's, the arrived; the hand — the fifty-four's, the written, the unbowed; the answer — the week's, the dealing's, the done.* — remembered: *the doneness, answered.*
 > (T2 · dialogue) *"The dragon's note." — Rose, reading* — remembered: *the reading, noted.*
 > "The unbowed's. The week's. The dealing's — the dealing's is the done's."
@@ -805,7 +808,7 @@
 ### L15.S37 · [T] · Rose, the week's end
 *Purpose: Sunday morning — the week's end; the price, the paid; the season, the crowned. (Turns: 10)*
 > *(Sunday morning, the villa. The week ends — the priced, the paid: the ball's, the ascent's, the season's.)*
-> *The morning is gold on the windows — the Sunday's, the ending, the crowned. The light lies across the floor like a laid cloth, and the lying is the priced The priced is the paid's, and the paid's is the crowned's.*
+> *The morning is gold on the windows — the Sunday's, the ending, the crowned. The light lies across the floor like a laid cloth, and the lying is the priced. The priced is the paid's, and the paid's is the crowned's.*
 > (T1 · look closer) *the villa — the Sunday's, the morning's, the ending; the week — the priced, the paid, the crowned; the price — the ink's, the silk's, the honestly-paid.* — remembered: *the paying, priced.*
 > (T2 · dialogue) *"The week's end." — Rose, very quietly* — remembered: *the ending, week's.*
 > "The priced's. The paid's. The crowned's — the crowned's is the season's."
@@ -826,7 +829,7 @@
 ### L15.S38 · [T] · Rose, the ton's reading
 *Purpose: Sunday morning — the ton's reading; the ball, the ascent; the week's, the told. (Turns: 10)*
 > *(Sunday morning, the Steine. The ton reads the week — the ball's, the ascent's: the gown worn, the aloft kept, the told.)*
-> *The Steine is bright with promenaders — the Sunday's, the reading, the told. The sea flashes beyond the railings, and the flashing is the week's The week's is the told's, and the told's is the ton's.*
+> *The Steine is bright with promenaders — the Sunday's, the reading, the told. The sea flashes beyond the railings, and the flashing is the week's. The week's is the told's, and the told's is the ton's.*
 > (T1 · look closer) *the Steine — the Sunday's, the morning's, the reading; the ton — the promenading, the discussing, the convinced; the week — the ball's, the ascent's, the told.* — remembered: *the telling, tonned.*
 > (T2 · dialogue) *"The Hartwell's week." — the ton, promenading* — remembered: *the promenading, week's.*
 > "The gown's. The aloft's. The not-falling's — the not-falling's is the told's."

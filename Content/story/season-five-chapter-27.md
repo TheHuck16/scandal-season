@@ -54,7 +54,7 @@
 > (T1 · look closer) *the household's — the readying; the servants' — the family's; the entire — the readied's, the price's.* — remembered: *The price's, faced.*
 > (T2 · remembered micro-decision) *ready the house — the entire, the permitted; ready the family — the servants', the noted; ready the price — the whole, the owned.* — remembered: *The owned, readied.*
 > (T3 · tone) *steady — the readied, the entire; calm — the day's, the answered; certain — the price's, the faced.* — remembered: *The faced, calmly.*
-> *(Julian orders the carriage — the twenty-eight, the brother, the trust entire — and the household moves with the particular order of a house that pays its debts in public.)*
+> *(Julian orders the carriage — the twenty-eight, the brother, the trust unbroken — and the household moves with the particular order of a house that pays its debts in public.)*
 > (T4 · look closer) *the ordered — the carriage's; the entire — the trust's; the in-public — the debts', the paying.* — remembered: *The paying, witnessed.*
 > (T5 · stance) *as the mistress — the household, the commanded; as the readied — the price's, the owned; as the Hartwell — the in-public, the entered.* — remembered: *The entered, entire.*
 > (T6 · social maneuver) *before the household — the permitted, the honored; before the carriage — the ordered, the filed; before the price — the readied, the owned.* — remembered: *The owned, banked.*
@@ -145,7 +145,7 @@
 *Purpose: the dowager witnesses — the rooms at ten; Augusta, seventy-one; the terms' author, the seeing. (Turns: 9)*
 > *(The rooms at ten, Monday morning. The seeing is the dowager's — Augusta, seventy-one, the author — and the author is the whole of the witnessed.)*
 > (T1 · look closer) *the dowager's — the seeing; the seventy-one's — the author; the entire — the witnessed's, the whole.* — remembered: *The whole, faced.*
-> "The witnesses are well chosen, child." — Augusta (the nod, the entire, the blessing's whole)
+> "The witnesses are well chosen, child." — Augusta (the nod, the entire, the blessing given)
 > (T2 · dialogue) *"The well-chosen — the witnesses'."; "The nodded — the entire."; "The whole — the blessing's."* — remembered: *The blessing's, heard.*
 > (T3 · tone) *grateful — the heard, the answered; steady — the faced, the entire; ready — the day's, the owned.* — remembered: *The owned, gratefully.*
 > "The author witnesses, Grandmama. The terms," Rose takes her place, "are worn into the day." — Rose
@@ -179,7 +179,7 @@
 *Purpose: the dragon witnesses — the rooms at eleven; Lady Agatha, fifty-four; the pleasant, the entire; unbowed, the seeing. (Turns: 9)*
 > *(The rooms at eleven, Monday morning. The seeing is the dragon's — Lady Agatha, fifty-four, the pleasant — and the pleasant is the whole of the unbowed.)*
 > (T1 · look closer) *the dragon's — the seeing; the fifty-four's — the pleasant; the entire — the unbowed's, the whole.* — remembered: *The whole, faced.*
-> "Miss Hartwell." — Lady Agatha (the smile, the unkind-never, the witnessing's whole)
+> "Miss Hartwell." — Lady Agatha (the smile, the unkind-never, the witnessing complete)
 > (T2 · dialogue) *"The Miss Hartwell — the named."; "The whole — the witnessing's."; "The smiled — the unkind-never."* — remembered: *The unkind-never, heard.*
 > (T3 · tone) *steady — the heard, the answered; pleasant — the faced, the entire; unafraid — the seeing's, the met.* — remembered: *The met, pleasantly.*
 > "Lady Agatha. The town," Rose inclines her head, "sees the price paid." — Rose
@@ -215,7 +215,7 @@
 > (T1 · look closer) *the formalities' — the stated; the neutral's — the office; the entire — the stating's, the form's.* — remembered: *The form's, faced.*
 > (T2 · remembered micro-decision) *hear the stated — the entire, the permitted; hear the office — the neutral's, the noted; hear the form — the whole, the owned.* — remembered: *The owned, heard.*
 > (T3 · tone) *attentive — the heard, the entire; grave — the form's, the faced; ready — the day's, the owned.* — remembered: *The owned, attentively.*
-> *(The formalities proceed — the papers read, the figures confirmed, the witnesses named — and the neutral's whole office is the order of the price, entire.)*
+> *(The formalities proceed — the papers read, the figures confirmed, the witnesses named — and the neutral's office is the order of the price, entire.)*
 > (T4 · look closer) *the proceeded — the formalities'; the named — the witnesses'; the entire — the order's, the price's.* — remembered: *The price's, witnessed.*
 > (T5 · stance) *as the strategist — the witnessed, the filed; as the payer — the confirmed's, the owned; as the Hartwell — the stated, the entered.* — remembered: *The entered, entire.*
 > (T6 · social maneuver) *before the formalities — the permitted, the honored; before the neutral — the noted, the filed; before the stated — the entire, the owned.* — remembered: *The owned, banked.*
@@ -294,7 +294,7 @@
 *Purpose: the paper, the pen — the rooms at two; the receipt, the entire; the sealing, the begun. (Turns: 9)*
 > *(The rooms at two, Monday. The begun is the sealing's — the receipt, the entire — and the beginning is the whole of the paper.)*
 > (T1 · look closer) *the sealing's — the begun; the entire — the receipt's; the whole — the beginning's, the paper's.* — remembered: *The paper's, faced.*
-> "The receipt, Miss Hartwell." — Slade (the pen, the offered, the neutral's whole)
+> "The receipt, Miss Hartwell." — Slade (the pen, the offered, the neutral kept)
 > (T2 · dialogue) *"The receipt — the offered."; "The whole — the neutral's."; "The entire — the begun's."* — remembered: *The begun's, heard.*
 > (T3 · tone) *steady — the heard, the answered; grave — the sealing's, the entire; ready — the day's, the faced.* — remembered: *The faced, steadily.*
 > *(The £5,000 stands on the paper — the second installment, met and acknowledged — and the standing of a figure on a receipt is the whole of the proof, entire.)*
@@ -353,7 +353,7 @@
 *Purpose: the dragon's last word — the rooms at four; Lady Agatha, fifty-four; the price paid, the witnessed; unbowed, the entire. (Turns: 9)*
 > *(The rooms at four, Monday. The last word is the dragon's — Lady Agatha, fifty-four, the unbowed — and the unbowed is the whole of the entire.)*
 > (T1 · look closer) *the dragon's — the last word; the fifty-four's — the unbowed; the entire — the whole's, the unbowed's.* — remembered: *The unbowed's, faced.*
-> "The price is paid, Miss Hartwell." — Lady Agatha (the smile, the pleasantness, the unbowed's whole)
+> "The price is paid, Miss Hartwell." — Lady Agatha (the smile, the pleasantness, the unbowed complete)
 > (T2 · dialogue) *"The paid — the price's."; "The whole — the unbowed's."; "The smiled — the pleasantness'."* — remembered: *The pleasantness', heard.*
 > (T3 · tone) *steady — the heard, the answered; pleasant — the faced, the entire; unafraid — the unbowed's, the met.* — remembered: *The met, pleasantly.*
 > "The paid is witnessed, Lady Agatha. The town," Rose inclines her head, "has seen." — Rose
@@ -405,7 +405,7 @@
 *Purpose: the four routes, the witnessed — the rooms at half past five; Julian, Laurent, Octavia; the price paid, the shared. (Turns: 9)*
 > *(The rooms at half past five, Monday. The shared is the family's — the four routes, the witnessed — and the sharing is the whole of the paid.)*
 > (T1 · look closer) *the family's — the shared; the witnessed — the four routes'; the entire — the sharing's, the paid's.* — remembered: *The paid's, faced.*
-> "The price is paid, and the town has seen it." — Julian (the twenty-eight, the brother, the trust's whole)
+> "The price is paid, and the town has seen it." — Julian (the twenty-eight, the brother, the trust unbroken)
 > (T2 · dialogue) *"The paid — the price's."; "The whole — the trust's."; "The entire — the brother's."* — remembered: *The brother's, heard.*
 > (T3 · tone) *grateful — the heard, the answered; steady — the faced, the entire; complete — the day's, the owned.* — remembered: *The owned, gratefully.*
 > "The seen is entire, brother. The four routes," Rose takes his hand, "are the paid's." — Rose
@@ -529,7 +529,7 @@
 *Animation: Shared.*
 
 ### L27.S32 · [T] · Rose, the quiet
-*Purpose: the night, the entire — the London house at ten; the quiet, the kept; the day's whole, the held. (Turns: 8)*
+*Purpose: the night, the entire — the London house at ten; the quiet, the kept; the day's held, the entire. (Turns: 8)*
 > *(The London house at ten, Monday night. The held is the quiet's — the night, the entire — and the holding is the whole of the day's.)*
 > (T1 · look closer) *the quiet's — the held; the entire — the night's; the whole — the holding's, the day's.* — remembered: *The day's, faced.*
 > (T2 · remembered micro-decision) *hold the quiet — the entire, the permitted; hold the night — the entire's, the noted; hold the day's — the whole, the owned.* — remembered: *The owned, held.*

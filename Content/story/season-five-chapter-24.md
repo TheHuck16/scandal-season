@@ -252,7 +252,7 @@
 > (T6 · stance) *as the strategist — the terms, the claimed; as the Hartwell — the price, the owned; as the power — the convenience, the hers.* — remembered: *The hers, stated.*
 > (T7 · remembered micro-decision) *take the readiness — the money's, the entire; take the concession — the establishment's, the filed; take the Monday — the appointed, the owned.* — remembered: *The Monday, appointed.*
 > (T8 · social maneuver) *before the clerk — the terms, the stated; before the money — the price, the priced; before the week — the settling, the scheduled.* — remembered: *The scheduled, banked.*
-> *(Slade bows himself out — the portfolio closed, the neutrality intact, the message delivered, and the library keeps its afternoon quiet, and Rose stands with the money's whole readiness in her keeping: lodged, acknowledged, awaiting her convenience. Monday. Her terms. Her time. The town's witnesses.)*
+> *(Slade bows himself out — the portfolio closed, the neutrality intact, the message delivered, and the library keeps its afternoon quiet, and Rose stands with the money's readiness in her keeping: lodged, acknowledged, awaiting her convenience. Monday. Her terms. Her time. The town's witnesses.)*
 > *The door closes, the portfolio goes, and she thinks that "awaits your convenience" is the sweetest phrase the establishment has ever uttered — it means the money has learned manners, and the manners are hers.*
 *Animation: Shared.*
 ### L24.S15 · [C] · Rose (alone)
@@ -374,7 +374,7 @@
 > (T7 · remembered micro-decision) *take the wager — the friend's, the kept; take the honesty — the unadorned, the treasured; take the afternoon — the shared, the owned.* — remembered: *The owned, banked.*
 > (T8 · tone) *"Then I shall endeavor," she says, "to ruin you."; "The ruining," she says, "will be thorough."; "The gladness," she says, "is mutual."* — remembered: *The ruining, promised.*
 > (T9 · dialogue) *"The thorough — the stated."; "The mutual — the claimed."; "The friend — the held."* — remembered: *The held, entire.*
-> *(Lavinia goes — the loyalty priced but present, the ally never fully trusted and never fully doubted, and the drawing room keeps its afternoon fire, and Rose stands with the friend's whole wager in her keeping: on you, the only wager, the hoped-to-lose. The Assembly's eve, shared. The cost, priced. The friend, present.)*
+> *(Lavinia goes — the loyalty priced but present, the ally never fully trusted and never fully doubted, and the drawing room keeps its afternoon fire, and Rose stands with the friend's wager in her keeping: on you, the only wager, the hoped-to-lose. The Assembly's eve, shared. The cost, priced. The friend, present.)*
 > *The fire pops, the afternoon deepens, and Rose thinks that a friend who wagers on you while hoping to lose is the most honest ally in the ton — the loyalty is divided, the division is priced, and the pricing is the proof it is real.*
 *Animation: Shared.*
 
@@ -580,7 +580,7 @@
 
 ### L24.S32 · [T] · Rose, Drummond's glance
 *Purpose: the dragon, the pleasant; Lady Agatha Drummond, fifty-four; present and pleasant, worse than anger; the glance, the taken. (Turns: 8)*
-> *(The great room at midnight, Saturday evening. Lady Agatha Drummond is across the room — fifty-four, the dragon, the pleasant, and her glance, when it comes, is the evening's whole coldest weather.)*
+> *(The great room at midnight, Saturday evening. Lady Agatha Drummond is across the room — fifty-four, the dragon, the pleasant, and her glance, when it comes, is the evening's coldest weather.)*
 > (T1 · look closer) *the fifty-four — the across-the-room; the dragon — the pleasant, the worse-than-anger; the weather — the coldest, the evening's.* — remembered: *The evening's, faced.*
 > (T2 · remembered micro-decision) *meet the glance — the coldest, the returned; meet the pleasant — the worse, the answered; meet the dragon — the fifty-four's, the faced.* — remembered: *The faced, steady.*
 > (T3 · tone) *steady — the faced, the entire; cool — the returned, the measured; unafraid — the evening's, the owned.* — remembered: *The owned, steady.*
@@ -590,7 +590,7 @@
 > (T6 · social maneuver) *before the dragon — the glance, the returned; before the pleasant — the worse, the answered; before the arithmetic — the season's, the priced.* — remembered: *The priced, banked.*
 > (T7 · remembered micro-decision) *take the returning — the glance's, the entire; take the answering — the pleasant's, the filed; take the pricing — the arithmetic's, the owned.* — remembered: *The owned, entered.*
 > (T8 · dialogue) *"The dragon," she says to no one, "is pleasant."; "The pleasant," she says, "is the weather."; "The weather," she says, "is the evening's."* — remembered: *The evening's, stated.*
-> *(The glance moves on — the coldest weather passing, the pleasantness resuming its notes, and the great room keeps its particular order, and Rose stands with the dragon's whole glance in her keeping: priced, returned, and answered tonight. The fifty-four, pleasant. The arithmetic, entire. The evening, proceeding.)*
+> *(The glance moves on — the coldest weather passing, the pleasantness resuming its notes, and the great room keeps its particular order, and Rose stands with the dragon's glance in her keeping: priced, returned, and answered tonight. The fifty-four, pleasant. The arithmetic, entire. The evening, proceeding.)*
 > *The glance goes, the notes continue, and Rose thinks that pleasantness from a dragon is the most informative weather in London — it tells you exactly how seriously you are being taken, and the answer tonight is: entirely.*
 *Animation: Shared.*
 
@@ -609,7 +609,7 @@
 > (T7 · remembered micro-decision) *take the counsel — the last, the kept; take the mischief — the evening's, the treasured; take the aunt — the delighted, the held.* — remembered: *The held, owned.*
 > (T8 · tone) *"The flower," she says, "thanks the town."; "The town," she says, "is welcome."; "The welcome," she says, "is the evening's."* — remembered: *The evening's, stated.*
 > (T9 · dialogue) *"The history — the flower's."; "The successful — the most."; "The aunt — the thanked."* — remembered: *The thanked, entire.*
-> *(Letitia squeezes her hand — the comic crown, the warm, the delighted, and moves back into the room's hum, and Rose stands by the pillar with the aunt's whole last word in her keeping: magnificent, decided, the most successful flower in the history of London. The counsel, kept. The mischief, treasured. The evening, proceeding.)*
+> *(Letitia squeezes her hand — the comic crown, the warm, the delighted, and moves back into the room's hum, and Rose stands by the pillar with the aunt's last word in her keeping: magnificent, decided, the most successful flower in the history of London. The counsel, kept. The mischief, treasured. The evening, proceeding.)*
 > *The hand-squeeze lingers, the hum continues, and Rose thinks that an aunt who can make you laugh at the height of the evening is the finest armor in London — it does not show, it does not weigh, and it holds.*
 *Animation: Shared.*
 
@@ -642,7 +642,7 @@
 > (T7 · remembered micro-decision) *take the "audible" — the terms', the entire; take the dowager — the author's, the treasured; take the morning — the come, the owned.* — remembered: *The owned, banked.*
 > (T8 · tone) *"The wearable," she says, "is worn."; "The worn," she says, "is the audible's."; "The audible," she says, "is the morning's."* — remembered: *The morning's, stated.*
 > (T9 · dialogue) *"The author — the thanked."; "The side — the kept."; "The counsel — the sealed."* — remembered: *The sealed, entire.*
-> *(Augusta's hand finds hers — the dowager's, the seventy-one's, the terms' author's, and the squeeze is the counsel's whole seal, entire and final. The wearable, worn. The audible, approaching. The morning, come.)*
+> *(Augusta's hand finds hers — the dowager's, the seventy-one's, the terms' author's, and the squeeze is the counsel's seal, entire and final. The wearable, worn. The audible, approaching. The morning, come.)*
 > *The hand is cool and steady, the room hums around them, and Rose thinks that a dowager's hand-squeeze at the height of the evening is the finest punctuation in London — it ends the preparation, and begins the speaking.*
 *Animation: Shared.*
 
