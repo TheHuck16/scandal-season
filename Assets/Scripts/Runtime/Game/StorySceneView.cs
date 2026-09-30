@@ -97,7 +97,7 @@ public sealed class StorySceneView : MonoBehaviour
         var panelVlg = panel.GetComponent<VerticalLayoutGroup>();
         if (panelVlg != null) panelVlg.enabled = false;
 
-        Font builtinFont = Resources.GetBuiltinResource<Font>("LegacyRuntime.ttf");
+        Font builtinFont = ScandalSeason.Runtime.Game.UIFontHelper.GetFont();
 
         // --- Create prose text if the scene doesn't provide it ---
         if (proseText == null)
@@ -265,7 +265,7 @@ public sealed class StorySceneView : MonoBehaviour
             txt.alignment = TextAnchor.MiddleLeft;
             txt.fontSize = 20;
             txt.color = lightTextColor;
-            txt.font = Resources.GetBuiltinResource<Font>("LegacyRuntime.ttf");
+            txt.font = ScandalSeason.Runtime.Game.UIFontHelper.GetFont();
             var btn = btnGO.GetComponent<Button>();
             var cb = btn.colors;
             cb.normalColor = new Color(0.22f, 0.28f, 0.22f, 1f);
@@ -284,7 +284,7 @@ public sealed class StorySceneView : MonoBehaviour
             // Ensure the assigned prefab's label uses a real font.
             var t = decisionButtonPrefab.GetComponentInChildren<Text>();
             if (t != null && t.font == null)
-                t.font = Resources.GetBuiltinResource<Font>("LegacyRuntime.ttf");
+                t.font = ScandalSeason.Runtime.Game.UIFontHelper.GetFont();
         }
 
         // --- Progress slider ---

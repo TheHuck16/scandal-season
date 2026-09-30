@@ -31,7 +31,7 @@ public sealed class OrderQueueView : MonoBehaviour
                 var go = new GameObject("OrdersText");
                 go.transform.SetParent(transform, false);
                 ordersText = go.AddComponent<Text>();
-                ordersText.font = Resources.GetBuiltinResource<Font>("LegacyRuntime.ttf");
+                ordersText.font = ScandalSeason.Runtime.Game.UIFontHelper.GetFont();
                 ordersText.fontSize = 20;
                 ordersText.color = Color.white;
                 // Position below header
@@ -50,7 +50,7 @@ public sealed class OrderQueueView : MonoBehaviour
                 var go = new GameObject("HeaderText");
                 go.transform.SetParent(transform, false);
                 headerText = go.AddComponent<Text>();
-                headerText.font = Resources.GetBuiltinResource<Font>("LegacyRuntime.ttf");
+                headerText.font = ScandalSeason.Runtime.Game.UIFontHelper.GetFont();
                 headerText.fontSize = 24;
                 headerText.fontStyle = FontStyle.Bold;
                 headerText.color = Color.yellow;

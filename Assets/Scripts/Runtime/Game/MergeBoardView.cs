@@ -108,7 +108,7 @@ public sealed class MergeBoardView : MonoBehaviour
 
         var text = textGO.AddComponent<Text>();
         text.text = "← Story";
-        text.font = Resources.GetBuiltinResource<Font>("LegacyRuntime.ttf");
+        text.font = ScandalSeason.Runtime.Game.UIFontHelper.GetFont();
         text.alignment = TextAnchor.MiddleCenter;
         text.color = Color.white;
         text.fontSize = 24;
@@ -174,7 +174,7 @@ public sealed class MergeBoardView : MonoBehaviour
                 bg.color = new Color(1f, 1f, 1f, 0.1f);
                 var text = new GameObject("Label", typeof(RectTransform)).AddComponent<Text>();
                 text.transform.SetParent(entry.transform, false);
-                text.font = Resources.GetBuiltinResource<Font>("LegacyRuntime.ttf");
+                text.font = ScandalSeason.Runtime.Game.UIFontHelper.GetFont();
                 text.alignment = TextAnchor.MiddleLeft;
             }
             entry.name = $"Legend_{chain.chainId}";
