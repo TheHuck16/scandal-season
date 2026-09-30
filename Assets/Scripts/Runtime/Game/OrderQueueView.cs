@@ -21,6 +21,9 @@ public sealed class OrderQueueView : MonoBehaviour
     private void Start()
     {
         _game = GameManager.Instance;
+        // DIAGNOSTIC v9.25: Disable dynamic UI to isolate duplication source
+        // If duplicates persist, source is elsewhere. If gone, OrderQueueView is the source.
+        return;
         // Self-sufficient UI: create Text components if not assigned/found.
         if (ordersText == null)
         {
