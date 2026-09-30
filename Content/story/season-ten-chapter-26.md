@@ -7,7 +7,7 @@
 
 **Turns.** Every ordinary scene carries 7–10 declared player turns `(Turns: N)` — the count is the design contract; prose is the human surface. Outcomes converge: the game remembers the means (tone, relationship movement, Gazette flavor), never as a plot branch. ★ key-decision scenes carry the decision's 3 options as their turns; the Gazette sting is a single reading turn. The [C] ritual's direction + twenty 5-coin pins are its 21 turns; the ritual runs long and sits outside the ordinary scene budget.
 
-**Canon applied:** 1815–1816. The first Hartwell rose bloom belongs in the ending. Rose is twenty-five. Iron rule holds: time earns everything money can. Crowns (premium) / coins (soft). Energy is the only throttle. No Crown SKU touches the ritual.
+**Canon applied:** The first Hartwell rose bloom belongs in the ending. Rose is twenty-five. Iron rule holds: time earns everything money can. Crowns (premium) / coins (soft). Energy is the only throttle. No Crown SKU touches the ritual.
 
 **Occasion:** The first bloom — the Hartwell rose's opening; the ending's, the kept. **Preparation ritual:** the bloom's dress — the gardener's. **Purse shelf:** the bloom's honest costs — the garden, the tending, the blooming.
 
@@ -15,106 +15,142 @@
 
 ### L26.S1 · [T] · Rose (alone)
 *Purpose: the bloom's turning — the first, the opened; the rose, the Hartwell's. (Turns: 7)*
-> *(The bloom's turning: the first, the opened — the rose, the Hartwell's — and the garden, the kept.)*
-> *(She watches it — the first, the opened — the bloom's turning: the rose, the Hartwell's.)*
-> *(The turning, the kept: the bloom's, the first's. The opened — the Hartwell's.)*
+> *(Dawn, and the walled garden is holding its breath. Rose knows before she is properly awake — the way you know a letter has come — and she is out of the house in her wrapper with her hair still in its night plait, down the back stairs and across the wet grass, before Hodges has so much as cleared his throat over the chocolate.)*
+> *(The Hartwell rose has decided. The bud — green giving way to color at the seams — has loosened in the night. Not open. Not yet. But the outer petals have eased apart by the width of a fingernail, and through the gap Rose can see the color inside: a pink so deep it is almost red at the heart. She stands in the cold, wrapper pulled tight, slippers going damp, and does not move for ten minutes.)*
+> *(The gardener's boy finds her there when he comes to open the frames. He is seventeen, ginger, and entirely unimpressed by grandeur, which is why Rose likes him.)*
+> "Morning, miss."
+> "Look," Rose says, pointing, in case he has somehow missed the single most important horticultural event of the decade.
+> *(He looks. He nods. He says, "Aye," in the tone of a man confirming that water is wet, and goes to open the frames. Rose decides, not for the first time, that the young are wasted on history.)*
+> *(She crouches — the wrapper will never recover, and she does not care — and looks at the bud from below the way the gardener taught her: sepals back like a collar, stem thick as her thumb, nodding in the morning air. Six years of crosses. Three failed seedlings. One winter when she was certain it was dead and the gardener merely said, "Wait," in the tone of a man who has outwaited worse things than February. And now this: the first bloom of the Hartwell rose, deciding to open on an ordinary Tuesday in June.)*
+> *(The sun comes over the east wall and strikes the bud full, and the color inside the gap deepens like a blush. Rose holds her hand near it — not touching — and feels the warmth coming off the petals. Alive. Deliberate. In no hurry whatsoever.)*
+> "Take your time," she tells it. "I have waited ten years. I can wait an hour."
+> *(The bud, being a rose, says nothing, and continues at its own pace, the correct pace, and Rose sits back on her heels in the damp grass and watches the light move across the wall, and thinks that this — this exact morning, this exact green silence — is what all the ledgers were for.)*
 *Animation: Shared.*
-
 ### L26.S2 · [T] · Rose (alone)
 *Purpose: the first — the rose's; the Hartwell's, the kept. (Turns: 7)*
-> *(The first, the rose's: the Hartwell's, the kept — and the ending's flower.)*
-> *(It is the flower — the first, the rose's — the Hartwell's, the kept: the ending's flower.)*
-> *(The rose's, the flower: the first, the Hartwell's. The kept — the ending's.)*
+> *(The Hartwell rose is nobody's idea of an accident. Rose walks back to the house for chocolate and the breeding book, and by the time she returns to the garden with both, the household is stirring and the bud has eased another fraction, and she settles onto the low wall with the book open on her knees like a woman settling in for a long novel.)*
+> *(The book is the gardener's, mostly — a crabbed hand, rain-spotted pages, crosses recorded in a private shorthand of ticks and crosses and the occasional furious underline. But the later pages are Rose's: her own notes in her own ink, going back six years, to the spring after the walled garden was reclaimed. 'Seedling 14 — strong stem, poor color. Discard.' 'Seedling 22 — the color, at last, but mildews. Keep one.' 'Seedling 31 — THIS ONE. Watch.)*
+> *(Seedling 31. The cross was the gardener's idea — the old blush damask that had survived the ruin years against the wall, crossed with a gallica cutting that came, of all places, from the vicarage garden at Little Missenden, carried home in Rose's own reticule after a christening she barely remembers. Nobody planned it. The gardener raised an eyebrow at the combination. Rose said, "Try it," in the tone she uses for long shots, and the gardener — who has learned that her long shots have a habit of landing — tried it.)*
+> *(Six years. That is what a rose costs, when you are breeding for something that does not exist yet: six years of watching seedlings do nothing interesting, of discarding the almosts, of writing 'poor color' in a book until your hand cramps. The money was nothing — a few shillings of pots and twine. The time was everything. The iron rule, kept in green: time earns everything money can.)*
+> *(She turns the pages slowly, the chocolate going cool in her hand. Here is the winter it nearly died — 'frost got it, cut hard, wait' — and here, in her own hand from last spring: 'First bud. Do not tell Augusta. She will want to schedule it.' She smiles at that. Augusta would absolutely have scheduled it.)*
+> *(The bud nods in the breeze. Seedling 31, about to justify six years of patience. Rose closes the book and sets her empty cup on the wall, and thinks about how little of the important work announces itself in advance — the crosses, the discards, the waiting — and how all of it is suddenly, this morning, about to flower.)*
 *Animation: Shared.*
-
 ### L26.S3 · [T] · Rose (alone)
 *Purpose: the opening — the bloom's; the morning's, the kept. (Turns: 7)*
-> *(The opening, the bloom's: the morning's, the kept — and the garden's hour.)*
-> *(It is the hour — the opening, the bloom's — the morning's, the kept: the garden's hour.)*
-> *(The bloom's, the hour: the opening, the morning's. The kept — the garden's.)*
+> *(By mid-morning the opening has become a public event, or as public as anything gets in a walled garden. The gardener comes to look — a long, silent inspection, hands behind his back — and pronounces it "coming along," which from him is a sonnet. The gardener's boy brings a watering can and is waved off with a look. Even the blackbird on the wall seems to be supervising.)*
+> *(Rose has fetched a chair from the potting shed — a rickety thing that smells of creosote — and installed herself at what she judges to be the optimal viewing distance: close enough to see, far enough not to breathe on it. She has the household book with her, unopened. The accounts can wait. The bud cannot.)*
+> *(The outer petals are peeling back now, one by one, with the slowness of a letter being unfolded. Each one reveals more of the color: that deep heart-red softening to rose-pink at the edges, like a blush spreading. It is, she thinks, the exact shade she has been trying to describe to Élise for two years — "not pink, Élise, the thing underneath pink" — and Élise, who understands color the way Harrow understands charters, will finally see what she meant.)*
+> *(A petal sticks. Rose leans forward, concerned — the gardener sees her face and shakes his head once, minutely. Do not interfere. She sits back. The petal frees itself with a tiny, almost inaudible shift, and the bud sighs open another degree. The gardener nods, once, and goes back to the frames, and Rose understands that she has just witnessed the horticultural equivalent of a successful negotiation.)*
+> *(The sun is high now, striking the south wall and bouncing back in a wash of warmth. The garden holds the heat the way cupped hands hold water. Rose tilts her face up and closes her eyes, and listens: the bees in the lavender, the blackbird's territorial opinions, the distant clink of the stable yard. The opening goes on without her watching, which is as it should be. Some things do their best work unwitnessed.)*
+> *(When she looks again, the bud has achieved what the gardener would call "a proper cup" — the petals standing out from the center like the walls of a small pink room. Not open. But unmistakably, irrevocably opening. Rose picks up the household book, opens it to a fresh page, and writes, in the margin where the fine things live: "10 o'clock. A proper cup." She underlines it twice.)*
 *Animation: Shared.*
-
 ### L26.S4 · [T] · Rose (alone)
 *Purpose: the garden — the Hartwell's; the Park's, the kept. (Turns: 7)*
-> *(The garden, the Hartwell's: the Park's, the kept — and the whole's ground.)*
-> *(It is the ground — the garden, the Hartwell's — the Park's, the kept: the whole's ground.)*
-> *(The Hartwell's, the ground: the garden, the Park's. The kept — the whole's.)*
+> *(While the bud does its slow work, Rose walks the garden — properly walks it, the way she has not done in weeks, with attention instead of hurry. The walled garden, reclaimed in the seventh season from a tangle of briar and neglect, is now the most argued-over acre on the estate: the cook wants more herbs, the stillroom wants more lavender, Augusta wants the box hedges higher, and the gardener wants everyone to stop telling him his business.)*
+> *(It is, this morning, at its early-summer best. The roses along the south wall are out in force — the old blush damask, Seedling 31's mother, heavy-headed and blowsy; the white rose Augusta planted the year Rose was born, twenty-five years from a twig, now a tower of white bloom that the gardener's boy has to deadhead from a ladder. The lavender rows humming. The espaliered pears on the north wall, the gardener's particular pride.)*
+> *(She stops at the white rose and touches a bloom the way Augusta does — briefly, as though it might burn. Twenty-five years. The rose is exactly her age, planted the year she was born, and it has never once failed to flower. There is something in that which steadies her: the long game, kept. The white rose does not hurry. The white rose simply continues.)*
+> *(At the far bed, the trial rows — this year's seedlings, Seedling 40 through 47, gangly adolescents of roses with their numbered tags. Some will be discarded. One or two might be kept. The work goes on past the triumph, indifferent to it. Rose finds this obscurely comforting: the garden does not know it is making history this week. It is simply being a garden.)*
+> *(The gardener's boy is on the ladder at the white rose, deadheading with the focused expression of a surgeon. "Mind the new wood," the gardener calls, without looking up from the frames. "I am minding it," the boy calls back, in the tone of one who has been minding it since he was twelve. Rose leaves them to it and walks back to Seedling 31, which has used her absence to open another fraction, the show-off.)*
+> *(The garden, the Hartwell's: reclaimed, argued-over, humming. The whole's ground, and the ground is good.)*
 *Animation: Shared.*
-
 ### L26.S5 · [T] · Rose (alone)
 *Purpose: the tending — the rose's; the years', the kept. (Turns: 7)*
-> *(The tending, the rose's: the years', the kept — and the gardener's hand.)*
-> *(It is the hand — the tending, the rose's — the years', the kept: the gardener's hand.)*
-> *(The rose's, the hand: the tending, the years'. The kept — the gardener's.)*
+> *(The tending has a history, and the history is written in the gardener's hands. Rose watches him at noon — he has come back to check the bud the way you check a sleeping child, silently, from the doorway — and thinks about what those hands have done across the ten seasons: cleared the briars, rebuilt the walls' coping, dug the beds out of rubble, raised Seedling 31 from a cross nobody expected to take.)*
+> *(He is sixty-odd, nameless in the way of men who have been at Hartwell since before she was born — everyone calls him "the gardener" and he answers to it the way a duke answers to his title. He was here through the ruin years, keeping the kitchen garden alive on nothing, hiding seed potatoes from bailiffs — Rose has heard the stories from Hodges, who tells them the way other men tell war stories. When she reclaimed the walled garden, the gardener looked at the briars and said, "Two years," and did it in eighteen months.)*
+> *(The rose breeding was Rose's idea and the gardener's patience. She remembers proposing it — six years ago, over the breeding book, pointing at the damask and the gallica cutting — and the long silence, and then: "Might take. Might not." He tried it the way he does everything: without fuss, without promises, with complete attention. Every cross recorded. Every seedling watched. The failures discarded without sentiment and without waste — "the compost gets them," he said, which Rose thought was rather a good epitaph.)*
+> *(The winter it nearly died, she found him in the potting shed at dusk, repotting the frost-damaged seedling by lamplight, his breath smoking in the cold. "It'll come," he said, not looking up. "Cut hard and wait." She waited. It came. That is the whole of the tending, really: cut hard and wait, and know the difference between dead and dormant, which is a harder thing than it sounds.)*
+> *(He straightens up from the bud now, catches her watching, and does the thing he does instead of smiling — a single downward nod that means everything is proceeding to his satisfaction. "This afternoon," he says. "Properly. You'll want to be here." Then he goes back to the frames, and Rose — who has been summoned by dukes and duchesses with less authority — understands that she will be here.)*
+> *(The tending, the rose's: six years, the gardener's hands, the cut-hard-and-wait. The years', the kept.)*
 *Animation: Shared.*
-
 ### L26.S6 · [T] · Rose (alone)
 *Purpose: the morning — the bloom's; the kept, the watched. (Turns: 7)*
-> *(The morning, the bloom's: the kept, the watched — and the ending's light.)*
-> *(It is the light — the morning, the bloom's — the kept, the watched: the ending's light.)*
-> *(The bloom's, the light: the morning, the kept. The watched — the ending's.)*
+> *(She is here. She has been here, in the rickety potting-shed chair, since dinner — which she ate in the garden, off a tray, to Hodges's audible disapproval — and the afternoon has gone the way afternoons go when you are watching something: slowly, then all at once.)*
+> *(The bud is three-quarters open now. The petals stand out in a proper cup, the color fully declared: that deep heart-red at the center paling to rose-pink at the edges, exactly as the breeding book promised and better than she dared hope. It nods in the light breeze, absurdly pleased with itself. Rose has stopped pretending to read the household book and is simply watching, chin in hand, like a girl at a play.)*
+> *(The light is doing its afternoon work on the south wall — the old brick gone gold, the shadows of the espaliered pears stretching long across the path. The garden has the particular stillness of mid-afternoon, the hour when even the blackbird takes a rest from its opinions. A bumblebee works the lavender with the thoroughness of a clerk. Somewhere beyond the wall, the Park goes about its business without her, and she does not miss it in the slightest.)*
+> *(She thinks about the years — not the grand ones, the ledgers and the ballrooms, but the small ones: the mornings she came down to check a seedling before breakfast, the evenings she watered in the dusk, the winter she carried pots into the shed herself because the boy was ill and the frost was coming. Nobody writes those mornings into histories. But the histories are made of them, the way the wall is made of bricks.)*
+> *(The gardener comes at four with the watering can — for the beds, not the rose; the rose gets nothing until evening, "or it sulks," he says, straight-faced — and waters around it with the precision of a man defusing something. The bud trembles as the water lands nearby. "Steady," the gardener tells it, and Rose has to bite her lip, because he is entirely serious and entirely right.)*
+> *(The afternoon leans toward evening. The cup deepens. The watched hours accumulate, golden and unhurried, and Rose — who has run this estate for ten years on schedules and lists — discovers that the finest use of an afternoon is to spend it watching a flower refuse to be hurried.)*
 *Animation: Shared.*
-
 ### L26.S7 · [T] · Rose (alone)
 *Purpose: the petals — the rose's; the opened, the kept. (Turns: 7)*
-> *(The petals, the rose's: the opened, the kept — and the bloom's flesh.)*
-> *(They are the flesh — the petals, the rose's — the opened, the kept: the bloom's flesh.)*
-> *(The rose's, the flesh: the petals, the opened. The kept — the bloom's.)*
+> *(The petals are the revelation. Rose leans in close at evening — the gardener has permitted close inspection, "mind your breath on it" — and looks at what six years of crosses actually made: each petal broad and cupped, the edges ruffling slightly outward, the surface with the soft matte texture of the gallica parent and the generous width of the damask.)*
+> *(She counts them, because she is her grandmother's granddaughter: twenty-three on the outer whorl, the inner ones too furled to count without damage, and she will not damage it for arithmetic. Enough. More than enough. The old damask has twelve; the gallica, nine. Seedling 31 has outdone them both, the overachiever.)*
+> *(The color repays the close look. At the heart, where the petals are still furled tight, it is a red so deep it is nearly crimson — the color of the damask at its darkest, concentrated. Moving outward, it softens through rose to a blush pink at the very edges, where the evening light catches and turns them almost translucent. It is, she thinks, like looking into a coal fire: the heat at the center, the glow spreading.)*
+> *(There is a flaw. There is always a flaw, and Rose finds it with the satisfaction of a woman who distrusts perfection: one outer petal, on the east side, has a nick — a tiny brown edge where a late frost caught the bud in April. The gardener saw it weeks ago and said nothing, waiting to see if she would find it herself. She runs her fingertip near it — not touching — and smiles. The nick is the proof it survived something. She likes the nick. She would not trade the nick.)*
+> *(The gardener's boy comes with the evening watering can and stops to look. "It's a good 'un, miss," he says, which from him is a review for the ages. Then, after a pause: "What's it called?" Rose blinks. It has been Seedling 31 for six years. It has never needed a name before.)*
+> "The Hartwell rose," she says, trying it aloud for the first time. It sounds right — solid, unhurried, exactly as long as it needs to be.
+> *(The boy nods, as though this were obvious. "Aye," he says. "Stands to reason." He waters the beds, and the petals hold their cup against the evening, and the Hartwell rose — named, at last, by a ginger boy with a watering can — nods in the breeze like a duchess acknowledging applause.)*
 *Animation: Shared.*
-
 ### L26.S8 · [T] · Rose (alone)
 *Purpose: the scent — the bloom's; the morning's, the kept. (Turns: 7)*
-> *(The scent, the bloom's: the morning's, the kept — and the garden's air.)*
-> *(It is the air — the scent, the bloom's — the morning's, the kept: the garden's air.)*
-> *(The bloom's, the air: the scent, the morning's. The kept — the garden's.)*
+> *(The scent arrives at dusk, the way important things arrive: without announcement, and all at once. Rose is sitting on the low wall with her supper tray — cold chicken, bread, an apple she has no intention of eating — when the evening air shifts, and suddenly the garden smells of the rose.)*
+> *(It is not what she expected. The damask parent smells of attar, heavy and sweet; the gallica, of spice and pepper. Seedling 31 has taken its own counsel: the scent is light and clear, a tea-rose sweetness with something green underneath — crushed leaf, rain on warm brick. It carries on the evening air in waves, strengthening as the temperature drops, the way scents do when the day releases them.)*
+> *(She closes her eyes and breathes it in, and the garden rearranges itself around the smell: the lavender suddenly a bass note, the wallflowers a descant, the whole walled acre tuned to this one new instrument. It is the smell of the ending, she thinks — not the ballrooms or the ledgers, but this: green, sweet, alive, made by patience.)*
+> *(Hodges finds her there when he comes to collect the tray, and stops, and sniffs — once, professionally — and says, "Very nice, miss," in the tone he uses for satisfactory vintages. Then, after a pause: "The Dowager will want to see it in the morning." Rose opens her eyes.)*
+> "The Dowager can see it when the gardener says so."
+> "Very good, miss." Hodges collects the tray. He does not argue with the gardener. Nobody argues with the gardener.
+> *(Alone again, Rose breathes the scent in deep and thinks about what it means to make something that smells like this — not to buy it, not to inherit it, but to coax it out of green stubbornness across six years. The iron rule, kept in petals: time earns everything money can. The scent rises off the bloom in the dusk, sweet and green and entirely hers, and the first day of the Hartwell rose ends the way it began — with Rose in the garden, watching, breathing, unwilling to leave.)*
+> *(She stays until the light goes. The scent follows her up the back stairs and into her dreams, green and sweet, and she sleeps the sleep of the completely satisfied.)*
 *Animation: Shared.*
-
 ### L26.S9 · ★ KEY DECISION 1/3 · Rose (alone)
 *Purpose: ★ KEY DECISION 1/3 — THE BLOOM'S LESSON (what the bloom teaches: the tending, the opening, or the keeping). The years deepen; decide the lesson. (Turns: 3 — the decision)*
-> *(The years deepen, and the bloom asks its lesson: the tending — the rose's, the years'; the opening — the first's, the morning's; or the keeping — the bloom's, the held. The lesson will shape the bloom's memory.)*
-> *(The tending: the years'. The opening: the morning's. The keeping: the held's.)*
+> *(Morning, the second day, and the bloom is fully open — a proper cup of twenty-odd petals, the color declared, the scent established — and Rose stands before it with the breeding book under her arm and understands that the flower is asking her a question. Not in words. Flowers have never needed words to be perfectly clear about what they want.)*
+> *(The question is the lesson. Six years of tending have produced this: a rose that did not exist before. What does it teach? She turns it the way she turns everything — looking for the true shape, the one that will hold.)*
+> *(Is the lesson the tending — the six years, the gardener's hands, the cut-hard-and-wait? The crosses recorded, the failures composted, the frost watched off by lamplight. The lesson of the tending says: the work is the thing. The patience is the achievement. The bloom is merely the receipt.)*
+> *(Or is the lesson the opening — this morning, this cup, this color? The moment when the patience pays out, when the bud decides and the petals commit. The lesson of the opening says: the payoff is the thing. The beauty justifies the wait. Six years for this morning, and the morning is worth it.)*
+> *(Or is the lesson the keeping — what comes after the opening? The deadheading, the feeding, the winter mulching, the trial rows already growing for next year's crosses. The lesson of the keeping says: the bloom is not the end. It is the middle. The garden goes on.)*
+> *(Three lessons, and all of them true. The tending is true — she has the blistered thumbs to prove it. The opening is true — she is looking at it. The keeping is true — the trial rows are already ankle-high. Rose walks the bed's length, past the damask mother and the numbered adolescents, and feels the weight of the choosing. The bloom's lesson, once decided, will shape how she tells this story — to Augusta, to the Gazette, to herself.)*
 *★ KEY DECISION 1/3 — The bloom's lesson:*
-- **The tending** — *the years, taught.* The lesson is tending — the rose's, the years'. (Consequence: the lesson is the years' — but years are tended, and the bloom was the garden's.)
-- **The opening** — *the morning, taught.* The lesson is opening — the first's, the morning's. (Consequence: the lesson is the morning's — but mornings are opened, and the bloom was the rose's.)
-- **The keeping** — *the held, taught.* The lesson is keeping — the bloom's, the held. (Consequence: the lesson is the held's — but helds are kept, and the bloom was the ending's.)
-> *(The game remembers the choice — and the means: tending, opening, or keeping. The bloom's lesson is hers.)*
+- **The tending** — *the years, taught.* The lesson is tending — the rose's, the years': the patience, the labor, the years that taught her. (Consequence: the lesson will be the tending — the work, the years, the patience.)
+- **The opening** — *the morning, taught.* The lesson is opening — the first's, the morning's: the bloom that opens, the beginning. (Consequence: the lesson will be the opening — the first bloom, the morning's.)
+- **The keeping** — *the held, taught.* The lesson is keeping — the bloom's, the held: what is kept, held, continued. (Consequence: the lesson will be the keeping — the held, the continued.)
+> *(The gardener comes with the morning watering can, waters around the rose with his usual precision, and says, without looking up: "You'll decide it wrong if you hurry." Rose laughs — the first laugh of the day, startled out of her. "I wasn't hurrying. I was deciding." "Same thing, done fast," says the gardener, and goes back to the frames, leaving her with the bloom and the question and the distinct feeling of having been seen through by a man who talks mostly to roses.)*
 *Animation: Shared.*
-
 ### L26.S10 · [T] · Rose (alone)
 *Purpose: the lesson — the bloom's; the kept, the taught. (Turns: 7)*
-> *(The lesson, the bloom's: the kept, the taught — and the ending's teaching.)*
-> *(It teaches — the lesson, the bloom's — the kept, the taught: the ending's teaching.)*
-> *(The bloom's, the teaching: the lesson, the kept. The taught — the ending's.)*
+> *(The lesson, decided, wants using — and Rose uses it the way she uses everything: immediately, practically, before breakfast. She takes the breeding book to the morning room and writes the decision into the margin in her best ink, with the date, the way Augusta taught her: once for the sum, once for the nerve.)*
+> *(Then she does the practical thing the lesson requires. If the lesson was the tending, she goes down to the potting shed and helps the gardener's boy prick out seedlings for an hour, her hands in the soil, learning the work from the dirt up. If the lesson was the opening, she cuts nothing — she leaves the bloom on the bush for the household to see, and tells Hodges to bring Augusta down after chocolate. If the lesson was the keeping, she sits with the gardener over the winter plan and the trial rows, and they talk mulching and feeding like generals discussing supply lines.)*
+> *(The household, meanwhile, has discovered the rose. Hodges brings the chocolate to the garden instead of the morning room, without being asked, and stands looking at the bloom with the expression of a man revising an opinion. "Very fine, miss," he says. "The Dowager will be down directly." Augusta arrives in her garden shawl, takes one look, and says, "Hmph. It has opinions, this rose." Which from Augusta is a knighthood.)*
+> *(Letitia arrives last, in her wrapper, with her chocolate in one hand and the Gazette in the other. She looks at the bloom for a long moment, and then at Rose, and then back at the bloom, and says, "Well. That's rather shut everyone up, hasn't it." She is right. It has. The garden is suddenly the most important acre in England, and they all know it.)*
+> *(Rose watches them — the Dowager's inspection, the aunt's delight, Hodges's revised opinion — and understands what the lesson was for. Not for the rose. The rose knows what it is doing. The lesson was for the telling: how to carry this morning into the house, into the season, into the story. The tending, the opening, the keeping — whichever she chose, the choosing was the work, and the work is done, and the bloom goes on being a rose regardless, which is exactly as it should be.)*
+> *(She writes it all down — the Hmph, the wrapper, the revised opinion — in the household book under the date. The lesson, kept. The morning, recorded. The rose, doing whatever it likes, which is the whole of its job.)*
 *Animation: Shared.*
-
 ### L26.S11 · [T] · Rose (alone)
 *Purpose: the stem — the rose's; the whole's, the kept. (Turns: 7)*
-> *(The stem, the rose's: the whole's, the kept — and the bloom's bone.)*
-> *(It is the bone — the stem, the rose's — the whole's, the kept: the bloom's bone.)*
-> *(The rose's, the bone: the stem, the whole's. The kept — the bloom's.)*
+> *(The stem deserves its own inspection, and Rose gives it one — mid-morning, with the gardener's permission and a magnifying glass borrowed from Harrow's archive, which she will return before he notices it is gone.)*
+> *(It is a remarkable stem. Thick as her thumb at the base, tapering cleanly, the bark green-flushed and healthy, with thorns spaced like the battlements of a very small castle. The gardener bred for stem strength deliberately — "no good a beauty that can't hold its head up," he said, years ago, in one of his longer speeches — and Seedling 31 has obliged: the bloom nods in the breeze but never droops, holding its cup to the sun like a toast.)*
+> *(She thinks about stems. The white rose, twenty-five years old, has a stem like a wrist now — woody, gnarled, utterly reliable. The trial rows have stems like green string, hopeful and untested. Everything in the garden is a stem first and a flower second; the bloom is the advertisement, but the stem is the argument. Rose — who has spent ten years being the stem of Hartwell Park, holding the whole thing upright while the flowers got the admiration — feels a sudden, fierce kinship with six inches of green wood.)*
+> *(The gardener's boy comes to stake the delphiniums and stops to watch her squinting through the glass. "It's a stem, miss," he observes, helpfully. "I am aware," Rose says, with dignity. "I am appreciating it structurally." "Aye," says the boy, in the tone of one humoring the gentry, and goes back to his delphiniums, which are also stems, though nobody is writing about them.)*
+> *(She puts the glass away and looks at the stem with her naked eye — green, strong, thorned, doing its job without applause. The bloom's bone. The whole's support. She pats the soil around its base the way you pat a good horse's neck, and the stem — being a stem — accepts the tribute with complete indifference, which is the correct response.)*
+> *(In the breeding book that evening she adds a line under the stem notes: "Holds its head up. Bred true." The gardener, reading over her shoulder, nods once. The stem, approved. The bone, sound.)*
 *Animation: Shared.*
-
 ### L26.S12 · [T] · Rose (alone)
 *Purpose: the thorns — the rose's; the kept, the guarded. (Turns: 7)*
-> *(The thorns, the rose's: the kept, the guarded — and the bloom's edge.)*
-> *(They are the edge — the thorns, the rose's — the kept, the guarded: the bloom's edge.)*
-> *(The rose's, the edge: the thorns, the kept. The guarded — the bloom's.)*
+> *(The thorns make themselves known at noon, when Rose — reaching to steady the bloom for a closer look at the inner petals — misjudges by half an inch and earns a scratch across the back of her hand: a clean red line, beaded with blood, entirely her own fault.)*
+> *(She says something unladylike under her breath. The gardener's boy, deadheading the damask nearby, does not look up, but his shoulders shake once. "Say it louder, miss, I missed it." "You missed nothing," Rose says, pressing her handkerchief to the scratch. "It was horticultural." "Aye," says the boy. "Horticultural." He deadheads with renewed vigor.)*
+> *(The gardener comes to inspect the damage — the hand, not the rose — and pronounces it "a love bite," which is the closest he has ever come to poetry. "They all do it," he says, nodding at the bloom. "The good ones especially. You want a rose without thorns, miss, you want a different flower." He goes back to the frames, leaving Rose to consider the philosophy of thorns with a bleeding hand.)*
+> *(She considers it. Every beautiful thing in the garden is armed: the roses, the berberis, even the gooseberries, those sour little hypocrites. The thorns are not a flaw in the design. They are the design — the bloom's edge, the kept's guard. You do not get the cup without the battlements. You do not get the scent without the scratch.)*
+> *(It strikes her, dabbing at the scratch, that this is true of everything she has built: the Park's beauty has its thorns — the debts, the fights, the years of being cut at by the ton. Drummond's thorns. Cecilia's. Her own, on bad days. The bloom does not apologize for its thorns, and neither, she decides, will she.)*
+> *(The scratch heals by evening — a thin pink line, already fading. She shows it to Letitia at dinner, who examines it with interest. "A battle scar," Letitia declares. "Very dashing. The ton will be jealous." "The ton can get its own rose," Rose says, and they both laugh, and the thorn — the bloom's edge, the kept's guard — takes its place in the day's story, small and red and entirely earned.)*
 *Animation: Shared.*
-
 ### L26.S13 · [T] · Rose (alone)
 *Purpose: the later years — the bloom's; the first's, the deepened. (Turns: 7)*
-> *(The later years: the bloom's — the first's, the deepened — and the Hartwell's time.)*
-> *(They deepen — the years, the bloom's — the first, the deepened: the Hartwell's time.)*
-> *(The first's, the time: the later years, the bloom's. The deepened — the Hartwell's.)*
+> *(Afternoon, and Rose sits with the breeding book in the shade of the north wall, thinking about the later years — the rose's, not hers, though the two keep tangling.)*
+> *(Seedling 31 is in its first blooming year. The bush is young — three feet high, vigorous, all green confidence. But roses live decades. The white rose is twenty-five and still flowering like it means it. The old damask against the south wall must be forty, gnarled as a fist, blooming heavier every year. What will the Hartwell rose be at ten? At twenty-five? Will the color hold? Will the scent deepen? Will some future gardener's boy deadhead it from a ladder, cursing its thorns the way the current one curses the white rose's?)*
+> *(The gardener has opinions on the later years, delivered in his usual telegraphic style: "Feed it. Don't fuss it. Cut hard in March." Rose writes them down anyway, because the later years of a rose are a relay — she will tend it, and then someone else will, and the rose will outlast them both if they do their jobs. That is the bargain of gardening: you work for a future you will not entirely see.)*
+> *(She thinks of herself at twenty-five, the exact age of the white rose. In twenty-five more years she will be fifty — Augusta's age when Rose arrived at Hartwell, a thought that lands with a small thud. Will she still come down to the garden at dawn? Will she still crouch in a ruined wrapper to look at a bud? She hopes so. She intends to. The later years, deepening, and the garden with them.)*
+> *(A bee blunders into the bloom, drunk on the scent, and blunders out again, dusted gold. The bloom nods. The years will come — the feeding, the March cutting, the deadheading from ladders — and the rose will keep its side of the bargain, blooming, if they keep theirs. The later years are not a mystery. They are a maintenance schedule. Rose finds this obscurely thrilling.)*
+> *(She closes the breeding book and looks at the bush — young, green, confident — and makes it a promise, silently, the way you promise things to roses: feed it, don't fuss it, cut hard in March. The later years, kept. The Hartwell's time, deepening one season at a time.)*
 *Animation: Shared.*
-
 ### L26.S14 · [T] · Rose (alone)
 *Purpose: the tended — the rose's; the years', the kept. (Turns: 7)*
-> *(The tended, the rose's: the years', the kept — and the gardener's work.)*
-> *(It is the work — the tended, the rose's — the years', the kept: the gardener's work.)*
-> *(The rose's, the work: the tended, the years'. The kept — the gardener's.)*
+> *(The tended work goes on around the triumph, indifferent to it. Rose discovers this on the third morning, when she comes down to find the gardener's boy already at work in the trial rows — weeding, tying, making notes in a grubby pocketbook that is clearly the junior varsity of the breeding book — and the great blooming rose getting exactly its share of attention and not one drop more.)*
+> *(It is, she realizes, the correct attitude. The garden does not do triumph. The garden does routine: water, weed, feed, watch. The Hartwell rose got its morning watering like everything else. The damask got deadheaded. The frames got opened. The triumph was simply Tuesday with better flowers.)*
+> *(She takes a trowel and joins in — the trial rows need thinning, and the boy shows her how, with the patience of a master instructing a promising but clumsy apprentice. "Not that one, miss. That one's got legs. That one. Aye." They work down the row in companionable silence, the sun warming the back of her neck, the soil dark and crumbling under her fingers. Her hands are filthy in minutes. It is the best she has felt all week.)*
+> *(The gardener inspects their work at noon — a long look down the row, a grunt that might be approval — and sets them to potting up cuttings. Rose's cuttings are, objectively, terrible: too long, too short, the leaves stripped with more enthusiasm than skill. The boy redoes three of them without comment. The gardener says, "They'll take," which Rose chooses to interpret as encouragement rather than botany.)*
+> *(At the end of the row, the Hartwell rose nods over them all, its cup fully open, its scent rising in the heat. It does not look like a triumph. It looks like a rose among roses, doing its job. Rose wipes her forehead with a soil-blackened hand, leaving a smudge that Letitia will shriek at later, and thinks: this is the tending. Not the deciding, not the watching — the doing. The water, the weed, the feed. The years', the kept.)*
+> *(She writes in the breeding book that evening, under the day's notes: "Thinned 40-47. Potted cuttings (badly). The garden does not do triumph." The gardener reads it, and does the thing he does instead of smiling.)*
 *Animation: Shared.*
-
 ### L26.S15 · [C] · the bloom's dress — dressing-for-climax ritual
 *Purpose: the bloom's thesis — dress the gardener; direction + twenty 5-coin pins, story morsels between, reveal coda. (Turns: 21)*
 > **Occasion brief — the first bloom:** "The Hartwell rose opens. The ending's flower. Dress for the gardener — the woman who tended it. **Editorial criterion: tending.**"
@@ -160,186 +196,235 @@
 
 ### L26.S16 · [T] · Rose (alone)
 *Purpose: the opened, the kept — the bloom's; the first's, the forever. (Turns: 7)*
-> *(The opened, the kept: the bloom's — the first's, the forever — and the bloom's flesh.)*
-> *(It is the kept — the opened, the bloom's — the first's, the forever: the bloom's flesh.)*
-> *(The kept, the forever: the opened, the bloom's. The first's — the bloom's.)*
+> *(Dawn of the fourth day, and the bloom is at its peak — fully open, the cup perfect, the color at its deepest, the scent at its strongest. Rose stands before it in the grey light and understands that this is the flower's whole argument, made at last: not the bud, not the promise, but the thing itself, open and unapologetic.)*
+> *(It is bigger than she expected. She measures it against her palm — four inches across, the petals standing out in overlapping whorls like the layers of a very confident onion. The center is still furled, a tight red knot holding the last of the mystery. Around it, the open petals catch the dawn and turn the color of the inside of a shell: pink, gold, red, all at once.)*
+> *(She does the thing she has been avoiding for three days: she imagines it cut. In a vase. In her hand at the Assembly. The stem would need stripping — the thorns are not negotiable — and the bloom would last perhaps three days in water, perhaps four. Cut flowers are a countdown. She looks at the bloom on the bush, drinking the dawn, and cannot do it. Not yet. The gardener, arriving with the watering can, reads her face and says, "Leave it. There's more coming." He nods at the bush, and Rose sees what she missed: three more buds, swelling, green giving way to color at the seams. The first bloom is not the only bloom. It is the first.)*
+> *(The relief is physical — she had not realized she was bracing. The Hartwell rose will bloom again this season, and next, and the keeping goes on. This flower can simply be itself: the opened, the kept, the first's. No pressure. No symbolism. Just a rose at dawn, doing its job magnificently.)*
+> *(She sits on the low wall and watches the sun clear the east wall and strike the bloom full. The petals glow. The scent rises. The blackbird delivers its morning opinion. And Rose — who has spent ten years making things happen — practices the unfamiliar art of letting something simply be: the opened, the kept, the bloom's own perfect morning.)*
+> *(In the breeding book: "Day 4. Peak. Four inches. Three more buds coming. Left it on the bush." The gardener's verdict, delivered over her shoulder: "Right decision." From him, practically a parade.)*
 *Animation: Shared.*
-
 ### L26.S17 · [T] · Rose (alone)
 *Purpose: the morning, the kept — the bloom's; the ending's, the forever. (Turns: 7)*
-> *(The morning, the kept: the bloom's — the ending's, the forever — and the bloom's light.)*
-> *(It is the kept — the morning, the bloom's — the ending's, the forever: the bloom's light.)*
-> *(The kept, the forever: the morning, the bloom's. The ending's — the bloom's.)*
+> *(The morning room, after chocolate, and Rose has brought the bloom indoors — not cut, but in her head, which is to say she has brought her sketchbook to the garden and failed, utterly, to draw it.)*
+> *(The sketch is terrible. The cup looks like a cabbage. The stem has a kink that suggests a broken bone. The color — she has only a box of watercolors dried to chalk — comes out as a lurid pink that the actual rose would be embarrassed to know. She stares at the page, turns it sideways, turns it back, and accepts the truth: she can run an estate, read a charter, face down a ton, and she cannot draw a rose.)*
+> *(Letitia finds her scowling at the cabbage and laughs until the tea comes. "Darling, it looks like it's been in a fight." "It has not been in a fight. It is a rose." "A rose that has been in a fight." Letitia takes the pencil, and in six strokes produces a recognizable bloom — loose, confident, alive. "You think in ledgers," she says, not unkindly. "I think in people. The rose is a person. Give it a personality and the hand follows." She hands back the pencil. Rose tries again. The second cabbage is marginally less pugilistic.)*
+> *(Augusta, passing, glances at the sketchbook and says, "The white rose, I presume, after an illness." Rose closes the book with dignity. "It is the Hartwell rose." "Then the Hartwell rose," says Augusta, "should stay in the garden, where it is beautiful, and out of your sketchbook, where it is alarming." She sweeps on, leaving Rose torn between offense and laughter. Laughter wins.)*
+> *(She keeps the cabbage sketch. She pastes it into the breeding book opposite the day's notes, with the caption: "The Hartwell rose, as seen by its breeder (artistic license)." The gardener looks at it for a long moment when she shows him, and says, "Hmph," which in his lexicon covers a multitude of sins. The boy is less diplomatic: "Is it supposed to be the rose, miss?" "It is the rose's character," Rose says firmly. "The cabbage is metaphorical." "Aye," says the boy, unconvinced.)*
+> *(The morning, kept: a failed sketch, a good laugh, a cabbage for the archives. The bloom goes on being beautiful in the garden, unbothered by its portrait, which is the correct relationship between art and nature.)*
 *Animation: Shared.*
-
 ### L26.S18 · [T] · Rose (alone)
 *Purpose: the lesson — the tending, the opening, the keeping; the kept's. (Turns: 7)*
-> *(The lesson: the tending, the opening, the keeping — the kept's — and the years' teaching.)*
-> *(It teaches — the lesson, the kept's — the tending, the opening, the keeping: the years' teaching.)*
-> *(The kept's, the teaching: the lesson, the tending. The years' — the kept.)*
+> *(Afternoon, and Rose takes the lesson out for a walk — the tending, the opening, the keeping, the three shapes she decided between on the second morning — and tests each one against the actual day, the way you test a shoe by walking in it.)*
+> *(The tending, walked: she goes to the potting shed and looks at the tools — the worn trowel, the twine, the watering cans with their roses of holes — and thinks about the hands that have held them. The lesson of the tending says the work is the achievement. Walking it, she believes it: the shed smells of soil and creosote and patience, and every tool is exactly where it should be, and that order is itself a kind of beauty.)*
+> *(The opening, walked: she goes to the bloom and stands before it, and lets the payoff hit her fresh — the color, the scent, the sheer audacity of a flower. The lesson of the opening says the beauty justifies the wait. Standing in the scent at three in the afternoon, with the sun on the petals, she believes it completely. Six years for this. Worth it. Obviously worth it.)*
+> *(The keeping, walked: she goes to the trial rows, the ankle-high adolescents, the future in green. The lesson of the keeping says the bloom is the middle, not the end. Looking at Seedling 44's promising bud — "got legs," the boy said — she believes that too. The work goes on. It always goes on.)*
+> *(Three walks, three beliefs, all sincere. Rose sits on the low wall, slightly out of breath and entirely out of certainty, and laughs at herself: she decided the lesson two days ago, and here she is re-deciding it with her feet. The gardener, passing with a barrow, observes her laughing alone and does not break stride. He has seen stranger things in this garden. He has seen her.)*
+> *(She writes in the breeding book: "Walked all three lessons. All true. Decided anyway — decision stands." Because that is the thing about lessons: you decide, and then you keep deciding, every day, with your feet. The tending, the opening, the keeping — the kept's, all three, and the walking is the proof.)*
 *Animation: Shared.*
-
 ### L26.S19 · [T] · Rose (alone)
 *Purpose: the flower, the kept — the ending's; the Hartwell's, the forever. (Turns: 7)*
-> *(The flower, the kept: the ending's — the Hartwell's, the forever — and the bloom's emblem.)*
-> *(It is the kept — the flower, the ending's — the Hartwell's, the forever: the bloom's emblem.)*
-> *(The kept, the forever: the flower, the ending's. The Hartwell's — the bloom's.)*
+> *(The flower, the kept — and Rose begins to see it as an emblem: not just a rose, but the thing the rose will mean.)*
+> *(It starts at dinner, when Augusta — who has been thinking, which is always a prelude — says, "The Assembly will want it." Rose looks up from her soup. "The rose." Augusta taps the table once. "The ton is coming to see what you built. Let them see this." Letitia, delighted: "Carry it! At the ball! The first bloom of the Hartwell rose, in the hand of the woman who bred it!" She mimes it, swooning. "The Gazette will weep." "The Gazette," says Augusta dryly, "will take notes.")*
+> *(Rose thinks about it after dinner, walking the terrace in the dusk. The flower as emblem: the estate's achievement made portable, the ten seasons condensed to four inches of petals. It is a good emblem — better than a speech, better than a portrait. Flowers do not boast. They simply are, and let the looking do the work.)*
+> *(But emblems have weight. If she carries the Hartwell rose at the Assembly, it becomes a statement — the kept, displayed. Every eye will read it. Bell will write about it. The ton will talk about nothing else for a week. Is that what the flower is for? Or is the flower for the garden, for the bush, for the quiet mornings with the breeding book?)*
+> *(She goes down to the garden in the dark — past Hodges, who pretends not to see — and stands before the bloom in the moonlight. It is a pale ghost of itself, the color drained to silver, the scent faint. It does not look like an emblem. It looks like a rose, asleep. She touches the air near it, gently.)*
+> "We'll see," she tells it. "No decisions in the dark."
+> *(The bloom says nothing, being asleep, and Rose walks back to the house through the moonlit garden, thinking about emblems and statements and the difference between carrying a flower and being seen to carry it — and deciding, for tonight, to let the question keep until morning, when the flower will be awake and better able to advise.)*
 *Animation: Shared.*
-
 ### L26.S20 · [T] · Rose (alone)
 *Purpose: the emblem — the bloom's; the kept, the worn. (Turns: 7)*
-> *(The emblem, the bloom's: the kept, the worn — and the ending's sign.)*
-> *(It is the sign — the emblem, the bloom's — the kept, the worn: the ending's sign.)*
-> *(The bloom's, the sign: the emblem, the kept. The worn — the ending's.)*
+> *(The emblem, tried on: morning, the fifth day, and Rose — alone in her bedroom with the door locked, feeling faintly ridiculous — holds a fallen petal against her hair, her waist, her wrist, testing where the Hartwell rose would sit if she carried it.)*
+> *(The petal is from yesterday's windfall — one outer petal, loosened by the breeze, caught by the gardener's boy and presented to her "for the archives" with a straight face. It is the deep heart-red at its base, blushing to pink at the edge, and against her dark hair it is startling: a coal-fire color, alive. At her waist, against the dove-grey morning dress, it is quieter — a secret, not a statement. At her wrist, it looks like a wound. She discards the wrist.)*
+> *(She thinks about what Élise would say. Élise, who dresses the ton and understands the grammar of flowers the way other people understand sentences: the shade would want silver, not gold — the pink has a cool undertone, gold would fight it. Grey silk, silver thread, the rose at the waist. Or cream, and the rose at the shoulder. Élise would know. Élise always knows.)*
+> *(She tries the petal at her shoulder, looking sideways into the glass. Better. The emblem, worn: the Hartwell rose, carried by the woman who bred it, at the Assembly she convenes. It is not armor — she has worn armor, and this is not it. It is not a statement either, quite. It is a signature. The flower says: I made this. The woman says: I am not finished.)*
+> *(A knock — Letitia, with the morning post. Rose shoves the petal into her pocket. Letitia takes one look at her — the locked door, the flushed face, the furtive hand in the pocket — and says, "Were you trying on the rose?" "I was not trying on the rose." "You were trying on the rose." Letitia flops onto the bed, delighted. "Where? Hair or waist?" After a pause: "Waist." "Shoulder," Rose admits. "Ooh. Bolder. Élise would approve." She does approve — Letitia always approves of boldness, especially other people's.)*
+> *(The petal goes into the breeding book, pressed between the pages for the archives. The emblem, tested. The shoulder, chosen — provisionally, privately, subject to Élise's professional opinion. Rose unlocks the door and goes down to breakfast feeling like a girl with a secret, which is exactly what she is.)*
 *Animation: Shared.*
-
 ### L26.S21 · [T] · Rose (alone)
 *Purpose: the later years — the rose's; the bloom's, the deepened. (Turns: 7)*
-> *(The later years: the rose's — the bloom's, the deepened — and the Hartwell's time.)*
-> *(They deepen — the years, the rose's — the bloom, the deepened: the Hartwell's time.)*
-> *(The bloom's, the time: the later years, the rose's. The deepened — the Hartwell's.)*
+> *(Evening of the fifth day, and the first bloom is beginning to go over — the outer petals loosening, the cup relaxing, a second petal on the path below. Rose sits on the low wall and watches the later years of the flower arrive: not the bush's years, but the bloom's own brief arc, from cup to openness to scattering.)*
+> *(It is not sad. She expected it to be sad — the first bloom fading — but it isn't. The flower has done its work: it opened, it declared, it was seen. Now it is doing the next work: loosening, releasing, making room. The three new buds are swelling behind it, green giving way to color. The bush does not mourn the bloom. The bush moves on.)*
+> *(She thinks about impermanence, and then stops thinking about it, because the garden does not do philosophy — it does practice. The practice is: deadhead the spent bloom (not yet — tomorrow), feed the bush, watch the buds. The later years of the flower are a day's work, not a meditation.)*
+> *(Still. She picks up the fallen petal — the second one, perfect, unbruised — and holds it to the light. The color is already softening at the edges, going papery. Tomorrow it will be brown. Today it is still, faintly, the Hartwell rose. She puts it in her pocket with the first one. The archives are growing.)*
+> *(The gardener comes at dusk with the watering can and looks at the going-over bloom with professional assessment. "Done its job," he says. "Cut it tomorrow. The buds want the strength." Rose nods. She knew. She has known since morning. But hearing it said aloud — in his matter-of-fact tone, no ceremony — makes it easier. The flower's later years end in the compost, feeding the next year's green. That is not an ending. That is the system.)*
+> *(She stays until the light goes, watching the bloom nod in the evening breeze — looser now, easier, unguarded. The later years of the rose's bloom: the deepened, the released, the honest. Tomorrow she will cut it. Tonight she lets it have its evening, and the garden holds them both in the green dusk, and it is enough.)*
 *Animation: Shared.*
-
 ### L26.S22 · ★ KEY DECISION 2/3 · Rose (alone)
 *Purpose: ★ KEY DECISION 2/3 — THE GARDENER'S GIFT (how the bloom is marked: the stem, the petals, or the keeping). The years deepen; decide the marking. (Turns: 3 — the decision)*
-> *(The years deepen, and the gardener asks her marking: the stem — the rose's, the whole's; the petals — the bloom's, the opened's; or the keeping — the tended's, the held. The marking will shape the gardener's memory.)*
-> *(The stem: the whole's. The petals: the opened's. The keeping: the held's.)*
+> *(Morning of the sixth day, and the first bloom is ready to be cut — the gardener said so last night, and the gardener is never wrong about these things — and Rose stands before it with the secateurs in her hand, understanding that the bloom is asking its second question: how is it to be marked?)*
+> *(The marking will shape the gardener's memory — her memory, the garden's, the season's. Three ways to mark a first bloom, and each of them true.)*
+> *(The stem: cut it long, keep the whole — the rose's architecture, the bloom's bone. Press the stem with the flower, or keep it in water until the petals fall, honoring the whole organism: the tending made visible. The marking of the stem says: the work is the monument.)*
+> *(The petals: take the petals — the bloom's flesh, the opened's glory. Press them into the breeding book, scatter them in the stillroom, keep the color when the flower is gone. The marking of the petals says: the beauty is the monument. Keep what can be kept.)*
+> *(The keeping: mark it by keeping — not the flower but the practice. Write the article for the garden's book: the Hartwell rose's requirements, set down. The feeding, the March cutting, the deadheading. The marking of the keeping says: the future blooms are the monument — every June, the proof renewed.)*
+> *(She holds the secateurs and does not cut yet. The bloom nods — looser now, the cup relaxed, the color still true at the heart. Three markings. The stem, the petals, the keeping — each of them honest, each of them final in its own way. The game will remember the choice, and the means. The gardener's gift is hers to decide, and the deciding wants doing the way the gardener does everything: without fuss, without hurry, with complete attention.)*
 *★ KEY DECISION 2/3 — The gardener's gift:*
-- **The stem** — *the whole, marked.* The bloom is marked with the stem — the rose's, the whole's. (Consequence: the marking is the whole's — but wholes are kept, and the bloom was the garden's.)
-- **The petals** — *the opened, marked.* The bloom is marked with the petals — the bloom's, the opened's. (Consequence: the marking is the opened's — but openeds are flesh, and the bloom was the morning's.)
-- **The keeping** — *the held, marked.* The bloom is marked with keeping — the tended's, the held. (Consequence: the marking is the held's — but helds are kept, and the bloom was the ending's.)
-> *(The game remembers the choice — and the means: stem, petals, or keeping. The gardener's gift is hers.)*
+- **The stem** — *the whole, marked.* The bloom is marked with the stem — the rose's, the whole's: the plant entire, root to bloom. (Consequence: the marking will be the stem — the whole plant, root to bloom.)
+- **The petals** — *the opened, marked.* The bloom is marked with the petals — the bloom's, the opened's: the flesh of it, the opened rose. (Consequence: the marking will be the petals — the opened bloom itself.)
+- **The keeping** — *the held, marked.* The bloom is marked with keeping — the tended's, the held: the tending continued. (Consequence: the marking will be the keeping — the tending, continued.)
+> *(The gardener's boy comes with the trug for the deadheading and stops, seeing her with the secateurs. "Cutting it, miss?" "Deciding how," Rose says. The boy nods, as though this were a normal morning activity, and waits — patient, ginger, seventeen — while she decides. The bloom waits too. The garden, which has all the time in the world, waits with them.)*
 *Animation: Shared.*
-
 ### L26.S23 · [T] · Rose (alone)
 *Purpose: the marking — the gift, the given; the bloom, the marked. (Turns: 7)*
-> *(The marking: the gift, the given — the bloom, the marked — and the years, the kept.)*
-> *(She marks it — the gift, the given, as she chose — and the marking is the given's: the bloom, the marked.)*
-> *(The given, the marked: the marking, the gift. The years — the kept.)*
+> *(The marking, once decided, wants doing — and Rose does it the way the gardener taught her: promptly, exactly, and without fuss. If the choice was the stem, she cuts it long — a full fourteen inches — and stands it in the tall Venetian glass in the morning room, where the whole architecture shows: the bloom's bone, the tending made visible. If the petals, she gathers every fallen one and presses them between the breeding book's pages, in layers of blotting paper, weighting the book with Harrow's archive box (returned, eventually). If the keeping, she takes a fresh sheet and writes the garden's article in her best hand: the Hartwell rose's requirements, set down — feed it, don't fuss it, cut hard in March — and has the gardener witness it with his mark.)*
+> *(The game remembers the choice. The garden, more importantly, can see it: the long stem in the glass, the petals in the press, the article in the book. The marking, marked.)*
+> *(Hodges is summoned, and instructed, and — to his visible satisfaction — finds the instructions exact. "Very good, miss," he says, which from Hodges is a speech. The Venetian glass is placed where the morning light finds it. The blotting paper is changed daily. The article is witnessed by the gardener, who makes his mark with the pencil stub he keeps behind his ear, and by Letitia, who signs with a flourish and then, catching Rose's eye, signs again underneath, smaller: "witnessed with admiration, which is also exact.")*
+> *(Augusta, told at luncheon, listens with the spectacles lowered, and nods once. "Satisfactory," she says. And then: "The stem was the right choice." Or: "The petals were the right choice." Or: "The keeping was the right choice." — whichever Rose chose, Augusta approves, which Rose recognizes as the Dowager's particular form of hindsight.)*
+> *(By evening it is done — the marking, marked. Rose stands back and looks at the morning's work: the glass, the press, the article — whichever it is, it is hers, and it is true, and the first bloom of the Hartwell rose has been marked the way first things should be: deliberately, and without apology.)*
+> *(The gardener looks at the marking — the glass, the press, the article — and does the thing he does instead of smiling. "Right," he says. From him, a benediction. The marking holds.)*
 *Animation: Shared.*
-
 ### L26.S24 · [T] · Rose (alone)
 *Purpose: the bloom, the marked — the first's, the years'; the kept, the forever. (Turns: 7)*
-> *(The bloom, the marked: the first's, the years' — the kept, the forever — and the marking's record.)*
-> *(It is marked — the bloom, the first's — the years', the kept: the marking's record.)*
-> *(The marked, the forever: the bloom, the first's. The years' — the kept.)*
+> *(The marked bloom's record goes into the breeding book that evening — a full page, in Rose's best hand, with the date underlined twice and the cabbage sketch pasted opposite for contrast.)*
+> *(She writes it the way the gardener writes: plainly. "First bloom, Seedling 31, now the Hartwell rose. Opened" — the date — "four inches across, twenty-three outer petals, color deep heart-red to blush pink, scent tea-rose with green. Marked" — and then the marking, whichever it was: the long stem in the Venetian glass, the petals in the press, the article witnessed. Facts first. The facts are the foundation; the feelings can be built on them later.)*
+> *(Then, because she is also herself, she writes the feelings: the dawn discovery in the ruined wrapper, the boy's "Aye," the gardener's "This afternoon," the thorn's love bite, Letitia's wrapper, Augusta's Hmph. The record wants both — the measurement and the morning. A breeding book that only has numbers is a ledger. A breeding book with mornings in it is a history.)*
+> *(The gardener reads the page over her shoulder — he has come in for his evening pipe, and the potting shed is where the book lives — and points at the cabbage sketch with his pipe stem. "That's not right," he says. "I know," Rose says. "It's character." He grunts. He turns the page. He reads the marking entry twice. Then he takes the pencil from behind his ear and adds, in his crabbed hand, under her entry: "Good 'un." He puts the pencil back. He goes back to his pipe.)*
+> *(Rose sits in the potting shed long after he has gone, with the lamp smoking gently and the book open on her knees, and looks at those two words — "Good 'un" — in the crabbed hand. Six years of crosses, and the gardener's whole verdict is two words. It is enough. It is more than enough. It is the complete critical literature on the Hartwell rose, volume one.)*
+> *(She closes the book, banks the lamp, and walks back to the house through the dark garden. The marked bloom's record: kept. The first's history: written. The years will add their pages, but this one — this page, this date, this "Good 'un" — will always be the first.)*
 *Animation: Shared.*
-
 ### L26.S25 · [T] · Rose (alone)
 *Purpose: the bloom, the eternal — the kept, the forever; the Hartwell's. (Turns: 7)*
-> *(The bloom, the eternal: the kept, the forever — the Hartwell's — and the years' bloom.)*
-> *(It is the eternal — the bloom, the kept — the forever, the Hartwell's: the years' bloom.)*
-> *(The eternal, the Hartwell's: the bloom, the kept. The forever — the years'.)*
+> *(The bloom, the eternal — Rose turns the word over on the seventh morning, walking the garden before the household wakes, and finds it too large for a flower. The Hartwell rose is not eternal. It is maintained: fed, cut, mulched, watched. But there is something in the maintaining that gestures toward the eternal, the way the trial rows gesture toward next year.)*
+> *(She stops at the bush. The first bloom is cut — marked, recorded — and the three new buds are swelling behind it, green giving way to color. The bush does not know it is historic. It is simply doing what roses do: blooming, then blooming again. The eternal, it turns out, is just the annual, repeated with attention.)*
+> *(The white rose, twenty-five years old, blooms every June without fail. The damask, forty, blooms heavier every year. They are not eternal. They are kept. And the keeping — the feeding, the March cutting, the deadheading from ladders — is the human half of the bargain, the part that makes the flower's brief weeks add up to decades.)*
+> *(She thinks about what will outlast her: not the bloom — the bloom lasted six days — but the bush, and the breeding book, and the article if she wrote one, and the habit of the garden, which teaches each gardener's boy in turn. The eternal is not a thing. It is a relay. You run your leg, and you pass the secateurs, and the next runner does not need to know your name.)*
+> *(The gardener's boy comes through with the watering can, on his morning round, and waters the Hartwell rose with the same care he gives the trial rows — no more, no less. The relay, in progress. Rose watches him go, and thinks: good. The eternal is in good hands. It is seventeen, ginger, and calls a spade a spade, and the Hartwell rose could ask for no better eternity.)*
+> *(She walks on, past the damask and the white rose and the numbered adolescents, and the bloom — the eternal, the kept, the Hartwell's — nods over them all in the morning breeze: not forever, but continuing, which is the better promise.)*
 *Animation: Shared.*
-
 ### L26.S26 · [T] · Rose (alone)
 *Purpose: the bloom, the kept — the first's, the lesson's; the forever. (Turns: 7)*
-> *(The bloom, the kept: the first's, the lesson's — the forever — and the years' record.)*
-> *(She keeps it — the bloom, the first's — the lesson, the forever: the years' record.)*
-> *(The kept, the forever: the bloom, the first's. The years' record — the lesson's.)*
+> *(The bloom, the kept — and Rose keeps it the way the stillroom keeps things: pressed, labeled, shelved.)*
+> *(The stillroom is Augusta's territory by tradition and the stillroom maid's by actual governance, and Rose negotiates access with the diplomacy of a woman who knows exactly whose lavender water is whose. The maid — a stout, competent woman named Mrs. Quick, who has been at Hartwell since before the ruin — examines the petals with professional interest. "Blotting paper, miss, and weight. Change the paper daily for a week." She produces both from the stillroom's bottomless stores, along with a look that says she has pressed more significant things than roses in her time.)*
+> *(Rose presses six petals — the best of the fallen, perfect and unbruised — between the blotting paper, weights the stack with the big herbal, and labels the paper in pencil: "Hartwell rose, first bloom." Mrs. Quick inspects the label, nods once, and adds, in her own hand underneath: "June. Good color." The stillroom's imprimatur. The kept, officially.)*
+> *(While the paper is being changed, Rose looks around the stillroom — the ranked blue bottles of lavender water, the dried herbs hanging in bunches, the jars of rose petals from other years, other roses. The Hartwell rose's petals will join them: one jar, labeled, on the second shelf. Not the finest jar — Mrs. Quick is clear about the hierarchy — but a jar. The kept, shelved.)*
+> *(She thinks about keeping: the stillroom is the house's memory in jars, the place where summers are stored against winters. The bloom lasted six days. The petals, pressed, will last years. The scent, dried, will fade by Christmas. But the jar will remain, labeled, on the second shelf — proof that it happened, that the color was real, that the keeping was done.)*
+> *(Mrs. Quick ties the jar's label with twine and sets it on the shelf with the others. "There, miss. Kept." Rose looks at the row of jars — the summers, stored — and understands that this is what the house does: it keeps. The bloom, the kept. The first's, the lesson's. The forever, in a jar on the second shelf, which is exactly as grand as it needs to be.)*
 *Animation: Shared.*
-
 ### L26.S27 · [T] · Rose (alone)
 *Purpose: the bloom, the charter's — the kept, the legacy's; the forever. (Turns: 7)*
-> *(The bloom, the charter's: the kept, the legacy's — the forever — and the years' bloom.)*
-> *(It is the charter's — the bloom, the kept — the legacy's, the forever: the years' bloom.)*
-> *(The kept, the forever: the bloom, the charter's. The years' bloom — the legacy's.)*
+> *(The bloom, the charter's — and Rose writes it, because that is what she does with important things: she charters them.)*
+> *(The garden's book lives in the potting shed — a big, battered ledger where the gardener records plantings, losses, and the occasional trenchant observation ("bindweed: the enemy," "mice: worse"). Rose takes a fresh page, in the morning quiet before the boy arrives, and writes at the top in her best hand: "The Hartwell rose — its charter." Then she sits with the pen for some time, because a charter should be short, and the rose deserves exactness.)*
+> *(The charter, when it comes, is short. The best charters are. It says that the Hartwell rose shall be fed in spring and mulched in autumn; that it shall be cut hard in March and deadheaded through the season; that no bloom shall be cut for the house until the bush carries twelve; that the breeding book shall record every cross; and that the gardener's judgment, in all matters rosaceous, shall be final. Rose reads it over and finds it satisfactory: exact, practical, and — in the last clause — a complete surrender of authority, which is the correct relationship between a breeder and her gardener.)*
+> *(The gardener reads it when he comes in — spectacles on, pipe out, the full judicial apparatus — and his mouth does something at the last clause. "Final, is it," he says. "In all matters rosaceous, yes." "Hmph," says the gardener, which means he is pleased. He makes his mark under the charter with the pencil stub. The boy, arriving with the watering can, is required to witness: he signs his name in large, careful letters, tongue out with concentration. The charter, witnessed.)*
+> *(Letitia, told at breakfast, demands a copy "for the household book, where the fine things live." Augusta reads it over the chocolate and says, "The twelve-bloom rule is sound. Restraint becomes the rose." Which is the Dowager's way of saying she approves of the whole thing, charter and rose alike.)*
+> *(The charter goes into the garden's book, between "bindweed: the enemy" and the planting plan for the autumn. The bloom, the charter's. The kept, the legacy's. The forever — legislated, witnessed, filed in the potting shed, which is exactly where forever belongs.)*
 *Animation: Shared.*
-
 ### L26.S28 · [T] · Rose (alone)
 *Purpose: the rose, the kept — the Hartwell's; the ending's, the forever. (Turns: 7)*
-> *(The rose, the kept: the Hartwell's — the ending's, the forever — and the years' rose.)*
-> *(It is the kept — the rose, the Hartwell's — the ending's, the forever: the years' rose.)*
-> *(The kept, the forever: the rose, the Hartwell's. The ending's — the years'.)*
+> *(The rose, the kept — the bush itself, which is the point that the flower, for all its glory, was merely announcing.)*
+> *(Rose walks the bush's full circumference on the eighth morning — a slow, inspectional circuit, the way Augusta inspects a dining room — and takes its measure: three feet high, two feet across, the canes green and vigorous, the foliage clean and dark. The three new buds are swelling. The trial rows nod nearby. The bush is, by every metric the gardener recognizes, thriving.)*
+> *(The gardener joins her for the circuit's second half — uninvited, which means he was already coming — and delivers the bush's assessment in his native telegraph: "Good roots. Good wood. Feed it September. Mulch November." Rose writes it down. The bush's calendar, set. The kept, scheduled.)*
+> *(She thinks about the bush versus the bloom: the bloom got the admiration, the Gazette will get the story, the Assembly will get the emblem. But the bush does the work — the roots in the dark, the wood through the winter, the green patience of it. Nobody writes sonnets to roots. The roots do not mind. The roots have the last word, always — quietly, underground, where all the real decisions are made.)*
+> *(It strikes her that this is the truest thing the rose has taught her: the visible is the least of it. The Park's beauty — the whole restored estate, the zones across ten seasons — is the bloom. The kept is underneath: the ledgers, the tenants, the drains, the daily round. She has spent ten years tending roots, and the ton is coming to admire the flowers, and that is exactly as it should be. The roots do not need applause. They need feeding.)*
+> *(She feeds the bush — a forkful of the good compost, worked in gently, the way the gardener showed her — and pats the soil flat. "September," she tells it. "Mulch in November. Cut hard in March." The bush says nothing, being a bush, and gets on with the serious business of being roots, which is the whole of the work. The rose, the kept. The Hartwell's. The ending's. The forever — underground, unglamorous, essential.)*
 *Animation: Shared.*
-
 ### L26.S29 · [T] · Rose (alone)
 *Purpose: the woman, the gardener's — Rose, the evening's; the bloom's, the kept. (Turns: 7)*
-> *(Her evening: the woman, the gardener's — Rose, the evening's — and the bloom's is the kept.)*
-> *(She sits at the window — the bloom beyond, the kept — and the years are the woman's quiet: the bloom turned, the lesson decided, the marking marked.)*
-> *(The woman, the gardener's: the kept. The bloom's, whole — and the years, the marked.)*
+> *(Her evening: the woman, the gardener's — Rose at her bedroom window as the light goes, with the garden spread below her like a held hand, and thinks about what the tending has made of her.)*
+> *(Not the heir — she has never thought of herself that way. The gardener: the one who tended, and who now does the keeping. Her hands are still faintly soil-stained under the nails, despite the lemon and the brush. Her wrapper is ruined. Her sketchbook contains a cabbage. Her shoulders ache pleasantly from the trowel. She has never been happier in a week.)*
+> *(Augusta is beyond, in the small drawing room — Rose can see the lamplight under the door — with her embroidery and her martial roses. Letitia is somewhere with her novel and her negus. The house holds them all the way a hand holds something precious: firmly, and without squeezing. And below, the garden holds the Hartwell rose, and the rose holds its buds, and the whole thing — house, garden, women, flowers — is a system of keeping, each part tending the others.)*
+> *(She thinks about the week: the dawn discovery, the boy's "Aye," the thorn's love bite, the cabbage sketch, the charter witnessed by a pencil stub. Ten years of ledgers and ballrooms, and the finest week of the season was spent in a walled garden with a watering can and a breeding book. It seems, suddenly, like the fairest trade anyone ever made.)*
+> *(A tap at the door — Letitia, in her wrapper, with two glasses of negus and the air of a woman executing a long-planned maneuver. "You looked pensive from the corridor," Letitia announces. "Pensive gardeners require negus. It is a rule. I have just made it." They drink it at the window, watching the garden go dark. Below, the drive curves away pale between the dark limes. Above, the first stars.)*
+> *(The negus is sweet and warm, and the window seat is wide enough for two, and for a while neither of them speaks — the aunt and the niece, the strategist and the gardener, watching the Park go dark. The woman, the gardener's, is entirely, completely at peace.)*
 *Animation: Shared.*
-
 ### L26.S30 · [T] · Rose (alone)
 *Purpose: the legacy, the gardener — the bloom's, the charter's; the forever. (Turns: 7)*
-> *(The legacy, the gardener: the bloom's, the charter's — the forever — and the years' legacy.)*
-> *(She is the gardener — the legacy, the bloom's — the charter's, the forever: the years' legacy.)*
-> *(The gardener, the forever: the legacy, the bloom's. The years' legacy — the charter's.)*
+> *(The legacy, the gardener — and Rose walks the garden at dawn on the ninth day, doing the counting the way Augusta taught her: once for the sum, once for the nerve. The beds are weeded. The frames are opened. The trial rows are tied. The Hartwell rose carries three swelling buds. Nothing unfinished — and this morning, for the first time, she believes it.)*
+> *(The legacy is not the bloom. She has known that all week, but this morning she feels it the way you feel weather: in the bones. The bloom was the advertisement. The legacy is what the bloom was for — the bush, the book, the charter, the boy learning the rows. The tended, continuing. The keeping, relayed.)*
+> *(She stops at the Hartwell rose and then at the white rose beside it — twenty-five years, a tower of white — and then at the damask, forty and blowsy. Three generations of roses: the mother, the contemporary, the child. The garden's whole argument, blooming in a row. Each of them kept by someone. Each of them keeping, in turn, the garden's promise: that beauty can be made, on purpose, and kept.)*
+> *(The gardener comes through on his morning round — the watering can, the pipe, the nod — and stops at the Hartwell rose with her. They stand together in silence, looking at the buds. "Good 'un," he says. It is still his whole critical literature, and it is still enough.)*
+> *(She walks on, past the trial rows and the frames and the espaliered pears, and the legacy walks with her — not as a weight, but as a companion. The gardener, keeping. The bloom, marked. The charter, filed. She reaches the garden gate as the clock strikes seven, and goes in to breakfast, because the legacy, like everything else in this house, begins with chocolate.)*
+> *(At breakfast Augusta says, "The rose, I hear, is everything it should be." "It is," Rose says. "The gardener says so." "The gardener," says Augusta, "is never wrong about roses. He is wrong about everything else, but never roses." Letitia chokes on her chocolate. The legacy, discussed over breakfast, in the usual manner: completely, and without admitting it.)*
 *Animation: Shared.*
-
 ### L26.S31 · [T] · Rose (alone)
 *Purpose: the tending, the kept — the bloom's, the years'; the marked, the forever. (Turns: 7)*
-> *(Her evening: the tending, the kept — the bloom's, the years' — and the marked is the forever.)*
-> *(It holds — the tending, the kept — the bloom's, the forever.)*
-> *(The kept, the forever: the tending, the bloom's. The years' — the marked's.)*
+> *(The tending, the kept — the tenth morning, and the garden does not know it is historic. Rose discovers this when she comes down to find everything exactly as it always is: the boy weeding, the gardener at the frames, the blackbird delivering its opinions, the Hartwell rose nodding with its three buds, utterly indifferent to its own significance.)*
+> *(It is, she decides, the healthiest attitude in England. The garden's job is not to be historic. The garden's job is to be a garden: water, weed, feed, watch. The history is a byproduct, like the scent — real, but not the point.)*
+> *(She takes up the trowel and joins the morning's work — the autumn planting plan needs the bed by the north wall cleared, and the boy shows her the bindweed's stronghold with the grim satisfaction of a general revealing the enemy's position. They dig it out together, root by root, the white runners snapping. "Bindweed: the enemy," Rose quotes from the garden's book. "Aye," says the boy. "Worse than mice." "The book says mice are worse." "The book," says the boy darkly, "has not met this bindweed.")*
+> *(The gardener inspects the cleared bed at noon — a long look, a grunt — and pronounces it "fit for purpose." They plant it with the autumn order: wallflowers for spring, the gardener's choice, "because the garden should have something to say for itself in April." Rose plants her row crooked. The boy straightens it without comment. The tending goes on, historic or not.)*
+> *(At the end of the morning, her hands filthy and her back aching pleasantly, Rose stands at the Hartwell rose and checks the buds — swelling, coloring, on schedule. The tending, the kept. The bloom's, the years'. The marked, the forever — not in a jar or a book, but in the daily round, the water and the weed, the garden being a garden, which is the only forever on offer and entirely sufficient.)*
+> *(She writes in the breeding book: "Day 10. Bindweed defeated (provisionally). Wallflowers planted (crooked). The garden does not know it is historic. Good." The gardener reads it and does the thing he does instead of smiling.)*
 *Animation: Shared.*
-
 ### L26.S32 · [T] · Rose (alone)
 *Purpose: the charter, the kept — the bloom's, the legacy's; the forever. (Turns: 7)*
-> *(The charter, the kept: the bloom's, the legacy's — the forever — and the years' charter.)*
-> *(It is the kept — the charter, the bloom's — the legacy's, the forever: the years' charter.)*
-> *(The kept, the forever: the charter, the bloom's. The years' charter — the legacy's.)*
+> *(The charter, the kept — the potting shed, late afternoon, and Rose opens the garden's book to check that the Hartwell rose's charter is still there, still true, still filed between "bindweed: the enemy" and the autumn planting plan.)*
+> *(It is. The ink is barely dry — ten days old — but it sits on the page with the authority of something much older: the feeding, the March cutting, the twelve-bloom rule, the gardener's final judgment in all matters rosaceous. The boy's large careful signature. The gardener's pencil-stub mark. Letitia's flourish (on the household copy). The kept, in triplicate.)*
+> *(She reads it over the way Augusta reads the Gazette — as though the paper might be lying — and finds it satisfactory, which is to say: exact, practical, and quietly radical. A flower, chartered. A garden's promise, legislated. The charter does not make the rose bloom — the rose would bloom regardless — but it makes the blooming a commitment, and commitments are what turn accidents into legacies.)*
+> *(The gardener comes in for his evening pipe and finds her reading. "Still there," he observes. "It is still there." "Aye. Charters don't move. That's their job." He fills his pipe, tamps it down with the thumb that has potted ten thousand cuttings. "Twelve-bloom rule," he says. "You'll want to watch that. The ton will want cuttings." Rose looks up. "Will they?" "They always do. A new rose — they'll write letters." He lights the pipe. "Twelve blooms on the bush before a single cutting leaves this garden. That's the rule. You wrote it." "I wrote it," Rose agrees, "and I meant it.")*
+> *(She closes the book and looks around the potting shed — the tools in their order, the twine, the pots, the smell of soil and creosote and patience — and understands that the charter is kept not in the book but here: in the shed, in the hands, in the daily round. The book is the reminder. The keeping is the work.)*
+> *(The charter, the kept. The bloom's, the legacy's. The forever — filed in the potting shed, witnessed by a pencil stub, enforced by a gardener who is never wrong about roses. It will hold. Charters don't move. That's their job.)*
 *Animation: Shared.*
-
 ### L26.S33 · ★ KEY DECISION 3/3 · Rose (alone)
 *Purpose: ★ KEY DECISION 3/3 — THE GARDENER'S MEANING (what the gardener means: the keeping, the bloom, or the future). The years deepen; decide the meaning. (Turns: 3 — the decision)*
-> *(The years deepen, and the gardener asks her meaning: the keeping — the bloom's, the held; the bloom — the first's, the rose's; or the future — the years', the returning. The meaning will shape the gardener's memory.)*
-> *(The keeping: the held's. The bloom: the rose's. The future: the returning's.)*
+> *(The eleventh morning, and the three new buds are coloring — green giving way to pink at the seams, the way a secret gives way at the edges — and Rose stands before the bush with the breeding book under her arm, understanding that the rose is asking its third question: what does the gardener mean?)*
+> *(Not the rose. The gardener — herself, the woman with the soil under her nails and the cabbage in her sketchbook. The week has made her something: the breeder, the keeper, the charter's author. What does it mean? The meaning will shape the gardener's memory — how she tells this week, to herself, in the years to come.)*
+> *(Is the meaning the keeping — the bloom's, the held? The water, the weed, the feed, the March cutting. The meaning of the keeping says: she is the one who tends. The hands in the soil, the daily round, the relay. The gardener means the keeping — the practice, not the prize.)*
+> *(Or is the meaning the bloom — the first's, the rose's? The dawn discovery, the cup, the scent, the six days of glory. The meaning of the bloom says: she is the one who made beauty. The cross, the patience, the payoff. The gardener means the bloom — the achievement, the flower, the proof.)*
+> *(Or is the meaning the future — the years', the returning? The three buds coloring, the trial rows ankle-high, the boy learning the rows. The meaning of the future says: she is the one who begins things. The charter, the relay, the next year's green. The gardener means the future — not what was, but what continues.)*
+> *(Three meanings, and all of them true. The keeping is true — her nails are still stained. The bloom is true — the jar is on the second shelf. The future is true — the buds are coloring. Rose walks the bed's length, past the damask mother and the white rose contemporary, and holds the three meanings up to the morning light the way the gardener holds a cutting, checking for life. None of them lie. That is the difficulty.)*
 *★ KEY DECISION 3/3 — The gardener's meaning:*
-- **The keeping** — *the held, meant.* The gardener means keeping — the bloom's, the held. (Consequence: the meaning is the held's — but helds are kept, and the gardener was the bloom's.)
-- **The bloom** — *the rose, meant.* The gardener means the bloom — the first's, the rose's. (Consequence: the meaning is the rose's — but roses are tended, and the gardener was the Hartwell's.)
-- **The future** — *the returning, meant.* The gardener means the future — the years, the returning. (Consequence: the meaning is the returning's — but returnings are future, and the gardener was the now.)
-> *(The game remembers the choice — and the means: keeping, bloom, or future. The gardener's meaning is hers.)*
+- **The keeping** — *the held, meant.* The gardener means keeping — the bloom's, the held: she kept it, and keeps it. (Consequence: her meaning will be the keeping — what she kept.)
+- **The bloom** — *the rose, meant.* The gardener means the bloom — the first's, the rose's: the Hartwell rose, opened. (Consequence: her meaning will be the bloom — the rose itself, opened.)
+- **The future** — *the returning, meant.* The gardener means the future — the years, the returning: the buds coloring, the years to come. (Consequence: her meaning will be the future — the returning, the buds.)
+> *(The gardener comes with the watering can, waters around the bush with his usual precision, and says: "You'll decide it wrong if you hurry." "You said that about the lesson." "It's still true." He goes back to the frames. Rose laughs — the week's running joke, and it is still funny — and turns back to the buds, the book, the question. The gardener's meaning is hers to decide, and the deciding wants the gardener's own method: without fuss, without hurry, with complete attention.)*
 *Animation: Shared.*
-
 ### L26.S34 · [T] · Rose (alone)
 *Purpose: the meaning, the kept — the gardener's, the lesson's; the forever. (Turns: 7)*
-> *(The meaning, the kept: the gardener's, the lesson's — the forever — and the years' meaning.)*
-> *(She keeps it — the meaning, the gardener's — the lesson, the forever: the years' meaning.)*
-> *(The kept, the forever: the meaning, the gardener's. The years' meaning — the lesson's.)*
+> *(The meaning, decided, goes with her through the twelfth day like a stone in her pocket — present, weighty, occasionally taken out and turned over.)*
+> *(She tests it the way she tested the lesson: by walking it. In the potting shed, checking the charter — the meaning holds. In the trial rows, thinning with the boy — the meaning holds. At the Hartwell rose, watching the buds color — the meaning holds. A decided meaning, she discovers, is like a good pair of boots: it goes everywhere, and you stop noticing it, and that is how you know it fits.)*
+> *(The household notices the change before she does. Hodges, bringing the chocolate to the garden (established now, the garden chocolate, no longer remarked), says, "You look well, miss. The air agrees with you." Letitia, over luncheon: "There's something different about you. Did you do something with your hair?" "I chartered a rose." "That would do it." Augusta, at dinner, studies her over the spectacles and says nothing — which, from Augusta, is a complete character reference.)*
+> *(In the afternoon she does the thing the meaning requires — the practical, immediate thing. If the meaning was the keeping, she mulches the bush early and redoes the winter plan with the gardener. If the bloom, she takes the pressed petals from the stillroom and has Mrs. Quick help her arrange them in the Venetian glass — a dry bouquet, the color kept. If the future, she sits with the boy over the trial rows and they choose next year's crosses together, his grubby pocketbook open beside the breeding book.)*
+> *(Whichever it was, the doing is the proof. The meaning is not a thought. It is a practice — the keeping, the bloom, the future, carried in the hands through an ordinary day. By evening the stone in her pocket has worn smooth, and she stops taking it out. It fits. It goes everywhere.)*
+> *(She writes in the breeding book: "Day 12. Meaning decided, walked, fitted. Like boots." The gardener reads it, considers, and says, "Boots is right." The week's second running joke lands, and they both — gardener and breeder, keeper and kept — do the thing they do instead of laughing, which is better.)*
 *Animation: Shared.*
-
 ### L26.S35 · [T] · Rose (alone)
 *Purpose: the letters — the years, reported; London writes. (Turns: 7)*
-> *(The evening: the letters — the years, reported — and London writes.)*
-> *(They write — the company, London's — the years reported: the gardener, the bloom, the marked. London writes — the witnessing, in letters.)*
-> *(The reported, the written: the years, the letters. London — the witnessing, in writing.)*
+> *(The thirteenth day brings London — the post, the letters, the years reported — and the Hartwell rose has preceded her into the world's correspondence.)*
+> *(Bell writes first, in her own dry hand on Gazette paper: "Miss Hartwell — They are talking about your rose in the clubs. A flower you bred yourself, they say. I am coming down to see it before I am forced to describe it from gossip, which I refuse to do. — N.B." Rose reads it twice and laughs aloud. Bell, coming to inspect a flower. The Gazette's proprietor, doing fieldwork. She writes back by return: "The buds are coloring. Come before they open, or come after and see the bush. Either way, bring your pencil.")*
+> *(Élise writes from London — the atelier's triumph season, the ton's dressmaker now — and the letter is mostly business until the postscript, which is pure Élise: "They say the shade is a coal-fire pink. If it is, I want it for the Assembly — grey silk, silver thread, the rose at the shoulder. Do not let anyone else have the color first." Rose holds the letter for a moment, touched absurdly. The shade, wanted. The flower, already fashion. She writes back: "The shoulder. Grey and silver. No one else gets the color. (The ton can wait for cuttings — twelve-bloom rule.)")*
+> *(A duchess writes — one of the Assembly's confirmed, a woman Rose has been courting by letter for months — and the letter is all graciousness until the final paragraph: "Might one hope for a cutting, when the season allows?" Rose reads it to the gardener, who says, "Twelve blooms," without looking up. She writes back, graciously: "When the bush carries twelve, you shall be first. The gardener insists, and the gardener is never wrong about roses." The duchess will wait. The charter holds.)*
+> *(Three letters, three readings of the rose: the judge, the artist, the ton. Rose sorts them at the morning-room table — the ironmonger's account, the Bath post, the rose's fan mail — and thinks about London writing. The witnessing is part of the keeping. The ton reports the bloom the way the Gazette reports the weather: with interest, with opinion, and with the absolute conviction that it matters.)*
+> *(She writes back to all three — the inspector invited, the shade reserved, the cutting promised in due course — and the letters go out with the morning post, the years reported back to London, the correspondence of the bloom proceeding exactly as it should. London writes. The garden answers. That is the arrangement.)*
 *Animation: Shared.*
-
 ### L26.S36 · [T] · Rose (alone)
 *Purpose: the ton, the years' — the bloom, awaited; the kept, the kept. (Turns: 7)*
-> *(The ton, the years': the bloom, awaited — the kept, the kept — and the future, the gardener's.)*
-> *(They await it — the ton, the years' — the bloom, the kept: the kept, the future's.)*
-> *(The awaited, the kept: the ton, the years'. The future — the gardener's.)*
+> *(The ton awaits — Rose feels it in the letters, in Bell's impending inspection, in the way the Assembly's acceptances have ticked upward since the rose bloomed. The bloom, awaited. The ton has decided that the Hartwell rose is an event, and the ton is never wrong about where to be.)*
+> *(She discusses it with Letitia over the household book, the way generals discuss terrain. "They're coming for the flower now, not just the ball," Letitia reports, delighted. "Mrs. Fane's girl has asked what one wears to meet a rose." "Something that doesn't compete," Rose says. "Grey. The rose does the talking." "Sage advice. I shall tell her you said it, and take the credit.")*
+> *(It is absurd, and Rose knows it is absurd — a flower, moving the ton's needle — and it is also completely real. The ton runs on novelty and beauty, and the Hartwell rose is both, and bred by the hostess herself, which makes it a story. The ballroom will be full. The garden will be visited. The bloom — or its successors, the three buds coloring — will be seen.)*
+> *(She walks the garden that afternoon with the eye of a hostess now, not just a breeder: the paths want sweeping, the beds want edging, the potting shed wants its door closed (the ton need not see the twine). The gardener watches her rearranging and says, "It's a garden, miss, not a stage." "It can be both for one week," Rose says. He grunts — the grunt of a man outvoted by reality — and sweeps the paths himself, because whatever his principles, he has standards.)*
+> *(The absurdity settles into something warmer as the day goes on: the ton, awaiting the bloom, is the outside world's version of the boy's "Good 'un" — admiration, expressed in its own dialect. The duchess wants a cutting. Bell wants a look. Mrs. Fane's girl wants a dress code. They are all, in their way, saying the same thing the gardener said with two words.)*
+> *(Rose stands at the Hartwell rose as the light goes — the buds coloring, the bush thriving, the garden swept — and thinks: let them come. The bloom is ready. The bush is ready. She is ready. The ton awaits, and for once, the awaiting is a pleasure, not a campaign.)*
 *Animation: Shared.*
-
 ### L26.S37 · [T] · Rose (alone)
 *Purpose: the woman, the bloom's — Rose, the evening's; the kept, the Hartwell's. (Turns: 7)*
-> *(Her evening: the woman, the bloom's — Rose, the evening's — and the kept is the Hartwell's.)*
-> *(She sits at the window — the Park beyond, the kept — and the years are the woman's quiet: the bloom turned, the meaning decided, the gardener marked.)*
-> *(The woman, the bloom's: the Hartwell's. The kept, whole — and the years, the marked.)*
+> *(Her evening: the woman, the bloom's — Rose at her bedroom window as the light goes, the garden below her dark and green, the fortnight's whole arc held in her mind like a pressed flower — complete, and fragrant, and entirely hers.)*
+> *(The dawn discovery in the ruined wrapper. The boy's "Aye." The gardener's "This afternoon." The cup, the color, the scent. The thorn's love bite. The cabbage sketch. The lesson decided. The marking marked. The charter witnessed. The meaning fitted like boots. The letters from London. The ton, awaiting. Fourteen days from bud to legend, and every one of them hers.)*
+> *(She thinks about what the fortnight has been — not a story, exactly. A season in miniature. The rose's whole arc, from secret to triumph to relay, played out in the walled garden while the Park went about its business. And she was there for all of it: the breeder, the keeper, the witness. The woman the tending made. Fourteen days, and the garden never once asked for applause.)*
+> *(Below, the garden is dark. The Hartwell rose is invisible, but she knows where it stands — she could find it blindfold, by the scent, by the memory of the path. The three buds will open this week. The bush will carry its twelve. The cuttings will go out in due course, the duchess first. The charter holds. The relay continues. Somewhere below, a night bird calls once, and is answered.)*
+> *(A soft knock — Letitia, with the negus, the established ritual. "Pensive gardener," she says, handing over the glass. "Fourteenth day. You're allowed." They drink at the window, watching the dark garden. "To the rose," Letitia says. "To the breeder," Rose says. "To the boots," Letitia says, and they both laugh, quietly, so as not to wake the house.)*
+> *(The negus is sweet and warm, and the window seat is wide enough for two, and the woman — the bloom's, the gardener's, Rose's own — sits in the dark with her aunt and her fortnight, and is entirely, completely at peace. The chapter closes behind her like a garden gate, well-oiled and silent, and the tended waits beyond it.)*
 *Animation: Shared.*
-
 ### L26.S38 · [T] · Rose (alone)
 *Purpose: the legacy, the Hartwell — the bloom's, the charter's; the forever. (Turns: 7)*
-> *(The legacy, the Hartwell: the bloom's, the charter's — the forever — and the years' legacy.)*
-> *(It is the Hartwell — the legacy, the bloom's — the charter's, the forever: the years' legacy.)*
-> *(The Hartwell, the forever: the legacy, the bloom's. The years' legacy — the charter's.)*
+> *(The legacy, the Hartwell — Rose walks the whole estate at dawn on the fifteenth day, the way she walked the garden on the ninth: the counting, once for the sum, once for the nerve. But this time the circuit is wider — the Park, the whole, the complete.)*
+> *(The west gallery, hung. The servants' hall, governed. The stables, running. The library, ordered. The cottages, lived in. The lake pavilion, gleaming. The walled garden, open — and in it, the Hartwell rose, blooming. The grounds, dressed. The state rooms, ready. Every zone restored across ten seasons, and the rose the last of them: the living proof, in petals, that the whole is whole.)*
+> *(She walks it all — the drive, the lake path, the garden gate — and the legacy walks with her: not the bloom, which lasted six days, but what the bloom was for. The bush. The book. The charter. The boy with the pocketbook. The gardener with the pipe. The kept, relayed. The Hartwell, complete.)*
+> *(At the lake pavilion she stops — the water flat, the light gold — and thinks about the ten seasons: the ruin, the clearing, the building, the learning. Each season a zone restored. Each zone a promise kept. And now the rose: the estate's achievement, literal and living, bred in the reclaimed garden by the woman who reclaimed it. The legacy is not a monument. It is a garden that blooms.)*
+> *(She reaches the walled garden as the sun clears the east wall, and the Hartwell rose is there — the bush, the buds, the green confidence of it — and one of the three buds has opened in the night: a second bloom, a proper cup, the color true. Rose stands before it in the morning light, and laughs aloud, alone, in the garden — because of course. Of course it opened today.)*
+> *(The legacy, the Hartwell. The bloom's, the charter's. The forever — not a word, but a bush, blooming. She goes in to breakfast, and the Season turns, and the tended waits beyond the gate, and the rose — the second bloom opening, the third coloring — keeps its own counsel, green and gold in the morning, entirely sufficient.)*
 *Animation: Shared.*
-
 ### L26.S39 · Gazette sting
 *Purpose: Bell's bloom report — arch, precise; reward-only, never mystery. (Turns: 1 — the reading)*
 > *(The morning Gazette, read over chocolate. Mrs. Nance Bell, proprietor, in her own dry voice:)*
-> *"These years the gardener has turned through her bloom — tended, tended, tended — and the Gazette — having watched the first from the bud — finds it the charter's true Hartwell. The gardener, yearly. The Gazette will watch, annually."*
-> (T1 · stance) *Rose reads it twice — the amusement first (annually! watching!), then the reckoning: the years are pronounced true in print as well as in the gardener's tending, and Bell has made the first permanent, which is Bell's way of making it forever. She files the sting under its lesson: in London, the Hartwell the Gazette watches annually is the Hartwell that's real.* — remembered: *the lesson: the Hartwell the Gazette watches annually is the Hartwell that's real.*
+> *"The Hartwell rose, opened: the first bloom of the house's own breeding, and the Gazette — which has smelled a great many roses in a great many gardens — finds this one worth the ten seasons. Damask mother, Hartwell pollen, the gardener's patience. The bloom is the charter's true flower. London may come and look."*
+> (T1 · stance) *Rose reads it twice — the amusement first (London may come and look!), then the reckoning: the bloom pronounced the charter's true flower in print, and Bell has made it permanent, which is Bell's way of making it forever. She files the sting under its lesson: in London, the rose the Gazette names true is the rose the house grew.* — remembered: *the lesson: the rose the Gazette names true is the rose the house grew.*
 *Animation: Shared (sting card).*
 
 ### L26.S40 · cliffhanger · Rose (alone)
 *Purpose: the tended — the rose, the years'; the kept, the coming. (Turns: 8)*
-> *(Evening, and she thinks of the tended — the tended's, the coming — and the years turn toward the kept.)*
-> *(She imagines — the tended, the kept's — the tended, the coming: the kept, the years.)*
-> "The tended." She looks at the Park — the whole, the kept. "The kept —" she stops — "the coming." She breathes. "The rose —" another stop — "the Hartwell's, the tended."
-> *(The chapter closes on the turning — the tended, the kept's — and the Season turns toward the kept: the tended's doors — and the Season holds its breath.)*
+> *(Evening, and the bloom is opened — the Hartwell rose, named true in print — and Rose walks the trial rows as the light goes, past the damask mother and the numbered adolescents.)*
+> *(The tending, coming: the years of work behind the flower, the labor the bloom stands on. She has told the story of the rose all day — to Augusta, to the Gazette, to herself — and now the telling turns to the tending, which is the story underneath.)*
+> *(Her thumbs are still stained. The buds are still coloring. The tended years are the whole of the next chapter — and she is ready to walk them.)*
+> *(The Season turns toward the tended. The rows wait. The gardener's hands remember.)*
 *Animation: Shared.*
 
 **STATUS: FULL DRAFT** — awaiting Beth review.

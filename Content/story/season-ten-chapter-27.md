@@ -7,7 +7,7 @@
 
 **Turns.** Every ordinary scene carries 7–10 declared player turns `(Turns: N)` — the count is the design contract; prose is the human surface. Outcomes converge: the game remembers the means (tone, relationship movement, Gazette flavor), never as a plot branch. ★ key-decision scenes carry the decision's 3 options as their turns; the Gazette sting is a single reading turn. The [C] ritual's direction + twenty 5-coin pins are its 21 turns; the ritual runs long and sits outside the ordinary scene budget.
 
-**Canon applied:** 1815–1816. The tended — the kept worked through the years. Rose is twenty-five. Iron rule holds: time earns everything money can. Crowns (premium) / coins (soft). Energy is the only throttle. No Crown SKU touches the ritual.
+**Canon applied:** The tended — the kept worked through the years. Rose is twenty-five. Iron rule holds: time earns everything money can. Crowns (premium) / coins (soft). Energy is the only throttle. No Crown SKU touches the ritual.
 
 **Occasion:** The tended — the years' work; the kept, the held. **Preparation ritual:** the tended's dress — the worker's. **Purse shelf:** the tended's honest costs — the labor, the tending, the keeping.
 
@@ -15,112 +15,143 @@
 
 ### L27.S1 · [T] · Rose (alone)
 *Purpose: the tended's turning — the kept, the worked; the years, the years. (Turns: 7)*
-> *(The tended's turning: the kept, the worked — the years, the years — and Hartwell, the tending.)*
-> *(She works it — the kept, the tended — the tended's turning: the years, the years.)*
-> *(The turning, the tending: the tended's, the kept's. The worked — the years'.)*
+> *(Dawn, and Hartwell Park is already awake — Rose discovers this on the first morning of the tended week, when she comes down before the chocolate and finds the house humming under her like a hive under the floorboards.)*
+> *(She has lived here ten years and never once walked the servants' passage at this hour. It is a revelation: the lamps lit, the boot boy running with the master's boots, the housemaids already at the grates with their blacking brushes, moving through the half-light with the competence of people who have done this four thousand times. The house does not wake. The house is woken — daily, expertly, by hands she has never watched.)*
+> *(She stands in the passage in her wrapper, feeling like an intruder in her own home, and the under-butler — a thin young man named Fisk, whom she has seen a hundred times and never truly seen — stops, bows, and says, "Good morning, miss," with complete composure, as though mistresses in wrappers at half past five were a scheduled item. "The chocolate will be up directly." He goes back to the lamps. She goes back upstairs, obscurely humbled.)*
+> *(The tended's turning: the kept, the worked. She has spent ten seasons restoring this house — the zones, the whole — and this morning she understands, for the first time properly, that the restoration was only half of it. The other half happens every morning at half past five, with blacking brushes and boot boys, and it has been happening whether she watched or not.)*
+> *(At breakfast she says to Augusta, "The house wakes at half past five." Augusta, over her chocolate: "The house has woken at half past five for forty years. You are the novelty, not the hour." Letitia, delighted: "Were you spying on the servants, darling? How deliciously feudal." "I was learning," Rose says, with dignity. "At half past five. In your wrapper." "The wrapper," Rose says, "is incidental.")*
+> *(She writes in the household book that morning, under the date: "The tended begins at 5:30. I was late to it by ten years." The book accepts the entry without comment. The house goes on humming under the floorboards, exactly as it always has — the kept, the worked, the years, the years.)*
 *Animation: Shared.*
-
 ### L27.S2 · [T] · Rose (alone)
 *Purpose: the work — the tended's; the years', the kept. (Turns: 7)*
-> *(The work, the tended's: the years', the kept — and the Hartwell's labor.)*
-> *(It is the labor — the work, the tended's — the years', the kept: the Hartwell's labor.)*
-> *(The tended's, the labor: the work, the years'. The kept — the Hartwell's.)*
+> *(The kitchens, at six — Rose goes down properly dressed this time, and the cook receives her the way a general receives a visiting dignitary: with courtesy, suspicion, and a wooden spoon held like a baton.)*
+> *(The cook is Mrs. Alder — stout, floury, absolute — and she has ruled the Hartwell kitchens for twenty years, through the ruin and the restoration alike. "We managed on dripping in the lean years, miss," she tells Rose, by way of autobiography, "and we'll manage on whatever the Assembly requires." The range is already roaring. Two kitchen maids are rolling pastry with the rhythm of a mill. The bread for the day is out of the oven and cooling on the rack, and the smell — yeast, butter, heat — is the smell of the house's engine room.)*
+> *(Rose asks what the Assembly will require, and Mrs. Alder's eyes narrow with the pleasure of a commander discussing logistics. "Three hundred covers over the week, miss, if the acceptances hold. The stillroom's jams are laid in. The game hangs. The ice — " she pauses, significantly " — the ice is ordered." The ice, Rose understands, is the cook's equivalent of a declaration of war: Hartwell will do this properly, or not at all.)*
+> *(She is shown the stores — the ranked preserves, the hams, the cheese room with its solemn wheels — and the kitchen garden account, kept in Mrs. Alder's own crabbed hand: every egg, every bunch of herbs, entered daily for twenty years. "The book," Mrs. Alder says, tapping it, "does not lie. People lie. The book remembers." Rose, who keeps her own books, feels a flash of professional kinship.)*
+> *(A kitchen maid — no more than fourteen, flour to the elbows — curtsies and offers Rose a still-warm roll, split and buttered. It is the best thing Rose has eaten all year. She says so, and the maid goes scarlet with pleasure, and Mrs. Alder says, "She'll do," in the tone of a woman conferring a knighthood. The work — the tended's, the years' — and the kept, warm from the oven.)*
+> *(Rose leaves the kitchens with a roll in her pocket and the logistics of three hundred covers rearranging themselves in her head. The Assembly is not a ball. It is a campaign, and Mrs. Alder is its quartermaster, and the tended — she is beginning to see — is an army that has been drilling for years.)*
 *Animation: Shared.*
-
 ### L27.S3 · [T] · Rose (alone)
 *Purpose: the labor — the years'; the kept, the held. (Turns: 7)*
-> *(The labor, the years': the kept, the held — and the tended's hands.)*
-> *(They are the hands — the labor, the years' — the kept, the held: the tended's hands.)*
-> *(The years', the hands: the labor, the kept. The held — the tended's.)*
+> *(The laundry, at seven — and Rose discovers the second great power of Hartwell Park: the head laundress, Mrs. Beck, who commands steam, starch, and thirty years of grievances with equal authority.)*
+> *(The laundry is a cathedral of vapor — the coppers boiling, the mangles turning, the drying room fragrant with lavender water — and Mrs. Beck moves through it like a bishop, inspecting a sheet held to the light with the eye of a woman who can see a stain at twenty paces. "Starch," she tells Rose, without preamble, "is a moral issue." Rose, who has strong views on starch but has never voiced them, nods gravely.)*
+> *(The Assembly's linen is already in train: the state bedchambers' sheets aired, the table linen for three hundred covers pressed and folded, the napkins — Mrs. Beck shows her the fold, a rose, naturally — practiced by the junior maids until their fingers bled. "They'll do it in their sleep by September," Mrs. Beck says. "They do most things in their sleep. I train them that way.")*
+> *(Rose asks about the Hartwell rose petals — the laundry had been tasked with the pressing cloths — and Mrs. Beck produces them with the air of a woman presenting evidence: the blotting paper changed daily, the petals perfect. "Blotting paper," she says, "is like staff. Change it daily and it serves you well." Rose writes this down. It is either wisdom or tyranny, and possibly both.)*
+> *(A junior maid scorches a collar — a gasp, a flinch — and Mrs. Beck is there before the iron is lifted: not angry, Rose notes, but exact. "Again. Slower. The iron is hot; you are not in a hurry. Hurry is how linen dies." The maid tries again. The collar comes right. "Good," says Mrs. Beck, and moves on, leaving the girl glowing. The labor — the years', the taught — and the kept, pressed flat.)*
+> *(Rose leaves the laundry wrung out by the steam and oddly moved. The sheets will be smooth. The napkins will be roses. Nobody at the Assembly will notice — that is the point. The tended is invisible when it is perfect, and Mrs. Beck has made herself invisible for thirty years.)*
 *Animation: Shared.*
-
 ### L27.S4 · [T] · Rose (alone)
 *Purpose: the hands — the tended's; the kept, the working. (Turns: 7)*
-> *(The hands, the tended's: the kept, the working — and the Hartwell's touch.)*
-> *(They are the touch — the hands, the tended's — the kept, the working: the Hartwell's touch.)*
-> *(The tended's, the touch: the hands, the kept. The working — the Hartwell's.)*
+> *(The stable yard, at eight — the hands, the tended's — and the head groom, Cobb, who has forgotten more about horses than Rose will ever know and shows no sign of minding the gap.)*
+> *(The yard is the Park's other engine room: twenty stalls, the tack room gleaming, the forge already lit, the lads mucking out with the steady rhythm of men who have done it since boyhood. Cobb — lean, weathered, sixty if he's a day — walks the boxes with Rose, and each horse gets its assessment in his dry Yorkshire: "Good 'un. Lazy. Thinks too much. That one'd steal your watch." Rose's own mare nuzzles her pocket for the apple she has learned to expect. "Spoilt," says Cobb. "Aye," Rose agrees. "We spoil each other.")*
+> *(The Assembly's horses are in train: the carriage teams exercised, the visitors' stabling planned to the last stall, the straw ordered by the wagonload. "Thirty extra horses, miss, if the acceptances hold," Cobb says. "We'll manage. We managed the hunt ball the influenza year with half the lads down." He says this the way other men mention the weather.)*
+> *(A young lad — all elbows, perhaps fifteen — is struggling with a big bay that does not want its feet picked up. Cobb does not intervene. He watches, arms folded, until the lad finds the angle — a shift of weight, a quiet word — and the hoof comes up. "Good," Cobb says. The lad glows. The horse sighs. Rose recognizes the pedagogy: it is exactly how the gardener taught her to look at a bud. The whole estate, it seems, is one school.)*
+> *(She asks Cobb what the years have taught him, and he considers — a long, weathered pause — and says, "Horses don't lie, miss. People do. Tend the horse that's there, not the one you wish for." It is the best advice she has heard all week, and it cost nothing, and she writes it in the household book under the date with the attribution, because advice that good deserves a source.)*
+> *(She leaves the yard with straw in her cuffs and the smell of the forge in her hair. The hands — the tended's, the working — and the kept: twenty horses, gleaming, ready for September, tended by men who will never be thanked in print.)*
 *Animation: Shared.*
-
 ### L27.S5 · [T] · Rose (alone)
 *Purpose: the working — the years'; the kept, the daily. (Turns: 7)*
-> *(The working, the years': the kept, the daily — and the tended's rhythm.)*
-> *(It is the rhythm — the working, the years' — the kept, the daily: the tended's rhythm.)*
-> *(The years', the rhythm: the working, the kept. The daily — the tended's.)*
+> *(The home farm, at nine — the working, the years' — and the bailiff, Mr. Sykes, who farms eight hundred acres of Hartwell land and treats the weather as a personal adversary he is, so far, defeating.)*
+> *(The farm is the Park's foundation in the most literal sense: the wheat standing, the hay in, the dairy herd moving through the lower meadow like a slow brown river. Sykes — broad, red-faced, suspicious of towns — walks Rose through the rickyard with the pride of a man showing his children. "Wheat's good this year, miss. Hay's the best in years." He says it grudgingly, as though praising the land were a weakness.)*
+> *(The Assembly's farm account is laid out in the estate office after: the grain, the meat, the dairy — how much the Park feeds itself, how much the tended provides. Rose has seen the figures in Harrow's ledgers, but Sykes makes them flesh: "The Park eats what the Park grows, miss. That's the rule. Has been since your grandfather's time." Her grandfather — the one who broke the entail to save the estate — and Sykes speaks of him the way the old servants speak of all the dead Hartwells: as colleagues.)*
+> *(A tenant's boy runs up with news of a ewe in trouble, and Sykes is off — no farewell, no apology, simply gone at a trot toward the lower meadow, because the farm does not wait for conversation. Rose follows at a walk and watches from the gate: the ewe, the lamb, Sykes's big hands gentle as a nurse's. Ten minutes, and it is done. "She'll do," Sykes says, wiping his hands. The same words as the cook. The estate has one vocabulary.)*
+> *(They walk back through the wheat, and Sykes — unprompted, which from Sykes is unprecedented — says, "Your father'd be proud, miss. The land's in heart." Rose's father, dead ten years. She stops in the wheat and looks at the acres — gold, green, tended — and feels the years stack up behind her: the grandfather who broke the entail, the father who kept the faith, the bailiff who kept the land. The working — the years', the kept — and the daily, done.)*
+> *(She writes in the household book that evening: "The Park eats what the Park grows. Sykes says my father would be proud." She underlines it once. The tended is not only the house. It is eight hundred acres, and a ewe in the lower meadow, and a bailiff who runs.)*
 *Animation: Shared.*
-
 ### L27.S6 · [T] · Rose (alone)
 *Purpose: the daily — the tended's; the kept, the ordinary. (Turns: 7)*
-> *(The daily, the tended's: the kept, the ordinary — and the Hartwell's hours.)*
-> *(They are the hours — the daily, the tended's — the kept, the ordinary: the Hartwell's hours.)*
-> *(The tended's, the hours: the daily, the kept. The ordinary — the Hartwell's.)*
+> *(The daily — the tended's, the ordinary — and Rose spends the tenth hour with the housemaids, doing the morning round the way they do it: top to bottom, back to front, no corner unvisited.)*
+> *(The head housemaid is Ellen — twenty-eight, sharp-eyed, already training two juniors — and she runs the round like a military exercise. "Grates first, miss, while the ash is cold. Then the dusting — high to low, always. Then the beds." Rose is given a duster and assigned the library's high shelves, where she lasts eleven minutes before Ellen tactfully reassigns her to the skirting boards. "The high shelves want the steps, miss," Ellen says, which is kind, and untrue, and exactly right.)*
+> *(The round is a revelation of detail: the particular way the morning room's grate draws, the library's third shelf that always dusts, the state bedchamber's window that sticks unless you lift as you push. Every room has its habits, and the maids know them the way the gardener knows his roses. Rose — who has lived in these rooms for a decade — learns six things about her own house before luncheon.)*
+> *(A junior maid — new, nervous, perhaps sixteen — drops a porcelain shepherdess in the blue drawing room. The silence is absolute. Ellen is there in three strides: not to scold, but to assess. "The head," she says, examining the pieces. "Clean break. Mrs. Frith can pin it." The girl is shaking. "It was my grandmother's — " she whispers. "Then," Ellen says firmly, "your grandmother would want it mended, not mourned." The shepherdess goes to Mrs. Frith. The girl goes back to the dusting. The daily absorbs the disaster and moves on.)*
+> *(At the end of the round — eleven rooms, two corridors, one staircase — Ellen inspects Rose's skirting boards with the air of a woman grading an examination. "Passable, miss," she says. "With practice." Rose curtsies, flourishing the duster. The maids laugh — the first time, she realizes, she has heard the staff laugh with her rather than near her. The daily — the tended's, the ordinary — and the kept, dusted.)*
+> *(She writes in the household book: "Ellen gave me a pass. The blue drawing room's window wants lifting as you push." The ordinary, recorded. The kept, kept.)*
 *Animation: Shared.*
-
 ### L27.S7 · [T] · Rose (alone)
 *Purpose: the ordinary — the years'; the kept, the whole. (Turns: 7)*
-> *(The ordinary, the years': the kept, the whole — and the tended's measure.)*
-> *(It is the measure — the ordinary, the years' — the kept, the whole: the tended's measure.)*
-> *(The years', the measure: the ordinary, the kept. The whole — the tended's.)*
+> *(The cottages, at noon — the ordinary, the years'; the kept, the whole — and Rose walks the estate village the way Augusta taught her: unannounced, on foot, with her eyes open.)*
+> *(There are fourteen cottages, and she knows every family in them — or thought she did. The blacksmith's widow has taken in her granddaughter. The carpenter's eldest is apprenticed to the mason. The old shepherd, retired these five years, still walks the lower meadow every morning "to check," though what he checks is between him and the sheep. The village is the Park's memory in brick: every door a history, every garden a small tended.)*
+> *(Mrs. Dodd, at number six, insists on tea — and Rose, who has a schedule, stays, because Mrs. Dodd at eighty-two has earned the right to detain a Hartwell. The cottage is immaculate: the grate blacked, the brasses gleaming, a geranium on the sill. "My mother kept this house, miss, and her mother before her," Mrs. Dodd says. "Sixty years I've been in this kitchen." She pours the tea with hands that shake and miss nothing.)*
+> *(Rose asks what the years have taught her — the question of the week, asked everywhere — and Mrs. Dodd considers over her tea. "That the house stands because the cottages stand, miss. The big house is the flower. We're the roots." Rose nearly drops her cup. The gardener's philosophy, from an eighty-two-year-old widow at number six: the visible is the least of it. The whole estate, it seems, has been thinking the same thought.)*
+> *(Walking back through the village, Rose counts: fourteen cottages, sixty years, three generations in one kitchen. The ordinary — the years', the whole — and the kept: not the state rooms, not the zones, but this. The people who stayed.)*
+> *(She writes in the household book: "Mrs. Dodd, No. 6: the big house is the flower, the cottages are the roots. 60 years in one kitchen." Then, after a moment, she adds: "The estate has one philosophy. I am the last to learn it.")*
+> *(The village school gets its visit next — the dame school, kept in the church room, where the estate's children learn their letters. The mistress, Miss Parr, curtsies and shows Rose the copybooks: the tenants' children writing their names in careful ink. "The Park pays for the books, miss," she says. "And the coal." Rose looks at the small bent heads — the blacksmith's granddaughter, the carpenter's youngest — and thinks about the longest investment of all the tending: not the zones, not the roses, but this. The ordinary, the years', taught one letter at a time.)*
 *Animation: Shared.*
-
 ### L27.S8 · [T] · Rose (alone)
 *Purpose: the measure — the tended's; the kept, the proven. (Turns: 7)*
-> *(The measure, the tended's: the kept, the proven — and the Hartwell's standard.)*
-> *(It is the standard — the measure, the tended's — the kept, the proven: the Hartwell's standard.)*
-> *(The tended's, the standard: the measure, the kept. The proven — the Hartwell's.)*
+> *(The measure — the tended's, the proven — and Rose ends the first day in Harrow's office, where the years are kept in ledgers.)*
+> *(Harrow is sixty-one, the estate's steward, and his office is the Park's memory in ink: the wage books going back thirty years, the farm accounts, the restoration accounts — every zone, every season, costed to the penny. He lays the wage book open with the reverence of a priest showing a relic. "The tended, miss," he says, "measured." Rose turns the pages: the names, the years, the wages paid — the cook's twenty years, the groom's thirty, the maids' progression from junior to head. It is the estate's other family tree.)*
+> *(She does the arithmetic the way Augusta taught her — once for the sum, once for the nerve — and the sum is staggering: a decade of wages, a decade of tending, paid on time and in full through the ruin and the restoration alike. "Even in the worst year?" she asks. Harrow nods. "Even then, miss. The late master insisted. 'The house pays its people,' he said. 'Everything else can wait.'" Her father. Rose looks at the worst year's entries — every name, every wage, paid — and feels her throat tighten.)*
+> *(Harrow shows her the restoration accounts next: the zones, season by season — the roofs, the drains, the plaster, the paint. Beside each entry, in Harrow's neat hand, the craftsmen's names: the mason, the joiner, the plasterer, the glazier. "The zones were restored," Harrow says, "but the names are the restoration. Stone forgets. Paper remembers." It is the most poetic thing Harrow has ever said, and he says it the way he says everything: as a fact.)*
+> *(She asks him what the measure proves, and Harrow — sixty-one, precise, ink on his cuffs — says, "That the tended is not a sentiment, miss. It is an account. And the account balances." The measure — the tended's, the proven — and the kept: thirty years of wages, ten years of restoration, every penny accounted, every name remembered.)*
+> *(She writes in the household book that night: "Harrow's measure: the tended is an account, and the account balances. The worst year, paid in full." Then she sits for a while in the dark office, with the ledgers closed and the lamp smoking, thinking about her father — 'the house pays its people' — and the measure holds.)*
 *Animation: Shared.*
-
 ### L27.S9 · ★ KEY DECISION 1/3 · Rose (alone)
 *Purpose: ★ KEY DECISION 1/3 — THE TENDED'S LESSON (what the tended teaches: the labor, the daily, or the keeping). The years deepen; decide the lesson. (Turns: 3 — the decision)*
-> *(The years deepen, and the tended asks its lesson: the labor — the years', the hands'; the daily — the tended's, the ordinary's; or the keeping — the worked's, the held. The lesson will shape the tended's memory.)*
-> *(The labor: the hands'. The daily: the ordinary's. The keeping: the held's.)*
+> *(The second morning, and the tended is asking its question. Rose walks the estate in the dawn — the kitchens already roaring, the yard already mucked, the maids already at the grates — and understands that the week's watching has built to this: the tended wants its lesson named.)*
+> *(Three lessons, and all of them true. She turns them the way she turned the bloom's lesson in the garden — looking for the shape that will hold.)*
+> *(Is the lesson the labor — the years', the hands'? Mrs. Alder's twenty years at the range. Cobb's thirty with the horses. Mrs. Beck's starch as a moral issue. The lesson of the labor says: the work is the thing. The hands are the achievement. Everything else — the zones, the ball, the Assembly — is what the hands made.)*
+> *(Or is the lesson the daily — the tended's, the ordinary's? The half-past-five waking. The grates, the dusting, the beds. The ewe in the lower meadow. The shepherdess mended, not mourned. The lesson of the daily says: the ordinary is the thing. Not the great occasions, but the four thousand mornings. The tended is what happens when nobody is watching.)*
+> *(Or is the lesson the keeping — the worked's, the held? Harrow's ledgers. The worst year's wages paid in full. Mrs. Dodd's sixty years in one kitchen. The names beside the zones. The lesson of the keeping says: the holding is the thing. The tending kept, the kept recorded, the record honored. The tended endures because someone wrote it down and someone paid the wages.)*
+> *(Three lessons. The labor is true — she has the flour on her cuffs to prove it. The daily is true — she has the duster's blister. The keeping is true — she has Harrow's ink on her fingers. Rose stands in the stable yard as the lads lead the horses out, and holds the three up to the morning the way Ellen holds a sheet to the light, checking for stains. None of them stain. That is the difficulty.)*
 *★ KEY DECISION 1/3 — The tended's lesson:*
-- **The labor** — *the hands, taught.* The lesson is labor — the years', the hands'. (Consequence: the lesson is the hands' — but hands are worked, and the tended was the Hartwell's.)
-- **The daily** — *the ordinary, taught.* The lesson is daily — the tended's, the ordinary's. (Consequence: the lesson is the ordinary's — but ordinarys are whole, and the tended was the years'.)
-- **The keeping** — *the held, taught.* The lesson is keeping — the worked's, the held. (Consequence: the lesson is the held's — but helds are kept, and the tended was the tended's.)
-> *(The game remembers the choice — and the means: labor, daily, or keeping. The tended's lesson is hers.)*
+- **The labor** — *the hands, taught.* The lesson is labor — the years', the hands': the work itself, by hand. (Consequence: the lesson will be the labor — the hands, the work.)
+- **The daily** — *the ordinary, taught.* The lesson is daily — the tended's, the ordinary's: the ordinary days, tended. (Consequence: the lesson will be the daily — the ordinary, tended.)
+- **The keeping** — *the held, taught.* The lesson is keeping — the worked's, the held: what the work preserves. (Consequence: the lesson will be the keeping — the worked, held.)
+> *(Cobb comes past with a bridle over his shoulder, sees her face, and says, "You'll decide it wrong if you hurry, miss." Rose stares. "The gardener says that." "The gardener," says Cobb, "got it from me." He walks on, leaving her laughing in the yard — the estate's philosophy, it seems, has a single author, and he is sixty and smells of harness soap. The tended's lesson is hers to decide, and the deciding wants doing without hurry, without fuss, with complete attention.)*
 *Animation: Shared.*
-
 ### L27.S10 · [T] · Rose (alone)
 *Purpose: the lesson — the tended's; the kept, the taught. (Turns: 7)*
-> *(The lesson, the tended's: the kept, the taught — and the years' teaching.)*
-> *(It teaches — the lesson, the tended's — the kept, the taught: the years' teaching.)*
-> *(The tended's, the teaching: the lesson, the kept. The taught — the years'.)*
+> *(The lesson, decided, wants using — and Rose uses it the way she uses everything: immediately, practically, before luncheon. She takes the week's watching and turns it into doing.)*
+> *(If the lesson was the labor, she goes to the kitchens and works the pastry shift beside Mrs. Alder's girls — flour to the elbows, the rolling rhythm learned by the third dozen. If the daily, she joins Ellen's round for the full morning — grates, dusting, beds, no reassignments, the high shelves on the steps this time. If the keeping, she sits with Harrow in the estate office and they go through the wage book together, name by name, year by year, the tended's account balanced in ink.)*
+> *(Whichever it is, the doing changes the watching. The pastry teaches her what the kitchen maids' arms know: the work is in the shoulders. The round teaches her what Ellen's feet know: the house is larger from below. The ledger teaches her what Harrow's eyes know: every name is a history. The lesson — the tended's, the taught — and the kept, learned by hand.)*
+> *(The staff's verdict on the doing is unanimous and unspoken: approval. Mrs. Alder says, "She'll do," of Rose's pastry — the knighthood, conferred upward. Ellen inspects the high shelves and says, "Improved, miss." Harrow, when Rose finds an entry he had misdated, looks at her for a long moment and corrects it in silence — the highest praise in the steward's lexicon. The tended accepts the student.)*
+> *(At luncheon Letitia demands the full report. "Flour," Rose says, exhibiting her cuffs. "Starch. Straw. Ink." "You," Letitia declares, "are the most peculiar heiress in England." "I am not an heiress. I am the lesson, applied." "Worse," says Letitia. "Much worse." She is laughing, and Rose is laughing, and the lesson sits between them on the table like a well-made loaf: the tended's, the kept's, the taught's.)*
+> *(She writes in the household book: "Lesson decided, applied. The doing teaches what the watching cannot." The book accepts it. The tended goes on — roaring, mucking, dusting, inking — whether she writes or not, which is exactly as it should be.)*
 *Animation: Shared.*
-
 ### L27.S11 · [T] · Rose (alone)
 *Purpose: the held — the tended's; the kept, the worked. (Turns: 7)*
-> *(The held, the tended's: the kept, the worked — and the Hartwell's grip.)*
-> *(It is the grip — the held, the tended's — the kept, the worked: the Hartwell's grip.)*
-> *(The tended's, the grip: the held, the kept. The worked — the Hartwell's.)*
+> *(The held — the tended's, the worked — and Rose spends the afternoon with the old retainers: the ones who held on through the ruin, when the wages were late and the roof leaked and the ton had forgotten Hartwell's name.)*
+> *(Old Timmons, the retired coachman, eighty and blind in one eye, who drove Rose's grandfather and remembers the entail-breaking as though it were yesterday: "The old master sold the London house, miss, and paid the men first. I never forgot it." Mrs. Fry, the former housekeeper, who kept the keys through the worst years and handed them to Rose on her arrival with the words, "They're yours now. Don't lose them." She has never lost them.)*
+> *(They live in the almshouses by the church — two rooms, a garden each, the Park's pensioners — and Rose visits with the week's question: what did you hold? Timmons: "The standard, miss. Somebody had to remember what the house was." Mrs. Fry: "The keys. Somebody had to keep them safe." It is the same answer in different words: the held is not a thing. It is a trust.)*
+> *(She asks Timmons about the ruin years — the ones she barely remembers, a child then — and he tells her about the winter the pipes froze and the staff carried water from the well for a fortnight, and the spring the roof went and they moved the furniture themselves, and nobody left. "We held," he says simply. "The house was worth holding." Rose thinks of Harrow's entries from the worst year — every wage paid — and understands the other half of the account: the house paid its people, and the people held the house.)*
+> *(Mrs. Fry shows her the keys — the great iron ring, retired now, hanging by her door. "Yours are newer," she says. "But these opened the same doors." Rose holds the old keys for a moment — heavy, cold, certain — and hands them back. The held — the tended's, the worked — and the kept: the standard, the keys, the trust, handed down like the secateurs.)*
+> *(Walking back through the churchyard, Rose thinks about holding: the tended held the house, the house held the tended, and the holding went both ways, like a handshake. She writes in the household book: "Timmons held the standard. Mrs. Fry held the keys. The held is a trust." The tended's pensioners, honored.)*
 *Animation: Shared.*
-
 ### L27.S12 · [T] · Rose (alone)
 *Purpose: the worked — the years'; the kept, the proven. (Turns: 7)*
-> *(The worked, the years': the kept, the proven — and the tended's record.)*
-> *(It is the record — the worked, the years' — the kept, the proven: the tended's record.)*
-> *(The years', the record: the worked, the kept. The proven — the tended's.)*
+> *(The worked — the years', the proven — and Rose walks the zones with the craftsmen who restored them: the mason, the joiner, the plasterer, the glazier, finishing the last touches before the Assembly.)*
+> *(The mason — name of Barrow, hands like quarry stone — is repointing the west terrace, and he shows Rose the work the way the gardener showed her the bud: with the pride of a man whose craft is his signature. "This terrace'll outlast us both, miss," he says. "Good stone, well laid. That's the whole of it." She runs her hand over the new pointing — clean, true — and believes him.)*
+> *(The joiner is fitting the last of the library shelves — oak, book-matched, the grain running like water — and the plasterer is touching up the morning room's ceiling rose, flat on his back on the scaffold like a Michelangelo of cornicing. The glazier has replaced the great hall's cracked pane, and the light comes through it now without the old fracture's prism — clear, whole. Each of them, finishing. Each of them, proving.)*
+> *(Rose asks the mason what the restoration taught him, and Barrow — trowel in hand, mortar on his apron — says, "That old work was good work, miss. We're not better than them. We're just later." It stops her. Ten seasons of restoration, and the craftsman's verdict is humility: the tended was well tended before her. She is not the beginning. She is the continuation.)*
+> *(The joiner, overhearing, adds: "The oak was seasoned eighty years before we cut it, miss. Somebody planted for us." The plasterer, from the scaffold: "And somebody'll touch up my roses in fifty years." They laugh — the craftsmen's laugh, easy and certain — and Rose stands in the morning room with the dust in the light and understands the worked completely: the tended is a relay across centuries, and her ten seasons are one leg.)*
+> *(She writes in the household book: "Barrow: we are not better, only later. The oak was seasoned 80 years before cutting. The relay is centuries long." The worked — the years', the proven — and the kept: the terrace, the shelves, the ceiling rose, the clear pane.)*
 *Animation: Shared.*
-
 ### L27.S13 · [T] · Rose (alone)
 *Purpose: the later years — the tended's; the worked's, the deepened. (Turns: 7)*
-> *(The later years: the tended's — the worked's, the deepened — and the Hartwell's time.)*
-> *(They deepen — the years, the tended's — the worked, the deepened: the Hartwell's time.)*
-> *(The worked's, the time: the later years, the tended's. The deepened — the Hartwell's.)*
+> *(The later years — the tended's, the deepened — and Rose thinks about what becomes of the workers: the question the week has been circling, asked at last directly.)*
+> *(She asks Harrow, in the estate office, what provision the Park makes — the pensions, the almshouses, the cottages for the retired. Harrow opens the relevant ledger with the air of a man who has been waiting to be asked. "The almshouses, miss — four, by the church. The pensions — half wages, for twenty years' service. The cottages — for life, for the long-serving." It is all there, in ink: the Park's promise to its people, kept as carefully as the wage book.)*
+> *(She visits the almshouses again — properly this time, not as a caller but as the mistress — and takes the measure of the provision: the gardens, the coal allowance, the weekly visit from the housekeeper. Mrs. Fry shows her the sitting room with pride: "The Park does right by us, miss. Always has." Timmons, in his garden, growing roses — Hartwell roses, the old white ones — nods at the blooms: "The house looks after its own." The later years, provided.)*
+> *(But there are gaps, and Rose — the ledger-keeper's daughter in spirit — finds them: the laundry maids' pension starts at twenty-five years, and most leave at twenty; the stable lads have no provision at all, being classed as casual; the kitchen girls' almshouse places are two, and there are six girls. She lists them in the household book with Harrow's help, in ink, without comment. The later years, audited.)*
+> *(She takes the list to Augusta — who reads it over the spectacles, twice — and the Dowager does the thing Rose hoped she would: she does not sigh, or object, or call it sentiment. She says, "Bring me the figures." Three words, and the later years are suddenly a project, not a pity. Augusta at seventy: the establishment's conscience, when it chooses to be.)*
+> *(Rose walks back through the churchyard in the dusk, past the almshouses with their lamplit windows, and thinks about the deepened: the years ahead, the Park's promise, the gaps to be closed. The worked deserves its evening. She intends it shall have it — the figures, the project, the keeping, deepened.)*
 *Animation: Shared.*
-
 ### L27.S14 · [T] · Rose (alone)
 *Purpose: the proven — the tended's; the kept, the shown. (Turns: 7)*
-> *(The proven, the tended's: the kept, the shown — and the Hartwell's evidence.)*
-> *(It is the evidence — the proven, the tended's — the kept, the shown: the Hartwell's evidence.)*
-> *(The tended's, the evidence: the proven, the kept. The shown — the Hartwell's.)*
+> *(The proven — the tended's, the shown — and the week turns toward its test: Augusta's inspection, the Dowager's progress through the working Park.)*
+> *(It is Augusta's custom, once a season: the mistress's tour — kitchens, laundry, stables, farm, cottages — the whole tended, examined. Rose has walked it all week; now she walks it again, behind the Dowager, seeing it through the establishment's eyes. Augusta misses nothing: the range's flue ("cleaned Tuesday, Your Ladyship"), the laundry's starch ("a moral issue, Your Ladyship" — Mrs. Beck does not bend), the stable's straw ("ordered, Your Ladyship"), the farm's wheat ("the best in years, Your Ladyship").)*
+> *(The staff perform like a regiment on review — which, Rose realizes, is exactly what they are. Mrs. Alder's pastry is sampled and pronounced "satisfactory" (the cook's knighthood, reciprocated). Ellen's round is inspected and the high shelves — Rose's shelves — are examined with particular attention. "Improved," Augusta says, glancing at Rose. Letitia, trailing the party, whispers, "She knows. She always knows.")*
+> *(At the cottages, Mrs. Dodd's geranium is admired, and the eighty-two-year-old widow — who has faced down seventy years of Hartwells — curtsies to the Dowager with the ease of an equal. "Your Ladyship." "Mrs. Dodd." They regard each other with mutual, complete approval. Rose watches the two old women and understands something about power: it is not the tour. It is the recognition.)*
+> *(The inspection ends in Harrow's office, with the ledgers — the wage book, the provision list, the gaps Rose found. Augusta reads the gaps twice, then looks at Rose over the spectacles. "Well," she says. "Bring me the figures." It is the second time in two days, and Rose understands it is now a command. The proven — the tended's, the shown — and the kept: the Dowager's approval, which is the establishment's, and the project, authorized.)*
+> *(That evening Rose writes in the household book: "Augusta's progress: satisfactory throughout. The gaps are now a project. The tended has been shown, and found good." The proven, recorded. The week, turning.)*
+> *(The inspection's aftermath is its own ceremony: the staff, released from review, exhale collectively — Rose hears it, a long breath running through the corridors like wind. Mrs. Alder sends up an extra tart "for the mistress's nerves." Ellen's juniors are granted the afternoon. And Augusta, in the carriage home, says to Rose, "The household is a credit to you," which is the first time in ten years she has said the words outright. Rose sits very still all the way back to the house, holding the sentence like a hot tart, not wanting to drop it.)*
 *Animation: Shared.*
-
 ### L27.S15 · [C] · the tended's dress — dressing-for-climax ritual
 *Purpose: the tended's thesis — dress the worker; direction + twenty 5-coin pins, story morsels between, reveal coda. (Turns: 21)*
 > **Occasion brief — the tended:** "The years' work shows as the kept. The daily, the ordinary. Dress for the worker — the woman who worked it. **Editorial criterion: working.**"
 >
 > **A. The Working** — dove grey, the worked's; the kept, the Hartwell's. Motif: the worked line, at the waist — the working, embroidered. Thread: **silver** (the worked, edged) / **dove silk** (the Hartwell, matched) / **pearl** (the kept, lit). Colorway: dove grey + silver + pearl. Accessories: a silver ribbon; the grandmother's pearls; grey kid gloves.
-> **B. The Tended** — cream, the tended's; the kept, the daily's. Motif: the tended's line, stitched at the hem — the tended, embroidered. Thread: **gold** (the tended, stated) / **cream silk** (the daily, matched) / **pearl** (the kept, lit). Colorway: cream + gold + pearl. Accessories: a gold chain; ivory kid gloves.
+> **B. The Tended** — cream; the kept, the daily's. Motif: a tended line, stitched at the hem — the tended, embroidered. Thread: **gold** (the tended, stated) / **cream silk** (the daily, matched) / **pearl** (the kept, lit). Colorway: cream + gold + pearl. Accessories: a gold chain; ivory kid gloves.
 > **C. The Worker** — deep blue, the woman's; the tended's, the kept. Motif: the kept line, architectural — the worker, embroidered. Thread: **silver** (the woman, edged) / **blue silk** (the tended, matched) / **cream** (the honest, lit). Colorway: deep blue + silver + cream. Accessories: a silver brooch; blue kid gloves.
 >
 > *(The dressing room, the tended's morning: the worker's dress. She dresses the way the tended asks: the woman who worked it, through its years.)*
@@ -133,7 +164,7 @@
 > **Pin 4 (T5 · micro-decision) — Neckline, modest:** the woman's — the tended asks for the serious, and the serious is the woman. *5 coins.*
 > **Pin 5 (T6 · micro-decision) — Hair, dressed:** the worker's — the Hartwell's, the kept; the ornament's the pearl's. *5 coins.*
 > **Pin 6 (T7 · micro-decision) — Ribbon, throat's:** the direction's punctuation — silver, gold, or silver — the tended, tied. *5 coins.*
-> *(The throat's ribbon tied — the tended's knot — and the morning leans in, the working holding.)*
+> *(The throat's ribbon tied — the working knot — and the morning leans in, the working holding.)*
 > **Pin 7 (T8 · micro-decision) — Gloves, immaculate:** the woman's gauntlets — expected, and without a mark. *5 coins.*
 > **Pin 8 (T9 · micro-decision) — Slippers, tended's:** the working's — the kept, the worn. *5 coins.*
 > **Pin 9 (T10 · micro-decision) — Shawl, light:** the morning's — the working's air, the worker's wrap. *5 coins.*
@@ -160,186 +191,246 @@
 
 ### L27.S16 · [T] · Rose (alone)
 *Purpose: the shown, the kept — the tended's; the worked's, the forever. (Turns: 7)*
-> *(The shown, the kept: the tended's — the worked's, the forever — and the tended's evidence.)*
-> *(It is the kept — the shown, the tended's — the worked's, the forever: the tended's evidence.)*
-> *(The kept, the forever: the shown, the tended's. The worked's — the tended's.)*
+> *(The shown, the kept — and the tended gets its audience. Rose brings the architect down from London — the man who drew the restoration, ten seasons of plans — to see what his drawings became in the hands of the workers.)*
+> *(He walks the zones in silence — the terrace, the library, the morning room — touching the mason's pointing, the joiner's shelves, the plasterer's ceiling rose, with the air of a man meeting his children grown. "The drawings," he says at last, "were suggestions. This — " he runs his hand along the oak " — this is the argument." Rose has never seen a professional man so moved by a staircase. She finds she does not mind.)*
+> *(She takes him through the working Park next — the kitchens, the yard, the farm — and the architect, who has designed houses for dukes, is humbled by the laundry. "The starch," he says, weakly, to Mrs. Beck. "A moral issue," she agrees, and he nods as though she has quoted Vitruvius. In the stable yard Cobb shows him the forge, and the architect — who has never shod a horse — watches with the attention of a student.)*
+> *(At the cottages Mrs. Dodd gives him tea, and he drinks it in her immaculate kitchen with the air of a man receiving an honor. "Sixty years," he says, afterward, walking back through the village. "My buildings will be lucky to stand sixty years. Her kitchen will outlast us all." Rose does not correct him. He is right.)*
+> *(They end in Harrow's office, with the ledgers — the wage book, the restoration accounts, the names beside the zones. The architect reads the craftsmen's names in silence, then takes off his spectacles and cleans them, a delaying action. "I drew the lines," he says. "They drew the house." The shown — the tended's, the forever — and the kept: the drawings, become real, in the workers' hands.)*
+> *(After he leaves — the London coach, the waving — Rose writes in the household book: "The architect: the drawings were suggestions. Mrs. Dodd's kitchen will outlast us all." The tended, shown to its designer, and found greater than the design.)*
+> *(The architect leaves Rose with a sketch — a quick pencil study of the west terrace, done on the spot, with Barrow's new pointing rendered in three confident strokes. "For the office," he says. "To remind me what the drawings are for." Rose pins it in Harrow's office, beside the wage books — the design and the account, side by side. The shown, the kept: the tended's thesis, illustrated.)*
 *Animation: Shared.*
-
 ### L27.S17 · [T] · Rose (alone)
 *Purpose: the evidence — the tended's; the kept, the proven. (Turns: 7)*
-> *(The evidence, the tended's: the kept, the proven — and the Hartwell's record.)*
-> *(It is the record — the evidence, the tended's — the kept, the proven: the Hartwell's record.)*
-> *(The tended's, the record: the evidence, the kept. The proven — the Hartwell's.)*
+> *(The evidence — the tended's, the proven — and Rose spends a morning in Harrow's office doing what the week has been building toward: the full accounting.)*
+> *(The wage books, thirty years. The restoration accounts, ten seasons. The provision ledger, the almshouses, the pensions. She goes through them with Harrow the way she once went through the Network's paper — line by line, name by name — but this time the paper is not a weapon. It is a testimony. Every entry is a person. Every person is a year. The evidence accumulates: the tended, proven.)*
+> *(She finds the small things the ledgers keep: the kitchen maid promoted to cook a decade back. The stable lad, lame from a kick, kept on as harness cleaner at full wages — "the house pays its people." The mason's son, apprenticed to the joiner, now the joiner's foreman. The Park does not only employ. It raises. The evidence of the tended is generational.)*
+> *(Harrow, watching her read, says the thing he has been holding all week: "The late master — your father, miss — said the ledgers were the Park's conscience. 'If we cannot show it in ink, we have not done it.'" Rose looks at the worst year's entries — every wage paid — and the ink holds. The conscience, kept.)*
+> *(She totals the restoration's labor — the mason's years, the joiner's, the plasterer's, the glazier's — and the figure, though she will not speak it aloud (no invented sums, the rule holds), is written in Harrow's hand and witnessed by them both. The evidence wants no rhetoric. The numbers are the rhetoric.)*
+> *(She closes the ledgers as the clock strikes noon, and the office is quiet — the ink, the paper, the thirty years. The evidence — the tended's, the proven — and the kept: the account balances. It has always balanced. That is the whole of the testimony.)*
+> *(She finds, deep in an old ledger, the entry that stops her: "To the widow Hart, coal and bread, through the winter — the master's order." No Hart works at the Park; the widow is nobody's dependent but the estate's. Rose asks Harrow, and he says, "The late master said the Park looks after its own, miss — even the ones who aren't its own." She copies the entry into the household book, in ink, with the date. The evidence of the tended is not only the wages. It is the coal for the widow Hart, through the winter, by the master's order.)*
 *Animation: Shared.*
-
 ### L27.S18 · [T] · Rose (alone)
 *Purpose: the lesson — the labor, the daily, the keeping; the kept's. (Turns: 7)*
-> *(The lesson: the labor, the daily, the keeping — the kept's — and the years' teaching.)*
-> *(It teaches — the lesson, the kept's — the labor, the daily, the keeping: the years' teaching.)*
-> *(The kept's, the teaching: the lesson, the labor. The years' — the kept.)*
+> *(The lesson, walked — and Rose takes the week's decision out for its paces: the labor, the daily, the keeping, tested against an ordinary working day.)*
+> *(The labor, walked: she goes to the forge at dawn and watches the farrier shoe the big bay — the fire, the hammer, the hoof's ring — and the labor is exactly what she decided: the hands, the achievement, the thing itself. The farrier's arms know what no book can teach. Walking it, she believes it completely.)*
+> *(The daily, walked: she joins the laundry's morning intake — the baskets, the sorting, the stains assessed like patients — and the daily is exactly what she decided: the ordinary, four thousand mornings, nobody watching. Mrs. Beck's girls work with the rhythm of a tide. Walking it, she believes it completely.)*
+> *(The keeping, walked: she goes to the almshouses with the week's coal order and sits with Mrs. Fry over tea, and the keeping is exactly what she decided: the held, the recorded, the honored. The old keys on the wall. The pension in the ledger. Walking it, she believes it completely.)*
+> *(Three walks, three beliefs, all sincere. Rose sits on the churchyard wall at noon, slightly out of breath and entirely out of certainty, and laughs at herself: she decided the lesson days ago, and here she is re-deciding it with her feet. Cobb, passing with a halter over his shoulder, observes her laughing alone and does not break stride. The estate has seen stranger things. It has seen her.)*
+> *(She writes in the household book: "Walked all three lessons. All true. Decision stands." Because that is the thing about lessons: you decide, and then you keep deciding, every day, with your feet. The labor, the daily, the keeping — the kept's, all three, and the walking is the proof.)*
+> *(The day's last walk is the longest: the full circuit at dusk, the three lessons carried together. At the forge the labor's fire is banked for the night. At the laundry the daily's coppers are cooling. At the almshouses the keeping's lamps are lit. Rose walks past all three — fire, steam, lamplight — and the lessons stop competing and simply coexist, the way the estate does: the labor in the hands, the daily in the hours, the keeping in the books. The walked lesson's final verdict: all true, all at once, all hers.)*
 *Animation: Shared.*
-
 ### L27.S19 · [T] · Rose (alone)
 *Purpose: the standard — the tended's; the kept, the held. (Turns: 7)*
-> *(The standard, the tended's: the kept, the held — and the Hartwell's measure.)*
-> *(It is the measure — the standard, the tended's — the kept, the held: the Hartwell's measure.)*
-> *(The tended's, the measure: the standard, the kept. The held — the Hartwell's.)*
+> *(The standard — the tended's, the held — and Rose asks the question the week has earned: what does "Hartwell" mean to the people who work it?)*
+> *(She asks Ellen first — the head housemaid, twenty-eight, sharp-eyed. "It means it's done right, miss. The grates, the dusting, the beds. If it's Hartwell, it's right." She asks Cobb: "It means the horses come first, miss. Before the visitors, before the show. The horses." She asks Mrs. Alder: "It means the book doesn't lie, miss. Twenty years, and the book doesn't lie." Three answers. One standard.)*
+> *(She asks the mason, Barrow, on the terrace: "It means the work outlasts you, miss. You lay it true because somebody'll see it in a hundred years." She asks Mrs. Dodd, at number six: "It means the house looks after its own, miss. Sixty years, and it always has." Five answers. One standard. The tended has a creed, and Rose has been collecting its articles all week without knowing.)*
+> *(She writes the articles in the household book, in order: done right. The horses first. The book doesn't lie. The work outlasts you. The house looks after its own. The Hartwell standard — not the ton's, not the Gazette's, not the establishment's. The workers'. It is the finest thing she has written all season.)*
+> *(She reads the articles to Augusta at dinner — the five lines, plain — and the Dowager listens without interrupting, which for Augusta is a standing ovation. "Hmph," she says at last. "The staff have a better motto than the family. We should adopt it." Letitia, delighted: "Done right! The horses first! I shall have it embroidered." "You shall do nothing of the sort," says Augusta. "It is theirs.")*
+> *(The standard — the tended's, the held — and the kept: five articles, in the household book, in ink. The workers' creed. Rose goes to bed thinking about the sixth article — the one nobody said, because everybody knew: the house pays its people. It is written in the worst year's ledger. It is written in the almshouses. It is written, now, in her.)*
+> *(She asks Fisk — the under-butler, thin, composed — last of all, in the passage at half past five. "It means the house is ready, miss," he says. "Whatever comes — the ton, the Gazette, the weather — the house is ready." Six answers. One standard. Rose writes the sixth article under the other five: the house is ready. It is the most quietly confident sentence in the household book, and Fisk said it the way he says everything: as a scheduled item.)*
 *Animation: Shared.*
-
 ### L27.S20 · [T] · Rose (alone)
 *Purpose: the whole — the tended's; the kept, the ordinary. (Turns: 7)*
-> *(The whole, the tended's: the kept, the ordinary — and the years' sum.)*
-> *(It is the sum — the whole, the tended's — the kept, the ordinary: the years' sum.)*
-> *(The tended's, the sum: the whole, the kept. The ordinary — the years'.)*
+> *(The whole — the tended's, the ordinary — and Rose sees the estate entire for the first time: not the zones, not the departments, but the organism.)*
+> *(She walks it at dawn — the full circuit, two hours — and the whole assembles itself: the farm feeds the kitchens; the kitchens feed the house; the stables serve the house; the laundry serves the stables' lads and the kitchens' maids; the cottages house them all; the ledgers record them all; the Park holds them all. Every part tending the others. The system of keeping she saw from her window in the garden week — but wider now, human, complete.)*
+> *(At the farm Sykes is already in the wheat. At the yard Cobb is already at the forge. At the house Ellen's round is already at the grates. At the laundry the coppers are already boiling. Nobody waited for her. The whole does not need her to start it. The whole started at half past five, as it always does, and will go on whether she watches or not. She finds this — obscurely, completely — reassuring.)*
+> *(She thinks about the ten seasons: the ruin, the clearing, the building. She thought she was restoring a house. She was restoring this — the organism, the whole, the tended entire. The zones were the skeleton. The workers are the flesh. The house never stood on stone. It stood on people.)*
+> *(Mrs. Dodd's philosophy, from number six: the big house is the flower, the cottages are the roots. Rose walks the circuit's last mile with the sentence in her head like a hymn, and the whole — the tended's, the ordinary — blooms around her: the wheat, the yard, the laundry steam, the cottage chimneys, all of it tended, all of it kept, all of it hers in the only way that matters — in trust.)*
+> *(She writes in the household book: "The whole is an organism. The zones were the skeleton; the workers are the flesh. The house stands on people." The whole, recorded. The tended, entire.)*
+> *(The organism has its ailments, and Rose — the week's student — learns those too: the north wing's gutter that always blocks, the dairy's temperamental churn, the third stable's door that swells in the wet. The tended knows its body's weaknesses the way a rider knows a horse's. Cobb shows her the door, Mrs. Alder the churn, Ellen the gutter — a litany of small frailties, each with its workaround, each tended around. The whole is not perfect. The whole is maintained — which, Rose is learning, is the better thing.)*
 *Animation: Shared.*
-
 ### L27.S21 · [T] · Rose (alone)
 *Purpose: the sum — the years'; the kept, the tended's. (Turns: 7)*
-> *(The sum, the years': the kept, the tended's — and the Hartwell's account.)*
-> *(It is the account — the sum, the years' — the kept, the tended's: the Hartwell's account.)*
-> *(The years', the account: the sum, the kept. The tended's — the Hartwell's.)*
+> *(The sum — the years', the tended's — and Rose does the counting the way Augusta taught her: once for the sum, once for the nerve.)*
+> *(The years of service: she totals them with Harrow — the cook's twenty, the groom's thirty, the laundress's thirty, the steward's forty, the pensioners' combined century — and the sum is a small civilization. The wages paid: a decade, on time, in full, through ruin and restoration. The zones restored: ten seasons, every one costed, every craftsman named. The cottages kept: fourteen, lived in, tended. The sum accumulates, and it is enormous, and it is all — every penny, every year — the tended.)*
+> *(She does not speak the figures aloud — the rule holds, no sums in the telling — but she writes them in the household book in Harrow's neat hand and her own, witnessed by them both, and the page is the week's monument: the sum, in ink. Harrow looks at the totals for a long moment and says, "The account balances, miss." It is his refrain, and it is still true.)*
+> *(Letitia, shown the page at tea, goes quiet — which for Letitia is unprecedented — and then says, "It's the real book, isn't it. Not the Gazette's. Not the ton's. The real one." She touches the wage entries gently, as though they might bruise. "All these people. All these years." Rose nods. The sum has that effect. It is the estate's epic, written in wages.)*
+> *(Augusta, shown the page after dinner, reads it twice — the spectacles, the silence — and then does the thing Rose has seen her do only twice before: she takes off the spectacles and wipes them, a delaying action for emotion. "Your father," she says at last, "would be proud of the ink." It is the Dowager's highest praise, and it is for Harrow's hand as much as Rose's. The sum — the years', the tended's — and the kept: the account, balanced, witnessed, honored.)*
+> *(That night Rose sits with the household book open on her knees and looks at the week's pages — the half-past-five, the flour, the starch, the straw, the wheat, the keys, the standard, the sum — and understands that she has been writing the tended's epic without knowing. The sum is not a number. It is a people. And the people are kept.)*
 *Animation: Shared.*
-
 ### L27.S22 · ★ KEY DECISION 2/3 · Rose (alone)
 *Purpose: ★ KEY DECISION 2/3 — THE WORKER'S GIFT (how the tended is marked: the hands, the hours, or the keeping). The years deepen; decide the marking. (Turns: 3 — the decision)*
-> *(The years deepen, and the worker asks her marking: the hands — the tended's, the working's; the hours — the daily's, the ordinary's; or the keeping — the worked's, the held. The marking will shape the worker's memory.)*
-> *(The hands: the working's. The hours: the ordinary's. The keeping: the held's.)*
+> *(The twelfth morning, and the tended is ready to be marked — Rose has watched, and worked, and walked, and counted, and the week has built to this: the worker's gift, the marking, hers to decide.)*
+> *(Three markings, and each of them true. The hands — the tended's, the working's: mark the tended with the hands. A gift for the hands that did the work — the tools of the trade made fine, the kitchens' knives, the groom's brushes, the maids' baskets, given with thanks. The marking of the hands says: the labor is honored. What the hands made, the hands are thanked for.)*
+> *(The hours — the daily's, the ordinary's: mark the tended with the hours. Give back the time the years took — a week's holiday for the whole household, the Park kept by a skeleton staff, the workers sent to their families, the coast, the fair. The marking of the hours says: the daily is honored. The mornings are returned, with interest.)*
+> *(The keeping — the worked's, the held: mark the tended with keeping. Endow the future — the pension gaps closed, the almshouses extended, the lads' provision founded, the Park's promise made permanent in ink. The marking of the keeping says: the held is honored. The tended's evening is secured, forever.)*
+> *(Three markings. The hands are true — she has the blister to prove it. The hours are true — she has seen the four thousand mornings. The keeping is true — she has Harrow's ledger and Augusta's "bring me the figures." Rose stands in Harrow's office with the provision list in her hand, and holds the three up to the lamplight the way Mrs. Beck holds a sheet, checking for stains. None of them stain. That is the difficulty.)*
 *★ KEY DECISION 2/3 — The worker's gift:*
-- **The hands** — *the working, marked.* The tended is marked with the hands — the tended's, the working's. (Consequence: the marking is the working's — but workings are labor's, and the tended was the Hartwell's.)
-- **The hours** — *the ordinary, marked.* The tended is marked with the hours — the daily's, the ordinary's. (Consequence: the marking is the ordinary's — but ordinarys are whole, and the tended was the years'.)
-- **The keeping** — *the held, marked.* The tended is marked with keeping — the worked's, the held. (Consequence: the marking is the held's — but helds are kept, and the tended was the tended's.)
-> *(The game remembers the choice — and the means: hands, hours, or keeping. The worker's gift is hers.)*
+- **The hands** — *the working, marked.* The tended is marked with the hands — the tended's, the working's: the hands that did it. (Consequence: the marking will be the hands — the working hands.)
+- **The hours** — *the ordinary, marked.* The tended is marked with the hours — the daily's, the ordinary's: the time given. (Consequence: the marking will be the hours — the ordinary hours, given.)
+- **The keeping** — *the held, marked.* The tended is marked with keeping — the worked's, the held: the work continued. (Consequence: the marking will be the keeping — the work, continued.)
+> *(Harrow watches her weigh — sixty-one, precise, patient — and says, "You'll decide it wrong if you hurry, miss." Rose laughs aloud. "The gardener says that. Cobb says the gardener got it from him." "Cobb," says Harrow, "got it from your father." The office goes quiet. Her father — 'the house pays its people' — the philosophy's true author, ten years dead. Rose holds the list, and the lamplight, and the lineage of the sentence, and decides the way he would have: without hurry, without fuss, with complete attention.)*
 *Animation: Shared.*
-
 ### L27.S23 · [T] · Rose (alone)
 *Purpose: the marking — the gift, the given; the tended, the marked. (Turns: 7)*
-> *(The marking: the gift, the given — the tended, the marked — and the years, the kept.)*
-> *(She marks it — the gift, the given, as she chose — and the marking is the given's: the tended, the marked.)*
-> *(The given, the marked: the marking, the gift. The years — the kept.)*
+> *(The marking, once decided, wants doing — and Rose does it the way Harrow does everything: promptly, exactly, and in ink.)*
+> *(If the marking was the hands, she orders it that week: the kitchens' knives from the Sheffield cutler, the groom's brushes from the saddler, the maids' baskets from the willow-weaver — the tools of the trade, made fine, each one engraved with the Hartwell crest and the year. If the hours, she declares the holiday: a full week for the whole household after the Assembly, the Park kept by a skeleton staff of volunteers, the workers sent where they will — the coast, the fair, their families. If the keeping, she sits with Harrow and Augusta and they draft the endowment: the pension gaps closed, the almshouses extended by two, the stable lads' provision founded — the Park's promise, made permanent.)*
+> *(Whichever it is, the doing is witnessed. Harrow enters it in the ledger — the gift, the given — in his neat hand, with the date. Augusta approves it over the spectacles with a single nod. Letitia, told at tea, claps her hands and says, "At last, a use for money I entirely approve of," which from Letitia is a complete economic theory.)*
+> *(The household's reaction, when the marking is announced, is the week's finest moment. Mrs. Alder — told of the knives, or the holiday, or the endowment — goes very still, and then says, "Well," in a tone that means everything. Cobb touches his forelock, which he has not done in twenty years. Ellen's maids cry — all of them, openly, in the corridor. Mrs. Beck inspects her gift (or her holiday notice, or the endowment's first page) the way she inspects a sheet: held to the light, checked for stains. "Satisfactory," she says. From Mrs. Beck, a coronation.)*
+> *(Rose watches it all from the morning room window — the corridor's tears, the yard's forelocks, the kitchen's stillness — and understands what the marking was for. Not for the workers. They knew their worth. The marking was for the house: the tended, marked, so that no one — not the ton, not the Gazette, not the future — could ever mistake what held Hartwell up.)*
+> *(She writes in the household book: "The marking, marked. The gift, the given. The tended knows its worth; now the house has said so." The marking holds. The ink is dry.)*
 *Animation: Shared.*
-
 ### L27.S24 · [T] · Rose (alone)
 *Purpose: the tended, the marked — the worked's, the years'; the kept, the forever. (Turns: 7)*
-> *(The tended, the marked: the worked's, the years' — the kept, the forever — and the marking's record.)*
-> *(It is marked — the tended, the worked's — the years', the kept: the marking's record.)*
-> *(The marked, the forever: the tended, the worked's. The years' — the kept.)*
+> *(The tended, the marked — and the marking settles into the household like a good seasoning: gradually, completely, changing everything.)*
+> *(If the hands were given, the new tools appear at their stations within the fortnight — the knives in the kitchen, the brushes in the yard, the baskets in the laundry — and the work goes on, but finer: Mrs. Alder's pastry has never been more precise, Cobb's horses never gleamer, Mrs. Beck's starch never more moral. If the hours were given, the household counts the days to the holiday the way children count to Christmas — the maids planning the fair, the lads the coast, Mrs. Dodd's granddaughter coming home. If the keeping was endowed, Harrow's new ledger — the provision book, bound in green — sits on the office shelf like a promise kept in advance.)*
+> *(The ton, hearing of it — for the ton hears everything — reacts in its way: the duchess writes that it is "charmingly feudal," which Rose chooses to take as praise. Bell, hearing of it, makes a note in her pencil-book without comment, which Rose chooses to take as approval. The Gazette will have its sting in due course. The marking, marked, is already news.)*
+> *(But the real settling is quieter: the under-butler Fisk stands a fraction straighter. The boot boy runs a fraction faster. Ellen's juniors dust the high shelves without being asked. The tended, marked, tends better — not from gratitude, though there is that, but from recognition: the house has said what the work is worth, and the work answers.)*
+> *(Rose walks the morning round on the marking's first week — the kitchens, the yard, the laundry, the office — and everything is as it was, and everything is different. The knives flash. The holiday is counted. The green book waits. The tended, the marked — the worked's, the years' — and the kept, the forever: the house, saying thank you in the only language it knows — in ink, in iron, in time.)*
+> *(She writes in the household book: "The marking settles. The work answers. Recognition is a better seasoning than gratitude." The tended, marked. The week, deepening.)*
+> *(Harrow's weekly report, delivered Friday, contains a line he reads aloud with particular satisfaction: "The marking is entered, miss. The household knows." It is the steward's version of a fanfare. Rose asks what the staff have said, and Harrow — sixty-one, precise — permits himself the smallest of smiles. "They say the house pays its people, miss. They have always said it. Now it is written down." The tended, marked, knows itself marked — and the knowing, Harrow implies, is half the gift.)*
 *Animation: Shared.*
-
 ### L27.S25 · [T] · Rose (alone)
 *Purpose: the tended, the eternal — the kept, the forever; the Hartwell's. (Turns: 7)*
-> *(The tended, the eternal: the kept, the forever — the Hartwell's — and the years' tended.)*
-> *(It is the eternal — the tended, the kept — the forever, the Hartwell's: the years' tended.)*
-> *(The eternal, the Hartwell's: the tended, the kept. The forever — the years'.)*
+> *(The tended, the eternal — Rose turns the word over on the thirteenth morning, walking the churchyard, and finds it too large for a household. The tended is not eternal. It is maintained: hired, trained, paid, pensioned. But there is something in the maintaining that gestures toward the eternal, the way the wage books gesture toward forever.)*
+> *(She stops at the old stones — the Hartwells, generations — and then at the newer ones: the servants' graves, kept as carefully as the family's. Timmons's predecessor. Mrs. Fry's mother. The tended, remembered in stone. The Park buries its people with the same care it pays them, and the churchyard is the estate's other ledger: names, years, kept.)*
+> *(The eternal, it turns out, is just the annual, repeated with attention. The half-past-five waking, repeated four thousand times. The wages, paid on time, repeated for thirty years. The keys, handed down. The standard, kept. The tended does not last because it is grand. It lasts because it is done — daily, exactly, by hands that know the work.)*
+> *(She thinks about what will outlast her: not the marking — the knives will dull, the holiday will end, the endowment will be administered — but the habit. The house pays its people. The book doesn't lie. The work outlasts you. These are not policies. They are reflexes. And reflexes, repeated, become the eternal.)*
+> *(A rook calls from the church tower — once, twice — and the sound hangs over the tended's graves and the Hartwells' alike, impartial as the wage book. Rose walks back through the village with the eternal in her pocket like a stone: not forever, but continuing. The relay. The hands, handing down. The tended, the eternal — the kept, the forever; the Hartwell's.)*
+> *(She writes in the household book: "The eternal is the annual, repeated with attention. The churchyard is the other ledger." The tended, the eternal. The week, turning toward its close.)*
+> *(She thinks about the tended's ghosts — not the frightening kind, but the working kind: the Hartwell who planted the avenue, the cook who ruled before Mrs. Alder, the groom before Cobb, all of them in the wage books, all of them in the walls. The Park is haunted by competence. Every room has its predecessor's standards in it; every craft its master's hands behind the apprentice's. The eternal is not an idea. It is a succession — the dead, still teaching, through the living.)*
 *Animation: Shared.*
-
 ### L27.S26 · [T] · Rose (alone)
 *Purpose: the tended, the kept — the worked's, the lesson's; the forever. (Turns: 7)*
-> *(The tended, the kept: the worked's, the lesson's — the forever — and the years' record.)*
-> *(She keeps it — the tended, the worked's — the lesson, the forever: the years' record.)*
-> *(The kept, the forever: the tended, the worked's. The years' record — the lesson's.)*
+> *(The tended, the kept — and Rose keeps it the way Harrow keeps things: entered, witnessed, filed.)*
+> *(The week's record goes into the household book — a full gathering of pages, in Rose's hand and Harrow's, with the date underlined twice and the standard's five articles on the first leaf. The half-past-five. The flour, the starch, the straw, the wheat. The keys. The sum. Facts first — the facts are the foundation; the feelings are built on them later. A household book that only has numbers is a ledger. A household book with mornings in it is a history.)*
+> *(Harrow reads the week's pages in the office — spectacles on, the full judicial apparatus — and corrects two dates and a name, in silence, with the red pen. Then he takes the black pen and adds, under the sum: "The account balances." It is his refrain, and in the book, in ink, it becomes the week's epitaph. Rose looks at the three words for a long moment. They are enough.)*
+> *(Letitia demands the week's reading aloud — "the fine parts," she says — and Rose reads the standard's articles over tea: done right, the horses first, the book doesn't lie, the work outlasts you, the house looks after its own. Letitia listens without fidgeting, which is unprecedented, and then says, "Read the Mrs. Dodd part again." Rose does. "The big house is the flower," Letitia repeats softly. "I shall remember that." The kept, read aloud.)*
+> *(Augusta, given the book at dinner, reads the week's pages the way she reads the Gazette — as though the paper might be lying — and finds it satisfactory. "The gaps," she says, tapping the provision list. "The figures come on Thursday." The project, proceeding. The Dowager closes the book and hands it back. "Well kept," she says. From Augusta, a benediction.)*
+> *(Rose shelves the book in the morning room — with the others, the years' accumulation — and the week's record takes its place in the row: the tended, the kept. The worked's, the lesson's. The forever — in ink, on paper, on the shelf, which is exactly where forever belongs.)*
+> *(The week's pages get their index — Rose insists on it, Harrow executes it: every name, every place, every lesson, entered alphabetically at the book's front. "An index," Harrow says, "is how the future finds us." They work on it together at the office table, two heads bent over the pages, and the index grows: Alder, Beck, Cobb, Dodd, Ellen, Fisk, Fry, Sykes, Timmons — the tended, alphabetized. The kept, findable. It is the least romantic task of the week, and Rose enjoys it most of all.)*
 *Animation: Shared.*
-
 ### L27.S27 · [T] · Rose (alone)
 *Purpose: the tended, the charter's — the kept, the legacy's; the forever. (Turns: 7)*
-> *(The tended, the charter's: the kept, the legacy's — the forever — and the years' tended.)*
-> *(It is the charter's — the tended, the kept — the legacy's, the forever: the years' tended.)*
-> *(The kept, the forever: the tended, the charter's. The years' tended — the legacy's.)*
+> *(The tended, the charter's — and Rose charters it, because that is what she does with important things: she writes them down, and makes them permanent.)*
+> *(The charter takes the week's true shape: if the marking was the keeping, the charter is the endowment itself — the pension gaps closed, the almshouses extended, the lads' provision founded, drafted by Harrow, approved by Augusta, witnessed by the whole household. If the hands, the charter is the standing order: the tools of the trade, made fine, renewed every seven years, the crest and the date on each. If the hours, the charter is the holiday week, made annual — the Assembly's aftermath, the household's due, written into the year's calendar like Christmas.)*
+> *(Whichever it is, the drafting is done in Harrow's office, in ink, with the door open — the staff coming and going, witnessing by presence. Mrs. Alder brings tea. Cobb brings the farrier's bill. Ellen brings the linen order. The charter is written in the middle of the tended's daily life, which is exactly where charters belong.)*
+> *(Harrow reads the draft aloud — the whole of it, no shortcuts — and the office is quiet in the way the church is quiet. Then Mrs. Beck says, "Satisfactory," and the room exhales into laughter — easy and certain. The charter is signed: Rose, Augusta, Harrow. Witnessed: the household, by presence. The tended, the charter's.)*
+> *(The charter goes into the green book — the provision book, or the standing-orders book, or the year's calendar, whichever the marking made — and the green book goes on the office shelf beside the wage books. The kept, the legacy's. The forever — legislated, witnessed, filed, in the estate office, which is exactly where forever belongs.)*
+> *(That evening Rose stands in the office doorway, looking at the shelf — the wage books, the green book, thirty years and one week — and thinks about charters: they don't make the tended tend. The tended would tend regardless. But they make the tending a commitment, and commitments are what turn accidents into legacies.)*
+> *(The charter's first test comes within the week: a kitchen girl gives notice — a sweetheart in the village, a cottage, a marriage — and Mrs. Alder, instead of the usual scolding, consults the green book. "The holiday week, miss," she says. "She can marry in it." The girl weeps. The sweetheart is summoned. The wedding is set for the charter's first holiday, and the whole kitchen takes it as a personal triumph. The charter, tested: it works. The tended's promise, kept in advance, delivers on time.)*
 *Animation: Shared.*
-
 ### L27.S28 · [T] · Rose (alone)
 *Purpose: the kept, the kept — the tended's; the Hartwell's, the forever. (Turns: 7)*
-> *(The kept, the kept: the tended's — the Hartwell's, the forever — and the years' kept.)*
-> *(It is the kept — the kept, the tended's — the Hartwell's, the forever: the years' kept.)*
-> *(The kept, the forever: the kept, the tended's. The Hartwell's — the years'.)*
+> *(The kept, the kept — the double kept: the estate and the people, the zones and the hands, the whole and the tended — and Rose walks the Park on the fourteenth morning seeing it double.)*
+> *(The west gallery, hung — by the joiner's shelves, the glazier's panes. The servants' hall, governed — by Mrs. Alder's book, Ellen's round. The stables, running — by Cobb's hands, the lads' mornings. The library, ordered — by the shelves, the dusting. The cottages, lived in — by the families, the sixty years. The lake pavilion, gleaming — by the mason's pointing. The walled garden, open — by the gardener's tending. Every zone, doubled: the thing, and the hands that keep it.)*
+> *(She has spent ten seasons restoring the first of each pair. She has spent this week learning the second. The double kept is the whole truth: the Park is not the zones. The Park is the zones and the tended, the flower and the roots, the visible and the kept — and the kept is the larger half.)*
+> *(At the lake pavilion she stops — the water flat, the light gold — and does the double counting: the pavilion, gleaming, and Barrow's mortar on his apron. The garden, open, and the boy's "Aye." The house, whole, and Fisk's lamps at half past five. Each pair, complete. Each pair, true. The kept, the kept — the tended's; the Hartwell's, the forever.)*
+> *(Mrs. Dodd, walking her granddaughter to the village school, waves from the path — and Rose waves back, and the double kept waves with her: the mistress and the cottager, the flower and the root, the two halves of the whole, greeting each other on an ordinary morning. It is the least dramatic moment of the season. It is the most complete.)*
+> *(She writes in the household book: "The double kept: every zone doubled by its hands. The Park is the zones AND the tended. The kept is the larger half." The kept, the kept. The week, nearly done.)*
+> *(The double kept has its double beauty: Rose stands on the terrace at noon and sees it in pairs — the mason's terrace and the tea taken on it, the joiner's shelves and the books on them, the glazier's pane and the light through it, the gardener's rose and the scent of it. Every making doubled by its using. The Park is not a museum. It is a household — the zones lived in, the tended living in them, the double kept doubling every day.)*
 *Animation: Shared.*
-
 ### L27.S29 · [T] · Rose (alone)
 *Purpose: the woman, the worker's — Rose, the evening's; the tended's, the kept. (Turns: 7)*
-> *(Her evening: the woman, the worker's — Rose, the evening's — and the tended's is the kept.)*
-> *(She sits at the window — the tended beyond, the kept — and the years are the woman's quiet: the tended turned, the lesson decided, the marking marked.)*
-> *(The woman, the worker's: the kept. The tended's, whole — and the years, the marked.)*
+> *(Her evening: the woman, the worker's — Rose at her bedroom window as the light goes, the Park spread below her like a held hand, the fortnight's two weeks held in her mind: the garden's week, the tended's week, the bloom and the hands.)*
+> *(She thinks about what the two weeks have been: the rose's arc and the workers' account, the flower and the roots, the visible and the kept. The garden taught her the tending. The household taught her the tended. Between them, the whole education: what is made, and who makes it, and how the making is kept.)*
+> *(Below, the house is settling — the lamps lit, the grates banked, the day's work done. In the cottages the lamps are lit too — fourteen kitchens, fourteen families, the tended's evening. In the almshouses Mrs. Fry's lamp burns latest, as always. The Park holds them all the way a hand holds something precious: firmly, and without squeezing.)*
+> *(A tap at the door — Letitia, with the negus, the established ritual. "Pensive worker," she says, handing over the glass. "Fourteenth day. You're allowed." They drink at the window, watching the Park go dark. "To the hands," Letitia says. "To the hours," Rose says. "To the keeping," they say together, and laugh — because the week's decision has followed them even here, to the window seat, and they are both entirely unrepentant.)*
+> *(The negus is sweet and warm, and the window seat is wide enough for two, and the woman — the worker's, the tended's, Rose's own — sits in the dark with her aunt and her fortnight, and is entirely, completely at peace. The week closes behind her like a well-kept ledger, balanced and silent.)*
+> *(She thinks, too, about the week's small humiliations — the duster's blister, the pastry's first dozen (inedible), the high shelves' defeat, the ledger's misdated entry she caught and Harrow corrected in silence. The tended let her fail in private and succeed in public, the way good teachers do. She has been the mistress for ten years; this week she was the apprentice, and the apprenticeship taught her more than the mistress-ship ever did. The woman the tended made is humbler than the woman the ton knows — and happier.)*
 *Animation: Shared.*
-
 ### L27.S30 · [T] · Rose (alone)
 *Purpose: the legacy, the worker — the tended's, the charter's; the forever. (Turns: 7)*
-> *(The legacy, the worker: the tended's, the charter's — the forever — and the years' legacy.)*
-> *(She is the worker — the legacy, the tended's — the charter's, the forever: the years' legacy.)*
-> *(The worker, the forever: the legacy, the tended's. The years' legacy — the charter's.)*
+> *(The legacy, the worker — and Rose walks the estate at dawn on the fifteenth day, doing the counting the way Augusta taught her: once for the sum, once for the nerve. But this time she counts the people.)*
+> *(Mrs. Alder's twenty years. Cobb's thirty. Mrs. Beck's thirty. Harrow's forty. Ellen's ten and rising. Fisk's five. The boy's — the gardener's boy's — first year, ginger and seventeen. Timmons's fifty, retired. Mrs. Fry's forty-five, retired. Mrs. Dodd's sixty, in one kitchen. The counting goes on, and on — the cottages, the farm, the yard, the house — and the sum is a civilization, and the civilization is kept.)*
+> *(The legacy is not the zones. She has known that all week, but this morning she feels it the way you feel weather: in the bones. The zones were the skeleton. The legacy is what the skeleton was for — the people, the tended, the kept. The bloom was the advertisement. The workers are the argument.)*
+> *(She stops at the churchyard wall — the Hartwells, the servants, the two ledgers in stone — and then at the almshouses, where Timmons is already in his garden with the white roses, and Mrs. Fry's lamp is just going out. The legacy, the worker — the tended's, the charter's; the forever — and it is not in the house. It is in the gardens, the kitchens, the yards, the cottages. It is everywhere the hands have been.)*
+> *(The legacy walks with her back to the house — not as a weight, but as a company. The workers, keeping. The marking, marked. The charter, filed. She reaches the door as the clock strikes seven, and goes in to breakfast, because the legacy, like everything else in this house, begins with chocolate — made by Mrs. Alder's girls, carried by Fisk, at half past five.)*
+> *(At breakfast Augusta says, "The tended, I hear, is everything it should be." "It is," Rose says. "Harrow says the account balances." "Harrow," says Augusta, "is never wrong about accounts. He is wrong about everything else, but never accounts." Letitia chokes on her chocolate. The legacy, discussed over breakfast, in the usual manner: completely, and without admitting it.)*
 *Animation: Shared.*
-
 ### L27.S31 · [T] · Rose (alone)
 *Purpose: the working, the kept — the tended's, the years'; the marked, the forever. (Turns: 7)*
-> *(Her evening: the working, the kept — the tended's, the years' — and the marked is the forever.)*
-> *(It holds — the working, the kept — the tended's, the forever.)*
-> *(The kept, the forever: the working, the tended's. The years' — the marked's.)*
+> *(The working, the kept — the sixteenth morning, and the tended's future arrives in the form of the young: the juniors, the apprentices, the next relay.)*
+> *(Ellen's junior maids — the shepherdess girl among them, promoted to the state rooms — do the morning round with the particular pride of the newly trusted. The gardener's boy — seventeen, ginger — teaches the new stable lad the rows, with the patience of a master: "Not that one. That one's got legs." The kitchen's youngest — fourteen, flour to the elbows — rolls her fiftieth dozen and is told by Mrs. Alder, "She'll do." The relay, in progress.)*
+> *(Rose watches them — the young, the learning — and thinks about the tended's future: it is not in the charters, though the charters help. It is in this — the teaching, the patience, the "she'll do." Every craft in the Park is a school, and every school has its pupils, and the pupils will be the masters. The working, the kept — the tended's, the years'; the marked, the forever.)*
+> *(She asks the shepherdess girl — now of the state rooms — what the work has taught her, and the girl, no longer shaking, says, "That the house is worth doing right, miss. Ellen says so." She asks the new stable lad: "That the horses come first, miss. Cobb says so." The standard, transmitted. The creed, inherited. The tended teaches itself, generation to generation, and the teachers are the tended.)*
+> *(At noon she finds Harrow entering the apprentices' names in the wage book — the new hands, the new years, the ledger's future pages. "The book," Harrow says, "goes on." It is the simplest thing he has said all week, and the truest. The working, the kept — and the keeping, relayed.)*
+> *(She writes in the household book: "The relay: the juniors promoted, the boy teaching, the fiftieth dozen. The book goes on." The tended's future, in progress. The forever, apprenticed.)*
+> *(The relay has its rituals, and Rose is admitted to one: the kitchen's tasting — every new dish tried by the whole staff before it goes upstairs. The youngest's pastry is judged by Mrs. Alder, the maids, the boot boy, with complete seriousness and merciless honesty. "More salt," says the boot boy, aged twelve, with the authority of a critic. The pastry is corrected. The relay's lesson: the standard is everyone's business, and the youngest critic is still a critic.)*
 *Animation: Shared.*
-
 ### L27.S32 · [T] · Rose (alone)
 *Purpose: the charter, the kept — the tended's, the legacy's; the forever. (Turns: 7)*
-> *(The charter, the kept: the tended's, the legacy's — the forever — and the years' charter.)*
-> *(It is the kept — the charter, the tended's — the legacy's, the forever: the years' charter.)*
-> *(The kept, the forever: the charter, the tended's. The years' charter — the legacy's.)*
+> *(The charter, the kept — the estate office, late afternoon, and Rose opens the green book to check that the tended's charter is still there, still true, still filed beside the wage books.)*
+> *(It is. The ink is barely dry — two weeks old — but it sits on the page with the authority of something much older: the marking, the provision, the standing order, the holiday — whichever the week decided. The signatures: Rose, Augusta, Harrow. The witnesses: the household, by presence. The kept, in triplicate.)*
+> *(She reads it over the way Augusta reads the Gazette — as though the paper might be lying — and finds it satisfactory, which is to say: exact, practical, and quietly radical. A household, chartered. The Park's promise, legislated. The charter does not make the tended tend — the tended would tend regardless — but it makes the tending a commitment, and commitments are what turn accidents into legacies.)*
+> *(Harrow comes in for the evening accounts and finds her reading. "Still there," he observes. "It is still there." "Aye. Charters don't move. That's their job." He opens the wage book, enters the day's figures, blots the page with precision. "The green book," he says, "will outlast us both." Rose looks at the shelf — the wage books, the green book, thirty years and two weeks — and believes him.)*
+> *(She closes the green book and looks around the office — the ledgers in their order, the pens, the ink, the smell of paper and sealing wax and patience — and understands that the charter is kept not in the book but here: in the office, in the hands, in the daily round. The book is the reminder. The keeping is the work.)*
+> *(The charter, the kept. The tended's, the legacy's. The forever — filed in the estate office, witnessed by a household, enforced by a steward who is never wrong about accounts. It will hold. Charters don't move. That's their job.)*
+> *(The green book gets its first amendment — Harrow's idea, Rose's hand: the holiday week's date, fixed; the tool-renewal's seven years, counted from the marking; the provision's new places, numbered. Amendments, Harrow explains, are how a charter stays alive: "A book that cannot change is a monument, miss. A book that can is a promise." Rose writes the amendment in her best hand, Harrow witnesses it, and the charter breathes — the kept, the living, the forever, adjustable.)*
 *Animation: Shared.*
-
 ### L27.S33 · ★ KEY DECISION 3/3 · Rose (alone)
 *Purpose: ★ KEY DECISION 3/3 — THE WORKER'S MEANING (what the worker means: the keeping, the tended, or the future). The years deepen; decide the meaning. (Turns: 3 — the decision)*
-> *(The years deepen, and the worker asks her meaning: the keeping — the tended's, the held; the tended — the worked's, the years'; or the future — the years', the returning. The meaning will shape the worker's memory.)*
-> *(The keeping: the held's. The tended: the years'. The future: the returning's.)*
+> *(The seventeenth morning, and the tended is asking its last question. Rose walks the estate in the dawn — the half-past-five humming, the kitchens roaring, the yard mucking — and understands that the two weeks have built to this: the worker's meaning, hers to decide.)*
+> *(Three meanings, and all of them true. Is the meaning the keeping — the tended's, the held? The charters, the ledgers, the pensions, the green book. The meaning of the keeping says: she is the one who holds. The mistress as keeper — the trust kept, the promise filed, the future secured. The worker means the keeping: the held, honored.)*
+> *(Or is the meaning the tended — the worked's, the years'? The flour, the starch, the straw, the wheat. The half-past-five, the four thousand mornings. The meaning of the tended says: she is the one who was taught. The mistress as student — the duster's blister, the pastry's rhythm, the ledger's ink. The worker means the tended: the years, worked.)*
+> *(Or is the meaning the future — the years', the returning? The juniors promoted, the boy teaching, the fiftieth dozen. The green book's unwritten pages. The meaning of the future says: she is the one who begins. The mistress as founder — the relay started, the standard set, the next generation rising. The worker means the future: the returning, begun.)*
+> *(Three meanings. The keeping is true — the green book is on the shelf. The tended is true — the blister has healed but the lesson hasn't. The future is true — the apprentices' names are in the wage book. Rose stands at the churchyard wall with the two ledgers in stone before her — the Hartwells, the servants — and holds the three meanings up to the morning the way Harrow holds a page to the lamp, checking the ink. None of them fade. That is the difficulty.)*
 *★ KEY DECISION 3/3 — The worker's meaning:*
-- **The keeping** — *the held, meant.* The worker means keeping — the tended's, the held. (Consequence: the meaning is the held's — but helds are kept, and the worker was the tended's.)
-- **The tended** — *the years, meant.* The worker means the tended — the worked's, the years'. (Consequence: the meaning is the years' — but years are worked, and the worker was the Hartwell's.)
-- **The future** — *the returning, meant.* The worker means the future — the years, the returning. (Consequence: the meaning is the returning's — but returnings are future, and the worker was the now.)
-> *(The game remembers the choice — and the means: keeping, tended, or future. The worker's meaning is hers.)*
+- **The keeping** — *the held, meant.* The worker means keeping — the tended's, the held: she kept it all. (Consequence: her meaning will be the keeping — what she kept.)
+- **The tended** — *the years, meant.* The worker means the tended — the worked's, the years': the years of tending. (Consequence: her meaning will be the tended — the years, tended.)
+- **The future** — *the returning, meant.* The worker means the future — the years, the returning: the years to come. (Consequence: her meaning will be the future — the returning.)
+> *(Cobb comes past with a halter over his shoulder — the week's second sighting, the philosophy's courier — and says, "You'll decide it wrong if you hurry, miss." "You said that about the lesson. And the marking." "It's still true." He walks on. Rose laughs — the fortnight's running joke, and it is still funny — and turns back to the wall, the stones, the question. The worker's meaning is hers to decide, and the deciding wants the workers' own method: without hurry, without fuss, with complete attention.)*
 *Animation: Shared.*
-
 ### L27.S34 · [T] · Rose (alone)
 *Purpose: the meaning, the kept — the worker's, the lesson's; the forever. (Turns: 7)*
-> *(The meaning, the kept: the worker's, the lesson's — the forever — and the years' meaning.)*
-> *(She keeps it — the meaning, the worker's — the lesson, the forever: the years' meaning.)*
-> *(The kept, the forever: the meaning, the worker's. The years' meaning — the lesson's.)*
+> *(The meaning, decided, goes with her through the eighteenth day like a stone in her pocket — present, weighty, occasionally taken out and turned over.)*
+> *(She tests it the way she tested the lesson: by walking it. In the kitchens, watching the pastry — the meaning holds. In the yard, watching the forge — the meaning holds. In the office, reading the green book — the meaning holds. A decided meaning, she discovers, is like a good pair of boots: it goes everywhere, and you stop noticing it, and that is how you know it fits.)*
+> *(The household notices the change before she does. Fisk, bringing the chocolate (at half past five, to the morning room, no longer remarked), says, "You look well, miss. The work agrees with you." Letitia, over luncheon: "There's something different about you. Did you do something with your hair?" "I chartered a household." "That would do it." Augusta, at dinner, studies her over the spectacles and says nothing — which, from Augusta, is a complete character reference.)*
+> *(In the afternoon she does the thing the meaning requires — the practical, immediate thing. If the meaning was the keeping, she reviews the provision book with Harrow and advances the almshouse extension. If the tended, she works the full laundry intake beside Mrs. Beck's girls — baskets, sorting, stains — and earns the nod. If the future, she sits with Ellen and they plan the juniors' promotions for the year, name by name.)*
+> *(Whichever it was, the doing is the proof. The meaning is not a thought. It is a practice — the keeping, the tended, the future, carried in the hands through an ordinary day. By evening the stone in her pocket has worn smooth, and she stops taking it out. It fits. It goes everywhere.)*
+> *(She writes in the household book: "Day 18. Meaning decided, walked, fitted. Like boots." Harrow reads it, considers, and says, "Boots is right." The fortnight's second running joke lands, and they both — steward and mistress, keeper and kept — do the thing they do instead of laughing, which is better.)*
+> *(The stone wears smooth faster than she expected — by the week's end she has stopped taking it out altogether. The meaning has become what the best meanings become: not a thought but a habit. She finds herself judging things by it without deciding to — the pastry (keeping), the round (tended), the apprentices (future) — and each judgment comes out right. A fitted meaning, she writes in the book, is invisible. Like boots. Like the tended.)*
 *Animation: Shared.*
-
 ### L27.S35 · [T] · Rose (alone)
 *Purpose: the letters — the years, reported; London writes. (Turns: 7)*
-> *(The evening: the letters — the years, reported — and London writes.)*
-> *(They write — the company, London's — the years reported: the worker, the tended, the marked. London writes — the witnessing, in letters.)*
-> *(The reported, the written: the years, the letters. London — the witnessing, in writing.)*
+> *(The nineteenth day brings London — the post, the letters, the years reported — and the tended has preceded her into the world's correspondence.)*
+> *(Bell writes again — the Gazette's proprietor, dry as ever: "Miss Hartwell — They are talking about your household in the clubs. A mistress who works the pastry shift, they say. I am coming down to see the kitchens before I am forced to describe them from gossip. — N.B." Rose reads it twice and laughs aloud. Bell, inspecting kitchens now. First the rose, then the range. She writes back: "The bread is out at six. Come hungry, bring your pencil.")*
+> *(Élise writes — the atelier's triumph season continuing — and the letter is mostly business until the postscript: "They say your maids' livery is the smartest in the county. If it is, I want the commission for the Assembly's extra staff — grey and silver, to match the rose. Do not let anyone else have the scheme first." Rose holds the letter, touched absurdly. The livery, wanted. The tended, already fashion. She writes back: "Grey and silver. No one else gets the scheme. (Ellen approves — the high shelves want the steps.)")*
+> *(The duchess writes — the Assembly's confirmed, gracious as ever — and the final paragraph: "Might one hope the kitchens will do the supper as they did the breakfast? Your cook is talked of." Rose reads it to Mrs. Alder, who says, "The book doesn't lie," without looking up from the pastry. She writes back, graciously: "The kitchens will do everything, and Mrs. Alder insists, and Mrs. Alder is never wrong about pastry." The duchess will be fed. The charter holds.)*
+> *(Three letters, three readings of the tended: the judge, the artist, the ton. Rose sorts them at the morning-room table — the ironmonger's account, the Bath post, the tended's fan mail — and thinks about London writing. The witnessing is part of the keeping. The ton reports the household the way the Gazette reports the weather: with interest, with opinion, and with the absolute conviction that it matters.)*
+> *(She writes back to all three — the inspector invited, the scheme reserved, the supper promised — and the letters go out with the morning post, the years reported back to London, the correspondence of the tended proceeding exactly as it should. London writes. The house answers. That is the arrangement.)*
 *Animation: Shared.*
-
 ### L27.S36 · [T] · Rose (alone)
 *Purpose: the ton, the years' — the tended, awaited; the kept, the kept. (Turns: 7)*
-> *(The ton, the years': the tended, awaited — the kept, the kept — and the future, the worker's.)*
-> *(They await it — the ton, the years' — the tended, the kept: the kept, the future's.)*
-> *(The awaited, the kept: the ton, the years'. The future — the worker's.)*
+> *(The ton awaits — Rose feels it in the letters, in Bell's impending kitchen inspection, in the way the Assembly's acceptances have ticked upward since the tended's story got out. The household, awaited. The ton has decided that Hartwell's workers are an event, and the ton is never wrong about where to be.)*
+> *(She discusses it with Letitia over the household book, the way generals discuss terrain. "They're coming for the staff now, not just the flower," Letitia reports, delighted. "Mrs. Fane's girl has asked what one says to a cook." "One says thank you," Rose says, "and means it." "Sage advice. I shall tell her you said it, and take the credit.")*
+> *(It is absurd, and Rose knows it is absurd — a household, moving the ton's needle — and it is also completely real. The ton runs on novelty and sincerity, and Hartwell's tended is both, and the mistress worked the pastry shift herself, which makes it a story. The ballroom will be full. The kitchens will be visited. The household — or its reputation, which is the same thing — will be seen.)*
+> *(She walks the house that afternoon with the eye of a hostess now, not just a student: the corridors want polishing, the silver wants its final burnish, the servants' hall wants its table laid for the inspection it will surely get. Mrs. Beck watches her rearranging and says, "It's a household, miss, not a stage." "It can be both for one week," Rose says. She grunts — the grunt of a woman outvoted by reality — and polishes the corridors herself, because whatever her principles, she has standards.)*
+> *(The absurdity settles into something warmer as the day goes on: the ton, awaiting the tended, is the outside world's version of Mrs. Alder's "She'll do" — admiration, expressed in its own dialect. The duchess wants the supper. Bell wants a look. Mrs. Fane's girl wants an etiquette. They are all, in their way, saying the same thing the cook said with two words.)*
+> *(Rose stands in the great hall as the light goes — the silver gleaming, the house ready, the tended humming — and thinks: let them come. The household is ready. The workers are ready. She is ready. The ton awaits, and for once, the awaiting is a pleasure, not a campaign.)*
 *Animation: Shared.*
-
 ### L27.S37 · [T] · Rose (alone)
 *Purpose: the woman, the tended's — Rose, the evening's; the kept, the Hartwell's. (Turns: 7)*
-> *(Her evening: the woman, the tended's — Rose, the evening's — and the kept is the Hartwell's.)*
-> *(She sits at the window — the Park beyond, the kept — and the years are the woman's quiet: the tended turned, the meaning decided, the worker marked.)*
-> *(The woman, the tended's: the Hartwell's. The kept, whole — and the years, the marked.)*
+> *(Her evening: the woman, the tended's — Rose at her bedroom window as the light goes, the Park below her dark and green, the fortnight's whole arc held in her mind: the garden's week, the tended's week, the bloom and the hands, complete.)*
+> *(The half-past-five humming. The flour, the starch, the straw, the wheat. The keys, the standard, the sum. The marking marked. The charter filed. The meaning fitted like boots. The letters from London. The ton, awaiting. Eighteen days from dawn to legend, and every one of them hers — and theirs. The tended fortnight, and everyone's share in it.)*
+> *(She thinks about what the fortnight has been — not a story, exactly. An account. The estate's whole truth, from bud to wage book, played out in the garden and the house while the Park went about its business. And she was there for all of it: the student, the worker, the keeper. The woman the tended made.)*
+> *(Below, the house is dark. The tended is invisible, but she knows where they all are — she could find them blindfold, by the routine, by the memory of the round. The holiday is counted. The green book waits. The apprentices' names are entered. The charter holds. The relay continues.)*
+> *(A soft knock — Letitia, with the negus, the established ritual. "Pensive worker," she says, handing over the glass. "Eighteenth day. You're allowed." They drink at the window, watching the dark house. "To the tended," Letitia says. "To the keepers," Rose says. "To the boots," Letitia says, and they both laugh, quietly, so as not to wake the house.)*
+> *(The negus is sweet and warm, and the window seat is wide enough for two, and the woman — the tended's, the worker's, Rose's own — sits in the dark with her aunt and her fortnight, and is entirely, completely at peace. The chapter closes behind her like a well-kept ledger, balanced and silent.)*
+> *(She thinks about the fortnight as the Gazette will write it — Bell's pencil is already moving, she knows — and finds she does not mind the telling. The bloom and the hands, the flower and the roots: it is a good story, and it is true, which is rarer than it should be. Let them write it. The tended can survive being famous. It has survived everything else.)*
 *Animation: Shared.*
-
 ### L27.S38 · [T] · Rose (alone)
 *Purpose: the legacy, the Hartwell — the tended's, the charter's; the forever. (Turns: 7)*
-> *(The legacy, the Hartwell: the tended's, the charter's — the forever — and the years' legacy.)*
-> *(It is the Hartwell — the legacy, the tended's — the charter's, the forever: the years' legacy.)*
-> *(The Hartwell, the forever: the legacy, the tended's. The years' legacy — the charter's.)*
+> *(The legacy, the Hartwell — Rose walks the whole estate at dawn on the nineteenth day, the way she walked the garden on the ninth of the last week: the counting, once for the sum, once for the nerve. But this time the circuit is widest — the Park, the whole, the complete, doubled.)*
+> *(The west gallery, hung — and the joiner's shelves. The servants' hall, governed — and Mrs. Alder's book. The stables, running — and Cobb's hands. The library, ordered — and Ellen's dusting. The cottages, lived in — and Mrs. Dodd's sixty years. The lake pavilion, gleaming — and Barrow's mortar. The walled garden, open — and the Hartwell rose, blooming. The grounds, dressed. The state rooms, ready. Every zone restored across ten seasons, and the tended beside each: the living proof, in people, that the whole is whole.)*
+> *(She walks it all — the drive, the lake path, the garden gate, the village street — and the legacy walks with her: not the marking, which will dull or end or be administered, but what the marking was for. The people. The standard. The green book. The relay. The tended, continuing. The keeping, handed down.)*
+> *(At the lake pavilion she stops — the water flat, the light gold — and thinks about the ten seasons: the ruin, the clearing, the building, the learning. Each season a zone restored. Each zone a promise kept. And now the tended: the estate's achievement, human and living, kept in the working Park by the people who kept it. The legacy is not a monument. It is a household that tends.)*
+> *(She reaches the walled garden as the sun clears the east wall, and the Hartwell rose is there — the bush, the buds, the second bloom open — and beside it the gardener's boy, on his morning round, watering with the same care he gives the trial rows. Rose watches him go, and laughs aloud, alone, in the garden — because of course. Of course he is here today.)*
+> *(The legacy, the Hartwell. The tended's, the charter's. The forever — not a word, but a people, tending. She goes in to breakfast, and the Season turns, and the keeping waits beyond the gate, and the tended — the kitchens roaring, the yard mucking, the laundry steaming — keeps its own counsel, flour and straw in the morning, entirely sufficient.)*
 *Animation: Shared.*
-
 ### L27.S39 · Gazette sting
 *Purpose: Bell's tended report — arch, precise; reward-only, never mystery. (Turns: 1 — the reading)*
 > *(The morning Gazette, read over chocolate. Mrs. Nance Bell, proprietor, in her own dry voice:)*
-> *"These years the worker has turned through her tended — worked, worked, worked — and the Gazette — having watched the kept from the first — finds it the charter's true Hartwell. The worker, yearly. The Gazette will watch, annually."*
-> (T1 · stance) *Rose reads it twice — the amusement first (annually! watching!), then the reckoning: the years are pronounced true in print as well as in the worker's tending, and Bell has made the kept permanent, which is Bell's way of making it forever. She files the sting under its lesson: in London, the Hartwell the Gazette watches annually is the Hartwell that's real.* — remembered: *the lesson: the Hartwell the Gazette watches annually is the Hartwell that's real.*
+> *"The tended years: the Gazette has now watched the mistress of Hartwell Park labor in her own garden for the better part of a decade, and finds the habit confirmed — the hands, the hours, the ordinary days. This is not performance. The paper has seen performance. This is tending, and the tending is the charter's true labor. The house is kept because she keeps it."*
+> (T1 · stance) *Rose reads it twice — the amusement first (the paper has seen performance!), then the reckoning: the tending pronounced the charter's true labor in print, and Bell has made it permanent, which is Bell's way of making it forever. She files the sting under its lesson: in London, the labor the Gazette calls true is the labor the house did.* — remembered: *the lesson: the labor the Gazette calls true is the labor the house did.*
 *Animation: Shared (sting card).*
 
 ### L27.S40 · cliffhanger · Rose (alone)
 *Purpose: the keeping — the tended's, the years'; the Hartwell's, the coming. (Turns: 8)*
-> *(Evening, and she thinks of the keeping — the keeping's, the coming — and the years turn toward the Hartwell.)*
-> *(She imagines — the keeping, the Hartwell's — the keeping, the coming: the Hartwell's, the years.)*
-> "The keeping." She looks at the Park — the whole, the kept. "The Hartwell —" she stops — "the coming." She breathes. "The kept —" another stop — "the tended's, the held."
-> *(The chapter closes on the turning — the keeping, the Hartwell's — and the Season turns toward the Hartwell: the keeping's doors — and the Season holds its breath.)*
+> *(Evening, and the tended years are walked — the hands, the hours, the ordinary — and Rose stands at the study window with the house humming below.)*
+> *(The keeping, coming: the fortnight of preparation, the Assembly a fortnight off, the whole held ready. She has tended the rose, and now she must keep the house — the zones, the silver, the blooms, the two hundred and sixty-odd acceptances.)*
+> *(Drummond has written. The letter waits for its proper hour. The keeping is the whole of the next chapter — the held, shown; the whole, kept.)*
+> *(The Season turns toward the keeping. The house is ready. The wax is warming.)*
 *Animation: Shared.*
 
 **STATUS: FULL DRAFT** — awaiting Beth review.

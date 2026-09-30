@@ -7,7 +7,7 @@
 
 **Turns.** Every ordinary scene carries 7–10 declared player turns `(Turns: N)` — the count is the design contract; prose is the human surface. Outcomes converge: the game remembers the means (tone, relationship movement, Gazette flavor), never as a plot branch. ★ key-decision scenes carry the decision's 3 options as their turns; the Gazette sting is a single reading turn. The [C] ritual's direction + twenty 5-coin pins are its 21 turns; the ritual runs long and sits outside the ordinary scene budget.
 
-**Canon applied:** 1815–1816. The keeping — the held, the whole, the Hartwell's. Rose is twenty-five. Iron rule holds: time earns everything money can. Crowns (premium) / coins (soft). Energy is the only throttle. No Crown SKU touches the ritual.
+**Canon applied:** The keeping — the held, the whole, the Hartwell's. Rose is twenty-five. Iron rule holds: time earns everything money can. Crowns (premium) / coins (soft). Energy is the only throttle. No Crown SKU touches the ritual.
 
 **Occasion:** The keeping — the Hartwell's; the held, the whole. **Preparation ritual:** the keeping's dress — the holder's. **Purse shelf:** the keeping's honest costs — the holding, the held, the whole.
 
@@ -15,106 +15,157 @@
 
 ### L28.S1 · [T] · Rose (alone)
 *Purpose: the keeping's turning — the held, the shown; the Hartwell's, the years. (Turns: 7)*
-> *(The keeping's turning: the held, the shown — the Hartwell's, the years — and the whole, the kept.)*
-> *(She holds it — the held, the keeping — the keeping's turning: the Hartwell's, the years.)*
-> *(The turning, the years: the keeping's, the held's. The shown — the Hartwell's.)*
+> *(Morning, and Hartwell Park stands in the light like a held breath — Rose walks the state rooms at dawn, alone, and sees the house the way the ton will see it in a fortnight: whole, gleaming, complete.)*
+> *(The keeping's turning: the held, the shown. Ten seasons of restoration end here — not in the doing, but in the showing. The west gallery hung. The ballroom polished. The state bedchambers aired. Every zone ready. Rose walks the enfilade with her hand trailing along the chair rail, and the house feels — for the first time — finished. Not restored. Finished.)*
+> *(She stops in the ballroom — the series' grandest occasion, still a fortnight off — and the room is empty, the chandeliers bagged, the floor gleaming like ice. In a fortnight it will be full. She tries to imagine it: the music, the light, the ton. She cannot. The empty ballroom refuses the future; it insists on the present, which is hers, alone, at dawn.)*
+> *(Hodges finds her there — the butler moves through the empty house like a thought — and says, "The acceptances, miss," presenting the morning's post on the salver. She takes the letters to the window and opens them standing: yes, yes, yes. The pile grows. The ballroom fills on paper before it fills in person.)*
+> *(One letter is not a yes. The paper is heavy, the hand familiar — Drummond's. Rose holds it for a moment without opening it, feeling the weight of the last move. Then she puts it in her pocket, unopened. "After breakfast," she tells Hodges. "The keeping's turning wants its proper hour." Hodges bows. The letter waits.)*
+> *(She writes in the household book: "The house is finished. The ballroom is empty. The acceptances fill it on paper. Drummond has written — unopened until breakfast." The keeping's turning: the held, the shown; the Hartwell's, the years. The Assembly approaches.)*
+> *(She opens Drummond's letter at breakfast — the proper hour — with Augusta and Letitia watching. Three sentences. She will come. The words are gracious; the hand is steady; the subtext is unmistakable: the dragon comes to the ballroom she tried to empty. Rose folds the letter and lays it beside her plate. "She's coming," she says. Augusta nods once — the strategy, confirmed. Letitia breathes out. "Then it's real. All of it." The keeping's turning: the last battle, declared.)*
 *Animation: Shared.*
-
 ### L28.S2 · [T] · Rose (alone)
 *Purpose: the held — the keeping's; the years', the kept. (Turns: 7)*
-> *(The held, the keeping's: the years', the kept — and the Hartwell's grip.)*
-> *(It is the grip — the held, the keeping's — the years', the kept: the Hartwell's grip.)*
-> *(The keeping's, the grip: the held, the years'. The kept — the Hartwell's.)*
+> *(The held — the keeping's, the years' — and Rose spends the morning with the housekeeper's final survey: the state rooms, dressed for the ton's inspection.)*
+> *(The state bedchambers are the first front: the hangings brushed, the mattresses turned, the spare blankets — "for the cold sleepers," the housekeeper says — folded at the foot. Each room has its character, and the housekeeper knows them: the blue room for the duchess ("she likes the morning light"), the green for the countess ("she doesn't, but she won't say"), the gold for — she pauses — "whoever needs impressing." Rose laughs. "Everyone needs impressing." "Then the gold is busy," says the housekeeper, and moves on.)*
+> *(The drawing rooms are next: the flowers — all Hartwell-grown, from the reclaimed walled garden, per the standing order — arranged by the gardener's boy under Mrs. Quick's supervision. The boy has a gift, it turns out: the arrangements are loose, natural, alive. "He does them like the garden," Mrs. Quick says, "not like a funeral." The ton's drawing rooms, undone by a seventeen-year-old with an eye.)*
+> *(The dining room's table is laid for the inspection — the full service in rotation — and the silver catches the light in a long gleaming rank. Rose runs her finger along a fork's edge (polished, perfect) and thinks about the ten seasons: the ruin's empty sideboard, the first salvaged spoons, this. The held — the keeping's — and the kept, gleaming.)*
+> *(Augusta does the tour at noon — the Dowager's eye, the establishment's — and finds one fault: a picture hung a quarter-inch off true in the small drawing room. The footman corrects it under her gaze. "Now," she says, "the house may be seen." It is the highest praise the tour allows. The held, approved.)*
+> *(Rose writes in the household book: "The state rooms dressed. The boy does flowers like the garden. One picture corrected. The house may be seen." The held — the keeping's; the years', the kept — and the showing, imminent.)*
+> *(The housekeeper's final instruction to the staff is delivered in the servants' hall, and Rose — passing — stops to listen: "The house is to be itself," the housekeeper says. "Not grander. Itself. The ton has seen grand. It has not seen Hartwell." The staff nod — the maids, the footmen. It is the best briefing Rose has heard all fortnight: the held, shown truly. She walks on, leaving them to it, and the house settles into itself like a cat into sun.)*
 *Animation: Shared.*
-
 ### L28.S3 · [T] · Rose (alone)
 *Purpose: the whole — the keeping's; the Hartwell's, the kept. (Turns: 7)*
-> *(The whole, the keeping's: the Hartwell's, the kept — and the years' sum.)*
-> *(It is the sum — the whole, the keeping's — the Hartwell's, the kept: the years' sum.)*
-> *(The keeping's, the sum: the whole, the Hartwell's. The kept — the years'.)*
+> *(The whole — the keeping's, the Hartwell's — and the afternoon belongs to the guest list: the great board in the morning room, the names in columns, the acceptances ticked in ink.)*
+> *(Letitia presides — the social general — with the list and the letters and a pot of tea. The wobblers are marked: the Drummond-leaning, the cautious, the ones waiting to see which way the wind blows. Each one is a small battle, and the battles are fought in daylight, as the season promised: calls, letters, debts of gratitude called in.)*
+> *(Rose writes to Mrs. Almeria Fane — the ton's gossip, all concern and appetite — and the reply comes by return: yes. She calls on the old countess in person, takes tea, mentions the Hartwell rose, and the countess — who has not left London in a decade — says, "I shall come. Someone must see it.")*
+> *(The four crosses get the holding letter — Rose writes it herself, in her own hand: the gracious holding, the open door. Not the grip. The holding. Drummond's column is the shadow on the board: the names she holds, marked with a small black cross. "Hers," Letitia says. "For now.")*
+> *(Mrs. Vane gets a second holding letter — the dragon's lieutenant, the Lash's funder: courtesy, exact, unhurried. The letter is a door left open, not a gauntlet thrown. Rose seals it herself, and the wax is the exact red of the rose.)*
+> *(She writes in the household book: "The holding, held. The whole, the kept." The guest list, the letters, the battles — the keeping's arithmetic, done in daylight.)*
+> *(The board's newest column is the dragon's: Drummond's own acceptance — "she will come" — entered in Letitia's hand with a flourish that nearly tears the paper. "The last cross," Letitia says, "falls by walking in." They look at the board — the crosses fallen, the columns full — and the war's arithmetic is suddenly, completely, won. Rose touches the number. It is warm from the ink.)*
+> *(The board's evening review: Letitia reads the day's gains aloud — the acceptances, the answers, the steadied crosses — and Rose initials each entry in the household book. The whole, accounted for. The keeping's arithmetic, done twice: once in ink, once aloud, the way the house does everything that matters.)*
 *Animation: Shared.*
-
 ### L28.S4 · [T] · Rose (alone)
 *Purpose: the Hartwell — the keeping's; the whole's, the kept. (Turns: 7)*
-> *(The Hartwell, the keeping's: the whole's, the kept — and the years' house.)*
-> *(It is the house — the Hartwell, the keeping's — the whole's, the kept: the years' house.)*
-> *(The keeping's, the house: the Hartwell, the whole's. The kept — the years'.)*
+> *(The Hartwell — the keeping's, the whole's — and the war comes to Rose in an envelope: Mrs. Vane's letter, the dragon's lieutenant writing on the Lash's funder's paper. She does not call. She does not appear. She writes — which is, for her, the sharper weapon.)*
+> *(The letter is exquisite, venomous politeness: the season's thinness, the town's talk, the difficulties of country assemblies — and then the card, played third-hand: "Lady Drummond so regrets — the pressure of her engagements — " The refusal, delivered by post. The dragon's absence, weaponized.)*
+> *(Rose reads it twice — once for the sting, once for the strategy — and answers it the way the house answers everything: in daylight, in ink. Her reply is gracious, final, unmoved: "She will be missed. The rooms will be full regardless.")*
+> *(Letitia, reading the reply before it is sealed, exhales like a woman surfacing. "You were magnificent." "I was accurate," Rose says. But her hands are shaking — she hides them in her skirts until the seal is set.)*
+> *(Harrow, told of the exchange, is unmoved: "Mrs. Vane funds the Lash. The Lash prints what it is paid to print." He returns to the ledgers. The establishment's assessment, filed without emphasis.)*
+> *(She writes in the household book: "Mrs. Vane wrote. The refusal delivered. Answered: the rooms will be full regardless." The keeping's war, recorded in ink.)*
+> *(Harrow, told of the call, is unmoved: "Mrs. Vane," he says, "funds the Lash. The Lash prints what it is paid to print." He returns to the ledgers. But that evening he adds a line to the household book in his own hand — the first time he has ever written in it unasked: "The dragon's lieutenant called. The mistress answered. The rooms will be full regardless." Rose finds it at breakfast and reads it three times. The steward's testimony, volunteered.)*
+> *(The reply goes with the morning post — sealed, rose-red — and Rose watches it leave with the day's letters. The war, conducted by post, in daylight, in ink. Mrs. Vane will understand the answer, or she will not; the keeping does not require her understanding. It requires only the rooms, the guests, the held.)*
 *Animation: Shared.*
-
 ### L28.S5 · [T] · Rose (alone)
 *Purpose: the holding — the years'; the kept, the daily. (Turns: 7)*
-> *(The holding, the years': the kept, the daily — and the keeping's rhythm.)*
-> *(It is the rhythm — the holding, the years' — the kept, the daily: the keeping's rhythm.)*
-> *(The years', the rhythm: the holding, the kept. The daily — the keeping's.)*
+> *(The holding — the years', the daily — and the war's next battle is a wobbler: the earl, old, proud, cornered by Drummond's old debts and his own pride in equal measure.)*
+> *(Rose calls in person — the holding's personal touch — and does not mention Drummond. She mentions the Hartwell rose (he gardens), the bailiff's wheat (he farms), the hard winter they both remember. They talk for an hour: two people who have both held houses through hard years.)*
+> *(At the door the earl says, "I shall come, Miss Hartwell. Someone must see what you've built." The acceptance, given like a treaty signed. The drafted regret is never mentioned. The holding, held — not gripped.)*
+> *(Letitia enters the acceptance with the ceremony of a woman recording history. The board's arithmetic shifts: another cross steadied, another room to fill, the dragon's grip loosened by courtesy.)*
+> *(Rose holds the earl's letter when it follows — the old hand, the proud seal — and thinks about holding versus gripping: he came because the door was open, not because it was barred. The keeping's whole strategy in one acceptance.)*
+> *(She writes in the household book: "The earl, held. The door, open. The grip, unneeded." The lesson, applied to aristocracy.)*
+> *(The earl's acceptance arrives by the afternoon post — formal, warm, final — and Letitia enters it with the ceremony of a woman recording a treaty. "The dragon's grip slips." Rose holds the letter — the old hand, the proud seal — and thinks about holding versus gripping: the earl came because the door was open, not because it was barred. The keeping's whole strategy in one acceptance.)*
+> *(The earl's acceptance is read aloud at dinner — Letitia performs it, with feeling — and Augusta nods once over her chocolate. "Well held," she says. It is the Dowager's whole review of the week's diplomacy, and it is enough.)*
+> *(Rose thinks about the wobblers — the marked, the courted, the won — and understands the holding's deeper truth: the ton does not follow strength. It follows certainty. The open door, held open without wavering, is the most certain thing in England The wobblers, won, become the steadiest guests of all.)*
 *Animation: Shared.*
-
 ### L28.S6 · [T] · Rose (alone)
 *Purpose: the daily — the keeping's; the kept, the ordinary. (Turns: 7)*
-> *(The daily, the keeping's: the kept, the ordinary — and the Hartwell's hours.)*
-> *(They are the hours — the daily, the keeping's — the kept, the ordinary: the Hartwell's hours.)*
-> *(The keeping's, the hours: the daily, the kept. The ordinary — the Hartwell's.)*
+> *(The daily — the keeping's, the ordinary — and between the battles, the house goes on: the routine, the round, the keeping's truth in its smallest form.)*
+> *(The chocolate comes at eight — the footman, the salver, the morning room — and the day begins the way every day begins: with the household's sacrament, served exactly, remarked by no one.)*
+> *(The lamps are lit at dusk — the long taper, the state rooms kindling one by one — and the house takes the evening the way it takes everything: in order, without fuss.)*
+> *(The dairy's butter is churned — Mrs. Alder's domain, the churn's rhythm — and the kitchen's day is measured in meals, not battles: breakfast, luncheon, dinner, the staff's tea. The cook's book balances. The book doesn't lie.)*
+> *(The blue room's window is fixed at last — a small repair, years overdue — and it feels like a victory larger than the earl's. The housemaids have the state rooms down to a rhythm. The gardener's boy has the drawing-room flowers on a rotation. The daily, maintained, maintains the house.)*
+> *(She writes in the household book: "The daily, kept. Chocolate, lamps, butter, sash cord." The ordinary, entered. The keeping's foundation, in ink.)*
+> *(The daily's small triumphs accumulate: the new footman serves the full dinner without a fault and is clapped on the back by the first footman — the highest honor in the servants' hall. The dairy's churn, repaired, produces its first perfect butter, and Mrs. Alder tastes it with the air of a judge. The blue room's window is fixed at last — a new sash cord, ten minutes' work, three years overdue. The daily, maintained, maintains the house.)*
+> *(The staff's tea is the day's hinge — the kitchen, the clatter, the brief sitting — and Rose, passing, hears the Assembly discussed in the servants' idiom: the covers, the carriages, the candles. The daily, absorbing the extraordinary without changing its nature.)*
+> *(At night the house is locked — Hodges, the rounds, the bolts — and the keeping's last act is the securing: the silver, the plate, the household's sleep. The daily ends the way it begins: exactly, and without remark The bolts slide. The house sleeps.)*
 *Animation: Shared.*
-
 ### L28.S7 · [T] · Rose (alone)
 *Purpose: the ordinary — the keeping's; the kept, the whole. (Turns: 7)*
-> *(The ordinary, the keeping's: the kept, the whole — and the years' measure.)*
-> *(It is the measure — the ordinary, the keeping's — the kept, the whole: the years' measure.)*
-> *(The keeping's, the measure: the ordinary, the kept. The whole — the years'.)*
+> *(The ordinary — the keeping's, the whole — and the village catches the Assembly fever: the cottages, the street, the whole Park's own preparing its part.)*
+> *(The village widow, at number six, is making favors — small bunches of lavender, tied with ribbon, for the Assembly's village guests. "The Park's own," she says, "for the Park's own." The blacksmith's granddaughter is practicing her curtsy. The carpenter's eldest has been engaged for the ballroom's last-minute repairs — "the Park's work, for the Park's night." The whole village, enlisted.)*
+> *(The schoolchildren are the most excited: the schoolmistress has them making paper roses — "like the Hartwell's," she says — for the schoolroom's Assembly display. Rose visits and is presented with a paper rose of surpassing lumpiness by the blacksmith's granddaughter. "It's the Hartwell rose, miss." "It is perfect," Rose says, and means it. The paper rose goes into the household book, pressed between the pages.)*
+> *(The bailiff is unmoved by the fever — "The wheat doesn't care about balls, miss" — but he has ordered the farmyard swept and the hedges trimmed along the drive, which from him is delirium. The coachman has the carriage horses' manes braided in the show pattern. Even the head housemaid has relented: the village guests' linen gets the rose fold. The ordinary, enlisted.)*
+> *(The village committee — self-appointed, unstoppable — presents its plan: the church bells at the ball's opening, the paper roses in the hall, the tenants' guard of honor along the drive. Rose accepts the whole plan without amendment. The ordinary, organizing itself, needs no mistress — only her thanks, given properly, in person, at the cottages' doors.)*
+> *(She writes in the household book: "The village enlisted. Paper roses (lumpy, perfect). The yard swept — delirium. The Assembly is the Park's, not the ton's." The ordinary — the keeping's, the whole — and the kept, turning out.)*
+> *(The village's Assembly committee — self-appointed, unstoppable — presents Rose with its plan: the church bells at the ball's opening, the schoolchildren's paper roses in the hall, the tenants' guard of honor along the drive. "The Park's own," the village widow says, "for the Park's night." Rose accepts the whole plan without amendment. The ordinary, organizing itself, needs no mistress.)*
+> *(The committee's plan is entered in the household book — bells, roses, guard of honor — with the names of every volunteer. Harrow, reading it, says, "The village will remember this." "The village," Rose says, "is remembering already." The ordinary, committed to ink.)*
 *Animation: Shared.*
-
 ### L28.S8 · [T] · Rose (alone)
 *Purpose: the measure — the keeping's; the kept, the proven. (Turns: 7)*
-> *(The measure, the keeping's: the kept, the proven — and the Hartwell's standard.)*
-> *(It is the standard — the measure, the keeping's — the kept, the proven: the Hartwell's standard.)*
-> *(The keeping's, the standard: the measure, the kept. The proven — the Hartwell's.)*
+> *(The measure — the keeping's, the proven — and Rose does the final count with Harrow: the steward's method, once for the sum, once for the nerve.)*
+> *(The covers: laid in rotation, the dining room's table dressed for the inspection, the silver in a long gleaming rank. Every place ready, every glass polished. The nerve holds.)*
+> *(The carriages: the yard planned to the stall, the coachman's order of march, the drive's gravel raked. The arrivals, choreographed to the minute.)*
+> *(The flowers: all Hartwell-grown, the boy's rotation, the great vases filled. The house's own blooms, for the house's own triumph.)*
+> *(The music: ordered. The ice: ordered — Mrs. Alder's war declaration, fulfilled. The measure accumulates, item by item, and every item is ready, or in train, or ordered. Nothing unfinished.)*
+> *(She writes in the household book: "The measure complete. Nothing unfinished. The rooms will be full." The proven, entered. The keeping, ready.)*
+> *(The measure's last item is the weather: Harrow consults the barometer, the gardener consults the sky. "Fair," they agree, unanimously, which for three such disputatious men is a marvel. Rose writes it in the book — "Weather: fair (unanimous)" — and the measure is complete: the covers, the carriages, the flowers, the music, the ice, the sky. Nothing unfinished. Nothing uncounted.)*
+> *(Harrow's final report is delivered in the office — the ledgers, the figures, the steward's calm — and every column agrees: the measure is complete, the accounts balanced, the household ready. "The rooms," Harrow says, "will be full." It is the whole of the strategy, in four words, and the steward has never been wrong about rooms Rose initials the final page, and the steward blots it, and the measure is entered: complete.)*
+> *(Rose walks the measured house at dusk — the covers laid, the yard ordered, the flowers filled — and the measure sits over it all like a blessing: nothing unfinished, nothing uncounted, nothing unready. The music's rehearsal drifts from the ballroom, the violins tuning, and the house takes the sound as its due. The keeping, proven. The Assembly, imminent Tomorrow the guests come in force, and the house will be ready — as it is ready now, as it has been made ready, item by item.)*
 *Animation: Shared.*
-
 ### L28.S9 · ★ KEY DECISION 1/3 · Rose (alone)
 *Purpose: ★ KEY DECISION 1/3 — THE KEEPING'S LESSON (what the keeping teaches: the holding, the whole, or the held). The years deepen; decide the lesson. (Turns: 3 — the decision)*
-> *(The years deepen, and the keeping asks its lesson: the holding — the years', the daily's; the whole — the Hartwell's, the kept's; or the held — the keeping's, the shown. The lesson will shape the keeping's memory.)*
-> *(The holding: the daily's. The whole: the kept's. The held: the shown's.)*
+> *(The twentieth morning, and the keeping is asking its question. Rose stands in the ballroom — the chandeliers unbagged now, the floor gleaming — and understands that the fortnight of preparation has built to this: the keeping wants its lesson named.)*
+> *(Three lessons, and all of them true. The holding — the years', the daily's: the earl recovered by holding, not gripping; the daily maintained; the rooms held ready. The lesson of the holding says: the keeping is the holding. Not the seizing, not the displaying — the steady keeping, day by day.)*
+> *(The whole — the Hartwell's, the kept's: two hundred and sixty-odd acceptances, the zones, the village, the paper roses. The lesson of the whole says: the keeping is the whole. Not the ballroom alone, but everything — the kitchens and the cottages, the flowers and the favors. The held is the whole, or it is nothing.)*
+> *(The held — the keeping's, the shown: the house dressed, the silver gleaming, the boy's flowers. The lesson of the held says: the keeping is the showing. The held must be shown — the whole held, displayed, witnessed. A kept secret is not kept; it is hidden. The keeping's truth is in the showing.)*
+> *(Three lessons. The holding is true — she has the earl's handshake to prove it. The whole is true — she has the village's paper roses. The held is true — she has the ballroom's gleam. Rose walks the ballroom's length — the floor, the chandeliers, the empty air — and holds the three up to the morning light the way the head housemaid holds a sheet, checking for stains. None of them stain. That is the difficulty.)*
 *★ KEY DECISION 1/3 — The keeping's lesson:*
-- **The holding** — *the daily, taught.* The lesson is holding — the years', the daily's. (Consequence: the lesson is the daily's — but dailys are ordinary, and the keeping was the Hartwell's.)
-- **The whole** — *the kept, taught.* The lesson is whole — the Hartwell's, the kept's. (Consequence: the lesson is the kept's — but kepts are held, and the keeping was the years'.)
-- **The held** — *the shown, taught.* The lesson is held — the keeping's, the shown. (Consequence: the lesson is the shown's — but showns are seen, and the keeping was the keeping's.)
-> *(The game remembers the choice — and the means: holding, whole, or held. The keeping's lesson is hers.)*
+- **The holding** — *the daily, taught.* The lesson is holding — the steady keeping, day by day, not the seizing. (Consequence: the lesson will be the daily practice — the letters, the holding, the rooms kept ready.)
+- **The whole** — *the kept, taught.* The lesson is the whole — not the ballroom alone, but everything: the kitchens and the cottages, the flowers and the favors. (Consequence: the lesson will be the whole — Hartwell entire, held or nothing.)
+- **The held** — *the shown, taught.* The lesson is showing — the held must be shown, witnessed, seen. A kept secret is hidden; a kept house is displayed. (Consequence: the lesson will be the showing — the house opened, the gleam on view.)
+> *(Hodges comes with the morning's post — the salver, the bow — and sees her face, and says, "You'll decide it wrong if you hurry, miss." Rose stares. "Who told you that?" "The coachman, miss. Who had it from the gardener. Who had it — " "From my father. I know." They look at each other — the butler and the mistress — and Hodges permits himself the faintest smile. "The philosophy," he says, "is now house policy." The keeping's lesson is hers to decide, and the deciding wants doing without hurry, without fuss, with complete attention.)*
 *Animation: Shared.*
-
 ### L28.S10 · [T] · Rose (alone)
 *Purpose: the lesson — the keeping's; the kept, the taught. (Turns: 7)*
-> *(The lesson, the keeping's: the kept, the taught — and the years' teaching.)*
-> *(It teaches — the lesson, the keeping's — the kept, the taught: the years' teaching.)*
-> *(The keeping's, the teaching: the lesson, the kept. The taught — the years'.)*
+> *(The lesson, decided, wants using — and Rose uses it the way she uses everything: immediately, practically, before luncheon.)*
+> *(If the lesson was the holding, she writes to the four remaining crosses — not pressure, but holding: the rooms are ready, the welcome is genuine, the door is open. If the whole, she walks the full circuit — house, village, farm, garden — and checks every part of the whole against the Assembly's needs. If the held, she orders the final showing: the state rooms opened to the afternoon light, the silver's last burnish, the flowers at their peak — the held, displayed.)*
+> *(Whichever it is, the doing is the proof. The holding's letters go out — gracious, unhurried, final. The whole's circuit is walked — the hedges, the yard, the schoolroom's paper roses. The held's showing is ordered — the light, the silver, the blooms. The lesson — the keeping's, the taught — and the kept, applied.)*
+> *(The household answers the application the way it answers everything: by doing. The footman takes the letters. The housemaids walk the circuit with her. The head housemaid burnishes the silver herself — "for the showing," she says, as though it were a military operation. The keeping, applied, is simply the keeping, continued — which is the whole of the lesson.)*
+> *(Letitia, told at luncheon, nods slowly. "The lesson suits you. You've been living it all season — you just hadn't named it." "The naming," Rose says, "is the game." "The naming," Letitia agrees, "is everything. The ton runs on names." They look at the board — two hundred and sixty-odd, four crosses — and the named lesson sits over it like a crest.)*
+> *(She writes in the household book: "Lesson decided, applied. The application is the continuation. The naming is the game." The lesson holds. The keeping goes on.)*
+> *(The application's first fruit arrives by return post: two of the four crosses answer the holding letters — gracious acceptances, the dragon's grip loosened. Letitia enters them with trembling hands. The holding, applied, holds. Rose looks at the board — the crosses falling, the rooms filling — and the lesson sits over it all, named and working.)*
+> *(The holding's evening check: the board, the letters, the board again. Letitia does the figures twice — "Twice, because I'm a professional" — and the figures agree: the holding holds. The lesson, named, numbered, working.)*
 *Animation: Shared.*
-
 ### L28.S11 · [T] · Rose (alone)
 *Purpose: the shown — the keeping's; the kept, the seen. (Turns: 7)*
-> *(The shown, the keeping's: the kept, the seen — and the Hartwell's evidence.)*
-> *(It is the evidence — the shown, the keeping's — the kept, the seen: the Hartwell's evidence.)*
-> *(The keeping's, the evidence: the shown, the kept. The seen — the Hartwell's.)*
+> *(The shown — the keeping's, the seen — and the house gets its first audience: the early arrivals, the vanguard of the Assembly.)*
+> *(The duchess comes first — the cutting-promised duchess, gracious as ever — and Rose walks her through the state rooms herself: the blue room ("the morning light — you were right"), the drawing rooms (the boy's flowers), the ballroom (the gleam). The duchess, who has seen every great house in England, stops in the ballroom and says, "My dear. It is — whole." One word. The perfect review.)*
+> *(The countess comes next — the gardener-countess, the rose's admirer — and goes straight to the walled garden: the Hartwell rose, the second bloom, the third coloring. She stands before it for a long time, and then turns to Rose and says, "You bred this. In this garden. While running all that." She gestures at the house. "I don't know whether to congratulate you or report you." They laugh — the garden's laugh, easy and real.)*
+> *(Mrs. Almeria Fane comes with her girl — in grey ("the rose does the talking" — she remembered) — and the girl is presented with the paper rose's real counterpart: a bloom from the bush, cut by the gardener's boy with ceremony. "For the Assembly," Rose tells her. "Grey and silver, and the rose." The girl holds the bloom like a commission. The shown — the keeping's, the seen — and the kept: the vanguard, won.)*
+> *(That evening the three guests dine — the duchess, the countess, Mrs. Fane and her girl — and the dining room's silver catches the candlelight, and Mrs. Alder's supper is pronounced (by the duchess) "the best in England," and Rose sits at the head of her own table, in her own house, with the ton's vanguard around her, and thinks: the shown is the keeping's truth. The house, seen, is believed.)*
+> *(She writes in the household book: "The vanguard: whole (duchess), the rose (countess), grey and silver (the girl). The shown is believed." The keeping's first audience, won.)*
+> *(The vanguard's reports go out by the evening post — the duchess to her circle, the countess to hers, Mrs. Fane's girl to everyone she knows. Letitia tracks the ripples the way Harrow tracks the accounts: "The duchess said 'whole' to three people. The countess described the rose for an hour." The shown, reported. The keeping's truth, traveling by teacup.)*
 *Animation: Shared.*
-
 ### L28.S12 · [T] · Rose (alone)
 *Purpose: the seen — the years'; the kept, the witnessed. (Turns: 7)*
-> *(The seen, the years': the kept, the witnessed — and the keeping's record.)*
-> *(It is the record — the seen, the years' — the kept, the witnessed: the keeping's record.)*
-> *(The years', the record: the seen, the kept. The witnessed — the keeping's.)*
+> *(The seen — the years', the witnessed — and Bell comes to inspect the kitchens, as promised: the Gazette's proprietor, in her traveling dress, with her pencil-book.)*
+> *(Rose meets her at the door herself — the mistress receiving the press — and Bell looks at the house with the eye of a woman who has described it from gossip and refuses to do so again. "Show me," she says. No preamble. Rose shows her: the kitchens first (as promised), Mrs. Alder's range, the bread coming out of the oven. Bell watches the whole operation in silence, making notes. "The book," she says at last, pointing at the kitchen account. Mrs. Alder shows it. Bell reads three pages, nods once.)*
+> *(The laundry next — the head housemaid's starch, the rose-fold napkins — and Bell holds a napkin to the light the way the head housemaid does, checking. "Satisfactory," she says, dry as ever. The head housemaid, who has never been reviewed by the press, stands a fraction straighter. The yard next — the coachman's horses, the forge — and Bell watches the farrier work without flinching. "Horses don't lie," the coachman tells her. "No," Bell agrees. "That is why I prefer them to the ton.")*
+> *(They end in the walled garden — the Hartwell rose, the blooms — and Bell stands before it for a long time, the pencil-book closed. "Well," she says at last. "The clubs were right." It is the closest Bell comes to praise. Rose, who has learned the Gazette's dialects, understands: this is a rave.)*
+> *(Over chocolate in the morning room — the proprietor and the mistress, the pencil-book put away — Bell says, "I shall write it as I see it." "I would expect nothing else." "Good. Flattery would be an insult — to both of us." They drink the chocolate. The seen — the years', the witnessed — and the kept: Bell, shown everything, pencil ready.)*
+> *(She writes in the household book: "Bell inspected: kitchens, laundry, yard, garden. Verdict: the clubs were right. The sting will be just." The Gazette's witness, hosted. The keeping, seen truly.)*
+> *(Bell's pencil-book, glimpsed over chocolate, contains a single line about the kitchens that Rose manages to read upside down: "The book doesn't lie." She says nothing — the proprietor's notes are sacrosanct — but the line follows her all day: the Gazette's verdict, forming, in Mrs. Alder's own philosophy. The seen, noted. The keeping, quoted accurately.)*
 *Animation: Shared.*
-
 ### L28.S13 · [T] · Rose (alone)
 *Purpose: the later years — the keeping's; the held's, the deepened. (Turns: 7)*
-> *(The later years: the keeping's — the held's, the deepened — and the Hartwell's time.)*
-> *(They deepen — the years, the keeping's — the held, the deepened: the Hartwell's time.)*
-> *(The held's, the time: the later years, the keeping's. The deepened — the Hartwell's.)*
+> *(The later years — the keeping's, the deepened — and the old retainers get their Assembly: the almshouses' pensioners, the ones who held through the ruin.)*
+> *(Rose brings the Assembly to them first — a private viewing, the day before the ton arrives. The oldest of them, the coachman who drove her grandfather, is led through the state rooms on Rose's arm, and he touches the joiner's shelves, the mason's terrace, the ballroom's floor with the hands that held the reins. "The house," he says at last, standing in the ballroom, "is herself again." He weeps — openly, unashamed — and Rose holds his arm, and does not look away.)*
+> *(His wife does the kitchens — her old domain, the stillroom — and inspects Mrs. Alder's operation with the eye of a predecessor. "The book," she says, pointing. Mrs. Alder shows it. She reads, nods, and says, "Satisfactory." The two cooks — past and present — regard each other with complete mutual respect. The later years, honoring the present.)*
+> *(They take tea in the morning room — the pensioners, the mistress, the Dowager (who insisted) — and Augusta, who has known the old coachman for decades, says, "You held." "The house was worth holding, Your Ladyship." "It was. It is." The old ones sit with their tea, and Rose watches them and understands the later years completely: the keeping's reward is not the pension. It is this — the house, herself again, witnessed by the ones who held her.)*
+> *(Walking them back to the almshouses at dusk, Rose thinks about the deepened: the tended's evening, the keeping's promise, kept. The old coachman's hand on her arm is light. His wife's keys — the old iron ring — chime at her waist. The later years, honored.)*
+> *(She writes in the household book: "The old coachman: the house is herself again. The keeping's reward is the witnessing." The later years — the keeping's, the held's, the deepened — and the kept: the pensioners, shown first.)*
+> *(The pensioners' verdict on the Assembly is delivered at the almshouses' gate: The old coachman grips Rose's hand — "Make them see it, miss" — and his wife presses the old iron keys into her palm for luck. "They opened the same doors," she says. Rose carries the keys in her pocket all the next day — heavy, cold, certain. The later years, arming the present.)*
 *Animation: Shared.*
-
 ### L28.S14 · [T] · Rose (alone)
 *Purpose: the witnessed — the keeping's; the kept, the proven. (Turns: 7)*
-> *(The witnessed, the keeping's: the kept, the proven — and the Hartwell's seal.)*
-> *(It is the seal — the witnessed, the keeping's — the kept, the proven: the Hartwell's seal.)*
-> *(The keeping's, the seal: the witnessed, the kept. The proven — the Hartwell's.)*
+> *(The witnessed — the keeping's, the proven — and the final preparations are witnessed by the whole household: the ballroom's last dressing, the Assembly's eve-eve.)*
+> *(The chandeliers are lit for the trial — the candles, the ballroom's full blaze — and the staff gather in the doorway to see it: the maids, the lads, the kitchen girls, the footmen, the housemaids, Mrs. Alder, Harrow. The light comes up like a sunrise indoors, and there is a collective intake of breath — the tended, witnessing the kept. Rose stands among them, not apart, and the ballroom blazes, and nobody speaks.)*
+> *(Then Mrs. Alder says, "Well. That'll do," and the spell breaks into laughter — the household's laugh, easy and proud. The trial is a triumph: the light, the gleam, the whole. A housemaid wipes her eyes and pretends it's the candle smoke. The coachman says, "Aye," which from him is a speech. The witnessed — the keeping's, the proven — and the kept: the ballroom, blazing, approved by its makers.)*
+> *(The flowers go in next — the boy's rotation, the Hartwell-grown, the drawing rooms and the ballroom both — and the ballroom, blazing and blooming, is suddenly the series' grandest occasion in waiting. Rose walks the floor — the gleam, the scent, the light — and the fortnight of preparation compresses into this: the keeping, witnessed, proven, ready.)*
+> *(Letitia finds her there after the staff disperse — the social general, uncharacteristically quiet. "It's real," she says. "All season I planned it, and now it's real." "It's the keeping," Rose says, "witnessed." They stand in the blazing ballroom, the aunt and the niece, and the Assembly is suddenly, completely, imminent.)*
+> *(She writes in the household book: "The trial blaze: the household witnessing. Mrs. Alder: that'll do. The Assembly is imminent." The witnessed — the keeping's, the proven — and the kept: the eve-eve, blazing.)*
+> *(The trial blaze's aftermath: the staff disperse to their stations with the light still in their eyes, and the house hums — the corridors, the kitchens, the yard — with the particular energy of people who have seen the thing they are making. The footmen polish the already-polished. The housemaids re-dust the dusted. The witnessed, working. The keeping, proven twice over.)*
 *Animation: Shared.*
-
 ### L28.S15 · [C] · the keeping's dress — dressing-for-climax ritual
 *Purpose: the keeping's thesis — dress the holder; direction + twenty 5-coin pins, story morsels between, reveal coda. (Turns: 21)*
 > **Occasion brief — the keeping:** "The held shows as the Hartwell's whole. The keeping's hour. Dress for the holder — the woman who holds it. **Editorial criterion: holding.**"
@@ -160,186 +211,263 @@
 
 ### L28.S16 · [T] · Rose (alone)
 *Purpose: the proven, the kept — the keeping's; the held's, the forever. (Turns: 7)*
-> *(The proven, the kept: the keeping's — the held's, the forever — and the keeping's seal.)*
-> *(It is the kept — the proven, the keeping's — the held's, the forever: the keeping's seal.)*
-> *(The kept, the forever: the proven, the keeping's. The held's — the keeping's.)*
+> *(The proven, the kept — and the keeping gets its certificate: Augusta's final review, the Dowager's seal on the fortnight's work.)*
+> *(She does it properly — the full progress, the whole Park, the establishment's eye. The state rooms ("the picture is true now"), the ballroom ("the blaze was well judged"), the kitchens ("Mrs. Alder's book is exemplary"), the garden ("the rose is everything it should be"). Each zone, examined. Each zone, passed. Rose walks behind her, the week's student become the fortnight's graduate.)*
+> *(At the village the widow's favors are inspected — the lavender bunches, the ribbon — and the widow receives the Dowager's nod with the composure of an equal. "The Park's own," Augusta says, "for the Park's own. Well conceived." The widow, who has faced down a lifetime of Hartwells, goes pink with pleasure. The proven, the kept — the establishment, endorsing the cottages.)*
+> *(They end in the ballroom — the empty blaze, the flowers, the gleam — and Augusta stands in the center of the floor and turns slowly, taking the whole. "Rose," she says — and she uses the name, not the title, which she does perhaps twice a year — "the house is ready. You are ready." It is the certificate. The Dowager's seal. Rose curtsies — deep, exact — and does not trust herself to speak.)*
+> *(Driving back to the house, Augusta says, "Drummond will come." Rose looks up. "She will?" "She must. Not coming is the concession. She knows it." The dragon's attendance, predicted by the Dowager's strategy. Rose holds the sentence all the way home: the last battle, foretold.)*
+> *(She writes in the household book: "Augusta's certificate: the house is ready. You are ready. Drummond will come — not coming is the concession." The proven, the kept — the keeping's; the held's, the forever — and the kept: the Dowager's seal, in ink.)*
+> *(The certificate's postscript comes at breakfast: Augusta, over the chocolate, says, "The program wants one line more." She dictates it; Harrow writes it; Rose reads it aloud: "The Hartwell Assembly — a yearly house party and ball, convened by Miss Hartwell, on her terms." The room is quiet. It is the first time the declaration has been spoken in full. The proven, proclaimed.)*
 *Animation: Shared.*
-
 ### L28.S17 · [T] · Rose (alone)
 *Purpose: the seal — the keeping's; the kept, the held. (Turns: 7)*
-> *(The seal, the keeping's: the kept, the held — and the Hartwell's mark.)*
-> *(It is the mark — the seal, the keeping's — the kept, the held: the Hartwell's mark.)*
-> *(The keeping's, the mark: the seal, the kept. The held — the Hartwell's.)*
+> *(The seal — the keeping's, the held — and Rose seals the Assembly: the invitations' final form, the program, the Hartwell crest in wax.)*
+> *(The program is Harrow's work — the steward's masterpiece: the week's order, the ball's program, the village's part, printed by the county press on the Park's own paper. Rose reads it at the office table — the music, the supper, the flowers, the rose — and the fortnight compresses into pages: the keeping, documented. She signs the first copy with the Hartwell name, and Harrow seals it with the crest, and the wax is the exact red of the rose.)*
+> *(The seal goes on everything: the invitations (the last of the crosses — answered, two of them, by return), the programs, the favors' ribbons, the wine's labels. The Hartwell crest, in wax, on the Assembly's every surface. "The seal," Harrow says, "is the house's signature." He stamps the last program with the particular satisfaction of a man signing his life's work.)*
+> *(Letitia, watching the sealing, says, "It's the opposite of the Network's paper. Theirs was weapons. This is — " "A promise," Rose says. "Yes. A promise, in wax." The plot arc's old war — the paper, the poison — inverted: the keeping's paper, sealed, promising. The ton will break the seals and read the promise. That is the whole of the strategy.)*
+> *(The sealed programs go out with the afternoon post — the last letters of the campaign — and Rose stands at the morning room window watching the footman carry the bundle, and the seal — the keeping's, the held — sits on every one: the crest, the rose-red wax, the house's signature. The Assembly, sealed.)*
+> *(She writes in the household book: "The program sealed — crest, rose-red wax. The opposite of the Network's paper: a promise, not a weapon." The seal — the keeping's; the kept, the held — and the kept: the signature, in wax.)*
+> *(The seal's red wax runs short — a crisis, tiny — and Mrs. Quick produces the stillroom's sealing wax, "the good red," kept for the household's own letters. The crest is stamped in the stillroom's wax, and the shade matches the rose exactly, and Harrow — examining the impression — says, "Satisfactory." The seal, kept by the stillroom. The house provides.)*
 *Animation: Shared.*
-
 ### L28.S18 · [T] · Rose (alone)
 *Purpose: the lesson — the holding, the whole, the held; the kept's. (Turns: 7)*
-> *(The lesson: the holding, the whole, the held — the kept's — and the years' teaching.)*
-> *(It teaches — the lesson, the kept's — the holding, the whole, the held: the years' teaching.)*
-> *(The kept's, the teaching: the lesson, the holding. The years' — the kept.)*
+> *(The lesson, walked — and Rose takes the keeping's decision out for its paces: the holding, the whole, the held, tested against the Assembly's eve.)*
+> *(The holding, walked: she goes to the morning room and rereads the four crosses' letters — the gracious holdings, the open doors — and the holding is exactly what she decided: the steady keeping, not the gripping. Two of the crosses have answered. Two remain. Walking it, she believes it completely.)*
+> *(The whole, walked: she walks the full circuit — house, village, farm, garden — and the whole is exactly what she decided: everything, everywhere, ready. The hedges trimmed. The yard swept. The paper roses displayed. The wheat standing. Walking it, she believes it completely.)*
+> *(The held, walked: she walks the state rooms in the afternoon light — the silver, the flowers, the gleam — and the held is exactly what she decided: the showing, the truth of the keeping. The house, displayed. The held, believed. Walking it, she believes it completely.)*
+> *(Three walks, three beliefs, all sincere. Rose sits on the terrace wall at dusk, slightly out of breath and entirely out of certainty, and laughs at herself: she decided the lesson days ago, and here she is re-deciding it with her feet. The gardener's boy, passing with the watering can, observes her laughing alone and does not break stride. The estate has seen stranger things. It has seen her.)*
+> *(She writes in the household book: "Walked all three lessons. All true. Decision stands." Because that is the thing about lessons: you decide, and then you keep deciding, every day, with your feet. The holding, the whole, the held — the kept's, all three, and the walking is the proof.)*
+> *(The walked lesson's coda: at the garden gate, the gardener's boy — watering can, nod — asks, "Ready, miss?" It is the first time he has asked her anything directly. "Nearly," Rose says. "The walking helps." "Aye," he says. "Walking always does." He goes back to the roses. The lesson, walked, is pronounced good by the youngest philosopher on the estate.)*
+> *(The walked lesson's longer coda: she walks it once more at dusk, for the pleasure of it — the holding, the whole, the held — and the estate walks with her: the lamps lit, the windows warm, the Park exhaling the day. The lesson, re-walked, is confirmed: the feet know.)*
 *Animation: Shared.*
-
 ### L28.S19 · [T] · Rose (alone)
 *Purpose: the mark — the keeping's; the kept, the held. (Turns: 7)*
-> *(The mark, the keeping's: the kept, the held — and the Hartwell's sign.)*
-> *(It is the sign — the mark, the keeping's — the kept, the held: the Hartwell's sign.)*
-> *(The keeping's, the sign: the mark, the kept. The held — the Hartwell's.)*
+> *(The mark — the keeping's, the held — and the Assembly gets its mark: the Hartwell rose, everywhere, the flower as the house's signature.)*
+> *(The boy's rotation becomes the Assembly's scheme: the Hartwell rose — the blooms, the buds, the color — in every room, on every table, at every place. Not ostentatious — the gardener's boy has the eye for that — but present: the coal-fire pink against the silver, the scent under the candlelight. The house's achievement, literal and living, marking its own triumph.)*
+> *(Rose walks the rooms as the flowers go in — the drawing rooms, the dining room, the ballroom — and the mark accumulates: the rose, the rose, the rose. It is not decoration. It is declaration: the keeping's flower, bred in the reclaimed garden, carried through ten seasons to this. The ton will see it. The ton will understand. That is the whole of the floriography.)*
+> *(Élise's letter arrives with the flowers — the atelier's final note on the housewarming gown: "The grey silk is ready. The silver thread holds the rose's shade. Come to London — or I come to you. The gown will not wait." Rose holds the letter, and the mark — the keeping's, the held — suddenly includes herself: the mistress, dressed as the house's signature. Grey and silver. The rose at the shoulder.)*
+> *(She writes in the household book: "The mark: the rose everywhere. Élise's gown ready — grey and silver, the shoulder. The mistress as the house's signature." The mark — the keeping's; the kept, the held — and the kept: the flower, declaring.)*
+> *(That evening she stands before the glass in her oldest dress and tries the shoulder — the rose's place, the emblem's seat — and the girl in the glass looks back: twenty-five, the keeper, the holder. The mark suits her. The Assembly will see.)*
+> *(The mark's excess — for there is excess, and Rose knows it — is debated with Letitia over the household book: too many roses? "There is no such thing," Letitia declares, "as too many of the right flower." "That's not a rule." "It's my rule." The mark stands: the rose, everywhere. The keeping's declaration, unamended.)*
+> *(The mark's arithmetic: the rose in forty vases, at two hundred and sixty-odd places, on every program's ribbon. The stillroom counts the stems; Mrs. Quick counts the ribbons; the boy counts the blooms. The mark, numbered, is the house's signature in quantity.)*
 *Animation: Shared.*
-
 ### L28.S20 · [T] · Rose (alone)
 *Purpose: the sign — the years'; the kept, the keeping's. (Turns: 7)*
-> *(The sign, the years': the kept, the keeping's — and the Hartwell's emblem.)*
-> *(It is the emblem — the sign, the years' — the kept, the keeping's: the Hartwell's emblem.)*
-> *(The years', the emblem: the sign, the kept. The keeping's — the Hartwell's.)*
+> *(The sign — the years', the keeping's — and the ton's talk reaches Hartwell: the signs, the portents, the season's verdict forming.)*
+> *(Letitia brings the intelligence — the social general's dispatches: the clubs are talking of nothing but the Assembly. The Hartwell rose is "the flower of the season." The household is "the best-ordered in England." The mistress is — Letitia pauses, savoring — "the woman who changed the Season." Bell's phrase, traveling. Rose feels the sign land: the Gazette's verdict, already forming, already traveling.)*
+> *(The signs are good, and Rose — the season's veteran — distrusts good signs on principle. "What are they saying against?" "Nothing," Letitia admits. "That's what's frightening. Even the cats are being kind." They laugh — the war's laugh, thin — but the signs hold: the acceptances, the talk, the vanguard's reports. The ton's verdict is forming, and it is favorable.)*
+> *(Augusta, told the signs, nods once. "The ton follows the full rooms. It always has." It is the establishment's whole sociology in one sentence. Rose writes it in the household book under the signs: the ton follows the full rooms. The keeping's strategy, confirmed by the Dowager's science.)*
+> *(A sign of the other kind arrives at dusk: Drummond's reply — the unopened letter from the fortnight's first morning, answered at last. Rose holds it — the heavy paper, the familiar hand — and does not open it. Not yet. The sign wants its proper hour. She puts it with the program, under the seal. Tomorrow.)*
+> *(She writes in the household book: "The signs: the clubs, the rose, the woman who changed the Season. Drummond's reply arrived — unopened until tomorrow." The sign — the years'; the kept, the keeping's — and the kept: the verdict, forming.)*
+> *(The signs' exception — for there is always one — is Mrs. Vane's second note: polite, pointed, noncommittal. Letitia reads it and snorts. "She's waiting to see the rooms." "Then she'll see them," Rose says. The signs hold regardless: the clubs, the rose. One noncommittal note cannot move the arithmetic.)*
+> *(The signs' weather vane: the barometer holds, the sky holds, the bailiff's knee holds. "Fair," they say, three for three. Rose adds it to the signs — the clubs, the rose, the sky — and the ton's verdict forms under a fair sky, which is exactly how verdicts should form.)*
 *Animation: Shared.*
-
 ### L28.S21 · [T] · Rose (alone)
 *Purpose: the emblem — the keeping's; the kept, the worn. (Turns: 7)*
-> *(The emblem, the keeping's: the kept, the worn — and the years' sign.)*
-> *(It is the sign — the emblem, the keeping's — the kept, the worn: the years' sign.)*
-> *(The keeping's, the sign: the emblem, the kept. The worn — the years'.)*
+> *(The emblem — the keeping's, the worn — and Rose decides the Assembly's emblem: the Hartwell rose, carried, the flower as the kept's signature.)*
+> *(It is the decision the three weeks have been building toward: the bloom (Ch26's dawn), the tended (Ch27's hands), the keeping (this week's whole) — condensed to a single flower, carried at the shoulder. Grey silk, silver thread, the coal-fire pink. Élise's gown. The gardener's bloom. The house's mark. The emblem, worn.)*
+> *(She goes to the garden at dawn — the walled garden, the bush, the blooms — and the gardener's boy cuts the emblem bloom with ceremony: the finest of the open flowers, the stem stripped of its thorns ("the ton needn't bleed," the boy says), the color at its deepest. Rose holds it — the weight, the scent, the ten seasons — and the emblem is suddenly, completely, hers.)*
+> *(Letitia, shown the emblem at breakfast, goes quiet — the unprecedented quiet — and then says, "It's the whole story. In one flower." "That's the idea." "The ton won't understand it." "The ton," Rose says, "doesn't need to. I do." The emblem is not for them. It is for her — the keeping's signature, worn where she can see it.)*
+> *(She practices with it — the shoulder, the grey silk's stand-in (her oldest dress, pressed into service) — and the boy's bloom sits at the shoulder like it grew there. The emblem — the keeping's, the worn — and the kept: the flower, the gown, the woman, aligned.)*
+> *(She writes in the household book: "The emblem: the Hartwell rose, at the shoulder. Not for the ton — for me. The keeping's signature, worn." The emblem decided. The Assembly, imminent.)*
+> *(The emblem's rehearsal: Rose wears the bloom through the whole of the eve's afternoon — the shoulder, the grey silk's stand-in — and forgets it is there, which is how she knows it is right. The boy, seeing it at the garden gate, nods once: "Suits, miss." The emblem, road-tested. The keeping's signature, wearable.)*
+> *(The emblem's meaning, discussed with Augusta over tea: "A flower at the shoulder," the Dowager says. "The house's mark, worn." She studies it. "It will do." From Augusta, this is a coronation. The emblem, Dowager-approved.)*
 *Animation: Shared.*
-
 ### L28.S22 · ★ KEY DECISION 2/3 · Rose (alone)
 *Purpose: ★ KEY DECISION 2/3 — THE HOLDER'S GIFT (how the keeping is marked: the grip, the seal, or the held). The years deepen; decide the marking. (Turns: 3 — the decision)*
-> *(The years deepen, and the holder asks her marking: the grip — the Hartwell's, the held's; the seal — the keeping's, the proven's; or the held — the shown's, the kept's. The marking will shape the holder's memory.)*
-> *(The grip: the held's. The seal: the proven's. The held: the kept's.)*
+> *(The twenty-first morning, and the keeping is ready to be marked — Rose stands in the sealed, flowered, blazing house, and understands that the fortnight has built to this: the holder's gift, the marking, hers to decide.)*
+> *(Three markings, and each of them true. The grip — the Hartwell's, the held's: mark the keeping with the grip. Her own hand on the Assembly — the mistress's personal seal on every detail, the speech she will give, the welcome she will speak, the rooms held by her presence. The marking of the grip says: the keeper is the mark. The house is held because she holds it.)*
+> *(The seal — the keeping's, the proven's: mark the keeping with the seal. The formal seal — the program sealed, the charter of the Assembly proclaimed, the Hartwell Assembly declared as an institution, yearly, on her terms. The marking of the seal says: the keeping is the mark. The house's promise, made permanent, proclaimed.)*
+> *(The held — the shown's, the kept's: mark the keeping with the held. The house itself — the zones, the flowers, the silver, the whole held, displayed — as the mark. No speech, no seal, no institution: the keeping, shown, is the marking. The marking of the held says: the shown is the mark. The house speaks for itself.)*
+> *(Three markings. The grip is true — she has the blister and the handshake to prove it. The seal is true — the program waits, sealed, in wax. The held is true — the house stands ready, gleaming. Rose stands in the ballroom — the blaze, the blooms, the gleam — and holds the three up to the candlelight the way Harrow holds a page to the lamp, checking the ink. None of them fade. That is the difficulty.)*
 *★ KEY DECISION 2/3 — The holder's gift:*
-- **The grip** — *the held, marked.* The keeping is marked with the grip — the Hartwell's, the held's. (Consequence: the marking is the held's — but helds are kept, and the keeping was the Hartwell's.)
-- **The seal** — *the proven, marked.* The keeping is marked with the seal — the keeping's, the proven's. (Consequence: the marking is the proven's — but provens are shown, and the keeping was the years'.)
-- **The held** — *the kept, marked.* The keeping is marked with the held — the shown's, the kept's. (Consequence: the marking is the kept's — but kepts are held, and the keeping was the keeping's.)
-> *(The game remembers the choice — and the means: grip, seal, or held. The holder's gift is hers.)*
+- **The grip** — *the held, marked.* Mark the keeping with the grip: her own hand on the Assembly — the welcome she speaks, the rooms held by her presence. (Consequence: the marking will be her hand — the keeper is the mark, and the house is held because she holds it.)
+- **The seal** — *the proven, marked.* Mark the keeping with the seal: the program sealed, the Hartwell Assembly proclaimed as an institution, yearly, on her terms. (Consequence: the marking will be the institution — the keeping made permanent, the promise proclaimed.)
+- **The held** — *the kept, marked.* Mark the keeping with the held: the house itself, displayed — no speech, no seal, the keeping shown. (Consequence: the marking will be the house — the shown is the mark, and the house speaks for itself.)
+> *(Hodges comes with the evening's post — the salver, the bow — and sees her face, and says, "You'll decide it wrong if you hurry, miss." "Hodges." "Miss?" "The philosophy is now house policy. You said so yourself." "So I did, miss." The faintest smile. The holder's gift is hers to decide, and the deciding wants doing without hurry, without fuss, with complete attention — the house's way.)*
 *Animation: Shared.*
-
 ### L28.S23 · [T] · Rose (alone)
 *Purpose: the marking — the gift, the given; the keeping, the marked. (Turns: 7)*
-> *(The marking: the gift, the given — the keeping, the marked — and the years, the kept.)*
-> *(She marks it — the gift, the given, as she chose — and the marking is the given's: the keeping, the marked.)*
-> *(The given, the marked: the marking, the gift. The years — the kept.)*
+> *(The marking, once decided, wants doing — and Rose does it the way the house does everything: promptly, exactly, and in the open.)*
+> *(If the marking was the grip, she takes the Assembly into her own hands: the welcome speech written (and rewritten), the receiving line planned to the minute, every detail — the flowers, the music, the supper's order — held in her head like a battle plan. If the seal, she proclaims it: the program's final page, the Hartwell Assembly declared — a yearly house party and ball, convened by her, on her terms — sealed in the rose-red wax and read aloud to the household. If the held, she does nothing more: the house stands ready, and the readiness is the marking — the zones, the silver, the blooms, speaking for themselves.)*
+> *(Whichever it is, the doing is witnessed. Harrow enters it in the ledger — the gift, the given. Augusta approves it over the spectacles. Letitia, told, says — variously — "Commanding," "Institutional," or "Restrained," and approves in each dialect. The marking, marked.)*
+> *(The household's answer is the week's finest: the staff, told of the marking, stand a fraction straighter — the grip's command, the seal's institution, the held's trust, each received in its own way. The footmen's lamps burn a fraction brighter. The head housemaid's starch achieves a new moral plateau. The keeping, marked, keeps better.)*
+> *(Rose walks the house on the marking's evening — the blaze, the blooms, the seal — and the marking sits over it all like the crest in wax: the gift, the given. The keeping, marked — the held's, the years' — and the kept, the forever: the house, marked by its holder.)*
+> *(She writes in the household book: "The marking, marked. The house knows its holder. The keeping is ready." The marking holds. The wax is dry.)*
+> *(The marking's announcement to the staff is made in the servants' hall — Rose herself, the holder, the grip/seal/held declared. The staff receive it standing: the grip's command with straightened shoulders, the seal's institution with nods, the held's trust with the particular stillness of people who were already doing it. The marking, announced. The house, aligned.)*
+> *(The marking's witness: Bell, told of the marking over the chocolate, writes it down — the grip, the seal, the held — and says, "I shall record it as the house states it." The press, recording the marking in the house's own terms. The marked, witnessed.)*
 *Animation: Shared.*
-
 ### L28.S24 · [T] · Rose (alone)
 *Purpose: the keeping, the marked — the held's, the years'; the kept, the forever. (Turns: 7)*
-> *(The keeping, the marked: the held's, the years' — the kept, the forever — and the marking's record.)*
-> *(It is marked — the keeping, the held's — the years', the kept: the marking's record.)*
-> *(The marked, the forever: the keeping, the held's. The years' — the kept.)*
+> *(The keeping, the marked — and the marked house settles into its final form: the Assembly's eve-eve, the whole held, the grip/seal/held upon it.)*
+> *(If the grip was chosen, the house moves to Rose's hand: the staff take their cues from her glance, the evening's order unfolds from her head, the whole Assembly — every carriage, every guest — held in one woman's attention. If the seal, the institution stands: the program proclaimed, the yearly Assembly declared, the household already planning next year's. If the held, the house simply is: the zones gleaming, the flowers blooming, the silver catching the light — the marking invisible, the keeping complete.)*
+> *(The ton's vanguard, dining, feels the marking without naming it: the duchess says the house has "a hand on it" (the grip), or "a future in it" (the seal), or simply "it is itself" (the held) — whichever, the verdict is the same. The keeping, marked, is believed.)*
+> *(Bell, departing — the pencil-book full — says her farewell at the door: "I shall write it as I see it." "As you always do." "The marking," Bell says, dry as ever, "is visible. Even to the press." It is the closest the Gazette comes to endorsing a social strategy. Rose bows. The keeping, marked, has passed the press.)*
+> *(That night the house is quiet — the blaze banked, the flowers sleeping, the seal dry — and Rose walks the empty ballroom once more: the floor, the chandeliers, the air. The keeping, the marked — the held's, the years'; the kept, the forever — and the house holds its marking the way it holds everything: firmly, and without squeezing.)*
+> *(She writes in the household book: "The marked house, settled. Bell: the marking is visible. The Assembly is tomorrow's eve." The keeping, marked. The fortnight, closing.)*
+> *(The marked house's first full day runs like the program promised: the grip's cues taken, the seal's order unfolding, the held's gleam steady. Harrow's evening report is four words: "As the charter provides." It is the steward's highest praise, and the marked keeping earns it daily.)*
+> *(The marked house's tally: the day's accounts close clean — the fortnight's books, balanced, every penny entered. Harrow blots the page. "The marking," he says, "does not disturb the arithmetic." "Nothing," Rose says, "disturbs the arithmetic." They share the steward's smile.)*
 *Animation: Shared.*
-
 ### L28.S25 · [T] · Rose (alone)
 *Purpose: the keeping, the eternal — the kept, the forever; the Hartwell's. (Turns: 7)*
-> *(The keeping, the eternal: the kept, the forever — the Hartwell's — and the years' keeping.)*
-> *(It is the eternal — the keeping, the kept — the forever, the Hartwell's: the years' keeping.)*
-> *(The eternal, the Hartwell's: the keeping, the kept. The forever — the years'.)*
+> *(The keeping, the eternal — Rose turns the word over on the twenty-second morning, walking the empty ballroom, and finds it too large for an Assembly. The Assembly is not eternal. It is annual — or will be, if the seal was chosen; or personal, if the grip; or simply held, if the held. But there is something in the keeping that gestures toward the eternal, the way the program gestures toward next year.)*
+> *(She stops at the ballroom's center — the floor's gleam, the chandeliers' bags off, the flowers' scent — and thinks about the eternal as the house knows it: not the event, but the readiness. The house will be ready next year, and the year after. The zones will gleam. The silver will catch the light. The rose will bloom. The eternal is not the ball. It is the house, ready for the ball — every year, on purpose.)*
+> *(The gardener's boy comes with the day's flowers — the rotation, the blooms — and arranges them in the ballroom's great vases with the care of a man decorating for posterity. "They'll be seen, miss," he says. "Aye," Rose agrees. "They'll be seen." The eternal, in flowers: the blooms will fade, and be replaced, and fade again. The replacing is the eternal.)*
+> *(She thinks about what will outlast her: not the Assembly — the music will end, the candles will gutter — but the keeping. The house, ready. The standard, kept. The book, balanced. These are not events. They are conditions. And conditions, maintained, become the eternal.)*
+> *(She walks the ballroom's length — the gleam, the scent, the light — and the keeping, the eternal, walks with her: not forever, but continuing. The readiness. The return. The house, holding its breath before the music — the kept, the forever; the Hartwell's.)*
+> *(She writes in the household book: "The eternal is the readiness, not the event. The replacing is the eternal." The keeping, the eternal. The Assembly, tomorrow's eve.)*
+> *(The eternal's small proof: the third bud opens — the emblem's sister — and the gardener's boy cuts it for the ballroom's great vase with the same ceremony as the first. "They keep coming, miss," he says. "Aye," Rose agrees. "That's the arrangement." The eternal, in buds: the replacing, the continuing, the kept.)*
 *Animation: Shared.*
-
 ### L28.S26 · [T] · Rose (alone)
 *Purpose: the keeping, the kept — the held's, the lesson's; the forever. (Turns: 7)*
-> *(The keeping, the kept: the held's, the lesson's — the forever — and the years' record.)*
-> *(She keeps it — the keeping, the held's — the lesson, the forever: the years' record.)*
-> *(The kept, the forever: the keeping, the held's. The years' record — the lesson's.)*
+> *(The keeping, the kept — and Rose keeps it the way the house keeps things: shown, witnessed, remembered.)*
+> *(The fortnight's record goes into the household book — the acceptances, the battles, the vanguard, the seal, the marking — in Rose's hand and Harrow's, with the date underlined twice and the figures on the first leaf. Facts first. The facts are the foundation. A household book that only has numbers is a ledger. A household book with ballrooms in it is a history.)*
+> *(Harrow reads the fortnight's pages — the spectacles, the silence — and corrects one date, in red. Then, in black, under the number: "The rooms will be full." It is his version of the refrain, and in the book it becomes the fortnight's epitaph. Rose looks at the four words. They are enough.)*
+> *(Letitia demands the reading aloud — "the battle parts" — and Rose reads the earl, the countess, Mrs. Vane, the crosses, over tea. Letitia listens with the attention of a general reviewing dispatches, and then says, "Read the Mrs. Vane part again." Rose does. "'The rooms will be full regardless,'" Letitia repeats. "I shall have it engraved." The kept, read aloud.)*
+> *(Augusta, given the book, reads the fortnight the way she reads everything — as though it might be lying — and finds it satisfactory. "The figures," she says, tapping the page. "The war," she says, tapping the crosses. "The house," she says, closing the book. Three taps. The Dowager's review. "Well kept," she says. The benediction.)*
+> *(Rose shelves the book — with the others, the years' accumulation — and the fortnight's record takes its place: the keeping, the kept. The held's, the lesson's. The forever — in ink, on paper, on the shelf, which is exactly where forever belongs.)*
+> *(The kept's index grows: Rose adds the fortnight's names — the duchess, the countess, Mrs. Fane's girl, the earl, the crosses answered — in Harrow's alphabetical order. "An index," Harrow reminds her, "is how the future finds us." The future, leafing through, will find the keeping entire.)*
+> *(The kept's binding: Harrow takes the fortnight's household book and has it bound — the green leather, the date in gold. "For the shelf," he says. "For the future." The fortnight, bound, takes its place among the years. The kept, hardbound.)*
 *Animation: Shared.*
-
 ### L28.S27 · [T] · Rose (alone)
 *Purpose: the keeping, the charter's — the kept, the legacy's; the forever. (Turns: 7)*
-> *(The keeping, the charter's: the kept, the legacy's — the forever — and the years' keeping.)*
-> *(It is the charter's — the keeping, the kept — the legacy's, the forever: the years' keeping.)*
-> *(The kept, the forever: the keeping, the charter's. The years' keeping — the legacy's.)*
+> *(The keeping, the charter's — and Rose charters it: the Assembly's charter, the housewarming's constitution, written before the event, not after.)*
+> *(The charter takes the fortnight's true shape: the program, the order, the week's rhythm — the music, the supper, the flowers, the village's part — set down in Harrow's hand, approved by Augusta, witnessed by the household. Not the yearly Assembly — that was the seal's business, if the seal was chosen. This is the housewarming's own charter: how Hartwell does a triumph. The receiving line's order. The supper's courses. The ball's program. The keeping, legislated.)*
+> *(The drafting is done in the ballroom — the charter written where it will be executed, the staff gathered, the chandeliers blazing. Mrs. Alder brings the supper's order. The coachman brings the carriages'. The housemaids bring the rooms'. The charter is written in the middle of the keeping's final form, which is exactly where charters belong.)*
+> *(Harrow reads the draft aloud — the whole of it — and the ballroom is quiet in the way the church is quiet. Then the head housemaid says, "Satisfactory," and the room exhales into laughter. The charter is signed: Rose, Augusta, Harrow. Witnessed: the household. The keeping, the charter's.)*
+> *(The charter goes into the program's final page — the sealed copy, the rose-red wax — and the program goes to every guest: the keeping's constitution, delivered with the invitation. The kept, the legacy's. The forever — legislated, witnessed, sealed, in every guest's hands, which is exactly where forever belongs.)*
+> *(That evening Rose stands in the ballroom doorway, looking at the empty blaze — the floor, the flowers, the charter in every future hand — and thinks: the keeping does not need the charter. But the guests will keep the program, and the program will keep the keeping. That is how legacies travel: in pockets, in wax, in ink.)*
+> *(The charter's distribution: the sealed programs go to every guest's room — the crest, the wax, the keeping's constitution in every hand. Mrs. Fane's girl is found reading hers with a dictionary. The duchess keeps hers as a souvenir before the event. The charter, distributed. The keeping, in pockets.)*
+> *(The charter's reading: Augusta reads the charter aloud at dinner — the order, the courses, the program — and the dining room listens like a parliament. "Well chartered," she says, folding it. "The keeping has a constitution." The charter, Dowager-read.)*
 *Animation: Shared.*
-
 ### L28.S28 · [T] · Rose (alone)
 *Purpose: the Hartwell, the kept — the keeping's; the whole's, the forever. (Turns: 7)*
-> *(The Hartwell, the kept: the keeping's — the whole's, the forever — and the years' Hartwell.)*
-> *(It is the kept — the Hartwell, the keeping's — the whole's, the forever: the years' Hartwell.)*
-> *(The kept, the forever: the Hartwell, the keeping's. The whole's — the years'.)*
+> *(The Hartwell, the kept — the keeping's; the whole's, the forever — and Rose walks the Park on the twenty-third morning seeing it entire: the house and the holding, the zones and the tended, the whole kept.)*
+> *(The west gallery, hung. The servants' hall, governed. The stables, running. The library, ordered. The cottages, lived in — and the favors ready. The lake pavilion, gleaming. The walled garden, open — and the rose, blooming. The grounds, dressed. The state rooms, ready. The ballroom, blazing in waiting. Every zone restored across ten seasons, and the keeping over all: the living proof, in stone and people, that the whole is whole.)*
+> *(She has spent three weeks learning the whole's three faces: the bloom (the flower), the tended (the hands), the keeping (the whole). The Hartwell, the kept — the keeping's; the whole's, the forever — and it is all three at once: the rose in the garden, the staff in the house, the gleam in the ballroom. The kept is not one thing. It is everything, kept.)*
+> *(At the lake pavilion she stops — the water flat, the light gold — and does the whole's arithmetic without numbers: the ruin, the clearing, the building, the learning, the blooming, the tending, the keeping. Ten seasons. Three weeks. One house. The Hartwell, the kept — and it is hers in the only way that matters: in trust, in ink, in wax.)*
+> *(The village widow's granddaughter, on the path with the school's paper roses, curtsies — the practiced curtsy, perfect now — and presents Rose with a fresh one: "For the Assembly, miss." The paper rose joins the lumpy one in the household book. The Hartwell, the kept — the keeping's; the whole's, the forever — and the kept: the village's roses, paper and real.)*
+> *(She writes in the household book: "The whole's three faces: bloom, tended, keeping. The kept is everything, kept. Paper roses (two, perfect)." The Hartwell, the kept. The fortnight, closing.)*
+> *(The Hartwell's double beauty, at dusk: the house lit for the eve, the garden dark behind it — the kept and the keeping, the stone and the green. Rose stands on the terrace between them — the ballroom's blaze at her back, the rose's scent before her — and the whole is suddenly, completely, hers: the flower, the hands, the house. The kept entire.)*
 *Animation: Shared.*
-
 ### L28.S29 · [T] · Rose (alone)
 *Purpose: the woman, the holder's — Rose, the evening's; the keeping's, the kept. (Turns: 7)*
-> *(Her evening: the woman, the holder's — Rose, the evening's — and the keeping's is the kept.)*
-> *(She sits at the window — the keeping beyond, the kept — and the years are the woman's quiet: the keeping turned, the lesson decided, the marking marked.)*
-> *(The woman, the holder's: the kept. The keeping's, whole — and the years, the marked.)*
+> *(Her evening: the woman, the holder's — Rose at her bedroom window as the light goes, the Park spread below her like a held hand, the three weeks held in her mind: the garden, the household, the house — the bloom, the tended, the keeping.)*
+> *(She thinks about what the three weeks have been: the estate's whole education. The garden taught her the making. The household taught her the keeping's hands. The house taught her the showing. Between them, the complete curriculum: what is made, who makes it, how it is held — and now, how it is shown. The woman the three weeks made is ready.)*
+> *(Below, the house is settling — the lamps lit, the ballroom banked, the day's work done. Tomorrow the guests come in force. Tomorrow night — the eve — the house holds its breath. The day after: the Assembly. The Park holds them all the way a hand holds something precious: firmly, and without squeezing.)*
+> *(A tap at the door — Letitia, with the negus, the established ritual. "Pensive holder," she says, handing over the glass. "Twenty-third day. You're allowed." They drink at the window, watching the Park go dark. "To the holding," Letitia says. "To the whole," Rose says. "To the held," they say together, and laugh — because the week's decision has followed them even here, and they are both entirely unrepentant.)*
+> *(The negus is sweet and warm, and the window seat is wide enough for two, and the woman — the holder's, the keeping's, Rose's own — sits in the dark with her aunt and her three weeks, and is entirely, completely at peace. The week closes behind her like a sealed program, waxed and silent.)*
+> *(She thinks, too, about tomorrow — the Assembly, the doors, the dragon — and finds she is not afraid. The fear went somewhere in the three weeks: into the walking, the writing, the holding. What remains is readiness — the house's condition, now hers. The woman the keeping made is ready for the showing.)*
+> *(She thinks about the bloom, too — the walled garden, the bush, the third bud — and the flower that started the three weeks will be there at the Assembly: blooming, real, the keeping's own achievement. The bloom, the tended, the keeping — the flower, the hands, the house.)*
 *Animation: Shared.*
-
 ### L28.S30 · [T] · Rose (alone)
 *Purpose: the legacy, the holder — the keeping's, the charter's; the forever. (Turns: 7)*
-> *(The legacy, the holder: the keeping's, the charter's — the forever — and the years' legacy.)*
-> *(She is the holder — the legacy, the keeping's — the charter's, the forever: the years' legacy.)*
-> *(The holder, the forever: the legacy, the keeping's. The years' legacy — the charter's.)*
+> *(The legacy, the holder — and Rose walks the estate at dawn on the twenty-fourth day, doing the counting the way Augusta taught her: once for the sum, once for the nerve. But this time she counts the whole.)*
+> *(The bloom in the garden. The hands in the house. The gleam in the ballroom. The crosses, answering. The paper roses. The household book. The sealed program. The emblem at the shoulder (practiced). The gown in London (ready). The counting goes on — the flower, the people, the house — and the sum is the kept entire, and the kept entire is the legacy.)*
+> *(The legacy is not the Assembly. She knows that now — the Assembly is the showing, not the thing. The legacy is what the Assembly shows: the bloom, the tended, the keeping. The holder holds the legacy the way the house holds its breath: completely, and for the showing.)*
+> *(She stops at the walled garden — the Hartwell rose, the blooms, the bush — and then at the house — the blaze banked, the silver waiting — and the legacy, the holder, stands between them: the flower and the rooms, the garden and the ballroom, the making and the showing. The keeping's; the charter's; the forever.)*
+> *(The legacy walks with her back to the house — not as a weight, but as a company. The holding, holding. The marking, marked. The charter, sealed. She reaches the door as the clock strikes seven, and goes in to breakfast, because the legacy, like everything else in this house, begins with chocolate — and tomorrow, with the Assembly.)*
+> *(At breakfast Augusta says, "The keeping, I hear, is everything it should be." "It is," Rose says. "Harrow says the rooms will be full." "Harrow," says Augusta, "is never wrong about rooms. He is wrong about everything else, but never rooms." Letitia chokes on her chocolate. The legacy, discussed over breakfast, in the usual manner: completely, and without admitting it.)*
+> *(The holder's dawn circuit ends at the garden — the Hartwell rose, the third bloom open, the emblem's sisters — and Rose cuts nothing. Today the blooms stay on the bush: the keeping's flower, shown in situ. The ton will come to the garden. The garden is ready. The legacy, the holder, complete.)*
 *Animation: Shared.*
-
 ### L28.S31 · [T] · Rose (alone)
 *Purpose: the holding, the kept — the keeping's, the years'; the marked, the forever. (Turns: 7)*
-> *(Her evening: the holding, the kept — the keeping's, the years' — and the marked is the forever.)*
-> *(It holds — the holding, the kept — the keeping's, the forever.)*
-> *(The kept, the forever: the holding, the keeping's. The years' — the marked's.)*
+> *(The holding, the kept — the twenty-fifth morning, and the keeping's grip is tested: the last details, the final arrivals, the Assembly's eve arriving.)*
+> *(The details come like rain: the musicians' rehearsal (the ballroom, at noon), the supper's final tasting (Mrs. Alder, exacting), the carriages' order (the coachman, unflappable), the flowers' last rotation (the boy, inspired). Rose holds them all — the grip, if the grip was chosen; the seal's order, if the seal; the held's trust, if the held — and the holding is the week's lesson, applied at speed.)*
+> *(A crisis, small: the ice — Mrs. Alder's war declaration — is delayed on the road. The cook receives the news like a general receiving a setback: calmly, and with a plan. "The ice house," she says. "We have the winter's. It will do." It does. The holding absorbs the crisis. The supper is saved. Mrs. Alder, asked afterward how she knew, says, "The book doesn't lie. The ice house was full." The keeping's logistics, vindicated.)*
+> *(The final arrivals come through the afternoon — the carriages on the drive, the guests exclaiming, the house receiving — and Rose is at the door for each: the welcome, the genuine, the holder's. The carriages, arriving. The rooms, filling. The keeping, holding.)*
+> *(At dusk the house is full — the corridors humming, the dining room blazing, the whole kept entire under one roof. Rose stands in the great hall as the carriages keep coming, and the holding — the keeping's, the years' — holds: the house, the guests, the eve, all of it, in her hands, without gripping.)*
+> *(She writes in the household book: "The eve arrives. The ice delayed, the ice house full. The holding holds." The holding, the kept — the keeping's, the years'; the marked, the forever — and the kept: the eve, held.)*
+> *(The holding's last test: a great lady's carriage breaks a spring on the drive — The stable lads have it mended and the lady transferred, the schedule unbroken. "The house," the footman observes, "absorbs." It does. The holding holds: the crisis, the mending, the unbroken schedule — the keeping's competence, routine.)*
+> *(The holding's arithmetic, at midnight: the eve's accounts, the arrivals' tally, the day's crises — all entered, all balanced. Harrow blots the page. "The holding," he says, "held." Two words. The steward's whole review of the eve. It is enough.)*
 *Animation: Shared.*
-
 ### L28.S32 · [T] · Rose (alone)
 *Purpose: the charter, the kept — the keeping's, the legacy's; the forever. (Turns: 7)*
-> *(The charter, the kept: the keeping's, the legacy's — the forever — and the years' charter.)*
-> *(It is the kept — the charter, the keeping's — the legacy's, the forever: the years' charter.)*
-> *(The kept, the forever: the charter, the keeping's. The years' charter — the legacy's.)*
+> *(The charter, the kept — the ballroom, late on the eve, and Rose opens the sealed program to check that the keeping's charter is still there, still true, still in every guest's hands.)*
+> *(It is. The ink is fresh — days old — but it sits on the page with the authority of something much older: the order, the courses, the program, the village's part. The crest in wax. The signatures: Rose, Augusta, Harrow. The kept, in every pocket.)*
+> *(She reads it over the way Augusta reads the Gazette — as though the paper might be lying — and finds it satisfactory: exact, practical, and quietly radical. A triumph, chartered. The keeping's constitution, in the guests' hands. The charter does not make the Assembly succeed — the house would hold regardless — but it makes the holding a promise, and promises are what turn events into institutions.)*
+> *(Harrow comes for the evening's final check and finds her reading. "Still there," he observes. "It is still there." "Aye. Charters don't move. That's their job." He checks the supper's order against the program, ticks each item, blots the page. "Tomorrow," he says, "the charter is executed." It is the closest Harrow comes to excitement.)*
+> *(She closes the program and looks around the ballroom — the blaze banked for the night, the flowers sleeping, the floor gleaming — and understands that the charter is kept not in the program but here: in the room, in the hands, in the holding. The program is the reminder. The keeping is the work.)*
+> *(The charter, the kept. The keeping's, the legacy's. The forever — sealed in every pocket, witnessed by a household, enforced by a steward who is never wrong about rooms. It will hold. Charters don't move. That's their job.)*
+> *(The charter's eve reading: Rose reads the program once more, alone, in the banked ballroom — the order, the courses, the village's part — and the charter reads like a promise the house has already kept. Tomorrow it is executed. Tonight it is read. The charter, the kept, on the eve.)*
+> *(The charter's last line: Rose adds a postscript in her own hand — "The house is itself. That is the charter's whole." Harrow reads it, considers, and lets it stand. The charter, postscripted by the holder. The kept, signed.)*
 *Animation: Shared.*
-
 ### L28.S33 · ★ KEY DECISION 3/3 · Rose (alone)
 *Purpose: ★ KEY DECISION 3/3 — THE HOLDER'S MEANING (what the holder means: the held, the keeping, or the future). The years deepen; decide the meaning. (Turns: 3 — the decision)*
-> *(The years deepen, and the holder asks her meaning: the held — the keeping's, the shown; the keeping — the whole's, the Hartwell's; or the future — the years', the returning. The meaning will shape the holder's memory.)*
-> *(The held: the shown's. The keeping: the Hartwell's. The future: the returning's.)*
+> *(The twenty-sixth morning — the Assembly's eve — and the keeping is asking its last question. Rose walks the house in the dawn — the full rooms, the humming corridors, the banked blaze — and understands that the three weeks have built to this: the holder's meaning, hers to decide.)*
+> *(Three meanings, and all of them true. Is the meaning the held — the keeping's, the shown? The house, displayed: the zones, the silver, the blooms. The meaning of the held says: she is the one who shows. The holder as presenter — the whole held, offered, witnessed. The holder means the held: the shown, given.)*
+> *(Or is the meaning the keeping — the whole's, the Hartwell's? The house, kept: the daily, the standard, the books. The meaning of the keeping says: she is the one who keeps. The holder as keeper — the whole kept, maintained, continued. The holder means the keeping: the Hartwell, held.)*
+> *(Or is the meaning the future — the years', the returning? The house, continuing: the yearly Assembly (if sealed), the apprentices, the green book's pages. The meaning of the future says: she is the one who begins. The holder as founder — the whole begun, the relay started. The holder means the future: the returning, founded.)*
+> *(Three meanings. The held is true — the house stands gleaming. The keeping is true — the books balance. The future is true — the program promises next year. Rose stands in the ballroom — the banked blaze, the sleeping flowers — and holds the three meanings up to the dawn the way Bell holds a napkin to the light, checking. None of them stain. That is the difficulty.)*
+> *(Hodges comes with the morning's post — the salver, the bow, the philosophy's courier — and says, "You'll decide it wrong if you hurry, miss." "Hodges, that is the fourth time." "The house," says Hodges, "believes in repetition." Rose laughs — the three weeks' running joke, and it is still funny — and turns back to the ballroom, the dawn, the question. The holder's meaning is hers to decide, and the deciding wants the house's own method: without hurry, without fuss, with complete attention.)*
 *★ KEY DECISION 3/3 — The holder's meaning:*
-- **The held** — *the shown, meant.* The holder means the held — the keeping's, the shown. (Consequence: the meaning is the shown's — but showns are seen, and the holder was the Hartwell's.)
-- **The keeping** — *the Hartwell, meant.* The holder means the keeping — the whole's, the Hartwell's. (Consequence: the meaning is the Hartwell's — but Hartwell's are whole, and the holder was the years'.)
-- **The future** — *the returning, meant.* The holder means the future — the years, the returning. (Consequence: the meaning is the returning's — but returnings are future, and the holder was the now.)
-> *(The game remembers the choice — and the means: held, keeping, or future. The holder's meaning is hers.)*
+- **The held** — *the shown, meant.* The holder means the held: she is the one who shows — the whole held, offered, witnessed. (Consequence: her meaning will be the showing — the presenter, the house offered.)
+- **The keeping** — *the Hartwell, meant.* The holder means the keeping: she is the one who keeps — the daily, the standard, the books. (Consequence: her meaning will be the keeping — the keeper, the whole maintained.)
+- **The future** — *the returning, meant.* The holder means the future: she is the one who begins — the yearly Assembly, the relay started. (Consequence: her meaning will be the founding — the founder, the returning begun.)
+> *(The meaning's difficulty, confessed to Letitia at the window: "All three are true." "Then all three are the meaning," Letitia says. "You're allowed. You're the holder." The permission, granted. The holder's meaning, decided — all three, true.)*
 *Animation: Shared.*
-
 ### L28.S34 · [T] · Rose (alone)
 *Purpose: the meaning, the kept — the holder's, the lesson's; the forever. (Turns: 7)*
-> *(The meaning, the kept: the holder's, the lesson's — the forever — and the years' meaning.)*
-> *(She keeps it — the meaning, the holder's — the lesson, the forever: the years' meaning.)*
-> *(The kept, the forever: the meaning, the holder's. The years' meaning — the lesson's.)*
+> *(The meaning, decided, goes with her through the Assembly's eve like a stone in her pocket — present, weighty, occasionally taken out and turned over.)*
+> *(She tests it the way she tested the lesson: by walking it. In the ballroom, checking the blaze — the meaning holds. In the kitchens, tasting the supper — the meaning holds. In the garden, cutting the emblem — the meaning holds. A decided meaning, she discovers, is like a good pair of boots: it goes everywhere, and you stop noticing it, and that is how you know it fits.)*
+> *(The household notices the change before she does. The footman, bringing the chocolate (to the morning room, the eve, no longer remarked), says, "You look well, miss. The house agrees with you." Letitia, over luncheon: "There's something different about you. Did you do something with your hair?" "I chartered an Assembly." "That would do it." Augusta, at dinner, studies her over the spectacles and says nothing — which, from Augusta, is a complete character reference.)*
+> *(In the afternoon she does the thing the meaning requires — the practical, immediate thing. If the meaning was the held, she walks the state rooms with the last arrivals, showing the house herself. If the keeping, she sits with Harrow and they close the fortnight's accounts, every penny entered. If the future, she writes the first page of next year's program — the date, the order, the promise — and seals it.)*
+> *(Whichever it was, the doing is the proof. The meaning is not a thought. It is a practice — the held, the keeping, the future, carried in the hands through the Assembly's eve. By evening the stone in her pocket has worn smooth, and she stops taking it out. It fits. It goes everywhere.)*
+> *(She writes in the household book: "Eve. Meaning decided, walked, fitted. Like boots." Harrow reads it, considers, and says, "Boots is right." The three weeks' second running joke lands, and they both — steward and holder, keeper and kept — do the thing they do instead of laughing, which is better.)*
+> *(The meaning's eve test: the last arrivals — the dragon's remaining crosses, walking in — are shown to their rooms by the footman, welcomed by Rose, given the program. The held, the keeping, the future — whichever the meaning, the doing is the same: the door, open; the welcome, genuine. The meaning, walked, works.)*
 *Animation: Shared.*
-
 ### L28.S35 · [T] · Rose (alone)
 *Purpose: the letters — the years, reported; London writes. (Turns: 7)*
-> *(The evening: the letters — the years, reported — and London writes.)*
-> *(They write — the company, London's — the years reported: the holder, the keeping, the marked. London writes — the witnessing, in letters.)*
-> *(The reported, the written: the years, the letters. London — the witnessing, in writing.)*
+> *(The eve brings London — the post, the letters, the years reported — and the keeping has preceded her into the world's final correspondence before the Assembly.)*
+> *(Drummond's reply — the heavy paper, held since the fortnight's first morning — is opened at last, at the proper hour. Rose reads it standing at the morning room window: three sentences, the dragon's hand. She will come. The words are gracious; the subtext is war. Rose folds the letter, places it under the seal, and smiles — the war's smile, sharp and certain. The last battle, accepted. Tomorrow, the ballroom.)*
+> *(Bell writes — the Gazette's final pre-Assembly note: "Miss Hartwell — The kitchens passed. The house will pass. I shall be there — not as a guest, but as the paper. The last word will be just. — N.B." Rose reads it twice. Bell, coming as the paper. The witness, official. She writes back: "The house will be itself. That is all the paper needs.")*
+> *(Élise writes — the atelier's last word: "The gown travels with me. I come myself, to dress you. Grey and silver, the rose at the shoulder. No one else gets the scheme — or the shade." Rose holds the letter, and the eve suddenly includes the modiste's girl become the ton's dressmaker, coming to dress her finest work's finest client. She writes back: "Come. The shoulder is ready.")*
+> *(Three letters: the dragon, the paper, the dressmaker. Rose sorts them at the morning-room table — the war, the witness, the gown — and the eve's correspondence is the season's whole story in miniature: the keeping, challenged, recorded, dressed. London writes. The house answers. Tomorrow, the Assembly.)*
+> *(She writes back to none of them — the replies are the event itself — and the letters go into the household book, filed under the date: the dragon's three sentences, the paper's promise, the dressmaker's shade. The years, reported. The eve, complete.)*
+> *(The letters' filing: the dragon's three sentences, the paper's promise, the dressmaker's shade — filed in the household book under the eve's date, in order. Harrow witnesses the filing with the red pen. The years, reported, recorded. The eve's correspondence, complete.)*
+> *(The letters' answers: none — the replies are the event itself. The dragon will come. The paper will write. The gown will be worn. The eve's correspondence answers itself tomorrow, in the ballroom, in wax and ink and grey silk.)*
 *Animation: Shared.*
-
 ### L28.S36 · [T] · Rose (alone)
 *Purpose: the ton, the years' — the keeping, awaited; the held, the kept. (Turns: 7)*
-> *(The ton, the years': the keeping, awaited — the held, the kept — and the future, the holder's.)*
-> *(They await it — the ton, the years' — the keeping, the kept: the held, the future's.)*
-> *(The awaited, the kept: the ton, the years'. The future — the holder's.)*
+> *(The ton awaits — Rose feels it in the full house, in the humming corridors, in the way the eve's air tastes of candle wax and flowers. The keeping, awaited. The ton has arrived, and the ton is waiting for the ballroom's doors to open.)*
+> *(She discusses it with Letitia over the household book — the last war council. "They're all here," Letitia reports, hushed. "The duchess. The countess. Mrs. Fane's girl in grey. The earl. Even — " she lowers her voice " — the dragon's two remaining crosses. They came." "The rooms," Rose says, "are full regardless." They look at each other — the social general and the holder — and the war is over. The arithmetic won.)*
+> *(It is absurd, and Rose knows it is absurd — a house, moving the ton to travel — and it is also completely real. The ton runs on the full rooms, and the rooms are full, and the mistress held every battle in daylight, which makes it a legend. Tomorrow the doors open. Tomorrow the keeping is shown. The awaiting is almost over.)*
+> *(She walks the house that evening — the last walk, the eve's — with the eye of the holder, not the hostess: the corridors polished, the silver gleaming, the flowers at their peak, the ballroom banked and waiting. The head housemaid watches her pass and says, "It's a house, miss, not a stage." "Tonight," Rose says, "it can be both." The grunt — outvoted by reality, upheld by standards — follows her down the corridor.)*
+> *(The absurdity settles into something warmer: the ton, awaiting the keeping, is the outside world's version of Harrow's "The rooms will be full" — certainty, expressed in its own dialect. The duchess is here. Bell is coming as the paper. Élise is coming with the gown. The dragon is coming. They are all, in their way, saying the same thing the steward said with four words.)*
+> *(Rose stands in the great hall as the night comes — the house full, the eve complete, the keeping ready — and thinks: let them come. They have come. Tomorrow the doors open, and the keeping is shown, and the awaiting — the fortnight's, the season's, the ten seasons' — ends.)*
 *Animation: Shared.*
-
 ### L28.S37 · [T] · Rose (alone)
 *Purpose: the woman, the keeping's — Rose, the evening's; the kept, the Hartwell's. (Turns: 7)*
-> *(Her evening: the woman, the keeping's — Rose, the evening's — and the kept is the Hartwell's.)*
-> *(She sits at the window — the Park beyond, the kept — and the years are the woman's quiet: the keeping turned, the meaning decided, the holder marked.)*
-> *(The woman, the keeping's: the Hartwell's. The kept, whole — and the years, the marked.)*
+> *(Her evening: the woman, the keeping's — Rose at her bedroom window as the light goes, the Park below her dark and green, the three weeks' whole arc held in her mind: the bloom, the tended, the keeping — the flower, the hands, the house — complete.)*
+> *(The dawn ballroom. The full board. The earl's handshake. Mrs. Vane's letter. The vanguard's verdicts. Bell's pencil. the old coachman's tears. The trial blaze. The seal in wax. The emblem at the shoulder. The marking marked. The charter sealed. The dragon's three sentences. The ton, arrived. Twenty-six days from bud to ballroom, and every one of them hers — and theirs.)*
+> *(She thinks about what the three weeks have been — not a story, exactly. A showing. The estate's whole truth, from bud to ballroom, prepared for the world's eyes while the Park went about its business. And she was there for all of it: the breeder, the student, the holder. The woman the keeping made.)*
+> *(Below, the house is full and humming. The keeping is invisible, but she knows where it all is — she could find it blindfold, by the routine, by the memory of the round. The guests are settling. The ballroom waits. The gown travels. The dragon comes. The charter holds. The relay continues.)*
+> *(A soft knock — Letitia, with the negus, the established ritual. "Pensive holder," she says, handing over the glass. "Twenty-sixth day. You're allowed." They drink at the window, watching the full house. "To the keeping," Letitia says. "To the shown," Rose says. "To the boots," Letitia says, and they both laugh, quietly, so as not to wake the guests.)*
+> *(The negus is sweet and warm, and the window seat is wide enough for two, and the woman — the keeping's, the holder's, Rose's own — sits in the dark with her aunt and her three weeks, and is entirely, completely at peace. The chapter closes behind her like a sealed program, waxed and silent.)*
+> *(She thinks about the morrow's first hour — the doors, the music, the dragon — and the eve's peace holds: the negus, the window seat, the aunt. Whatever tomorrow brings, tonight the keeping is hers: the house full, the books balanced, the blooms open. The woman, the keeping's, at rest.)*
 *Animation: Shared.*
-
 ### L28.S38 · [T] · Rose (alone)
 *Purpose: the legacy, the Hartwell — the keeping's, the charter's; the forever. (Turns: 7)*
-> *(The legacy, the Hartwell: the keeping's, the charter's — the forever — and the years' legacy.)*
-> *(It is the Hartwell — the legacy, the keeping's — the charter's, the forever: the years' legacy.)*
-> *(The Hartwell, the forever: the legacy, the keeping's. The years' legacy — the charter's.)*
+> *(The legacy, the Hartwell — Rose walks the whole estate at dawn on the Assembly's morning, the way she has walked every turning: the counting, once for the sum, once for the nerve. But this time the circuit is final — the Park, the whole, the complete, on the day itself.)*
+> *(The west gallery, hung. The servants' hall, governed. The stables, running. The library, ordered. The cottages, lived in. The lake pavilion, gleaming. The walled garden, open — and the Hartwell rose, blooming. The grounds, dressed. The state rooms, ready. The ballroom, waiting. Every zone restored across ten seasons, and the keeping over all: the living proof, in petals and people and stone, that the whole is whole.)*
+> *(She walks it all — the drive, the lake path, the garden gate, the village street — and the legacy walks with her: not the Assembly, which is today, but what the Assembly shows. The bloom. The tended. The keeping. The three weeks' three faces, the ten seasons' one house. The legacy is not the event. It is the whole, kept.)*
+> *(At the lake pavilion she stops — the water flat, the light gold — and thinks about the ten seasons: the ruin, the clearing, the building, the learning, the blooming, the tending, the keeping. Each season a zone restored. Each zone a promise kept. And now the Assembly: the estate's achievement, shown. The legacy is not a monument. It is a house, opening its doors.)*
+> *(She reaches the walled garden as the sun clears the east wall, and the Hartwell rose is there — the bush, the blooms, the green confidence of it — and the third bud has opened in the night: the emblem's sisters, blooming for the Assembly. Rose stands before them in the morning light, and laughs aloud, alone, in the garden — because of course. Of course they opened today.)*
+> *(The legacy, the Hartwell. The keeping's, the charter's. The forever — not a word, but a house, opening. She goes in to breakfast, and the Season turns, and the Assembly waits beyond the doors, and the keeping — the ballroom waiting, the guests waking, the gown arriving — holds its breath, petals and silver in the morning, entirely sufficient.)*
 *Animation: Shared.*
-
 ### L28.S39 · Gazette sting
 *Purpose: Bell's keeping report — arch, precise; reward-only, never mystery. (Turns: 1 — the reading)*
 > *(The morning Gazette, read over chocolate. Mrs. Nance Bell, proprietor, in her own dry voice:)*
-> *"These years the holder has turned through her keeping — held, held, held — and the Gazette — having watched the whole from the first — finds it the charter's true Hartwell. The holder, yearly. The Gazette will watch, annually."*
-> (T1 · stance) *Rose reads it twice — the amusement first (annually! watching!), then the reckoning: the years are pronounced true in print as well as in the holder's keeping, and Bell has made the whole permanent, which is Bell's way of making it forever. She files the sting under its lesson: in London, the Hartwell the Gazette watches annually is the Hartwell that's real.* — remembered: *the lesson: the Hartwell the Gazette watches annually is the Hartwell that's real.*
+> *"The holder, then: three weeks of preparation, and the house stands ready — the zones gleaming, the flowers blooming, the silver catching the light. The Gazette, which has watched houses be 'finished' before and knows the word is usually a wish, finds this one satisfactory: it is finished. The keeping, marked and shown, is the charter's true Hartwell. The rest is the Assembly."*
+> (T1 · stance) *Rose reads it twice — the amusement first, then the reckoning: the keeping pronounced satisfactory in print, and Bell has made it permanent, which is Bell's way of making it forever. She files the sting under its lesson: in London, the keeping the Gazette prints is the keeping the house did — marked, shown, and ready.* — remembered: *the lesson: the keeping the Gazette prints is the keeping the house did — marked, shown, and ready.*
 *Animation: Shared (sting card).*
 
 ### L28.S40 · cliffhanger · Rose (alone)
 *Purpose: the assembly — the Hartwell's, the coming; the convened, the years. (Turns: 8)*
-> *(Evening, and she thinks of the assembly — the assembly's, the coming — and the years turn toward the convened.)*
-> *(She imagines — the assembly, the Hartwell's — the assembly, the coming: the convened, the years.)*
-> "The assembly." She looks at the Park — the whole, the kept. "The Hartwell —" she stops — "the coming." She breathes. "The convened —" another stop — "the years', the kept."
-> *(The chapter closes on the turning — the assembly, the Hartwell's — and the Season turns toward the convened: the assembly's doors — and the Season holds its breath.)*
+> *(Evening, and the keeping is done — the house marked, the rooms ready, the wax dry — and Rose walks the enfilade one last time before the Assembly.)*
+> *(The ballroom gleams. The flowers hold their peak. The silver catches the lamplight in its long rank. Everything she has done for ten seasons is in this house tonight, visible, whole — and tomorrow the ton will see it.)*
+> *(Drummond is coming. The dragon walks into the ballroom she tried to empty, gracious, steady-handed, defeated by daylight. Rose is not afraid. She is ready — the way the house is ready, the way the keeping is ready.)*
+> *(The Season turns toward the Assembly. The doors stand open. The keeping holds.)*
 *Animation: Shared.*
 
 **STATUS: FULL DRAFT** — awaiting Beth review.
