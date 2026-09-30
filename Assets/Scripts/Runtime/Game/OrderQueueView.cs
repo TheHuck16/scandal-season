@@ -21,8 +21,17 @@ public sealed class OrderQueueView : MonoBehaviour
     private void Start()
     {
         _game = GameManager.Instance;
+        // Dynamic UI discovery: if Inspector fields aren't assigned, find them.
+        if (ordersText == null)
+            ordersText = transform.Find("OrdersText")?.GetComponent<Text>()
+                ?? GetComponentInChildren<Text>();
+        if (headerText == null)
+            headerText = transform.Find("HeaderText")?.GetComponent<Text>();
+        if (refreshButton == null)
+            refreshButton = GetComponentInChildren<Button>();
         if (refreshButton != null)
             refreshButton.onClick.AddListener(Refresh);
+        Refresh();
     }
 
     private void OnEnable()
