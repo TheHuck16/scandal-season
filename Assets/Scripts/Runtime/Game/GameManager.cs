@@ -115,9 +115,20 @@ public sealed class GameManager : MonoBehaviour
         Board = new MergeBoard(boardWidth, boardHeight, chainMaxLevels: chainMaxLevels);
 
         // Level-gated unlocks (LOCKED Sep 27): 5 at launch, remaining 4 at
-        // player levels 5/10/15/20. Chain ID lists are TBD pending name mapping.
+        // player levels 5/10/15/20. Fallback to hardcoded Atelier IDs if the
+        // Inspector list is empty (e.g. serialization didn't carry it).
+        var launchIds = (launchChainIds != null && launchChainIds.Count > 0)
+            ? launchChainIds
+            : new List<string>
+            {
+                "atelier.notions",
+                "atelier.fabric",
+                "atelier.jewelry",
+                "atelier.gowns",
+                "atelier.hats"
+            };
         var unlocked = new List<string>();
-        foreach (var id in launchChainIds)
+        foreach (var id in launchIds)
             if (_chainsById.ContainsKey(id))
                 unlocked.Add(id);
         Orders = new OrderQueue(unlocked, chainMaxLevels);
