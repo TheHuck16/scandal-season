@@ -27,6 +27,11 @@ public sealed class StorySceneView : MonoBehaviour
     public Button decisionButtonPrefab; // prefab with a Text child
     public Text bodyText; // ritual / sting / fashion / participants (non-decision info)
 
+    [Header("UI — Character Portraits")]
+    [Tooltip("Horizontal strip showing locked character renders for speakers in this scene.")]
+    public Transform portraitStrip;
+    private readonly List<Image> _spawnedPortraits = new List<Image>();
+
     [Header("UI — Navigation")]
     public Button continueButton;
     public Button toBoardButton;
@@ -520,6 +525,8 @@ public sealed class StorySceneView : MonoBehaviour
             proseText.text = _scene.prose;
             proseText.color = lightTextColor;
         }
+        // Character portraits: show locked renders for speakers in this scene.
+        ShowCharacterPortraits(_scene.prose);
         if (proseScrollRect != null)
             proseScrollRect.verticalNormalizedPosition = 1f; // scroll to top
         LayoutScrollContent();
@@ -793,5 +800,82 @@ public sealed class StorySceneView : MonoBehaviour
                 bodyText.color = lightTextColor;
             }
         }
+    }
+
+    /// <summary>
+    /// Display locked character portraits for speakers detected in the scene prose.
+    /// Creates a horizontal strip of portrait images below the header.
+    /// </summary>
+    private void ShowCharacterPortraits(string prose)
+    {
+        // Clear existing portraits
+        foreach (var img in _spawnedPortraits)
+        {
+            if (img != null)
+                Destroy(img.gameObject);
+        }
+        _spawnedPortraits.Clear();
+
+        if (portraitStrip == null)
+            EnsurePortraitStrip();
+        if (portraitStrip == null)
+            return;
+
+        var speakers = ScandalSeason.Runtime.Game.CharacterPortraits.ParseSpeakers(prose);
+        foreach (var speaker in speakers)
+        {
+            var sprite = ScandalSeason.Runtime.Game.CharacterPortraits.GetPortrait(speaker);
+            if (sprite == null)
+                continue;
+
+            var go = new GameObject($"Portrait_{speaker}");
+            go.transform.SetParent(portraitStrip, false);
+            var img = go.AddComponent<Image>();
+            img.sprite = sprite;
+            img.preserveAspect = true;
+
+            // Size: 80x160 (portrait aspect, fits the 1:2 renders)
+            var rt = go.GetComponent<RectTransform>();
+            rt.sizeDelta = new Vector2(80f, 160f);
+
+            _spawnedPortraits.Add(img);
+        }
+
+        // Show/hide the strip based on whether we have portraits
+        portraitStrip.gameObject.SetActive(_spawnedPortraits.Count > 0);
+    }
+
+    /// <summary>
+    /// Create the portrait strip container if the scene doesn't provide one.
+    /// Positions it below the header, above the prose scroll area.
+    /// </summary>
+    private void EnsurePortraitStrip()
+    {
+        if (portraitStrip != null)
+            return;
+
+        // Find the story panel (parent of proseScrollRect)
+        Transform parent = proseScrollRect != null ? proseScrollRect.transform.parent : transform;
+        if (parent == null)
+            return;
+
+        var go = new GameObject("PortraitStrip");
+        go.transform.SetParent(parent, false);
+        portraitStrip = go.transform;
+
+        // Horizontal layout
+        var layout = go.AddComponent<HorizontalLayoutGroup>();
+        layout.spacing = 8f;
+        layout.childAlignment = TextAnchor.MiddleCenter;
+        layout.childForceExpandWidth = false;
+        layout.childForceExpandHeight = false;
+
+        // Position: top of the panel, below header (approximate)
+        var rt = go.GetComponent<RectTransform>();
+        rt.anchorMin = new Vector2(0f, 1f);
+        rt.anchorMax = new Vector2(1f, 1f);
+        rt.pivot = new Vector2(0.5f, 1f);
+        rt.anchoredPosition = new Vector2(0f, -120f);
+        rt.sizeDelta = new Vector2(0f, 170f);
     }
 }
