@@ -24,8 +24,7 @@ public sealed class OrderQueueView : MonoBehaviour
         // Self-sufficient UI: create Text components if not assigned/found.
         if (ordersText == null)
         {
-            ordersText = transform.Find("OrdersText")?.GetComponent<Text>()
-                ?? GetComponentInChildren<Text>();
+            ordersText = transform.Find("OrdersText")?.GetComponent<Text>();
             if (ordersText == null)
             {
                 var go = new GameObject("OrdersText");
