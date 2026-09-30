@@ -21,12 +21,46 @@ public sealed class OrderQueueView : MonoBehaviour
     private void Start()
     {
         _game = GameManager.Instance;
-        // Dynamic UI discovery: if Inspector fields aren't assigned, find them.
+        // Self-sufficient UI: create Text components if not assigned/found.
         if (ordersText == null)
+        {
             ordersText = transform.Find("OrdersText")?.GetComponent<Text>()
                 ?? GetComponentInChildren<Text>();
+            if (ordersText == null)
+            {
+                var go = new GameObject("OrdersText");
+                go.transform.SetParent(transform, false);
+                ordersText = go.AddComponent<Text>();
+                ordersText.font = Resources.GetBuiltinResource<Font>("LegacyRuntime.ttf");
+                ordersText.fontSize = 20;
+                ordersText.color = Color.white;
+                // Position below header
+                var rt = go.GetComponent<RectTransform>();
+                rt.anchorMin = new Vector2(0, 0);
+                rt.anchorMax = new Vector2(1, 1);
+                rt.offsetMin = new Vector2(10, 10);
+                rt.offsetMax = new Vector2(-10, -40);
+            }
+        }
         if (headerText == null)
+        {
             headerText = transform.Find("HeaderText")?.GetComponent<Text>();
+            if (headerText == null)
+            {
+                var go = new GameObject("HeaderText");
+                go.transform.SetParent(transform, false);
+                headerText = go.AddComponent<Text>();
+                headerText.font = Resources.GetBuiltinResource<Font>("LegacyRuntime.ttf");
+                headerText.fontSize = 24;
+                headerText.fontStyle = FontStyle.Bold;
+                headerText.color = Color.yellow;
+                var rt = go.GetComponent<RectTransform>();
+                rt.anchorMin = new Vector2(0, 1);
+                rt.anchorMax = new Vector2(1, 1);
+                rt.offsetMin = new Vector2(10, -35);
+                rt.offsetMax = new Vector2(-10, -5);
+            }
+        }
         if (refreshButton == null)
             refreshButton = GetComponentInChildren<Button>();
         if (refreshButton != null)
