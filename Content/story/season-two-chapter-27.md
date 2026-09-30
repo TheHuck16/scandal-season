@@ -530,7 +530,7 @@
 > "I left out the primrose," Bell said, "because the primrose was *private*. The Gazette judges what the ton *sees* — that is the paper's line, and the line is *honest*. The mirror's showing is *yours*."
 > *(T4 · choice — **the line** / **the verdict** / **the embargo**. Remembered: Bell's line.)*
 > *(T5 · micro — **"in memory"** / **the proof** / **the visit**. Remembered: the verdict's weight.)*
-> "The gutter," Rose said, "will answer. Pyke's Mercury — the better address. A verdict like this is *blood*, Bell. You know the dragon's doctrine."
+> "The gutter," Rose said, "will answer. The buyer's Mercury — the better address. A verdict like this is *blood*, Bell. You know the dragon's doctrine."
 > "Bleeding men sue for peace — or send knives." Bell nodded, unperturbed. "I know it. And I print *anyway* — because the paper's line is *unbuyable*." She rose. "Friday's paper, Miss Hartwell. Mind the gutter — and *wear* the verdict well."
 > *(T6 · tone — **"Unbuyable."** / **"Wear the verdict well."** / **"Mind the gutter."** Remembered: the farewell.)*
 > *(T7 · stance — **the verdict** (worn) / **the verdict** (filed) / **the verdict** (feared). Remembered: the verdict — carried how.)*

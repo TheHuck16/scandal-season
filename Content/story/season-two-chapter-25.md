@@ -12,7 +12,7 @@
 
 **Occasion:** The London return — Rose's first Almack's-adjacent evening after Bath, with a gutter paragraph in circulation and the Network's answer beginning. **Preparation ritual:** evening dress for vindication — the brief is vindication. **Purse shelf:** the evening's honest costs, paid in coin.
 
-**What changes for Rose:** She learns the price of drawing blood: the Network answers in the gutter, not the ballroom. She wins the ton's verdicts by conduct alone — Bell refuses the gutter's paragraph, the ton watches her not flinch — and discovers the gutter paper has been bought, with Ambrose Pyke's name in the imprint's shadow. By the chapter's end she has chosen how to answer the gutter, how to meet Bell's refusal, and how to meet Pyke's purchase — and the Network's answer has a name and an address.
+**What changes for Rose:** She learns the price of drawing blood: the Network answers in the gutter, not the ballroom. She wins the ton's verdicts by conduct alone — Bell refuses the gutter's paragraph, the ton watches her not flinch — and discovers the gutter paper has been bought, with the buyer's draft in the imprint's shadow. By the chapter's end she has chosen how to answer the gutter, how to meet Bell's refusal, and how to meet the gutter's new owner — and the Network's answer has an address.
 
 ### L25.S1 · plot beat · Rose Hartwell
 *Purpose: Open from L24's cliffhanger — the morning after the papers were read whole; the one missing paper, the hole shaped like a man.*
@@ -425,8 +425,8 @@
 > What Rose could establish, through Quill's clerks and Letitia's City cousins and the ordinary arithmetic of men who talked after their third glass: Silt's debts had been called in a month ago, and paid a week ago — by a draft on a bank that asked no questions. The *Mercury*'s next edition would carry a new imprint line. And the man who had called, and paid, and arranged, had clean hands and a dirty errand — and a name that the trade whispered the way drawing rooms whispered a scandal.
 > *Turn 3 — Stance:* the name — sought / dreaded / faced. *Remembered: the whisper, pursued to its source.*
 > *Turn 4 — Look-closer:* the draft / the bank / the intermediary. *Remembered: the money's route — clean, questionless, and final.*
-> Ambrose Pyke. The name arrived the way bad weather arrived: from several directions at once, unmistakable. Not the Network's creature — the Network's *instrument*, or its banker, or its buyer; the distinctions hardly mattered. What mattered was the imprint's shadow: the *Mercury*, bought entire, its respectable name now the gutter's better suit of clothes.
-> *Turn 5 — Choice:* Pyke's shape — the purse / the knife / the principal. *Remembered: what Rose judges him — money, weapon, or master.*
+> The buyer. The news arrived the way bad weather arrived: from several directions at once, unmistakable. Not the Network's creature — the Network's *instrument*, or its banker, or its buyer; the distinctions hardly mattered. What mattered was the imprint's shadow: the *Mercury*, bought entire, its respectable name now the gutter's better suit of clothes.
+> *Turn 5 — Choice:* the buyer's shape — the purse / the knife / the principal. *Remembered: what Rose judges him — money, weapon, or master.*
 > *Turn 6 — Look-closer:* Lavinia's warning — the ankle / the boots / the fatter ankle. *Remembered: the boots, laced — the paper bought is the bite's new teeth.*
 > "The gutter doesn't fence," Rose said to the empty study, trying Lavinia's voice in her mouth. "It bites." And now it had bought teeth with a respectable name. The paragraph about her had been the first bite — a trial, a tasting. The *Mercury* was the jaw, opening.
 > *Turn 7 — Maneuver:* Bell told / Lavinia told / both. *Remembered: the warning's circuit — the proprietor first, the friend, or all at once.*
@@ -440,9 +440,9 @@
 > *Turn 1 — Stance:* the news — delivered plain / with its proof / with its dread. *Remembered: the sale, stated — the Mercury, Silt, the draft.*
 > *Turn 2 — Look-closer:* Bell's face — unsurprised / grim / calculating. *Remembered: expected — the proprietor had priced this already.*
 > "The *Mercury*," Bell said. "Silt. Yes. I priced it last month — what it would cost to buy him out from under his debts. I could not afford it." She set down her proof. "Someone could."
-> *Turn 3 — Choice:* Pyke named / described / withheld. *Remembered: the name, given — or the description only, or the card kept.*
-> "Ambrose Pyke," Rose said. "The name the trade whispers. Clean hands."
-> "Pyke." Bell wrote it down — not as news, but as confirmation. "The Network's buyer. Not its master — buyers are never masters; masters don't do their own shopping." She looked up. "You kept your promise. When the gutter buys a press of its own, come and tell me. You came."
+> *Turn 3 — Choice:* the buyer — described / traced / withheld. *Remembered: the description, given — or the draft only, or the card kept.*
+> "A buyer," Rose said. "New money — the trade whispers it. Clean hands."
+> "The trade." Bell wrote it down — not as news, but as confirmation. "The Network's buyer. Not its master — buyers are never masters; masters don't do their own shopping." She looked up. "You kept your promise. When the gutter buys a press of its own, come and tell me. You came."
 > *Turn 4 — Stance:* the promise — honored / minimized / returned. *Remembered: kept — the alliance's first act.*
 > *Turn 5 — Look-closer:* the competition / the war / the imprint. *Remembered: Bell expects competition and intends to outlast it — the terms, restated.*
 > "What will you do?" Rose asked.
@@ -456,13 +456,13 @@
 
 ### L25.S25 · [T] · Rose Hartwell
 *Purpose: Texture — the imprint's shadow; what a bought press means for the week already lived.*
-> The *Mercury*'s shadow, considered on the walk home — for the imprint was the thing, and the shadow was where Pyke stood:
+> The *Mercury*'s shadow, considered on the walk home — for the imprint was the thing, and the shadow was where the buyer stood:
 > *Turn 1 — Look-closer:* the respectable name / the empty coffers / the new line. *Remembered: the gutter's better suit — bought, not rented.*
 > *Turn 2 — Stance:* the week's conduct — vindicated / insufficient / beside the point. *Remembered: the calls, the ball, the claret — weighed against a press.*
 > All week she had answered the paragraph with conduct — the calls kept, the courtesies exact, the claret dress like a verdict. And the conduct had worked: the ton had watched her not flinch, and the recalculation had begun. But conduct answered a paragraph. What answered a *press*? A press did not flinch, did not watch, did not recalculate. A press printed — weekly, relentlessly, in respectable type with a respectable name.
 > *Turn 3 — Choice:* the answer's scale — conduct / inquiry / war. *Remembered: the week's doctrine — outgrown, or confirmed, or expanded.*
-> *Turn 4 — Look-closer:* Pyke in the shadow — the buyer / the instrument / the man. *Remembered: never seen, only named — the shadow's shape.*
-> She had never seen Ambrose Pyke. No one had described his face, his voice, his hands — only the hands' cleanliness, which was everyone's phrase and no one's observation. He stood in the imprint's shadow the way the Network stood behind everything: named, never seen. Sly. Never overt. That was the doctrine, and Pyke was its creature — or its author. The distinction, again, hardly mattered.
+> *Turn 4 — Look-closer:* the buyer in the shadow — the purse / the instrument / the man. *Remembered: never seen — the shadow's shape.*
+> She had never seen the Mercury's new proprietor. No one had described his face, his voice, his hands — only the hands' cleanliness, which was everyone's phrase and no one's observation. He stood in the imprint's shadow the way the Network stood behind everything: a purse, never a person. Sly. Never overt. That was the doctrine, and the buyer was its creature — or its author. The distinction, again, hardly mattered.
 > *Turn 5 — Stance:* the shadow — faced / studied / refused. *Remembered: the unseen — met, examined, or denied standing.*
 > *Turn 6 — Maneuver:* the evening — the ball / the calls / the study. *Remembered: the week's end — the answer, chosen tonight.*
 > At home Letitia was waiting with the expression of an aunt who had been thinking. "You look," she said, "like a woman deciding whether to fence or bite."
@@ -473,11 +473,11 @@
 *Animation: Shared.*
 
 ### L25.S26 · plot beat · Rose Hartwell, Aunt Letitia Hartwell
-*Purpose: The three answers to Pyke — weighed, before the choosing.*
+*Purpose: The three answers to the purchase — weighed, before the choosing.*
 > Dressing for the evening, Rose weighed the three answers the way she had weighed the three responses to the paragraph — by feel, in the palm.
-> *Turn 1 — Choice:* investigate — its promise / its peril / its price. *Remembered: Pyke pursued — the buyer unmasked as buyer; the war's new front; the cost in safety.*
-> *Turn 2 — Look-closer:* the investigation's end — the master / the money / the press. *Remembered: what finding Pyke would find — the Network's hand, or its purse, or only its shopping.*
-> Investigate: follow Pyke the way she had followed the paragraph — through draft and bank and intermediary to the man in the imprint's shadow. The investigator's answer, again. But Pyke was not a paragraph; Pyke was a buyer with clean hands and a deep purse, and investigations of buyers had a way of becoming wars of purses.
+> *Turn 1 — Choice:* investigate — its promise / its peril / its price. *Remembered: the buyer, pursued — unmasked; the war's new front; the cost in safety.*
+> *Turn 2 — Look-closer:* the investigation's end — the master / the money / the press. *Remembered: what finding the buyer would find — the Network's hand, or its purse, or only its shopping.*
+> Investigate: follow the buyer the way she had followed the paragraph — through draft and bank and intermediary to the man in the imprint's shadow. The investigator's answer, again. But the buyer was not a paragraph; he was a man with clean hands and a deep purse, and investigations of buyers had a way of becoming wars of purses.
 > *Turn 3 — Choice:* warn Lavinia — its sense / its cost / its shape. *Remembered: the friend warned — the bite's next ankle; the warning's price; the telling, plain or coded.*
 > *Turn 4 — Look-closer:* Lavinia's danger — the past bite / the present ankle / the future teeth. *Remembered: bitten before — the Mercury's teeth are new, and Lavinia's ankle is known.*
 > Warn Lavinia: the warning's circuit, completed. Lavinia had warned her about the gutter's bite; the *Mercury*'s new teeth would bite other ankles — and Lavinia's, bitten before, was known to the trade. But warnings were also signals: to warn Lavinia was to tell the ton that Rose knew about the sale, and the ton told everything to everyone.
@@ -490,18 +490,18 @@
 *Animation: Shared.*
 
 ### L25.S27 · plot beat · Rose Hartwell
-*Purpose: ★ KEY DECISION 3/3 — THE PYKE PURCHASE. The three answers weighed, dressing; the choice, at the glass.*
+*Purpose: ★ KEY DECISION 3/3 — THE GUTTER PURCHASE. The three answers weighed, dressing; the choice, at the glass.*
 > Dressing for the evening, Rose weighed the three answers the way she had weighed the paragraph's — by feel, in the palm.
-> *Turn 1 — Choice:* investigate — its promise / its peril / its price. *Remembered: Pyke pursued — the buyer unmasked as buyer; the war's new front; the cost in safety.*
-> *Turn 2 — Look-closer:* the investigation's end — the master / the money / the press. *Remembered: what finding Pyke would find — the Network's hand, its purse, or only its shopping.*
+> *Turn 1 — Choice:* investigate — its promise / its peril / its price. *Remembered: the buyer, pursued — unmasked; the war's new front; the cost in safety.*
+> *Turn 2 — Look-closer:* the investigation's end — the master / the money / the press. *Remembered: what finding the buyer would find — the Network's hand, its purse, or only its shopping.*
 > *Turn 3 — Choice:* warn Lavinia — its sense / its cost / its shape. *Remembered: the friend warned — the bite's next ankle; the warning's price; plain or coded.*
 > *Turn 4 — Look-closer:* Lavinia's danger — the past bite / the present ankle / the future teeth. *Remembered: bitten before — the Mercury's teeth are new, and her ankle is known.*
 > *Turn 5 — Choice:* prepare for libel war — its armor / its weapons / its field. *Remembered: Quill briefed; the purse counted; the courts, not the gutter.*
 > *Turn 6 — Look-closer:* the war's true shape — defense / attack / deterrence. *Remembered: libel as shield; the imprint as target; the suit that never needs filing.*
 > *Turn 7 — Maneuver:* the evening — entered / delayed / avoided. *Remembered: the choice, carried into the night.*
 > *(System: the choice is Rose's. The Mercury is bought regardless; what the game remembers is how Rose meets it.)*
-*★ KEY DECISION 3/3 — The Pyke purchase:*
-- **Investigate** — *Intrigue+, the buyer's trail.* Rose follows Pyke through draft, bank, and intermediary to the man in the imprint's shadow. The Network's buyer, pursued — and buyers who are pursued sometimes turn around.
+*★ KEY DECISION 3/3 — THE GUTTER PURCHASE:*
+- **Investigate** — *Intrigue+, the buyer's trail.* Rose follows the buyer through draft, bank, and intermediary to the man in the imprint's shadow. The Network's buyer, pursued — and buyers who are pursued sometimes turn around.
 - **Warn Lavinia** — *Alliance+, the circuit completed.* Rose tells Lavinia about the Mercury's new teeth — plainly, privately, first. The friend warned is the friend kept; but the ton tells everything to everyone.
 - **Prepare for libel war** — *Standing+, the courts chosen.* Quill briefed, the purse counted, the field chosen in advance. The warlike answer — expensive, public, and final: sue the imprint, not the whisper.
 > Whatever she chose, she chose it the way she had chosen everything that week: in public, where the windows were — except this choice, which would be lived in shadow, where the imprints were.
@@ -515,7 +515,7 @@
 > The evening was the week's end made visible: the ton at its ease, the paragraph a week old and already stale, the claret dress's work done and the burgundy's begun. Guests talked of the opera, the weather, the King's health — the ordinary furniture of conversation, rearranged around the absence of the one thing no one mentioned. The gutter had wondered. The week had answered. The ton had looked, and the looking had been enough.
 > *Turn 3 — Maneuver:* the talk — joined / guided / overheard. *Remembered: the room, worked — or listened to.*
 > *Turn 4 — Look-closer:* the paragraph's fate — stale / buried / remembered. *Remembered: a week old — the gutter's wonder, outlived.*
-> But under the surface the other week ran on: the *Mercury*'s new imprint line, Silt's paid debts, Pyke's clean hands. Conduct had answered the paragraph. The press was a different question, and the question had been answered — in shadow, where the imprints were — by the choice she carried downstairs.
+> But under the surface the other week ran on: the *Mercury*'s new imprint line, Silt's paid debts, the buyer's clean hands. Conduct had answered the paragraph. The press was a different question, and the question had been answered — in shadow, where the imprints were — by the choice she carried downstairs.
 > *Turn 5 — Stance:* the two weeks — reconciled / divided / carried. *Remembered: the surface and the shadow — held together.*
 > *Turn 6 — Micro:* the Gazette — read / quoted / praised. *Remembered: Bell's paper, in the room — the imprint honored.*
 > Someone quoted the Gazette — Bell's verdict on the week's fashions, which had found the claret dress "the best-dressed argument in memory" — and the room laughed, kindly, and Rose smiled, and thought of the scarred desk and the ink under the fingernail, and the refusal stated soft-voiced and absolute. *The Gazette is not for sale. At any price.* Some things, the week had taught her, could not be bought. Only outlasted.
@@ -529,7 +529,7 @@
 > Late, in the study, Rose reckoned the week the way Quill reckoned a ledger: two columns, both honest.
 > *Turn 1 — Look-closer:* the column of conduct — the calls / the ball / the dress. *Remembered: five breath-pauses; the claret; the ton's recalculation — assets.*
 > *Turn 2 — Look-closer:* the column of cost — Henry's mother / the vigilance / the purse. *Remembered: the crack; the held breath; the week's expenses — liabilities.*
-> What the papers cost: the paragraph had cost the Network less than her gloves, and had bought it a week of her vigilance. The whisper had cost Henry his mother's unbroken trust. The refusal had cost Bell nothing but the new type — which was to say, it had cost her the price of principle, payable daily. And the *Mercury* had cost Pyke whatever Silt's debts came to — the first honest price in the whole ledger, paid for the gutter's better suit of clothes.
+> What the papers cost: the paragraph had cost the Network less than her gloves, and had bought it a week of her vigilance. The whisper had cost Henry his mother's unbroken trust. The refusal had cost Bell nothing but the new type — which was to say, it had cost her the price of principle, payable daily. And the *Mercury* had cost the buyer whatever Silt's debts came to — the first honest price in the whole ledger, paid for the gutter's better suit of clothes.
 > *Turn 3 — Stance:* the ledger — balanced / red / written. *Remembered: the reckoning — faced, or owed, or recorded.*
 > *Turn 4 — Choice:* the missing paper — pursued / filed / waiting. *Remembered: paper 42 — still wanted; the hole, still shaped like a man.*
 > And paper 42 — still missing. The hole still shaped like a man. The week had answered the paragraph, cleared the whisper, met the refusal, traced the sale — and the one paper, the first absence, remained absent. The Network's first hand: take the evidence. Its second: give the rumor. Its third, now: buy the press. Three hands, and the first still held what it had taken.
@@ -548,7 +548,7 @@
 > *Turn 2 — Stance:* coldly / hotly / clinically. *Remembered: the second bite — filed as tactic, felt, or admired unwillingly.*
 > It was the same wondering, in the better suit: whether Miss Hartwell's Bath triumph had been quite spontaneous; whether Voss & Hallett's embarrassment had not been arranged; whether a young lady who bought obligations in public might not have bought other things in private. No names. No facts. Nothing answerable — because nothing had been said. Only now it wore the *Mercury*'s respectable name, and respectable names were read at breakfast by people who did not read gutter sheets.
 > *Turn 3 — Choice:* the answer — conduct again / the chosen means / both. *Remembered: the week's doctrine — renewed, or the shadow's answer, or all of it.*
-> *Turn 4 — Look-closer:* the imprint's shadow — Pyke / the Network / the purse. *Remembered: named, never seen — the shadow, acknowledged.*
+> *Turn 4 — Look-closer:* the imprint's shadow — the buyer / the Network / the purse. *Remembered: the buyer, unmet — the shadow, acknowledged.*
 > The jaw was open. The bite had come — cleaner, better-dressed, respectable. And Rose stood in the study in her burgundy dress, with the week's ledger in her head and the choice in her spine, and felt — not fear. Something colder and more useful: recognition. This was the war now. Not the paragraph. The press. Not the whisper. The jaw.
 > *Turn 5 — Stance:* the war — named / faced / accepted. *Remembered: the new shape — called by its name.*
 > *Turn 6 — Maneuver:* Bell — told at once / told in the morning / the promise kept. *Remembered: "when the gutter buys a press of its own" — it has; she will know.*
@@ -582,9 +582,9 @@
 > *Turn 2 — Stance:* the proprietor — grim / sharp / calm. *Remembered: war, recognized — the imprint's enemy, named.*
 > "The same wondering," Bell said. "Better dressed. Silt's debts, the draft, the bank — " she set the paper down. "It is all *inquiry*, Miss Hartwell. The Gazette does not wonder. It finds out." She took up her pen and wrote three lines in the margin of her proof — the beginnings, Rose understood, of the Gazette's answer: not a paragraph, but an inquiry, conducted in daylight, with names.
 > *Turn 3 — Choice:* the inquiry's aid — offered / asked / neither. *Remembered: the alliance — its terms, honored.*
-> *Turn 4 — Look-closer:* the inquiry's shape — Silt / the draft / Pyke. *Remembered: the debts, the money, the buyer — the daylight's targets.*
-> "Pyke," Rose said. "Ambrose Pyke. The name the trade whispers."
-> "Then the trade will whisper it to me." Bell's pen did not stop. "Buyers leave tracks, Miss Hartwell — drafts, banks, intermediaries. Gutters can be rented anonymously. Presses cannot be bought anonymously. That is Silt's mistake, and Pyke's, and the Network's: they have bought something with a name on it."
+> *Turn 4 — Look-closer:* the inquiry's shape — Silt / the draft / the buyer. *Remembered: the debts, the money, the buyer — the daylight's targets.*
+> "The buyer," Rose said. "A draft on the bank that asks no questions. Clean hands."
+> "Then the trade will whisper him to me." Bell's pen did not stop. "Buyers leave tracks, Miss Hartwell — drafts, banks, intermediaries. Gutters can be rented anonymously. Presses cannot be bought anonymously. That is Silt's mistake, and the buyer's, and the Network's: they have bought something with a name on it."
 > *Turn 5 — Stance:* the tracks — followed / noted / left to Bell. *Remembered: the buyer's trail — hers, or the Gazette's, or both.*
 > *Turn 6 — Maneuver:* the week — closed / continued / handed over. *Remembered: the inquiry — joined, watched, or entrusted.*
 > On the stairs — the third visit, the easiest and the hardest — Rose understood what the week had built: not a friendship, exactly. Something more durable. An alliance of the exact: the proprietor who could not be bought, and the heiress who could not be flinched. The gutter had bought a press. They had — without signing anything, without saying it — bought each other time.
@@ -615,7 +615,7 @@
 > Quill's chambers: the deed boxes, the green-shaded lamp, the solicitor's precision like a second set of books.
 > *Turn 1 — Look-closer:* the brief — the war / the watch / the option. *Remembered: Quill briefed for libel — or the papers watched, or the suit held ready.*
 > *Turn 2 — Choice:* the war's shape — filed / threatened / held. *Remembered: the courts chosen — or the deterrent, or the loaded gun.*
-> "The arithmetic of libel," Quill said, "is simple. The *Mercury* prints insinuation without names — nothing actionable. To make it actionable, it must name you. To name you, it must risk the suit. The suit, Miss Hartwell, is the deterrent — not the filing, but the *readiness*. Silt knows I am briefed. Pyke will know by Thursday." He folded his hands. "A press with a name on it can be sued. That is the whole of the law, and the whole of the strategy."
+> "The arithmetic of libel," Quill said, "is simple. The *Mercury* prints insinuation without names — nothing actionable. To make it actionable, it must name you. To name you, it must risk the suit. The suit, Miss Hartwell, is the deterrent — not the filing, but the *readiness*. Silt knows I am briefed. The buyer will know by Thursday." He folded his hands. "A press with a name on it can be sued. That is the whole of the law, and the whole of the strategy."
 > *Turn 3 — Stance:* the readiness — owned / delegated / doubted. *Remembered: the loaded gun — hers, Quill's, or questioned.*
 > *Turn 4 — Look-closer:* the costs — the purse / the publicity / the years. *Remembered: expensive; public; slow — the war, priced.*
 > "And paper 42?" Rose asked.
@@ -633,7 +633,7 @@
 > Lavinia's drawing room, late afternoon: the particular disorder of a woman who entertained constantly and tidied never.
 > *Turn 1 — Stance:* the telling — plain / coded / withheld. *Remembered: the Mercury's teeth — named, hinted, or kept.*
 > *Turn 2 — Look-closer:* Lavinia's ankle — known / bared / booted. *Remembered: bitten before — the trade knows the ankle; the boots, assessed.*
-> "The *Mercury*," Rose said. "Bought. Silt's debts paid by a draft — Pyke's draft, the trade whispers. The gutter has a respectable name now, and new teeth." Lavinia listened without moving — the stillness of a woman who had been bitten before and recognized the jaw. "My ankle," she said at last, "is known to the trade. It has been bitten before. But I wear boots now, darling — " a smile, sharp — "laced by experience. Worry about the ankles that don't."
+> "The *Mercury*," Rose said. "Bought. Silt's debts paid by a draft — the buyer's draft, the trade whispers. The gutter has a respectable name now, and new teeth." Lavinia listened without moving — the stillness of a woman who had been bitten before and recognized the jaw. "My ankle," she said at last, "is known to the trade. It has been bitten before. But I wear boots now, darling — " a smile, sharp — "laced by experience. Worry about the ankles that don't."
 > *Turn 3 — Choice:* the circuit — completed / half / broken. *Remembered: warned, and warning — the friend kept.*
 > *Turn 4 — Maneuver:* the ton's ankles — named / counted / left. *Remembered: who the teeth will find — considered.*
 > "The gutter doesn't fence," Rose said. "You were right. It bites — and now it has bought the jaw."
@@ -672,8 +672,8 @@
 > *Turn 2 — Stance:* the judgment — received / weighed / worn. *Remembered: Bell's verdict — accepted, considered, or inhabited.*
 > Bell's verdict on the fortnight was everything the week had argued for: the conduct commended without naming the paragraph, the steadiness praised without describing the flinch, the claret dress entered into the record as "the best-dressed argument in memory." The Gazette did not wonder. It *judged* — and its judgment was that Miss Hartwell had been, for two weeks, exactly what a young lady of standing should be: unimpeachable, unhurried, unafraid.
 > *Turn 3 — Choice:* the verdict's worth — capital / comfort / both. *Remembered: the ton's recalculation — banked.*
-> *Turn 4 — Look-closer:* the unwritten — the Mercury / Pyke / paper 42. *Remembered: the inquiry continues; the buyer tracked; the hole, still shaped like a man.*
-> What the Gazette did not write: the *Mercury*'s new imprint line, still under inquiry. Pyke's name, still a whisper. Paper 42, still missing. The verdict was the week's close, not the war's. But closes mattered: the ton's recalculation, completed; the fortnight's conduct, entered into the record; the woman, weighed against two paragraphs — gutter and respectable — and winning, twice.
+> *Turn 4 — Look-closer:* the unwritten — the Mercury / the buyer / paper 42. *Remembered: the inquiry continues; the buyer tracked; the hole, still shaped like a man.*
+> What the Gazette did not write: the *Mercury*'s new imprint line, still under inquiry. The buyer's name, still a whisper. Paper 42, still missing. The verdict was the week's close, not the war's. But closes mattered: the ton's recalculation, completed; the fortnight's conduct, entered into the record; the woman, weighed against two paragraphs — gutter and respectable — and winning, twice.
 > *Turn 5 — Stance:* the close — rested in / spent / banked. *Remembered: the fortnight, ended — the war, continued.*
 > *Turn 6 — Maneuver:* the lookbook — the claret / the season / the blank pages. *Remembered: vindication, filed — the book remembers.*
 > Élise's lookbook lay open on the study table — the girl had brought it round with the week's bill, and the vindication dress stood there in ink and wash: claret, severe, gold climbing toward the throat. Below it, in Élise's hand: *Vindication — worn when the papers wondered. The gutter is paper; she is not.* Rose traced the wash with one finger and thought: the book remembers what was worn. The Gazette remembers what was done. Between the two of them, the fortnight was fully recorded.
@@ -723,20 +723,20 @@
 *Animation: Shared.*
 
 ### L25.S40 · cliffhanger · Rose Hartwell
-*Purpose: ★ CLIFFHANGER — Pyke buys the paper; the Network answers in the gutter. (Turns: 1 — the reading.)*
+*Purpose: ★ CLIFFHANGER — the buyer takes the paper; the Network answers in the gutter. (Turns: 1 — the reading.)*
 > The *Mercury*'s new edition came on Sunday — with the new imprint line, reset at last in respectable type. Rose read it in the study, alone, the way one reads a declaration one has been expecting and dreading in equal measure.
 >
 > And there — below the proprietor's name, in the small type where the money lived — a line that had not been there before: the paper's debts, settled; its ownership, transferred; and in the imprint's shadow, handling the transfer, the clean hands the trade had whispered about all week.
 >
-> Ambrose Pyke had bought the paper. Not rented the paragraph — *bought the press*. The gutter had a respectable name, respectable type, and a jaw that would open weekly.
+> The purchase was complete. Not rented the paragraph — *bought the press*. The gutter had a respectable name, respectable type, and a jaw that would open weekly.
 >
 > She sat a long time with the edition in her lap, the study's lamplight pooling on the respectable type. Two weeks ago the war had been a paragraph — cheap, hurried, answerable by conduct. Then it had been a whisper — personal, deniable, cleared at a cost. Now it was a press: weekly, relentless, respectable. Each answer had been correct, and each had been outgrown. Conduct had beaten the paragraph. Daylight had beaten the whisper. What beat a press?
 >
 > *Quill's answer: the courts. Bell's answer: inquiry. Lavinia's answer: boots.* And her own — chosen in shadow, where the imprints were — already set in motion: the investigation's first step, the warning's delivery, or the war's briefing. The fortnight was closed. The war was not.
 >
-> Outside, the City's ink-smell drifted on the Sunday air, and somewhere in it the *Mercury*'s presses were being made ready — cleaned, perhaps, by Silt's old pressmen; paid, certainly, by Pyke's draft on the bank that asked no questions.
+> Outside, the City's ink-smell drifted on the Sunday air, and somewhere in it the *Mercury*'s presses were being made ready — cleaned, perhaps, by Silt's old pressmen; paid, certainly, by the buyer's draft on the bank that asked no questions.
 >
 > The Network had answered. Not in the ballroom, where Rose had won. Not in the courts, where Quill waited. In the gutter — where it had always lived, and where it had just bought itself a better address.
 >
-> *(System: Chapter 25 ends. The Mercury is bought; Ambrose Pyke's name stands in the imprint's shadow. The Network's answer has a name, a press, and an owner — and his hands are clean. Season Two's war has bought itself a better address.)*
+> *(System: Chapter 25 ends. The Mercury is bought; the buyer's draft stands in the imprint's shadow. The Network's answer has a press, an owner, and a clean pair of hands. Season Two's war has bought itself a better address.)*
 *Animation: Shared.*

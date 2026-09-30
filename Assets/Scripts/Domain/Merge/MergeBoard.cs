@@ -88,16 +88,18 @@ namespace ScandalSeason.Domain.Merge
     ///   <item>Merging requires exactly 3 or 5 items of the same chain AND level.</item>
     ///   <item>3 merge into 1 item of level+1; 5 merge into 2 items of level+1 (bonus).</item>
     ///   <item>Results are placed on the first (and second) selected positions.</item>
+    ///   <item>Chains have their own lengths (10-15 levels; core chains up to 19) and
+    ///   are not all the same length. Merging items already at their own chain's
+    ///   final level is rejected.</item>
     /// </list>
     /// Deterministic when constructed with a seed (tests, replays).
     /// </summary>
     public sealed class MergeBoard
     {
-        /// <summary>
-        /// Locked engine rule (Sep 27 2026): every chain has exactly 10 levels.
-        /// Merging items already at the max level is rejected.
-        /// </summary>
-        public const int MaxChainLevel = 10;
+        // Each chain's own final level (chain id -> level count), from the chain
+        // definitions. There is no global cap: chains vary 10-15 levels, core
+        // chains up to 19, and they must not all share the same length.
+        private readonly IReadOnlyDictionary<string, int>? _chainMaxLevels;
 
         public int Width { get; }
         public int Height { get; }
@@ -105,7 +107,8 @@ namespace ScandalSeason.Domain.Merge
         private readonly MergeItem?[,] _cells;
         private readonly Random _random;
 
-        public MergeBoard(int width, int height, int? seed = null)
+        public MergeBoard(int width, int height, int? seed = null,
+            IReadOnlyDictionary<string, int>? chainMaxLevels = null)
         {
             if (width < 1) throw new ArgumentOutOfRangeException(nameof(width));
             if (height < 1) throw new ArgumentOutOfRangeException(nameof(height));
@@ -113,6 +116,7 @@ namespace ScandalSeason.Domain.Merge
             Height = height;
             _cells = new MergeItem?[width, height];
             _random = seed.HasValue ? new Random(seed.Value) : new Random();
+            _chainMaxLevels = chainMaxLevels;
         }
 
         public bool IsInBounds(int x, int y) => x >= 0 && x < Width && y >= 0 && y < Height;
@@ -181,8 +185,11 @@ namespace ScandalSeason.Domain.Merge
                     return MergeResult.Fail("All merged items must share the same chain and level.");
             }
 
-            if (first.Level >= MaxChainLevel)
-                return MergeResult.Fail($"Items are already at the max level ({MaxChainLevel}); merging is rejected.");
+            if (_chainMaxLevels == null || !_chainMaxLevels.TryGetValue(first.ChainId, out int maxLevel))
+                return MergeResult.Fail($"Chain '{first.ChainId}' is not registered on this board; merging is rejected.");
+
+            if (first.Level >= maxLevel)
+                return MergeResult.Fail($"Items are already at '{first.ChainId}' final level ({maxLevel}); merging is rejected.");
 
             int resultCount = positions.Count == 5 ? 2 : 1;
             int resultLevel = first.Level + 1;

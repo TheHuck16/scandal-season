@@ -6,7 +6,7 @@
 
 **Format key.** [D] dialogue-heavy · [F] fashion-selection (2–3 diegetic options, no coin cost, remembered) · [C] dressing-for-climax ritual (direction + occasion brief, decomposed micro-decisions, story morsels, reveal coda) · [T] texture micro-beat · plot beat (untagged) · Gazette sting · cliffhanger. ★ marks the chapter's exactly 3 key decisions (locked rule: 3/chapter, 90/season). (T#) marks a player turn — choice, stance/tone decision, look-closer examination, social maneuver, or remembered micro-decision. Turns converge on the chapter's fixed beats unless ★; the game remembers the means — tone, relationship shifts, Gazette-verdict flavor. Animation: Shared throughout — L29 is not a tentpole; the ritual uses the shared ritual presentation.
 
-**Canon applied:** 1815. The battle won at Bath; the war, open. Lucien de Valcourt holds the missing paper — the hole in the pattern is his strongbox. Mrs. Nance Bell is the Gazette's publicly named proprietor from the first edition — no unmasking plot anywhere; the paper judges and narrates, never a mystery, prize, or paywall. Lucien de Valcourt is seeded only — named in the paper trail and gossip, never appears, never speaks. Suitors honorable; villains sly, never overt. Ambrose Pyke's *London Lantern* is the Network's gutter weapon — cheap, vicious, bought. Fashion is a courtship mechanic with social consequence. Energy is the only throttle. Iron rule holds: time earns everything money can. Crowns (premium) / coins (soft). No Crown SKU touches the ritual.
+**Canon applied:** 1815. The battle won at Bath; the war, open. Lucien de Valcourt holds the missing paper — the hole in the pattern is his strongbox. Mrs. Nance Bell is the Gazette's publicly named proprietor from the first edition — no unmasking plot anywhere; the paper judges and narrates, never a mystery, prize, or paywall. Lucien de Valcourt is seeded only — named in the paper trail and gossip, never appears, never speaks. Suitors honorable; villains sly, never overt. The *London Lantern* is the Network's gutter weapon — cheap, vicious, bought with the Network's coin. Fashion is a courtship mechanic with social consequence. Energy is the only throttle. Iron rule holds: time earns everything money can. Crowns (premium) / coins (soft). No Crown SKU touches the ritual.
 
 **Occasion:** A London ball — the season's return; the blooded survivor, presented. **Preparation ritual:** evening dress — the brief is no apology. **Purse shelf:** ritual pins draw from play earnings, never Crowns.
 
@@ -385,7 +385,7 @@
 > "Darling." Lavinia took her arm, steered her to the relative quiet of a window embrasure. "A word, before the evening's work carries you off. About the gutter."
 > (T3 · social maneuver) *She lets Lavinia steer her to the embrasure — the warning, given its quiet.* — remembered: *the steering, permitted.*
 > "You know the gutter?"
-> "I know everyone, darling. It's my tragedy." Lavinia's voice dropped. "The *Lantern* — Pyke's little sheet — has been bought. Struggling paper, new money, suddenly solvent. The Network's coin, behind the ink. And the ink, my love, is about to turn its eye on you."
+> "I know everyone, darling. It's my tragedy." Lavinia's voice dropped. "The *Lantern* — the gutter sheet — has been bought. Struggling paper, new money, suddenly solvent. The Network's coin, behind the ink. And the ink, my love, is about to turn its eye on you."
 > (T4 · remembered micro-decision) *The Lantern bought — struggling paper, new money, the Network's coin.* — remembered: *the purchase, filed.*
 > "When?"
 > "Soon. Days." Lavinia's grip tightened. "And Rose — listen to me, because I am the only person in this room who will say it plainly: the gutter doesn't fence, darling. It bites. It will not meet you in the right rooms with arithmetic. It will print that your ruin was fraud, your restoration a swindle, your suitors your dupes. It will print it cheaply, viciously, and repeatedly — and the people who read it will not be the people in this room."
@@ -400,26 +400,26 @@
 ### L29.S21 · plot beat · Rose Hartwell
 *Purpose: ★ KEY DECISION 1/3 — THE LIBEL. The gutter is bought and loading; Rose decides how to meet it. (Turns: 3 — the decision itself)*
 > After Lavinia's warning — the embrasure's quiet still around her like a held breath — Rose faced the decision the whole ball had been circling: the libel, coming, and how to meet it.
-> *(System: the libel — Pyke's Lantern, bought with the Network's coin, the first attack nearly set in type. Three roads for meeting it.)*
+> *(System: the libel — the Lantern, bought with the Network's coin, the first attack nearly set in type. Three roads for meeting it.)*
 > The gutter doesn't fence. It bites. It would print fraud, swindle, dupes — cheaply, viciously, repeatedly — for the audience the Gazette does not reach: the servants, the shops, the street. And Rose — survivor, blooded, in burgundy (or steel, or emerald) — had to decide, tonight, before the ink dried: the posture toward the bite.
 *★ KEY DECISION 1/3 — The libel:*
 - **Meet it head-on** — *The general's answer.* Rose answers the libel openly — statements, witnesses, the Gazette's full weight behind her; the gutter's bite met with daylight, and the ton watches her not flinch.
 - **Unimpeachable conduct** — *The auditor's answer.* Rose gives the gutter nothing — every act beyond reproach, every account open; the libel starves for lack of material, and the ton audits her and finds her honest.
-- **Strike at Pyke's finances** — *The money's answer.* Rose strikes first at the Lantern's new money — trace the Network's coin, expose the purchase, break the paper before it fires; the gutter, defunded, like Voss's credit before it.
+- **Strike at the new money** — *The money's answer.* Rose strikes first at the Lantern's new money — trace the Network's coin, expose the purchase, break the paper before it fires; the gutter, defunded, like Voss's credit before it.
 > Rose chose — and the embrasure's quiet released its held breath, and the ball's music came back like a tide returning.
 > *(The game remembers the choice — and the means: the embrasure's held breath, the tide returning, the posture toward the bite.)*
 *Animation: Shared.*
 
 ### L29.S22 · plot beat · Rose Hartwell
-*Purpose: Pyke's Lantern turns openly on Rose — the gutter's first open shot, at the ball itself. (Turns: 8)*
-> It happened near midnight — as these things happen: not announced, but *present*. A gentleman of the press — Pyke's man, unmistakable in his cheap evening coat — moving through the ballroom's edges with a notebook, asking the servants' hall questions in the hearing of the supper room: *Was it true the Hartwell girl's Bath triumph had been bought? Was it true the suitors were her creatures?*
+*Purpose: The Lantern turns openly on Rose — the gutter's first open shot, at the ball itself. (Turns: 8)*
+> It happened near midnight — as these things happen: not announced, but *present*. A gentleman of the press — the Lantern's man, unmistakable in his cheap evening coat — moving through the ballroom's edges with a notebook, asking the servants' hall questions in the hearing of the supper room: *Was it true the Hartwell girl's Bath triumph had been bought? Was it true the suitors were her creatures?*
 > *(System: the Lantern turns openly — the gutter's first shot, fired in the open, at the ball.)*
 > (T1 · look closer) *The cheap evening coat, the notebook — the gutter, dressed for the ball.* — remembered: *the coat, cheap.*
 > The room felt it — the particular chill of a gutter draft in a ballroom. A banker's wife repeated the question to her neighbor, not as gossip but as *inquiry*. A young politician laughed — a shade too loudly. And Rose, across the room, watched the question travel the way she had once watched Voss's credit travel: hand to hand, eye to eye, gaining weight.
 > (T2 · remembered micro-decision) *The question traveling like Voss's credit — hand to hand, gaining weight.* — remembered: *the traveling, tracked.*
 > (T3 · stance) *She finishes her conversation with Trelawney's correspondent first — politely, precisely, to the last syllable; the discipline before the duel.* — remembered: *the discipline, kept.*
 > (T4 · tone) *Pleasant, lethal — the weapon she has honed all season.* — remembered: *the pleasantness, lethal.*
-> She did not flinch. She did not hurry across the room. She finished her conversation with Trelawney's correspondent — politely, precisely, to the last syllable — and then, and only then, she crossed the floor: unhurried, in burgundy (or steel, or emerald), and stood before Pyke's man.
+> She did not flinch. She did not hurry across the room. She finished her conversation with Trelawney's correspondent — politely, precisely, to the last syllable — and then, and only then, she crossed the floor: unhurried, in burgundy (or steel, or emerald), and stood before the Lantern's man.
 > (T5 · social maneuver) *She crosses the floor unhurried — the room's attention, collected like a cloak.* — remembered: *the crossing, unhurried.*
 > "You are writing," she said, pleasantly, "about me. Do get the spelling right. It is H-A-R-T-W-E-L-L." A pause. "The Gazette manages it. I am sure the *Lantern* can."
 > (T6 · remembered micro-decision) *"Do get the spelling right" — the line, kept for the Gazette's verdict.* — remembered: *the spelling, corrected.*
@@ -430,12 +430,12 @@
 
 ### L29.S23 · plot beat · Rose Hartwell, Mrs. Nance Bell
 *Purpose: Bell prints Bath's verdicts and ignores the gutter — the paper's position, stated. (Turns: 8)*
-> Bell was in the supper room's corner — the proprietor, publicly named, watching Pyke's man's retreat with the particular expression of a woman watching a dog leave a drawing room it was never invited into.
+> Bell was in the supper room's corner — the proprietor, publicly named, watching the Lantern man's retreat with the particular expression of a woman watching a dog leave a drawing room it was never invited into.
 > (T1 · tone) *She receives the paper's position with gravity — the proprietor, unbuyable.* — remembered: *the gravity, held.*
 > (T2 · look closer) *The dog that was never invited — the image, and the woman delivering it.* — remembered: *the image, delivered.*
 > "Miss Hartwell." Bell rose — slowly. "A word, before the evening ends. About the gutter."
 > "Mrs. Bell."
-> "The *Lantern* has turned its eye on you — openly, tonight, in this room." Bell's voice was low, and entirely unhurried. "Pyke's sheet is bought — struggling paper, new money, the Network's coin behind the ink. It will print its libel. It will print it cheaply." A pause. "And the Gazette — " she looked at Rose, steadily — "will print Bath's verdicts. The assembly. The obligations discharged. The pattern named. The *truth*, Miss Hartwell — stated, witnessed, audited. And the gutter — " the unbuyable smile — "the gutter will be *ignored*. Not answered. Not dignified. Ignored — the way one ignores a dog that was never invited into the drawing room."
+> "The *Lantern* has turned its eye on you — openly, tonight, in this room." Bell's voice was low, and entirely unhurried. "The gutter sheet is bought — struggling paper, new money, the Network's coin behind the ink. It will print its libel. It will print it cheaply." A pause. "And the Gazette — " she looked at Rose, steadily — "will print Bath's verdicts. The assembly. The obligations discharged. The pattern named. The *truth*, Miss Hartwell — stated, witnessed, audited. And the gutter — " the unbuyable smile — "the gutter will be *ignored*. Not answered. Not dignified. Ignored — the way one ignores a dog that was never invited into the drawing room."
 > (T3 · remembered micro-decision) *Bath's verdicts — the assembly, the obligations, the pattern — the paper's brief, memorized.* — remembered: *the brief, memorized.*
 > (T4 · social maneuver) *She lets Bell state the position — the proprietor's prerogative.* — remembered: *the stating, permitted.*
 > (T5 · stance) *She accepts the ignored, not the answered — the gutter, undignified.* — remembered: *the ignoring, accepted.*
@@ -454,7 +454,7 @@
 > The ball ran late — and in its late hours, London did what London does with everything the season brings it: it absorbed Bath. The assembly's drama, the obligations' discharge, the pattern's naming, the survivor's blood — all of it, taken into the ton's vast digestive system and converted, overnight, into *fact*: the kind of fact the ton trades in, the kind that appears in morning calls as settled history.
 > "Bath," a banker's wife said, definitively, over supper, "was magnificent." (She had not been there.)
 > (T2 · remembered micro-decision) *"Bath was magnificent" — she had not been there; the Gazette will savor it.* — remembered: *the magnificence, unattended.*
-> "The Hartwell girl," a young politician declared, "is the real thing." (He had doubted it in June.) The ladies — the ladies had simply *decided*, collectively and without a word: the woman in burgundy (or steel, or emerald) who had faced Pyke's man and spelled her own name was not a woman the gutter could frighten.
+> "The Hartwell girl," a young politician declared, "is the real thing." (He had doubted it in June.) The ladies — the ladies had simply *decided*, collectively and without a word: the woman in burgundy (or steel, or emerald) who had faced the Lantern's man and spelled her own name was not a woman the gutter could frighten.
 > (T3 · stance) *She lets London absorb — on her terms; the trick of the season.* — remembered: *the absorption, permitted.*
 > (T4 · tone) *The narrator's dry amusement — the settled history, settling.* — remembered: *the amusement, dry.*
 > The gutter's first shot — fired, and missed, and absorbed. The ton's new arithmetic — tested, and holding.
@@ -483,7 +483,7 @@
 
 ### L29.S26 · plot beat · Rose Hartwell, Lord Julian Ashcombe
 *Purpose: Julian — the gutter inquiries, ongoing; the lock-picker's commission, active. (Turns: 8)*
-> Julian found her near the stairs — Pyke's man's retreat still fresh in the room's memory, the gutter's first shot still smoking — and his face had the particular focus of a man with a commission.
+> Julian found her near the stairs — the Lantern man's retreat still fresh in the room's memory, the gutter's first shot still smoking — and his face had the particular focus of a man with a commission.
 > (T1 · look closer) *The focus of a man with a commission — the lock-picker, at work.* — remembered: *the focus, commissioned.*
 > "The *Lantern's* money," he said, without preamble. "I have begun — quietly, the way you taught me is cheaper than concealment. The paper was struggling — debts, a failing press, a proprietor drinking his capital. Then — " his voice dropped — "new money. Suddenly solvent. The Network's coin, behind the ink — the same shape as Voss's credit, before it broke."
 > (T2 · remembered micro-decision) *The same shape as Voss's credit — the pattern, repeating.* — remembered: *the shape, repeated.*
@@ -511,10 +511,10 @@
 > "Not spoken." Rose met her eyes. "Whispered. Taught, like a lesson. The ton is teaching itself — the way it taught itself Bath."
 > (T4 · social maneuver) *She lets Augusta confirm the arithmetic — the pupil's report, the general's approval.* — remembered: *the confirmation, sought.*
 > (T5 · stance) *She holds the line: whispered, not spoken — the principal, unnamed in public.* — remembered: *the line, held.*
-> "Discovery," Augusta said, "not declaration." The fan stilled. "Good. The Network's London front — its pattern, its principal — is now the ton's own discovery, and the ton defends its own discoveries the way it defends its own children." A glance toward Pyke's man's empty corner. "The gutter can print what it likes. The right rooms have done their sum — and the sum has a principal, and the principal has a name the ton will not forget."
+> "Discovery," Augusta said, "not declaration." The fan stilled. "Good. The Network's London front — its pattern, its principal — is now the ton's own discovery, and the ton defends its own discoveries the way it defends its own children." A glance toward the Lantern man's empty corner. "The gutter can print what it likes. The right rooms have done their sum — and the sum has a principal, and the principal has a name the ton will not forget."
 > (T6 · remembered micro-decision) *"The ton defends its own discoveries" — the Dowager's doctrine, third.* — remembered: *the doctrine, third.*
 > (T7 · tone) *The older woman's approval, earned — she accepts it without preening.* — remembered: *the approval, earned.*
-> (T8 · look closer) *The empty corner, where Pyke's man stood — the evening's ledger, closed.* — remembered: *the corner, empty.*
+> (T8 · look closer) *The empty corner, where the Lantern's man stood — the evening's ledger, closed.* — remembered: *the corner, empty.*
 *Animation: Shared.*
 
 ### L29.S28 · [T] · The ballroom
@@ -522,7 +522,7 @@
 > *(System: the ball ends — the last set, the last champagne, the last witnesses; the evening's work, complete.)*
 > (T1 · look closer) *The musicians' melancholy — men who have played a room into history, packing up.* — remembered: *the melancholy, inventoried.*
 > The ball ended the way balls end — the last set danced a shade too slowly, the last champagne poured a shade too generously, the musicians packing their instruments with the particular melancholy of men who have played a room into history and know it.
-> And the evening's work — Rose took its inventory as the carriages were called: the naming, done — the pattern's principal whispered in the right rooms, the sum completing behind bankers' eyes. The libel, met — Pyke's man faced, the spelling corrected, the room laughing. The paper's position, stated — Bath's verdicts printed, the gutter ignored. The City's verdict, delivered — honest, desperate, bad investment. The four — in their stations: exposed and rebuilding; choosing; cleared and standing; seeing clearly.
+> And the evening's work — Rose took its inventory as the carriages were called: the naming, done — the pattern's principal whispered in the right rooms, the sum completing behind bankers' eyes. The libel, met — the Lantern's man faced, the spelling corrected, the room laughing. The paper's position, stated — Bath's verdicts printed, the gutter ignored. The City's verdict, delivered — honest, desperate, bad investment. The four — in their stations: exposed and rebuilding; choosing; cleared and standing; seeing clearly.
 > (T2 · remembered micro-decision) *The evening's inventory — naming, libel, paper, City, four — taken complete.* — remembered: *the inventory, complete.*
 > (T3 · stance) *She takes the inventory, complete — the general's accounting, in miniature.* — remembered: *the accounting, miniaturized.*
 > No more masks but the evening's. That had been the season's condition — and tonight, for the first time, the condition felt less like a vulnerability than a *uniform*: everyone unmasked, everyone watching, everyone aware that the war was open.
@@ -539,7 +539,7 @@
 > Lavinia caught her at the stairs — the ball's end swirling around them, the glitter, for once, entirely sincere.
 > (T1 · tone) *She receives the plain speech with gravity — the glitter, entirely sincere.* — remembered: *the plainness, received.*
 > (T2 · look closer) *The glitter, entirely sincere — Lavinia's second setting tonight.* — remembered: *the sincerity, seconded.*
-> "Darling." Lavinia took her arm — the second embrasure conference of the evening, or the stairs' equivalent. "The gutter's first shot — fired, and missed. Well faced. But listen to me, because I am still the only person who will say it plainly: the shot missed *here*. In this room. The gutter's audience — " her voice dropped — "is not this room. It is the servants' hall. The shops. The street. The people who will never read Bell's verdicts, who will read Pyke's libel over their morning tea and believe it — because it is printed, and print is authority to those who cannot audit."
+> "Darling." Lavinia took her arm — the second embrasure conference of the evening, or the stairs' equivalent. "The gutter's first shot — fired, and missed. Well faced. But listen to me, because I am still the only person who will say it plainly: the shot missed *here*. In this room. The gutter's audience — " her voice dropped — "is not this room. It is the servants' hall. The shops. The street. The people who will never read Bell's verdicts, who will read the Lantern's libel over their morning tea and believe it — because it is printed, and print is authority to those who cannot audit."
 > (T3 · remembered micro-decision) *The two Londons — the war's real map, drawn.* — remembered: *the map, drawn.*
 > (T4 · social maneuver) *She lets Lavinia say it plainly — the only person in the room who will.* — remembered: *the plainness, permitted.*
 > (T5 · stance) *She accepts the battlefield's true location — the other London.* — remembered: *the battlefield, located.*
@@ -557,8 +557,8 @@
 > Laurent was waiting by the door — the night's end, the carriages called — and the polish, tonight, was almost entirely gone: what remained was the man, and the choosing.
 > (T1 · tone) *Witness, don't press — she holds the posture to the last.* — remembered: *the witnessing, held.*
 > (T2 · look closer) *The polish, almost gone — the man, remaining.* — remembered: *the man, remaining.*
-> "The ball ends," he said. "The gutter has fired. The right rooms have summed. And I — " a breath, in the hall's half-light — "am nearer, Rose. Nearer than between the dances. I watched you face Pyke's man — spell your own name, let the room laugh — and I understood what the choosing is *for*." His eyes — almost honest, entirely present. "Not the family. Not the brilliant match. The truth — whatever it costs. My family's bankers are still near your Bath trail. The family still presses. But I — " the watermark, now ink — "I am nearly there. The season's end will find me — " a small, real smile — "decided. Or it will find me honest about being undecided. One of the two. There is no third."
-> (T3 · remembered micro-decision) *Facing Pyke's man — what taught him; the choosing's purpose, learned.* — remembered: *the lesson, learned.*
+> "The ball ends," he said. "The gutter has fired. The right rooms have summed. And I — " a breath, in the hall's half-light — "am nearer, Rose. Nearer than between the dances. I watched you face the Lantern's man — spell your own name, let the room laugh — and I understood what the choosing is *for*." His eyes — almost honest, entirely present. "Not the family. Not the brilliant match. The truth — whatever it costs. My family's bankers are still near your Bath trail. The family still presses. But I — " the watermark, now ink — "I am nearly there. The season's end will find me — " a small, real smile — "decided. Or it will find me honest about being undecided. One of the two. There is no third."
+> (T3 · remembered micro-decision) *Facing the Lantern's man — what taught him; the choosing's purpose, learned.* — remembered: *the lesson, learned.*
 > (T4 · social maneuver) *She lets him name the choosing's purpose — the truth, whatever it costs.* — remembered: *the purpose, named.*
 > (T5 · stance) *She accepts the nearly, again — the furthest he has ever been.* — remembered: *the nearly, accepted.*
 > "Nearly," Rose said, "is the furthest you have ever been."
@@ -646,7 +646,7 @@
 > London, at the night's end, held the season's account the way it holds everything: loosely, and forever. In the right rooms, the evening's sums were already settling into history — the naming whispered, the libel faced, the City's verdict delivered, the survivor in burgundy (or steel, or emerald) spelling her own name for a gutter pressman. In the servants' halls, the gutter's question was being repeated — *was it true?* — and answered, mostly, with the particular loyalty of servants who have watched a house state its accounts.
 > (T2 · remembered micro-decision) *The servants' loyalty — the house that states its accounts, defended.* — remembered: *the loyalty, defended.*
 > (T3 · stance) *She stands between the two papers — the account, the standing, the house.* — remembered: *the between, held.*
-> The *Gazette's* morning edition was already being set — Bell's verdicts, Bath's, the season's. The *Lantern's* press was already being inked — Pyke's libel, the gutter's, the Network's coin behind it.
+> The *Gazette's* morning edition was already being set — Bell's verdicts, Bath's, the season's. The *Lantern's* press was already being inked — the gutter's libel, the Network's coin behind it.
 > (T4 · tone) *The narrator's wide, almost tender — the two papers, the two Londons.* — remembered: *the tenderness, wide.*
 > (T5 · social maneuver) *None — the texture is the city's.* — remembered: *the none, noted.*
 > The two papers. The two Londons. The morning, coming — with the audit in one hand and the ink in the other.
@@ -679,7 +679,7 @@
 > Alone, at last — the gown hung, the pins folded, the night's armor laid aside — Rose sat in the dark and made the general's accounting: the open war, inventoried.
 > *(System: the general's accounting — the war, open; the positions, held; the season, nearly closed.)*
 > (T1 · look closer) *The dark, the laid-aside armor — the inventory, beginning.* — remembered: *the dark, inventoried.*
-> The naming — done. The pattern's principal whispered in the right rooms; the ton teaching itself the name; discovery, not declaration. The libel — met. Pyke's man faced, the spelling corrected, the decision made: head-on, or unimpeachable, or the money's answer — chosen, and kept. The paper — positioned. Bath's verdicts printed, the gutter ignored, Bell unbuyable. The City — with the audit. The four — in their stations. The price — hanging, carried. The house — standing, in the no-apology's burgundy (or steel, or emerald).
+> The naming — done. The pattern's principal whispered in the right rooms; the ton teaching itself the name; discovery, not declaration. The libel — met. The Lantern's man faced, the spelling corrected, the decision made: head-on, or unimpeachable, or the money's answer — chosen, and kept. The paper — positioned. Bath's verdicts printed, the gutter ignored, Bell unbuyable. The City — with the audit. The four — in their stations. The price — hanging, carried. The house — standing, in the no-apology's burgundy (or steel, or emerald).
 > (T2 · remembered micro-decision) *The whole inventory — naming, libel, paper, City, four, price, house — taken true.* — remembered: *the inventory, true.*
 > (T3 · stance) *She makes the general's accounting — the figures true, the blood accounted for.* — remembered: *the accounting, made.*
 > (T4 · tone) *The general's gladness, honest — the next campaign's ground, chosen.* — remembered: *the gladness, earned.*
@@ -699,7 +699,7 @@
 > (T2 · tone) *Bell's voice, public and unbuyable — the sting's register.* — remembered: *the register, Bell's.*
 >
 > **THE GAZETTE — Chapter Twenty-Nine**
-> *London has absorbed Bath — the assembly's verdicts printed, the obligations discharged, the pattern named in the right rooms by discovery, not declaration. The* Lantern *has turned its eye upon Miss Hartwell — Pyke's sheet, bought with the Network's coin — and Miss Hartwell faced its man in a ballroom and spelled her own name for him, while the room laughed. The City has done its sums: honest, desperate, bad investment. The season's positions hold — exposed and rebuilding; choosing; cleared and standing; seeing clearly. The price hangs, carried honestly. The house stands, in burgundy and gold — or steel, or emerald — unapologetic. The war is open. Bell's verdict: the Hartwell girl does not flinch.*
+> *London has absorbed Bath — the assembly's verdicts printed, the obligations discharged, the pattern named in the right rooms by discovery, not declaration. The* Lantern *has turned its eye upon Miss Hartwell — the gutter sheet, bought with the Network's coin — and Miss Hartwell faced its man in a ballroom and spelled her own name for him, while the room laughed. The City has done its sums: honest, desperate, bad investment. The season's positions hold — exposed and rebuilding; choosing; cleared and standing; seeing clearly. The price hangs, carried honestly. The house stands, in burgundy and gold — or steel, or emerald — unapologetic. The war is open. Bell's verdict: the Hartwell girl does not flinch.*
 > (T3 · remembered micro-decision) *The whole chapter, in the paper's words — the sting, memorized.* — remembered: *the sting, memorized.*
 > (T4 · look closer) *The morning's edition — the verdict, printed.* — remembered: *the edition, morning.*
 > (T5 · social maneuver) *None — the sting is the paper's.* — remembered: *the none, noted.*
@@ -717,7 +717,7 @@
 > The libel — met head-on, or starved, or defunded: chosen. The naming — whispered, not spoken: held. The suitors — declared, or held, or set aside: decided. The war — open: named. The price — hanging: carried. The house — standing: worn.
 > (T2 · remembered micro-decision) *The decisions, listed and kept — the evening's ledger, closed.* — remembered: *the ledger, closed.*
 > (T3 · stance) *She keeps them with eyes open — the price named.* — remembered: *the keeping, eyed.*
-> And somewhere in the sleeping city — in a cheap pressroom, under guttering lamps — Pyke's press was running. The ink was wet. The type was set.
+> And somewhere in the sleeping city — in a cheap pressroom, under guttering lamps — the Lantern's press was running. The ink was wet. The type was set.
 > (T4 · tone) *The verdict's confidence, earned — Bell was not wrong.* — remembered: *the confidence, earned.*
 > (T5 · social maneuver) *None — the hour is private.* — remembered: *the privacy, kept.*
 > Rose looked out at the dark — the two Londons, the two papers, the morning coming — and did not flinch. Bell's verdict had said she would not. Bell's verdict was not wrong.
@@ -726,14 +726,14 @@
 > (T7 · look closer) *The cheap pressroom, imagined — the ink wet, the type set.* — remembered: *the pressroom, imagined.*
 *Animation: Shared.*
 
-### L29.S40 · plot beat · Ambrose Pyke, the London Lantern
+### L29.S40 · plot beat · the London Lantern
 *Purpose: ★ CHAPTER CLIFFHANGER — the Lantern's first libel, set in type, aimed at Rose. (Turns: 8)*
 > *(System: the chapter cliffhanger — the Lantern's pressroom, near dawn; the first libel, set in type.)*
 > (T1 · look closer) *The cheap pressroom off Fleet Street — guttering lamps, the compositor's shoulder.* — remembered: *the pressroom, cheap.*
-> Near dawn — the ballroom's candles long out, the Gazette's verdict already sleeping in its formes — in a cheap pressroom off Fleet Street, under guttering lamps, Ambrose Pyke stood over his compositor's shoulder and read the first libel: set in type, inked, ready.
+> Near dawn — the ballroom's candles long out, the Gazette's verdict already sleeping in its formes — in a cheap pressroom off Fleet Street, under guttering lamps, a dark-coated figure stood back from the light, his face kept from the lamps, and read the first libel over the compositor's shoulder: set in type, inked, ready.
 > *THE HARTWELL FRAUD — Bath's Ruin, London's Swindle, and the Suitors She Duped.*
 > (T2 · remembered micro-decision) *The headline — THE HARTWELL FRAUD — the gutter's first true shot.* — remembered: *the headline, set.*
-> "Run it," Pyke said.
+> A single nod from the shadow — the order, given without a voice.
 > (T3 · stance) *The press runs — the war about to be open everywhere.* — remembered: *the running, ordered.*
 > The press — bought with the Network's coin, the struggling sheet suddenly solvent — began to run. The cheap paper fed through. The ink bit. The libel — the gutter's first true shot, aimed at Rose Hartwell — rolled off the press and into the morning: into the servants' halls, the shops, the street. Into the other London.
 > (T4 · tone) *The gutter's register — cheap, vicious, and now in motion.* — remembered: *the register, guttered.*

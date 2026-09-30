@@ -532,7 +532,7 @@
 
 ### L28.S28 · plot beat · Mrs. Nance Bell, Rose Hartwell
 *Purpose: Bell's verdict — the closing column; the judge, unbuyable, scores the season. (Turns: 8)*
-> Bell had come in person — the proprietor, publicly named from the first edition, carrying her own warning the way other women carried fans. The gutter would answer Bath — Pyke's Lantern, the struggling sheet, the Network's coin behind the ink. The Gazette would ignore it. Not answered. Not dignified. Ignored.
+> Bell had come in person — the proprietor, publicly named from the first edition, carrying her own warning the way other women carried fans. The gutter would answer Bath — the *Lantern*, the struggling sheet, the Network's coin behind the ink. The *Mercury*, she added, stayed respectable under its new owner; the gutter work went to the cheaper paper. The Gazette would ignore it. Not answered. Not dignified. Ignored.
 > (T1 · stance) *She takes the paper's position, stated — the true record, against the gutter's false one.* — remembered: *the true record.*
 > "The closing column," Bell said, drawing a proof from the basket. "I shall read it to you, since you are the subject, and then you will tell me where it is unjust, and then I shall print it anyway."
 > Rose laughed, surprised. "That's — "

@@ -161,8 +161,19 @@
             },
             "type": "array"
           },
+          "playerTurns": {
+            "description": "Authored player-turn count for this scene. Absent when the source states no count (never fabricated).",
+            "minimum": 1,
+            "type": "integer"
+          },
+          "prose": {
+            "description": "The complete approved scene prose, verbatim (narrative, turns, dialogue).",
+            "minLength": 1,
+            "type": "string"
+          },
           "ritual": {
             "additionalProperties": false,
+            "description": "The dressing-ritual content for this part. In multi-part rituals the occasion brief/directions live on whichever part states them; every part carries its own pins.",
             "properties": {
               "coinPerDecision": {
                 "minimum": 0,
@@ -183,6 +194,10 @@
                 "minLength": 1,
                 "type": "string"
               },
+              "part": {
+                "description": "Part label within a multi-part ritual, e.g. \"Part II\". Absent for single-part rituals.",
+                "type": "string"
+              },
               "steps": {
                 "items": {
                   "type": "string"
@@ -191,15 +206,10 @@
               },
               "stepsSummary": {
                 "type": "string"
-              },
-              "part": {
-                "type": "string",
-                "description": "Part label within a multi-part ritual, e.g. \"Part II\". Absent for single-part rituals."
               }
             },
             "required": [],
-            "type": "object",
-            "description": "The dressing-ritual content for this part. In multi-part rituals the occasion brief/directions live on whichever part states them; every part carries its own pins."
+            "type": "object"
           },
           "scene": {
             "description": "Scene number within the chapter (1-40).",
@@ -224,6 +234,10 @@
             "description": "The scene's Purpose line from the chapter file.",
             "type": "string"
           },
+          "turnNote": {
+            "description": "How playerTurns was determined (e.g. declared count, counted markers).",
+            "type": "string"
+          },
           "type": {
             "enum": [
               "dialogue",
@@ -234,15 +248,6 @@
               "gazette-sting",
               "cliffhanger"
             ]
-          },
-          "playerTurns": {
-            "type": "integer",
-            "minimum": 1,
-            "description": "Authored player-turn count for this scene. Absent when the source states no count (never fabricated)."
-          },
-          "turnNote": {
-            "type": "string",
-            "description": "How playerTurns was determined (e.g. declared count, counted markers)."
           }
         },
         "required": [

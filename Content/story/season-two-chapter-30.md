@@ -173,7 +173,7 @@
 > Bell was in the study's corner — the Gazette's proprietor, publicly named from the first edition, watching the ledgers with the particular attention of a woman who had made a career of knowing exactly what things cost.
 > *(System: Bell — proprietor, publicly known from the first edition; the paper judges and narrates — never a mystery, prize, or paywall; the paper's verdict, prepared for the finale.)*
 > (T1 · tone) *Proprietor to survivor: the frankness.* — remembered: *the tone, kept.*
-> "Miss Hartwell." Bell rose — slowly, the way she did everything. "The season's account. I have printed Bath's verdicts, and I have ignored the gutter, and tonight I will print the finale's. But first — " she looked at Rose, in the burgundy and gold — "a question, proprietor to survivor. The *Lantern* — Pyke's sheet — is bought, and the Network's coin is behind the ink, and the ink is about to turn its eye on you. When it does — "
+> "Miss Hartwell." Bell rose — slowly, the way she did everything. "The season's account. I have printed Bath's verdicts, and I have ignored the gutter, and tonight I will print the finale's. But first — " she looked at Rose, in the burgundy and gold — "a question, proprietor to survivor. The *Lantern* — the gutter sheet — is bought, and the Network's coin is behind the ink, and the ink is about to turn its eye on you. When it does — "
 > (T2 · look closer) *Bell's attention: knowing what things cost.* — remembered: *examined, kept.*
 > (T3 · remembered micro-decision) *Bath's verdicts printed, the gutter ignored: the paper's record.* — remembered: *carried forward.*
 > "When it does," Rose said, "the gutter will have my name in its mouth."
@@ -260,7 +260,7 @@
 *Purpose: ★ KEY DECISION 1/3 — THE COMING LIBEL WAR. The Lantern is bought; the ink is nearly aimed. Rose decides the war's opening posture. (Turns: 7)*
 > In the study's brief quiet — between the route closings and the set-piece, between the account and the accounting — Rose faced the decision the whole finale had been circling.
 > (T1 · stance) *Decide the war's opening, before the set-piece.* — remembered: *the means, remembered.*
-> *(System: the coming libel war — Pyke's Lantern is bought with the Network's coin; the first libel is nearly set in type, aimed at Rose. Three roads for the war's opening.)*
+> *(System: the coming libel war — the Lantern is bought with the Network's coin; the first libel is nearly set in type, aimed at Rose. Three roads for the war's opening.)*
 > (T2 · tone) *The study's quiet, brief.* — remembered: *the tone, kept.*
 > (T3 · remembered micro-decision) *Lavinia's warning: the gutter bites.* — remembered: *carried forward.*
 > Lavinia's warning, weeks old now: *the gutter doesn't fence, darling. It bites.* Julian's inquiries, ongoing. Bell's verdict, prepared. The Network, answering in the gutter — because the right rooms had been taken from it, and the gutter was all it had left.
@@ -271,7 +271,7 @@
 *★ KEY DECISION 1/3 — The coming libel war:*
 - **Open war** — *The general's answer.* Rose meets the libel war openly — statements, witnesses, the Gazette's full weight; the war declared in daylight, and the ton chooses its side in the open.
 - **Prepare quietly** — *The auditor's answer.* Rose prepares in silence — evidence gathered, allies positioned, the defense built before the first shot; when the libel lands, the answer is already loaded.
-- **Strike at Pyke's finances** — *The money's answer.* Rose strikes first at the Lantern's new money — trace the Network's coin, expose the purchase, break the paper before it fires; the gutter, defunded.
+- **Strike at the new money** — *The money's answer.* Rose strikes first at the Lantern's new money — trace the Network's coin, expose the purchase, break the paper before it fires; the gutter, defunded.
 > Rose chose — and the study's quiet kept the decision, the way the retiring room's mirror had kept the last one: reflecting only the burgundy and gold, not the war underneath it.
 *Animation: Shared.*
 
@@ -331,9 +331,9 @@
 *Animation: Shared.*
 
 ### L30.S18 · plot beat · Rose Hartwell
-*Purpose: The libel, physically printed — Pyke's Lantern answers in the gutter; the Network's reply, in ink. (Turns: 8)*
+*Purpose: The libel, physically printed — the Lantern answers in the gutter; the Network's reply, in ink. (Turns: 8)*
 > It arrived during the supper — as these things always arrive: not announced, but *present*, passed hand to hand among the servants' hall and the shopkeepers' sons who had crowded to the area railings, until a footman, pale, brought it to Augusta's butler, who brought it to Augusta, who brought it — her face unreadable — to Rose.
-> *(System: Pyke's Lantern — the first libel, set in type, physically printed; the Network answers in the gutter.)*
+> *(System: the Lantern — the first libel, set in type, physically printed; the Network answers in the gutter.)*
 > (T1 · look closer) *The cheap paper, the smudging ink, the largest type.* — remembered: *examined, kept.*
 > (T2 · remembered micro-decision) *Lavinia's warning, word for word.* — remembered: *carried forward.*
 > The sheet was cheap — the paper rough, the ink already smudging — and the headline was set in the largest type the press could manage: *THE HARTWELL FRAUD — Bath's Ruin, London's Swindle, and the Suitors She Duped.*
@@ -685,7 +685,7 @@
 > (T3 · remembered micro-decision) *The whole season, in the paper's words.* — remembered: *carried forward.*
 > (T4 · look closer) *The morning's edition, in the right rooms.* — remembered: *examined, kept.*
 > (T5 · social maneuver) *None; the sting is the paper's.* — remembered: *the means, remembered.*
-> *The Money — accounted. Miss Hartwell, survivor. The season's account is stated: money traced, blood drawn, price paid — and a price, hanging, acknowledged before witnesses and carried, honestly, into the seasons to come. The Network has answered in the gutter — Pyke's* Lantern, *bought with the Network's coin, has printed its first libel — and the gutter has her name in its mouth. Very well. The Gazette has printed Bath's verdicts. The Gazette has ignored the gutter. The Gazette prints the finale's. Miss Hartwell read her own libel like a ledger, folded it like a napkin, and went on with supper — in burgundy and gold, the house's colors, the restoration as flag. The ton audited the account and found it honest. The war is open. Bell's verdict: let them print.*
+> *The Money — accounted. Miss Hartwell, survivor. The season's account is stated: money traced, blood drawn, price paid — and a price, hanging, acknowledged before witnesses and carried, honestly, into the seasons to come. The Network has answered in the gutter — the *Lantern*, bought with the Network's coin, has printed its first libel — and the gutter has her name in its mouth. Very well. The Gazette has printed Bath's verdicts. The Gazette has ignored the gutter. The Gazette prints the finale's. Miss Hartwell read her own libel like a ledger, folded it like a napkin, and went on with supper — in burgundy and gold, the house's colors, the restoration as flag. The ton audited the account and found it honest. The war is open. Bell's verdict: let them print.*
 > (T6 · remembered micro-decision) *"let them print": the verdict.* — remembered: *Gazette-verdict flavor.*
 > (T7 · look closer) *The burgundy and gold, in print.* — remembered: *examined, kept.*
 *Animation: Shared.*

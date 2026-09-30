@@ -1,0 +1,75 @@
+{
+  "_note": "PROVISIONAL build-side record of visual-approved chain art. Not an importer/runtime schema — do not mistake for full integration. Flip a chain's status to approved only on Beth's explicit approval in the visual thread.",
+  "basePath": "workspace/scandal-season-visual/previews/chain-art/estate",
+  "chains": {
+    "estate.stonework": {
+      "_renamed": "2026-09-29: Beth renamed the Craftsman's Court chain from Masonry to Stonework (park.masonry keeps the name). Art filenames retain legacy 'masonry' naming; this mapping is authoritative.",
+      "approved": "2026-09-28",
+      "approvedBy": "Beth",
+      "board": "The Craftsman's Court",
+      "levels": 12,
+      "status": "approved",
+      "v2Levels": [
+        4,
+        5
+      ]
+    },
+    "estate.timber": {
+      "approved": "2026-09-29",
+      "approvedBy": "Beth",
+      "board": "The Craftsman's Court",
+      "levels": 12,
+      "status": "approved",
+      "v2Levels": [
+        3,
+        4,
+        5,
+        8
+      ]
+    },
+    "estate.furniture": {
+      "status": "approved",
+      "approved": "2026-09-29",
+      "approvedBy": "Beth",
+      "board": "The Craftsman's Court",
+      "levels": 12
+    },
+    "estate.decor": {
+      "status": "approved",
+      "approved": "2026-09-29",
+      "approvedBy": "Beth",
+      "board": "The Craftsman's Court",
+      "levels": 12
+    }
+  },
+  "levels": {
+    "estate.stonework": {
+      "1": "estate-masonry-L1-rubble-a0d75e91.webp",
+      "10": "estate-masonry-L10-archway-652c5715.webp",
+      "11": "estate-masonry-L11-portico-pair-77db4876.webp",
+      "12": "estate-masonry-L12-grand-portico-e0ce3bdd.webp",
+      "2": "estate-masonry-L2-fieldstone-8ce36a69.webp",
+      "3": "estate-masonry-L3-rough-block-4106945b.webp",
+      "4": "estate-masonry-L4-dressed-stone-v2-9fa5752f.webp",
+      "5": "estate-masonry-L5-ashlar-block-v2-53ec8ce3.webp",
+      "6": "estate-masonry-L6-carved-capital-c0ad47b4.webp",
+      "7": "estate-masonry-L7-column-drum-9c07b85c.webp",
+      "8": "estate-masonry-L8-column-5319d9ad.webp",
+      "9": "estate-masonry-L9-voussoir-set-11725d74.webp"
+    },
+    "estate.timber": {
+      "1": "estate-timber-L1-log-368a47ce.webp",
+      "10": "estate-timber-L10-wall-frame-94e4c0f7.webp",
+      "11": "estate-timber-L11-carved-roof-post-cd134f32.webp",
+      "12": "estate-timber-L12-great-portico-f36aae1f.webp",
+      "2": "estate-timber-L2-split-logs-cffb2164.webp",
+      "3": "estate-timber-L3-rough-plank-v2-ff1e25dd.webp",
+      "4": "estate-timber-L4-stacked-planks-v2-0ef91311.webp",
+      "5": "estate-timber-L5-planed-board-v2-80cec81d.webp",
+      "6": "estate-timber-L6-beam-e68e01e5.webp",
+      "7": "estate-timber-L7-joist-pair-2403e9bf.webp",
+      "8": "estate-timber-L8-rafter-v2-41fa7ab3.webp",
+      "9": "estate-timber-L9-roof-truss-60b36381.webp"
+    }
+  }
+}

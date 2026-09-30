@@ -3,7 +3,7 @@
 **STATUS: DRAFT** · September 27, 2026
 **Sources:** `ten-season-storyboard-beats.md` ("Season 3 — The Libel"), `ten-season-plot-arc.md` (S3 section), `build-handoff/story/book-one-arc.md` (S3 — canonical), `content/characters.json` (canon names). Format mirrors `build-handoff/story/season-two-chapter-beats.md`.
 **Season Three title (locked):** "The Libel"
-**Story time:** roughly ten days, Bath → London.
+**Story time:** roughly two weeks, Bath → London.
 **Engine:** The Network's gutter weapon — Ambrose Pyke's *London Lantern* runs a libel campaign against Rose (the ruin retold as family fraud, the suitors as dupes, the restoration as swindle). Rose must win in the open, because she cannot own the judge: the Gazette is not for sale — the Network leans on Bell (pressure, money, menaces) and Bell refuses in ONE scene, soft-voiced, absolute — character, not plot. Never an authorship plot.
 **Anchor:** the gutter (the libel war, fought in the open) + the stables (Rose rides the courier lines — paper suppliers, compositors, hawkers, press chapels — learning how libels travel the way she learned how money travels).
 **Decision rule (LOCKED Sep 27, 2026):** EXACTLY 3 key decisions per chapter — 90 for the season. Decision points below are attached to the chapters they resolve, not scenes themselves.

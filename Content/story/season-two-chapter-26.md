@@ -15,11 +15,11 @@
 **What changes for Rose:** The Hartwell sponsorship's second installment comes due — and Drummond, reviewing the account, holds it: the first acknowledged paid, the second named only "when the Season needs it." Rose chooses how to meet the held price, what Honoria becomes to her, and what Laurent's choice will be. By the chapter's end Honoria is launched — curtsying to Rose, not the room — Augusta and Drummond have measured each other as professionals, and Drummond has warned her, almost kindly: bleeding men sue for peace, or send knives.
 
 ### L26.S1 · plot beat · Rose Hartwell
-*Purpose: Open from L25's cliffhanger — the morning after Pyke bought the Mercury; the war's new address.*
-> The *Mercury*'s purchase was in the Gazette by Tuesday — Bell's inquiry, conducted in daylight, with names: Silt's debts, the draft, the bank that asked no questions, and the buyer's name, printed for the first time in respectable type.
-> *Turn 1 — Look-closer:* the printing — the names / the type / the courage. *Remembered: Pyke, named; respectable type; Bell's nerve, priced.*
-> *Turn 2 — Stance:* the naming — with satisfaction / with dread / with care. *Remembered: the buyer, named — the war's new address, acknowledged.*
-> Ambrose Pyke. Set in the Gazette's honest type, the name looked smaller than it had in whispers — which was, Rose understood, exactly why Bell had printed it. Named things could be inquired into. Whispered things could only be feared. The Network had bought itself a better address; Bell had published the address.
+*Purpose: Open from L25's cliffhanger — the morning after the Mercury's sale; the war's new address.*
+> The *Mercury*'s purchase was in the Gazette by Tuesday — Bell's inquiry, conducted in daylight, with names: Silt's debts, the draft, the bank that asked no questions, and the purchase itself, printed for the first time in respectable type.
+> *Turn 1 — Look-closer:* the printing — the sale / the type / the courage. *Remembered: the purchase, printed; respectable type; Bell's nerve, priced.*
+> *Turn 2 — Stance:* the exposure — with satisfaction / with dread / with care. *Remembered: the buyer, exposed — the war's new address, acknowledged.*
+> The purchase. Set in the Gazette's honest type, it looked smaller than it had in whispers — which was, Rose understood, exactly why Bell had printed it. Printed things could be inquired into. Whispered things could only be feared. The Network had bought itself a better address; Bell had published the address.
 > *Turn 3 — Choice:* the address — visited / watched / left to Bell. *Remembered: the Mercury's office — approached, observed, or entrusted.*
 > *Turn 4 — Maneuver:* the week — the courts / the inquiry / the conduct. *Remembered: Quill's readiness; Bell's daylight; the doctrine, continued.*
 > But the morning's post brought a second paper — heavier, cream-laid, engraved: Drummond's crest, Drummond's hand. Not a summons; dragons did not summon. An *invitation* — to call, at eleven, to review the account. The Hartwell sponsorship's account. The second installment, due — and, Rose understood with a cold clarity, about to be discussed by a woman who never discussed anything she had not already decided.
@@ -193,11 +193,11 @@
 *Animation: Shared.*
 
 ### L26.S11 · [T] · Rose Hartwell
-*Purpose: Texture — the Mercury's first edition under Pyke; the jaw, opening.*
+*Purpose: Texture — the Mercury's first edition under its new owner; the jaw, opening.*
 > The *Mercury*'s first edition under its new ownership arrived on Wednesday — respectable type, respectable name, and the same wondering voice in its better suit.
 > *Turn 1 — Look-closer:* the edition — the type / the voice / the imprint. *Remembered: the better suit — examined.*
 > *Turn 2 — Stance:* the jaw — studied / feared / met. *Remembered: weekly, relentless — the new shape, faced.*
-> It wondered about Miss Hartwell — of course it did; the jaw had been bought to bite her. But the wondering was careful now — no names, nothing actionable, the libel arithmetic observed. Pyke's press was not the gutter: it was the gutter *incorporated*, with solicitors. Quill read it with professional admiration. "They have bought themselves a jaw," he said, "and muzzled it themselves. Interesting."
+> It wondered about Miss Hartwell — of course it did; the jaw had been bought to bite her. But the wondering was careful now — no names, nothing actionable, the libel arithmetic observed. The buyer's press was not the gutter: it was the gutter *incorporated*, with solicitors. Quill read it with professional admiration. "They have bought themselves a jaw," he said, "and muzzled it themselves. Interesting."
 > *Turn 3 — Choice:* the muzzle — noted / used / tested. *Remembered: careful print — the libel readiness, working.*
 > *Turn 4 — Look-closer:* the week's doctrine — the courts / the inquiry / the conduct. *Remembered: Quill briefed; Bell inquiring; the calls, kept.*
 > "The muzzle is your doing," Letitia said. "Quill's readiness, Bell's inquiry — they know the courts are watching. A bought press that cannot bite is an expensive pet." She folded the *Mercury* with distaste. "But pets bite, darling. Muzzled or not. Watch the teeth."

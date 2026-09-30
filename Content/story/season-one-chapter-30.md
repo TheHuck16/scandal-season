@@ -342,15 +342,16 @@
 > The moment: the room bright, the music playing, Rackham confident ten paces away. Quill waits by the door with the strongbox's papers. The trap's spring is hers to choose.
 > The destination is fixed: the evidence will be presented, the ruin proved engineered, and Rackham ended in the room — no spring changes the papers in Quill's hands or the jaws' shut arithmetic. The means are hers to choose, and she prices the three roads the way the season taught her: by what each spring costs the room, and her. Presenting it whole lays everything at once — the codicil, the schedules, the auditors' findings, the forged letters — the full account, in her own voice: it buys the nowhere-to-hide, *let the room hear it all*, but it spends the savoring — the denials unanswered one by one, the slow tightening, traded for a single blow. In pieces threads each document as a separate blow, each denial answered by the next paper: it buys the hunter's pleasure — *let him deny, I have brought answers* — but it spends the mercy of swiftness, and the room's attention, held too long, may wander to the girl's vengeance rather than the man's crimes. Letting Quill present it sends the solicitor forward — dull, precise, unwatchable: it buys the unanswerable — *a solicitor is so dull that no one watches him, watch what dullness does* — but it spends her voice, and the season's whole campaign was fought so that Rose Hartwell could speak, not her solicitor. Three roads. The strongbox is open. The room is bright.
 *★ KEY DECISION 1/3 — The evidence:*
-- **Present it whole** — *Everything, at once: the codicil, the schedules, the auditors' findings, the forged letters — the full account, in her own voice.* "Let the room hear it all. Let there be nowhere to hide."
-- **In pieces** — *Thread by thread: each document a separate blow, each denial answered by the next paper.* "Let him deny. I have brought answers for every denial."
-- **Let Quill present it** — *The solicitor steps forward — dull, precise, unwatchable; the papers speak, and no one can call it a girl's vengeance.* "A solicitor is so dull that no one watches him. Watch what dullness does."
-> *(The game remembers the choice — and the means: Present it whole, In pieces, or Let Quill present it. The destination was never in doubt. The signature is hers.)*
+- **Present it whole** — *Dangerous.* Everything, at once: the codicil, the schedules, the auditors' findings, the forged letters — the full account, in her own voice. "Let the room hear it all. Let there be nowhere to hide."
+- **In pieces** — *Leverage.* Thread by thread: each document a separate blow, each denial answered by the next paper. "Let him deny. I have brought answers for every denial."
+- **Let Quill present it** — *Magnanimous.* The solicitor steps forward — dull, precise, unwatchable; the papers speak, and no one can call it a girl's vengeance. "A solicitor is so dull that no one watches him. Watch what dullness does."
+> *(The game remembers the choice — and the means: Present it whole, In pieces, or Let Quill present it. The destination was never in doubt. The signature is hers. The reputation, earned tonight, is hers too: Dangerous, Leverage, or Magnanimous — as she chose.)*
 *Animation: Shared.*
 
 ### L30.S16 · plot beat · Rose, Rackham
 *Purpose: THE TRAP, PLAYED — the evidence presented; Rackham's confidence cracking. (Turns: 8)*
 > She springs it — whole, in pieces, or through Quill, as she chose.
+> The ton will have a word for the means by morning — Dangerous, Leverage, or Magnanimous — and the word, like the choice, will be hers.
 > (T1 · look closer) *the spring — as chosen; the room — bright, the music; the ten paces — the confident man.* — remembered: *the spring, sprung.*
 > The codicil. The schedules. The auditors' findings. The forged letters — Cecilia's, and the March forgery with Rackham's hand all through it.
 > (T2 · remembered micro-decision) *she lays each — the codicil, the schedules, the findings, the forgeries; the jaws, named.* — remembered: *each paper, laid.*
@@ -810,7 +811,7 @@
 ### L30.S39 · Gazette sting
 *Purpose: Bell's final verdict — the season's last word, on the paper's own terms. (Turns: 1 — the reading)*
 > *"RACKHAM RUINED. The forgeries proved, the ruin proved engineered, the flight proved too late. Ink, for once, told the truth. The season is hers."*
-> *(And in the final edition's margins, for those who read closely: the scattered-paper sting — and the drawing-room quote, the words spoken inside the private drawing room, proving the Network's existence, and its reach. → S2.)*
+> *(And in the final edition's margins, for those who read closely: the scattered-paper sting — and the drawing-room quote, the words spoken inside the private drawing room, proving the Network's existence, and its reach. And one sentence more: from a letter she had sealed herself, franked and posted — set in Bell's type, word for word. A letter, intercepted. → S2.)*
 > Bell's final verdict — the season's last word, on the paper's own terms; the margins, for those who read closely.
 > (T1 · stance) *Rose reads it twice — the verdict, the margins; the season hers, the Network inside the house; the truth, told in ink at last.* — remembered: *the lesson: ink tells the truth — and keeps score.*
 *Animation: Shared (sting card).*

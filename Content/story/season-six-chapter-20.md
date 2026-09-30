@@ -169,7 +169,7 @@
 > "Strong's what the week wants." Rose holds still. "The red for Saturday — the acknowledgment paid, the half closed. Let them read that."
 > (T6 · dialogue) *"The red reads the close."; "The week's strong."; "Saturday decides."*
 > "The red will read it." Élise steps back. "Done. The blue's yours for today — wear it like the week's already won."
-> (T7 · choice) *Wear the blue like victory. The cloth believes before the City does — that's the professional's whole art.*
+> (T7 · choice) *Wear the blue like victory. The cloth believes before the City does — that's the professional's art.*
 > Rose looks in the glass: deep blue twill, sharp and certain, the white heather still at her waist. The week's second reading, worn well.
 > (T8 · remembered micro-decision) *Blue for Tuesday, red for Saturday, grey for the quiet between — the week's wardrobe filed, the tentpole dressed.*
 > *The pins come out and the twill settles — Tuesday's cloth read and approved, the professional's work holding.*
@@ -246,7 +246,7 @@
 > "That's the man I'm naming." Rose's voice is quiet. "Not the duel. The paper. The City should know the difference."
 > (T6 · dialogue) *"The paper, not the duel."; "The City learns."; "The name spoken."*
 > "Then speak it." Augusta turns. "And Rose — speak it well. The City remembers how a thing's said longer than it remembers what's said."
-> (T7 · choice) *Speak it well. The words are the easy part — the saying of them is the week's whole art.*
+> (T7 · choice) *Speak it well. The words are the easy part — the saying of them is the week's art.*
 > Rose bows her head — not submission, acknowledgment. The dowager's counsel, taken to heart.
 > (T8 · remembered micro-decision) *The naming blessed, the counsel taken — the formidable's word filed, the week's speaking prepared.*
 > *The drawing room holds its evening gold — the acknowledgment's shape settled, the dowager's counsel weighing true.*
@@ -377,7 +377,7 @@
 > (T5 · look closer) *The memory sits in the ledger's margins — unpaid in pounds, paid in full.*
 > Tonight: the sealing. How the house carries the half into Act III. Open, quiet, or cold — the week's last decision, and the week's to make.
 > (T6 · dialogue) *"Tonight, the sealing."; "The half's carrying."; "Act III coming."*
-> She closes the ledger. The war room's morning light falls across the cover — plain leather, worn edges, the house's whole season in it.
+> She closes the ledger. The war room's morning light falls across the cover — plain leather, worn edges, the house's season in it.
 > (T7 · choice) *Face the day. The arithmetic's clean, the half's half — the rest is carrying.*
 > The coffee's cold. She drinks it anyway — the week's habit, bitter and necessary.
 > (T8 · remembered micro-decision) *Bank the morning's facing with the night's decision — the half faced, the sealing coming.*
@@ -478,7 +478,7 @@
 > (T3 · dialogue) *"The half closed."; "Precisely half."; "The terms sealed."*
 > "Rackham would have counted it." Rose finishes for him. "To the pound. He was a careful man, whatever else the City says."
 > (T4 · stance) *At the table, the week's last business — the heiress and the unnamed, the living settling with the dead.*
-> The broker nods — once, the week's whole acknowledgment in it. Then he's gone, the door closing soft behind him.
+> The broker nods — once, the week's acknowledgment in it. Then he's gone, the door closing soft behind him.
 > (T5 · look closer) *The door's click is the week's quietest sound — and the most final.*
 > Rose stands alone in the private room. The week's hinge has closed — the paper home, the name spoken, the half half.
 > (T6 · dialogue) *"The week's done."; "The hinge closed."; "The half half."*
@@ -493,7 +493,7 @@
 *Purpose: the week's arithmetic — Friday noon; twenty-two seven thirty-six, thirty-six five hundred; the stated. (Turns: 8)*
 > *(The war room, Friday noon. Henry comes with the week's arithmetic — the figures plain, the steadiness sure — and the week stated the steady way: plain, and to the pound.)*
 > "The figures, Rose." Henry opens the ledger. "The venture — twenty-two thousand seven hundred thirty-six. The face — thirty-six thousand five hundred. The outstanding — thirty-six thousand five hundred."
-> (T1 · look closer) *The numbers stand in their columns — the week's whole arithmetic, stated plain.*
+> (T1 · look closer) *The numbers stand in their columns — the week's arithmetic, stated plain.*
 > "Complete." Rose nods. "The venture holds its twenty-two seven thirty-six. The outstanding is precisely half."
 > (T2 · tone) *Level, certain, and quietly proud — the week's arithmetic deserves its steadiness.*
 > "Precisely." He counts. "The estate — uncharged. The held —" he looks up "— twelve thousand three hundred sixteen in Hartwell paper, at cost."
@@ -506,7 +506,7 @@
 > (T6 · dialogue) *"The arithmetic stated."; "Saturday coming."; "The Gazette's reading."*
 > "I'll be in the war room." He stands. "Where the figures live, Rose. Someone has to keep them honest."
 > (T7 · choice) *Keep the steady man where the figures live. The week's numbers need their keeper.*
-> The war room's noon light falls across the closed ledger — plain leather, worn edges, the week's whole arithmetic in it.
+> The war room's noon light falls across the closed ledger — plain leather, worn edges, the week's arithmetic in it.
 > (T8 · remembered micro-decision) *The figures filed, the keeper kept — the week's arithmetic stated, the half's numbers housed.*
 > *The noon on the war room's ledger — twenty-two seven thirty-six, thirty-six five hundred. The arithmetic stated, the week nearly won.*
 *Animation: Shared.*
@@ -567,7 +567,7 @@
 > She brushes her hair — long, slow strokes, the week's tension coming out with the brush. Tomorrow it goes up severe. Tonight it's loose.
 > (T4 · stance) *Before the glass, hair loose — the woman beneath the week's readings, unmade for the night.*
 > The grey silk hangs in the wardrobe — Friday's quiet, worn today, folded now. Three cloths, three readings. The week's wardrobe, complete.
-> (T5 · look closer) *The wardrobe holds the week's history — blue, grey, red — the tentpole's cloth, the week's whole history.*
+> (T5 · look closer) *The wardrobe holds the week's history — blue, grey, red — the tentpole's cloth, the week's history.*
 > Tomorrow: the Gazette. The half in print. Thirty-six five hundred, precisely half — the City reads it over breakfast.
 > (T6 · dialogue) *"Tomorrow, the Gazette."; "The half in print."; "The City reads."*
 > She hangs the blue twill — the speaking's cloth, the believed's — and turns down the lamp.
@@ -779,7 +779,7 @@
 *Purpose: the season's arithmetic — Saturday night; the venture's account, the half's; the stated. (Turns: 9)*
 > *(The war room, Saturday night. Henry comes with the season's arithmetic — the venture's account balanced, the half stated — and the season stated the steady way: plain, and to the pound.)*
 > "The figures, Rose." Henry opens the ledger — the respect unfeigned. "The venture — twenty-two thousand seven hundred thirty-six. The face — thirty-six thousand five hundred. The account —" he looks up "— minus one thousand nine hundred forty-eight."
-> (T1 · look closer) *The numbers stand in the lamplight — the season's whole account, stated plain.*
+> (T1 · look closer) *The numbers stand in the lamplight — the season's account, stated plain.*
 > "Complete." Rose nods. "Henry — the account — reads thus: four two hundred lost, one five hundred the insurance, one two hundred the first close, one two hundred the honest trade, four hundred the padding's sale, nine fifty-two the final liquidation — minus one nine four eight."
 > (T2 · tone) *Level, certain, and complete — the season's arithmetic deserves its full reading.*
 > "Minus." He counts. "The venture — holds its twenty-two seven thirty-six. The half —" the respect, unfeigned "— is precisely half."
@@ -792,7 +792,7 @@
 > (T6 · dialogue) *"The account stated."; "The half precisely."; "The Gazette came."*
 > "I'll be here." He stands — the steady, unhurried. "Where the figures live, Rose. Someone has to keep them honest."
 > (T7 · remembered micro-decision) *Keep the keeper. The season's numbers need their steady man — tonight, tomorrow, Act III.*
-> The war room's lamplight falls across the closed ledger — the season's whole arithmetic in plain leather.
+> The war room's lamplight falls across the closed ledger — the season's arithmetic in plain leather.
 > (T8 · look closer) *The leather's worn at the edges — the season's handling, the half's keeping, complete.*
 > "The estate —" she pauses at the door "— uncharged, Henry."
 > (T9 · dialogue) *"The estate uncharged."; "The night filed."; "The season stated."*
@@ -811,7 +811,7 @@
 > The cottages — the tenants', the kept. The morrow — the reckoning's, the teed. The evening holds its breath.
 > (T4 · remembered micro-decision) *Count the sealed, count the waiting — the half's done, Act III's coming.*
 > Merrivale stands named — the principal, unmasked. Sable's beaten. Marsh circles. The City read the half this morning — and tomorrow it reads the reckoning's teeing.
-> (T5 · look closer) *The night's dark holds the week's whole board — the pieces placed, the reckoning's move coming.*
+> (T5 · look closer) *The night's dark holds the week's board — the pieces placed, the reckoning's move coming.*
 > She turns from the window. The war room's Saturday night keeps its quiet — the week's end, the reckoning's eve.
 > (T6 · dialogue) *"The board placed."; "The move coming."; "The night filed."*
 > The red wool waits in her chambers — tomorrow's cloth, the week's crown. The Gazette came. The City read it over breakfast.

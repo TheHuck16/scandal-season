@@ -6,9 +6,23 @@ namespace ScandalSeason.Domain.Tests.Merge;
 
 public sealed class MergeBoardTests
 {
-    private static MergeBoard BoardWith(params (int x, int y, string chain, int level)[] cells)
+    private static MergeBoard BoardWith(params (int x, int y, string chain, int level)[] cells) =>
+        BoardWith(null, cells);
+
+    private static MergeBoard BoardWith(IReadOnlyDictionary<string, int>? maxLevels, params (int x, int y, string chain, int level)[] cells)
     {
-        var board = new MergeBoard(4, 4);
+        // Every chain on the board is registered with its own final level.
+        // Test default is 15 for chains the caller doesn't specify; the real
+        // lengths come from the chain definitions (10-15, core chains to 19).
+        var map = new Dictionary<string, int>();
+        foreach (var cell in cells)
+            if (!map.ContainsKey(cell.chain))
+                map[cell.chain] = 15;
+        if (maxLevels != null)
+            foreach (var kv in maxLevels)
+                map[kv.Key] = kv.Value;
+
+        var board = new MergeBoard(4, 4, chainMaxLevels: map);
         var snapshot = new BoardSnapshot { Width = 4, Height = 4 };
         foreach (var (x, y, chain, level) in cells)
             snapshot.Cells.Add(new BoardCellState { X = x, Y = y, ChainId = chain, Level = level });
@@ -158,32 +172,70 @@ public sealed class MergeBoardTests
     }
 
     [Fact]
-    public void Merge_RejectsItemsAtMaxChainLevel()
+    public void Merge_RejectsItemsAtChainFinalLevel()
     {
-        // Locked engine rule (Sep 27 2026): every chain has exactly 10 levels;
-        // merging level-10 items is rejected.
-        Assert.Equal(10, MergeBoard.MaxChainLevel);
+        // Each chain has its own final level (10-15, core chains to 19);
+        // merging items already at their own chain's final level is rejected.
         var board = BoardWith(
-            (0, 0, "atelier.notions", 10),
-            (1, 0, "atelier.notions", 10),
-            (2, 0, "atelier.notions", 10));
+            new Dictionary<string, int> { ["atelier.notions"] = 12 },
+            (0, 0, "atelier.notions", 12),
+            (1, 0, "atelier.notions", 12),
+            (2, 0, "atelier.notions", 12));
         var result = board.TryMerge(Pos((0, 0), (1, 0), (2, 0)));
         Assert.False(result.Success);
         Assert.NotNull(result.Error);
         // Items stay on the board untouched.
         Assert.Equal(3, board.OccupiedCount);
-        Assert.Equal(10, board.GetItem(0, 0)!.Level);
+        Assert.Equal(12, board.GetItem(0, 0)!.Level);
     }
 
     [Fact]
-    public void Merge_AllowsMergingLevelNineIntoLevelTen()
+    public void Merge_AllowsMergingOneBelowFinalLevel()
     {
         var board = BoardWith(
-            (0, 0, "atelier.notions", 9),
-            (1, 0, "atelier.notions", 9),
-            (2, 0, "atelier.notions", 9));
+            new Dictionary<string, int> { ["atelier.notions"] = 12 },
+            (0, 0, "atelier.notions", 11),
+            (1, 0, "atelier.notions", 11),
+            (2, 0, "atelier.notions", 11));
         var result = board.TryMerge(Pos((0, 0), (1, 0), (2, 0)));
         Assert.True(result.Success);
-        Assert.Equal(10, result.ResultLevel);
+        Assert.Equal(12, result.ResultLevel);
+    }
+
+    [Fact]
+    public void Merge_ChainsMayHaveDifferentFinalLevels()
+    {
+        // Chains must not all share the same length: a 10-level chain caps at
+        // 10 while a 15-level chain still merges at 14.
+        var board = BoardWith(
+            new Dictionary<string, int> { ["atelier.notions"] = 10, ["park.seeds"] = 15 },
+            (0, 0, "atelier.notions", 10),
+            (1, 0, "atelier.notions", 10),
+            (2, 0, "atelier.notions", 10),
+            (0, 1, "park.seeds", 14),
+            (1, 1, "park.seeds", 14),
+            (2, 1, "park.seeds", 14));
+
+        Assert.False(board.TryMerge(Pos((0, 0), (1, 0), (2, 0))).Success);
+
+        var result = board.TryMerge(Pos((0, 1), (1, 1), (2, 1)));
+        Assert.True(result.Success);
+        Assert.Equal(15, result.ResultLevel);
+    }
+
+    [Fact]
+    public void Merge_RejectsUnregisteredChain()
+    {
+        var board = new MergeBoard(4, 4, chainMaxLevels: new Dictionary<string, int>());
+        var snapshot = new BoardSnapshot { Width = 4, Height = 4 };
+        snapshot.Cells.Add(new BoardCellState { X = 0, Y = 0, ChainId = "mystery", Level = 1 });
+        snapshot.Cells.Add(new BoardCellState { X = 1, Y = 0, ChainId = "mystery", Level = 1 });
+        snapshot.Cells.Add(new BoardCellState { X = 2, Y = 0, ChainId = "mystery", Level = 1 });
+        board.LoadSnapshot(snapshot);
+
+        var result = board.TryMerge(Pos((0, 0), (1, 0), (2, 0)));
+        Assert.False(result.Success);
+        Assert.NotNull(result.Error);
+        Assert.Contains("not registered", result.Error);
     }
 }

@@ -8,104 +8,101 @@
 
 ### L30.S1 · [T] · Rose (alone)
 *Purpose: the ball's day — Friday morning; the London's, the social's; the alone. (Turns: 10)*
-> *(Friday morning, the house. The ball's day — the London's, the social's — and the morning's keeping is the alone's kind: plain, and held.)*
-> The ball — the London's. The war — the social's.
-> (T1 · look closer) *The morning's light on the house — and the ball's keeping is plain: the London, the week's.*
-> "The week's." Rose walks — the blue twill, the believed. "The ball —" she meets the morning "— the London's."
-> (T2 · tone) *Quiet, certain, and past flinching — the morning's ball wants its keeping plain.*
-> Plain. The gown — the Park's. The fortune — the whole's. The woman — the kept's.
-> (T3 · look closer) *The house's morning in the light — the London's, the social's: the financial war gone social, the fortune whole.*
-> "The whole's." She walks — the morning's, the alone's. "The gown —" she nods "— the first."
-> (T4 · dialogue) *"The Londoned, the ball's."; "The social, the war's."; "The first, the gown's."*
-> "The gown's." She takes it in. "The pavilion —" she meets the morning "— the restored."
-> (T5 · stance) *In the morning's light — the heiress alone, the ball's day kept.*
-> The kept's. The morning's. The social — coming, and certain.
-> (T6 · look closer) *The morning's plain light — and the heiress's face, the ball's: steady, and unhurried.*
-> "Unhurried." She walks — the blue twill, the believed. "The war —" she nods "— the social."
-> (T7 · dialogue) *"The steadied, the ball's."; "The Londoned, the week's."; "The whole, the fortune's."*
-> "The fortune's." She moves on. "The triumph —" she smiles "— the atelier's."
-> (T8 · remembered micro-decision) *The day banked — the ball coming, the fortune whole — the morning's ball kept.*
-> The morning's light opens — the evening's ball, the London's, coming.
-> (T9 · look closer) *The morning's plain light — and the ball's day, the Friday's: the heiress, the house, the unhurried.*
-> "The unhurried's." She walks — the blue twill, the believed. "The ball —" she smiles "— the kept."
-> (T10 · remembered micro-decision) *Bank the morning's ball — the London coming, the social kept — the ball kept, the week's.*
-> *The morning's light on the house — the ball's day, the war gone social.*
+> *(Friday morning. The ball's day, and the whole house leaning toward evening.)*
+> The house wakes with a particular electricity on the morning of a ball — the servants' corridor already busy, the kitchen in full campaign, every room tilted toward the evening like flowers toward a window. Rose lies a moment listening to it. Tonight the financial war goes social.
+> (T1 · look closer) *Morning light on the counterpane. The day's electricity, felt through the floorboards.*
+> She has fought this war with ledgers and dates and counsel's ink. Tonight she fights it with candlelight and a gown — the first gown the Park's money ever paid for — and she finds she doesn't mind the change of weapons.
+> (T2 · tone) *Bright and deliberate. The morning's campaign, planned like the week's.*
+> "The ball," she says to the ceiling. "London. The war goes social."
+> (T3 · look closer) *"The money's won. Tonight the ton gets told — politely, in silk."*
+> Up and dressed — blue twill for the morning, the week's cloth, the honest cloth. The gown waits in Élise's keeping, and Élise will not surrender it till the fitting's done.
+> (T4 · dialogue) *Feet on the floor. The day's first decision: up, and at it.*
+> The morning's post brings the usual: two notes, a bill, a card for the ball with her name spelled right for once. Small mercies. She stacks them with the week's neatness.
+> (T5 · stance) *The morning's post, stacked. The week's neatness, holding into Friday.*
+> "Seventy-three thousand," she says, "whole." The figure still gives her pleasure. "And tonight, London learns what it looks like in a gown."
+> (T6 · look closer) *"The fortune's first evening. Dressed accordingly."*
+> She thinks of Sloane — beaten, offered, the door open — and wonders what the widow will wear to her own defeat. Something splendid, no doubt. Splendor is Sloane's armor, as blue twill is hers.
+> (T7 · dialogue) *The rival, considered. The evening's chess, previewed.*
+> The pavilion, restored, waits by the lake for its first night. The garden's wall waits for the morning. The papers wait under the stones. Everything waits — and everything is nearly here.
+> (T8 · remembered micro-decision) *The day's inventory: pavilion, garden, papers, ball. All waiting.*
+> "One thing at a time," she says. "The fitting first. Then London."
+> (T9 · look closer) *"The ball's day. Let it begin."*
+> Friday morning gathers itself. The house hums on.
+> (T10 · remembered micro-decision) *The morning, begun. The evening, approaching.*
+> *Morning light on the waiting house.*
 *Animation: Shared.*
 
 ### L30.S2 · [D] · Rose, Élise
 *Purpose: the gown's final fitting — Friday morning; the Park's, the London's; the atelier's. (Turns: 8)*
-> *(The atelier, Friday morning. The gown's final fitting — the Park's, the London's — and the morning's hour is the atelier's: stated plain, and the triumph's.)*
-> "The final, Rose." Élise comes — the atelier's, the certain. "The gown —" she looks up "— the ball's."
-> (T1 · look closer) *The atelier's morning light on the gown — and the final's hour is the morning's finest: the Park's, kept.*
-> The gown on the stand — the London's, the ball's. The Park's money in every seam, and the triumph coming.
-> "Coming." Rose takes it in. "Élise — the seams. The honest —" she meets her eyes "— the paid?"
-> (T2 · tone) *Quiet, certain, and past flinching — the morning's final deserves its atelier's hearing.*
-> "The paid's." Élise nods — the atelier's, complete. "The Park —" she pauses "— the week's. The gown —" she looks up "— the first's."
-> (T3 · dialogue) *"The fitted, the final's."; "The paid, the Park's."; "The triumphed, the morning's."*
-> "The morning's." She takes it in. "Élise — the agent. The professional —" she smiles "— the complete?"
-> (T4 · stance) *In the atelier's morning light — the client and the agent, the final kept.*
-> Élise's voice is soft. "The complete, Rose — the week's. The atelier —" she looks up "— the London's."
-> (T5 · look closer) *The softness is the atelier's honesty — the gown fitted, the morning named.*
-> The atelier's light on the gown — the final's, the week's. The first gown paid with Park money — and the London ball tonight.
-> "Tonight." She stands. "Élise — the day. The gown —" she moves on "— the Park's."
-> (T6 · dialogue) *"The fitted, the gown's."; "The paid, the honest's."; "The Londoned, the ball's."*
-> "The ball's." Élise curtsies — the atelier's, complete. "Rose —" in the atelier "— the gown's the first's. The triumph —" she smiles "— the week's."
-> (T7 · remembered micro-decision) *The final filed — the gown fitted, the morning named — the atelier's morning banked, her triumph coming.*
-> The atelier's morning holds — the final fitting kept, the Park's money honest.
-> (T8 · remembered micro-decision) *Bank the morning's final — the fitted kept, the ball tonight — Friday's second hour, the week's.*
-> *The atelier's morning light on the gown — the final fitting, the triumph coming.*
+> *(Élise's workroom, Friday morning. The gown on its form, the last alterations.)*
+> The workroom smells of pressed silk and chalk and triumph — the particular perfume of an atelier on the verge of victory. The gown stands on its form like a general reviewing troops — ivory, gold, the Park's money made visible — and Élise circles it with pins in her mouth and war in her eyes.
+> (T1 · look closer) *Morning on the ivory silk. The gown, nearly finished, nearly perfect.*
+> "The hem," Élise says around the pins. "A finger's width. London will look at the hem."
+> (T2 · tone) *Brisk and absolute. The atelier's morning, no quarter given.*
+> Rose steps onto the fitting stool, and the gown comes off the form and onto her — the first gown the Park's money ever paid for, settling onto her shoulders like it was always hers. Which, she reflects, it was. The money just took a while to agree.
+> (T3 · dialogue) *"Well?" — "Turn." — "Élise." — "Turn, chérie. London is watching, even now."*
+> She turns. The silk moves the way water moves — no, the way money moves when it's finally clean: easily, without apology, with a kind of moral confidence. Élise's hands fly, pinning, smoothing, muttering in French, the mutters growing more approving by the turn.
+> (T4 · stance) *On the stool, turning. The gown's movement, learned by the body.*
+> "The waist," Élise announces. "Perfection was here all along; I merely introduced you." She steps back, head tilted. "The ton will weep."
+> (T5 · look closer) *The modiste's critical eye. The verdict, approaching.*
+> "Let them," Rose says. "I've wept enough for one season. It's their turn."
+> (T6 · dialogue) *"Ivory and gold. The Park's money, worn openly." — "And the heather?" — "At the waist. Always."*
+> Élise pins the last pin and stands back, and her face does something complicated — pride, relief, the artist's terror before the exhibition. This is her triumph too, and they both know it.
+> (T7 · remembered micro-decision) *The last pin placed. The atelier's triumph, shared.*
+> The gown comes off, back to the form, to wait for evening like a debutante waiting for her presentation. Rose dresses in the blue twill, and the workroom keeps its smell of chalk and victory.
+> (T8 · remembered micro-decision) *The fitting done. The evening's armor, waiting.*
+> *Morning light on the ivory silk.*
 *Animation: Shared.*
 
 ### L30.S3 · [F] · Rose (alone)
 *Purpose: the afternoon's cloth — Friday afternoon; the ball's, the chosen's; the alone. (Turns: 8)*
-> *(Friday afternoon, her chambers. The afternoon's cloth — the ball's, the chosen's — and the afternoon's choosing is the London's kind: certain, and complete.)*
-> The ball's cloth — the London's, the evening's. Rose stands in her shift, the afternoon's light on her, and considers the choosing: the gown's, the first.
-> (T1 · look closer) *The afternoon's light on the stands — and the choosing's reading is quiet: the ball wants its gown, and the London wants the first.*
-> "The first's." She takes the Park gown — the London's, the ball's. "The money —" she does the buttons "— the honest."
-> (T2 · tone) *Calm, certain, and already in the ballroom in her head — the afternoon wants the evening, and the evening wants the worn.*
-> The corset — true. The petticoats — the gown over them. The row of buttons she does herself. The skirt falls rich and honest.
-> (T3 · stance) *Upright, unhurried, adorned — the afternoon's woman dresses the London's way: with presence, without apology.*
-> In the glass: a woman in the Park gown, certain, hair drawn up. It says first without saying the word. Exactly what the ball needs to see.
-> (T4 · remembered micro-decision) *Keep it honest. The ball reads money — the choosing's counsel, and the glass agrees.*
-> She pins the white heather at her waist — the week's mark, the afternoon's. The ball will see it from the floor.
-> (T5 · look closer) *The heather sits against the gown like a quiet signature — hers, and the afternoon's.*
-> The hair, last: drawn up, pinned, nothing loose. Tonight is the war gone social. Tonight wants the first gown.
-> (T6 · dialogue) *"The ball's, worn first."; "The Park pays."; "The London decides."*
-> The wrap — dark — settled over her shoulders. Underneath, the gown waits for its hour, and the hour's the ball's.
-> (T7 · choice — no coin cost, remembered) *the Park gown — the London's, the ball's cloth (as chosen, the first's); the blue twill — the believed, the day's cloth, the Friday's; the heather — pinned, the week's mark, or left, the afternoon plain.* — remembered: *The Park gown, worn.*
-> At the door she pauses, hand on the frame. The ball. The social. The first.
-> (T8 · remembered micro-decision) *Bank the afternoon's resolve with the ball's cloth — the first gown, Park money honest.*
-> *The afternoon's light takes the Park gown without argument — Friday dressed for London, the ball coming.*
+> *(Her chambers, Friday afternoon. The gown, the hour, the social war.)*
+> Afternoon comes gold through the windows, thick as honey, and the gown comes off its form. Ivory silk, gold thread, the Park's money's first commission — and it goes on like a coronation. The corset laced true, the skirts settled, each layer finding its place with a soft, expensive sigh. The heather pinned at the waist, the week's mark, non-negotiable.
+> (T1 · look closer) *Afternoon gold on the ivory silk. The gown, worn at last.*
+> The hair goes up under her own hands — she knows it best, the weight and the way of it — pinned high and smooth. The pearls: not the quiet ones tonight. Tonight the pearls can speak up a little.
+> (T2 · tone) *Ceremonial and exact. The social war's dressing, performed properly.*
+> She stands in the gown's full weight and regards herself in the glass. The woman in the glass is the woman the season made — and the season, she decides, examining the evidence with a critical eye, did good work. Very good work.
+> (T3 · stance) *In the glass: the gown, the woman, the season's work. Approved.*
+> The gloves go on, elbow-length, the good pair. The fan — ivory sticks, tonight, to match the silk. The reticule with nothing in it but nerve.
+> (T4 · remembered micro-decision) *The gloves, the fan, the nerve. The evening's kit, complete.*
+> "Well," she says to the glass. "London."
+> (T5 · look closer) *The glass's answer: readiness. The evening, accepted.*
+> The glass gives her back the look she's earned — steady, amused, unbowed. "The financial war goes social," she tells it. "Try to behave."
+> (T6 · dialogue) *"Ivory and gold. Let them look."*
+> The gown settles. The heather holds. The evening begins to gather beyond the windows.
+> (T7 · choice — no coin cost, remembered) *the ivory gown, the Park's money's first commission; the gold thread at the hem; the heather at the waist, the week's mark; the pearls, allowed to speak; or the ivory fan, for the ballroom's heat.*,remembered: *The ivory gown, worn.*
+> She goes down, the silk whispering on the stairs. The house holds its breath, then lets it out in a sigh of approval — the maids peeking, the footmen standing straighter, Letitia already reaching for the handkerchief.
+> (T8 · remembered micro-decision) *The stairs descended. The social war, entered.*
+> *Afternoon gold on the empty chambers.*
 *Animation: Shared.*
 
 ### L30.S4 · [D] · Rose, Letitia
 *Purpose: the aunt on the ball — Friday afternoon; the warm's, the London's; the counsel. (Turns: 8)*
-> *(The aunt's sitting room, Friday afternoon. Letitia on the ball — the warm's, the London's — and the afternoon's counsel is the comic kind: stated plain, and the heart's.)*
-> "The ball, darling." Letitia comes — the warm, the delighted. "The London —" she looks up "— the social's."
-> (T1 · look closer) *The sitting room's afternoon light on the aunt's face — and the warm's word on the ball is the afternoon's finest: the social, faced.*
-> The face warm and delighted — the comic, the afternoon's. The ball in her telling, and the heart in her voice.
-> "Told." Rose takes it in. "Aunt — the gown. The first —" she meets her eyes "— the worn?"
-> (T2 · tone) *Warm, easy, and niece-soft — the afternoon's ball deserves its warmest hearing.*
-> "The worn's." Letitia nods — the warm, the formidable. "Darling — the Park's money. The London —" she pauses "— the ball's."
-> (T3 · dialogue) *"The worn, the gown's."; "The social, the war's."; "The counselled, the warm's."*
-> "The warm's." She takes it in. "Aunt — the war. The social —" she pauses "— the faced?"
-> (T4 · stance) *In the sitting room's afternoon light — the niece and the aunt, the ball kept.*
-> Letitia's voice is soft. "The faced, darling — the week's. The fortune —" she pauses "— the whole's."
-> (T5 · look closer) *The softness is the warm's finest — the ball faced, the fortune whole.*
-> The sitting room's afternoon light warm — the aunt's, the week's. The ball coming, the gown worn — and the afternoon's counsel the warmest.
-> "Kept." She stands. "Aunt — the day. The ball —" she moves to the door "— the week's."
-> (T6 · dialogue) *"The kept, the ball's."; "The Londoned, the social's."; "The counselled, the afternoon's."*
-> "The afternoon's." Letitia shoos her — the warm, complete. "Go, darling — the ball faced. The London —" she smiles "— the social's."
-> (T7 · remembered micro-decision) *The counsel filed — the ball's, the social's — the aunt's afternoon banked.*
-> The sitting room's door closes — the ball kept, the aunt's afternoon done.
-> (T8 · remembered micro-decision) *Bank the afternoon's counsel — the warm's, the London — Friday's third hour, the week's.*
-> *The sitting room's afternoon light — the aunt's counsel, the ball coming.*
+> *(The drawing room, Friday afternoon. Letitia, waiting to inspect.)*
+> Letitia is waiting in the drawing room with the air of a general inspecting troops before a campaign — pacing, by the look of the carpet — and when Rose comes down in the ivory and gold, the general's composure cracks clean in half.
+> (T1 · look closer) *Afternoon light on the descending gown. The aunt's composure, cracking.*
+> "Oh," Letitia says. "Oh, my dear. Oh."
+> (T2 · tone) *Warm and wrecked. The counsel's eloquence, entirely spent.*
+> She circles Rose slowly, hands clasped, eyes bright, taking in the cut from every angle the way she takes in everything: completely. "The Park's money," she says at last, "never looked so well. Your mother — " She stops, swallows. "Your mother would have wept. I shall weep for both of us."
+> (T3 · dialogue) *"No weeping on the silk, Aunt." — "It's ivory. Tears won't show. Come here, child."*
+> The embrace is careful of the gown and fierce underneath it — the silk protected, the niece thoroughly hugged. Letitia holds on a moment longer than strictly necessary, then steps back and becomes brisk — counsel mode, deployed like a fan.
+> (T4 · stance) *The embrace, completed. Counsel mode, engaged.*
+> "Now," Letitia says, squaring her shoulders. "The ball. You will be looked at. Let them. You will be talked about. Let them — the talking is the point, the whole point, never forget it. And when Sloane comes — "
+> (T5 · look closer) *The counsel's sharpened eye. The real briefing, beginning.*
+> "When Sloane comes," Rose says, "I shall be gracious. The door is open. The wary ally gets the evening's best courtesy."
+> (T6 · dialogue) *"Beaten, not ruined — and the ballroom will see the difference." — "Exactly. Kindness from the victor. Go and be splendid, child."*
+> Letitia adjusts the heather at Rose's waist with fingers that tremble just slightly. "Honesty over splendor," she says softly. "Even in ivory and gold."
+> (T7 · remembered micro-decision) *The heather adjusted. The week's motto, repeated for the ball.*
+> Rose goes out to the carriage, and Letitia watches from the window, waving with the handkerchief she swore she wouldn't need — waving until the carriage turns the corner, because some promises are made to be broken.
+> (T8 · remembered micro-decision) *The carriage, the window, the handkerchief. The sending, complete.*
+> *Afternoon light on the empty drawing room.*
 *Animation: Shared.*
 
 ### L30.S5 · [D] · Rose (alone)
 *Purpose: ★ KEY DECISION 1/3 — THE BALL (how Rose enters the London ball). (Turns: 3 — the decision)*
-> *(Friday afternoon: the London ball — the social's, the war's — and the day's first decision is how the ball is entered.)*
-> "The ball." — Rose. "The *London* — the *social's* — the *war's* — is *entered* tonight. The *gown* — the *Park's*, the *first's* — the *worn's*. *How* —" she looks at the afternoon "— is the *afternoon's* to choose."
+> *(The carriage, Friday evening. The lamps, the road to London, the evening's first decision.)*
+> The gown is on, the heather is pinned, and London's lamps are coming up along the road. The carriage rolls toward the ball, and the evening's first decision rides with her: how she enters — in the gown's triumph, in the fortune's quiet, or at Sloane's side, the wary ally's, the door open between them. The ballroom waits. The war goes social.
+> "The ball." — Rose. "Tonight the financial war goes social, and the entrance is the evening's opening move." The lamps slide past the windows. "The gown's triumph — show London what the Park's money made. The fortune's quiet — let the money talk while I say nothing. Or Sloane's side — the wary ally's — the door open between us, showing the ton what a kindly beating looks like. How shall the evening enter?"
 *★ KEY DECISION 1/3 — The Ball:*
 - **The gown's triumph** — *the atelier's entry.* "Enter in the gown's triumph — the atelier's — and let London see what Park money made." *(The entered, the triumph's; the seen, the atelier's.)*
 - **The fortune's quiet** — *the whole's entry.* "Enter in the fortune's quiet — the whole's — and let London feel what the season made." *(The entered, the quiet's; the felt, the fortune's.)*
@@ -115,282 +112,266 @@
 
 ### L30.S6 · [T] · Rose (alone)
 *Purpose: the ball's approach — Friday evening; the London's, the entered's; the alone. (Turns: 10)*
-> *(Friday evening, London. The ball's approach — the London's, the entered's — and the evening's going is the alone's kind: plain, and held.)*
-> The ballroom — lit, the London's. The gown — the Park's, the first's.
-> (T1 · look closer) *The evening's light on the ballroom — and the approach's keeping is plain: the lit, the London's, the entered.*
-> "The entered's." Rose steps — the Park gown, the ball's. "The London —" she meets the evening "— the ball's."
-> (T2 · tone) *Quiet, certain, and past flinching — the evening's approach wants its going plain.*
-> Plain. The war — the social's. The fortune — the whole's. The gown — the honest's.
-> (T3 · look closer) *The Park gown in the evening's light — the first's cloth, the approach's keeper.*
-> "The keeper's." She climbs — the evening's, the alone's. "The entry —" she pauses "— the chosen's."
-> (T4 · dialogue) *"The entered, the ball's."; "The social, the war's."; "The chosen, the entry's."*
-> "The entry's." She moves — the evening's pace, unhurried. "The triumph —" she nods "— the atelier's."
-> (T5 · stance) *On the stairs between — the heiress alone, the ball's approach kept.*
-> The approach's. The evening's. The London's — kept, and certain.
-> (T6 · look closer) *The evening's plain light — and the heiress's face, the approach's: steady, and unhurried.*
-> "Unhurried." She steps — the Park gown, the ball's. "The ball —" she nods "— the entered."
-> (T7 · dialogue) *"The steadied, the approach's."; "The entered, the evening's."; "The Londoned, the coming's."*
-> "The coming's." She moves on. "The floor —" she smiles "— the ballroom's."
-> (T8 · remembered micro-decision) *The approach banked — London reached, the ballroom waiting — the evening's going kept.*
-> The stairs' evening opens — the ballroom's doors, the London's, coming.
-> (T9 · look closer) *The evening's plain light — and the ballroom's doors, the Friday's: the heiress, the stairs, the entered.*
-> "The entered." She steps — the Park gown, the ball's. "The London —" she nods "— the ball's."
-> (T10 · remembered micro-decision) *Bank the evening's approach — the ball reached, London coming — the evening's kept, the entered.*
-> *The evening's light on the ballroom — the approach kept, the ball coming.*
+> *(The portico, Friday evening. The London ball, and the hour.)*
+> The London house blazes — every window lit, carriages lined three deep, the portico crowded with the season's glittering inventory. Rose's carriage joins the queue, and she sits with her hands folded, watching the beau monde disgorge itself in silk and consequence. The horses stamp; the footmen run; the whole glittering machine processes its arrivals.
+> (T1 · look closer) *Evening on the portico. The blazing windows, the queue of carriages.*
+> Her name goes in with the footman, and the footman's voice carries it well — practice, or pleasure. The lobby takes her: marble, candlelight, the rustle of a hundred conversations pausing, just briefly, to look.
+> (T2 · tone) *Composed and unhurried. The entrance, made the way entrances should be.*
+> "Miss Hartwell." The murmur runs ahead of her like a tide. She lets it run. The gown does its work; she does hers.
+> (T3 · look closer) *"London. The social war, joined."*
+> The ballroom opens before her — a great gilded space, chandeliers like frozen fireworks, the floor already filling. The orchestra tunes. The evening's battlefield, dressed for dancing.
+> (T4 · dialogue) *The ballroom's threshold. The gilded space, the tuning orchestra.*
+> She enters as the decision commanded — the choice made in the carriage, kept in the ballroom. Heads turn; the turning is the point. The ivory and gold moves through the candlelight like a rumor of money, well-founded and freshly confirmed.
+> (T5 · stance) *Candlelight on the ivory silk. The entrance, landed.*
+> "Well," she says under her breath. "Here we are."
+> (T6 · look closer) *"The war, gone social. Behave, everyone."*
+> The first dancers take the floor. The first glasses are raised. The evening begins its machinery, and Rose stands at the center of it — the woman the season made, in the gown the Park paid for.
+> (T7 · dialogue) *The ballroom's machinery, begun. Her place in it, taken.*
+> Across the room: Augusta, formidable in black, holding her corner like a fortress. Henry, steady by a pillar, the room's quiet anchor. Lavinia, bright as a signal fire, waving before she remembers not to. And Sloane — splendid, alone, watching.
+> (T8 · remembered micro-decision) *The room's faces, catalogued. Allies, family, and the wary one.*
+> "The ball," Rose says. "At last."
+> (T9 · look closer) *"Let the evening do its worst. It's already lost."*
+> The orchestra strikes up. Friday evening opens its doors wide.
+> (T10 · remembered micro-decision) *The music, begun. The social war, fully joined.*
+> *Candlelight on the crowded ballroom.*
 *Animation: Shared.*
 
 ### L30.S7 · [D] · Rose, Augusta
 *Purpose: the dowager at the ball — Friday evening; the formidable, the London's; the seal. (Turns: 8)*
-> *(The ballroom, Friday evening. Augusta at the ball — the formidable's, the London's — and the evening's counsel is the evening's seal: stated once, finally.)*
-> "The ball." Augusta doesn't rise. "The London's — the social's. Rose —" the formidable leans forward "— the entered wants the keeping's patience."
-> (T1 · look closer) *The ballroom's candlelight is gold — and the dowager's counsel at the ball is the evening's seal: stated once, finally.*
-> "The patience's." Rose takes the chair. "Grandmama — the gown. The first —" she meets the formidable's eyes "— the worn?"
-> (T2 · tone) *Respectful, complete, and past flinching — the evening's ball deserves its full telling.*
-> "The worn's." The formidable nods — slowly, the full approval. "Rose — the Park's money. The London —" she pauses "— the seeing's."
-> (T3 · dialogue) *"The worn, the gown's."; "The seen, the London's."; "The counselled, the formidable's."*
-> "The formidable's." She takes it in. "Grandmama — the war. The social —" she pauses "— the won?"
-> (T4 · stance) *In the ballroom's gold evening — the granddaughter laying the ball's entry before the house's highest court.*
-> Augusta's eyes gleam. "The won, Rose — the week's. The fortune —" she pauses "— the whole's. The woman —" the formidable "— the fortune's."
-> (T5 · look closer) *The gleam's the formidable's finest — the dowager seeing the ball plain, and naming it.*
-> The gold evening on the formidable's rings — the dowager's, the seal's. The ball named, the season closing.
-> "Named." She stands. "Grandmama — the evening. The ball —" she moves on "— the kept."
-> (T6 · dialogue) *"The named, the ball's."; "The Londoned, the social's."; "The counselled, the seal's."*
-> "The seal's." Augusta rises — a dismissal and a benediction. "Rose —" at the ballroom's edge "— the ball's the London's. The season's —" she smiles "— the house's."
-> (T7 · remembered micro-decision) *The counsel filed — the ball kept, the season named — the formidable's evening banked.*
-> The ballroom's evening holds — the dowager's seal, the ball's entry done.
-> (T8 · remembered micro-decision) *Bank the evening's counsel — the formidable's, the seal — Friday's fourth hour, the week's.*
-> *The ballroom's gold evening — the dowager at the ball, the season named.*
+> *(The ballroom, Friday evening. Augusta holds court by the chandeliers.)*
+> Augusta holds her corner of the ballroom the way she holds everything — absolutely, without effort, in black silk that makes the chandeliers look gaudy. She beckons Rose with one ringed finger, and the crowd parts like water.
+> (T1 · look closer) *Candlelight on the black silk. The dowager's corner, unassailable.*
+> "The gown," Augusta says, her eyes traveling from hem to heather with professional thoroughness, missing nothing — the cut, the fall, the gold's restraint. "Élise's. The Park's money." A pause, the dowager's equivalent of a standing ovation. "Well spent."
+> (T2 · tone) *Formidable and exact. The review, begun.*
+> Coming from Augusta, this is a sonnet — possibly the longest favorable review the dowager has issued in a decade. Rose curtsies — the ballroom's deepest, the season's most sincere. "The house's money," she says. "Worn for the house."
+> (T3 · dialogue) *"The social war, Grandmama?" — "Being won, child. I have watched three hours of it. The ton surrenders prettily."*
+> Augusta's eyes sweep the room — the dancers, the dowagers, the young men suddenly attentive, all of them orbiting at a respectful distance. "They came to stare at the fortune. They stay to admire the woman. That is the correct order."
+> (T4 · stance) *The dowager and the heiress, the room's axis. The review, proceeding.*
+> "Sloane is here," Augusta says, her gaze flicking once to the ballroom's far corner and back. "Splendid. Alone. Beaten." A beat, the rings absolutely still. "You will be kind."
+> (T5 · look closer) *The rings, very still. The instruction, unmistakable.*
+> "Kind," Rose promises. "The door is open. The evening will show it."
+> (T6 · dialogue) *"Kindness from the victor — the only kind that counts." — "You taught me. I learned."*
+> Augusta nods — the slow nod, the seal's rehearsal, the gesture that has launched a hundred evenings. "The pavilion tonight," she says. "The lake. See that it is worthy of the money that restored it."
+> (T7 · remembered micro-decision) *The pavilion, invoked. The night's second theater, prepared.*
+> Rose moves back into the ballroom's current, and Augusta's corner holds behind her, black silk against the candlelight, unmoved and unmovable — the fortress from which the evening is being directed.
+> (T8 · remembered micro-decision) *The review concluded. The social war, approved.*
+> *Candlelight on the dowager's black silk.*
 *Animation: Shared.*
 
 ### L30.S8 · [D] · Rose, Henry
 *Purpose: the steady at the ball — Friday evening; the keeper's, the London's; the heart. (Turns: 8)*
-> *(The ballroom, Friday evening. Henry at the ball — the steady's, the London's — and the evening's hour is the keeper's: stated plain, and the heart's.)*
-> "The ball, Rose." Henry comes — the steady, the certain. "The London —" he looks up "— the social's."
-> (T1 · look closer) *The ballroom's candlelight on Henry's face — and the steady man's word at the ball is the evening's kindest: the entered, kept.*
-> The face steady and certain — the keeper's, the evening's. The ball in his telling, and the heart in his voice.
-> "Told." Rose takes it in. "Henry — the floor. The danced —" she meets his eyes "— the kept?"
-> (T2 · tone) *Quiet, certain, and past flinching — the evening's ball deserves its steady hearing.*
-> "The kept's." Henry nods — the steady, complete. "The London —" he pauses "— the week's. The fortune —" he looks up "— the whole's."
-> (T3 · dialogue) *"The danced, the ball's."; "The whole, the fortune's."; "The kept, the steady's."*
-> "The steady's." She takes it in. "Henry — the understanding. Without explaining —" she meets his eyes "— the ball's?"
-> (T4 · stance) *In the ballroom's candlelight — the heiress and the steady man, the ball kept.*
-> Henry's voice is soft. "The ball's, Rose — the week's. No explaining —" he pauses "— the understood."
-> (T5 · look closer) *The softness is the steady man's finest — the ball entered, without explanation.*
-> The ballroom's candlelight steady — the keeper's, the evening's. The war gone social, the understanding complete — and the evening's hour the kindest.
-> "The taught's." She stands. "Henry — the evening. The ball —" she moves on "— the week's."
-> (T6 · dialogue) *"The understood, the steady's."; "The entered, the ball's."; "The kept, the evening's."*
-> "The evening's." He bows — the steady, unhurried. "The ball holds, Rose — whatever London asks."
-> (T7 · remembered micro-decision) *The ball filed — the entered kept, no explaining — the steady man's evening banked.*
-> The ballroom's evening holds — the steady at the ball, the evening's kindest done.
-> (T8 · remembered micro-decision) *Bank the evening's ball — the steady's, the entered — Friday's fifth hour, the week's.*
-> *The ballroom's candlelight — the steady at the ball, no explaining.*
+> *(The ballroom, Friday evening. Henry by a pillar, watching the room.)*
+> Henry stands by a pillar with the settled air of a man who has decided the ballroom is a place to observe rather than join — until Rose reaches him, when the observation visibly improves, the way lamplight improves when someone worth seeing steps into it.
+> (T1 · look closer) *Candlelight on the steady face. The pillar, the observation, the improvement.*
+> "The gown," Henry says, looking at it properly for the first time — the ivory, the gold, the heather's small defiance. "It's — " He stops, which for Henry is eloquence of the highest order. "It's right."
+> (T2 · tone) *Warm and unguarded. The steady man's review, delivered standing.*
+> "The Park's money," Rose says. "First commission. Élise's triumph as much as mine."
+> (T3 · dialogue) *"You look," Henry says carefully, "like the season's argument, won." — "I feel like its footnote. A well-dressed one."*
+> He offers his arm for the promenade, and they walk the ballroom's edge together — the steady man and the woman of the evening, the room watching, the talk already starting, the dowagers' lorgnettes tracking their progress like artillery.
+> (T4 · stance) *On the promenade. The couple the room is watching, walking unhurried.*
+> "The books," Henry says quietly, for her ear alone. "Seventy-three thousand. Whole." A pause, the figures settling between them like shared property. "You did it clean."
+> (T5 · look closer) *The quiet figures, exchanged mid-promenade. The week's arithmetic, confirmed.*
+> "Clean," Rose says. "The dates held. The small were bought out fair. The pledge — six thousand one hundred and sixty-four — comes out of the first realizations."
+> (T6 · dialogue) *"The house can carry it." — "The house can. Go and dance, Rose. The evening's yours."*
+> He hands her on to the next partner with the ease of a man who understands exactly what the evening is — and exactly what he is in it, and is content with the knowledge. No explaining needed. There never is, with Henry.
+> (T7 · remembered micro-decision) *The handover, graceful. The steady man, understood.*
+> Rose takes the floor, and Henry resumes his pillar — watching, steady, the ballroom's quiet anchor, the fixed point in the evening's turning, unmoved by the music.
+> (T8 · remembered micro-decision) *The dance begun. The anchor, holding.*
+> *Candlelight on the dancers.*
 *Animation: Shared.*
-
 ### L30.S9 · [T] · Rose (alone)
 *Purpose: the ballroom — Friday evening; the London's, the height's; the alone. (Turns: 10)*
-> *(Friday evening, the ballroom. The ballroom — the London's, the height's — and the evening's keeping is the alone's kind: plain, and held.)*
-> The ballroom — the lit's. The ton — the gathered's. The war — the social's.
-> (T1 · look closer) *The evening's candlelight on the ballroom — and the ballroom's keeping is plain: the lit, the week's.*
-> "The week's." Rose moves — the Park gown, the ball's. "The ton —" she meets the evening "— the gathered."
-> (T2 · tone) *Quiet, certain, and past flinching — the evening's ballroom wants its keeping plain.*
-> Plain. The gathered — the City's. The social — the war's. The gown — the first's.
-> (T3 · look closer) *The ballroom's evening in the candlelight — the lit's, the gathered's: the war gone social, the fortune whole.*
-> "The whole's." She moves — the evening's, the alone's. "The triumph —" she nods "— the atelier's."
-> (T4 · dialogue) *"The lit, the ballroom's."; "The gathered, the ton's."; "The social, the evening's."*
-> "The evening's." She takes it in. "The floor —" she meets the evening "— the danced."
-> (T5 · stance) *In the evening's candlelight — the heiress alone, the ballroom kept.*
-> The kept's. The evening's. The danced — coming, and certain.
-> (T6 · look closer) *The evening's plain candlelight — and the heiress's face, the ballroom's: steady, and unhurried.*
-> "Unhurried." She moves — the Park gown, the ball's. "The social —" she nods "— the kept."
-> (T7 · dialogue) *"The steadied, the ballroom's."; "The lit, the week's."; "The gathered, the London's."*
-> "The London's." She moves on. "The farewell —" she smiles "— the coming's."
-> (T8 · remembered micro-decision) *The ballroom banked — the war social, the fortune whole — the evening's ballroom kept.*
-> The evening's candlelight opens — the night's farewell, the Friday's, coming.
-> (T9 · look closer) *The evening's plain light — and the ballroom, the Friday's: the heiress, the ton, the unhurried.*
-> "The unhurried's." She moves — the Park gown, the ball's. "The ballroom —" she smiles "— the kept."
-> (T10 · remembered micro-decision) *Bank the evening's ballroom — the lit kept, the social held — the ballroom kept, the week's.*
-> *The evening's candlelight on the ballroom — the war gone social, the fortune whole.*
+> *(The ballroom, Friday evening. The social war at its height.)*
+> The ballroom is at full stretch now — the floor crowded, the chandeliers blazing, the supper room doing brisk business in gossip. Rose moves through it the way she moved through the week's figures: unhurried, exact, missing nothing, the same discipline in silk as in ink.
+> (T1 · look closer) *The blazing room. The full stretch of the evening, surveyed.*
+> A dowager stops her: "Miss Hartwell. The funds, I hear." — "The funds, my lady." "And the canals." "The canals are sound." The dowager nods, satisfied, and the money talk moves on, which is the point. Money, discussed openly, without a blush. Respectability, following like a well-trained footman.
+> (T2 · tone) *Gracious and precise. The money talk, handled in the open.*
+> She dances — a quadrille, a waltz — and the partners come correctly: respectful, attentive, the young men of the ton suddenly discovering that a fortune has a face, and the face is worth looking at.
+> (T3 · look closer) *"Miss Hartwell." — "Sir." — the social war's skirmishes, won politely.*
+> Between dances, the talk: the stay lifted, the Dealing registered, the small holders bought out fair. The week's story, circulating in the ballroom's version — cleaner than the truth, kinder, and not wrong. Every retelling polishes it a little more.
+> (T4 · dialogue) *Between dances. The week's story, circulating in evening dress.*
+> Lavinia catches her eye across the floor and beams — the loyal's triumph, undisguised. Laurent bows from a distance, the continental's salute. Everything the season built, in one room, dancing.
+> (T5 · stance) *The room's friendly faces. The season's work, dancing.*
+> "The social war," Rose says to no one in particular, accepting a glass of orgeat. "I believe we're winning."
+> (T6 · look closer) *"Winning prettily, too. The ton surrenders with excellent manners."*
+> The orchestra changes tempo. The candles burn lower. The evening's height approaches — the hour when the ballroom decides what it thinks, and thinks it all at once.
+> (T7 · dialogue) *The evening's height, approaching. The room's verdict, gathering.*
+> She is ready. The gown is ready. The fortune is ready. Let the room decide.
+> (T8 · remembered micro-decision) *Readiness, complete. The verdict, awaited without fear.*
+> "Come then," she says softly. "Decide."
+> (T9 · look closer) *"The woman, the gown, the fortune — take your look, London."*
+> The ballroom turns, glittering, toward its hour.
+> (T10 · remembered micro-decision) *The hour, arrived. The social war's height, held.*
+> *Candlelight on the turning ballroom.*
 *Animation: Shared.*
 
 ### L30.S10 · [D] · Rose, Lavinia
 *Purpose: the loyal at the ball — Friday evening; the heart's, the London's; the complete. (Turns: 8)*
-> *(The ballroom, Friday evening. Lavinia at the ball — the loyal's, the London's — and the evening's telling is the complete kind: stated plain, and the heart's.)*
-> "The ball, Rose." Lavinia comes — the loyal, the certain. "The London —" she looks up "— the danced's."
-> (T1 · look closer) *The ballroom's candlelight on Lavinia's face — and the loyal's word at the ball is the evening's finest: the danced, kept.*
-> The face loyal and certain — the heart's, the evening's. The ball in her telling, and the danced in her voice.
-> "Told." Rose takes it in. "Lavinia — the heart. The steadied —" she meets her eyes "— the kept?"
-> (T2 · tone) *Quiet, certain, and past flinching — the evening's ball deserves its loyal hearing.*
-> "The kept's." Lavinia nods — the loyal, complete. "The circle —" she pauses "— the week's. The house —" she looks up "— the danced."
-> (T3 · dialogue) *"The danced, the ball's."; "The kept, the heart's."; "The loyal, the evening's."*
-> "The evening's." She takes it in. "Lavinia — the season. The closing —" she pauses "— the danced?"
-> (T4 · stance) *In the ballroom's candlelight — the heiress and the loyal friend, the ball kept.*
-> Lavinia's voice is soft. "The danced, Rose — the week's. The season —" she pauses "— the closing's."
-> (T5 · look closer) *The softness is the loyal's honesty — the ball danced, the season closing.*
-> The ballroom's candlelight steady — the heart's, the evening's. The war gone social, the loyal kept — and the evening's hour the finest.
-> "Kept." She stands. "Lavinia — the evening. The ball —" she moves on "— the week's."
-> (T6 · dialogue) *"The kept, the ball's."; "The danced, the week's."; "The loyal, the evening's."*
-> "The evening's." Lavinia curtsies — the loyal, complete. "Rose —" in the ballroom "— the ball's the heart's. The season —" she smiles "— the closing's."
-> (T7 · remembered micro-decision) *The ball filed — the danced kept, the season closing — Lavinia's evening banked.*
-> The ballroom's evening holds — the loyal at the ball, the evening's finest done.
-> (T8 · remembered micro-decision) *Bank the evening's ball — the loyal's, the complete — Friday's sixth hour, the week's.*
-> *The ballroom's candlelight — the loyal at the ball, the season closing.*
+> *(The ballroom, Friday evening. Lavinia, radiant, claims her dance.)*
+> Lavinia descends on Rose between dances like a frigate under full sail — radiant, determined, pink-cheeked with triumph, cutting through the ballroom's traffic without touching a soul. "Mine," she announces. "You promised me the first dance you'd choose yourself, and I am collecting."
+> (T1 · look closer) *The frigate's arrival. The promised dance, collected.*
+> They take the floor together — two women, the ballroom's indulgence, the loyal's triumph made visible. The ton watches, charmed despite itself; even the dowagers smile, which is the ballroom's highest honor, sparingly bestowed. Lavinia dances like joy made mobile, her feet barely consulting the floor.
+> (T2 · tone) *Joyful and unguarded. The dance, danced for its own sake.*
+> "The gown," Lavinia breathes, mid-turn, the words coming out in the wrong order with delight. "The Park's money never — I mean — oh, Rose."
+> (T3 · dialogue) *"Breathe, Lavinia." — "I am breathing. I'm dancing. I'm collecting. Let me have my moment."*
+> The dance ends to applause — genuine applause, the ballroom's rare sincerity, given freely and without calculation. Lavinia curtsies low, radiant, flushed with the dancing and the moment, and squeezes Rose's hands hard enough to bruise.
+> (T4 · stance) *The applause, the curtsy, the bruising squeeze. Triumph, shared.*
+> "My heart kept," Lavinia says, suddenly serious, the laughter dropping away like a mask set down. "All season. Whatever the ton said — and it said a great deal, most of it unhelpful." A beat. "Look at you. Look at us."
+> (T5 · look closer) *The serious moment inside the triumph. The loyalty, named.*
+> "Loyal," Rose says, holding the bruised hands a moment longer. "Undivided. The evening's best news, and it was the week's best news too — the one thing the figures never had to prove."
+> (T6 · dialogue) *"Heart kept, Lavinia." — "Heart kept, Rose. Now go — Sloane's watching, and the evening wants its farewell."*
+> Lavinia releases her — a little push, a bright look, a whispered "go" — and is gone into the crowd, leaving Rose facing the ballroom's far corner, where the widow waits in splendor.
+> (T7 · remembered micro-decision) *The push, the bright look. The evening's next movement, cued.*
+> The loyal's triumph, banked and drawing interest. The farewell, approaching.
+> (T8 · remembered micro-decision) *Triumph kept. The farewell, next.*
+> *Candlelight on the dancers.*
 *Animation: Shared.*
 
 ### L30.S11 · [D] · Rose, Laurent
 *Purpose: the Frenchman at the ball — Friday evening; the continental's, the London's; the past. (Turns: 8)*
-> *(The ballroom, Friday evening. Laurent at the ball — the continental's, the London's — and the evening's hour is the past's: stated plain, and the honest's.)*
-> "The ball, Rose." Laurent comes — the continental, the certain. "The London —" he looks up "— the social's."
-> (T1 · look closer) *The ballroom's candlelight on Laurent's face — and the Frenchman's word at the ball is the evening's most storied: the social, kept.*
-> The face storied and certain — the continental's, the evening's. The ball in his telling, and the honest in his voice.
-> "Told." Rose takes it in. "Laurent — the lesson. The spent —" she meets his eyes "— the kept?"
-> (T2 · tone) *Quiet, certain, and past flinching — the evening's ball deserves its continental hearing.*
-> "The kept's." Laurent nods — slowly, the honest's. "The finance —" he pauses "— the week's. The honor —" he looks up "— the danced."
-> (T3 · dialogue) *"The spent, the lesson's."; "The danced, the ball's."; "The continental, the evening's."*
-> "The evening's." She takes it in. "Laurent — the pavilion. The restored —" she pauses "— the new's?"
-> (T4 · stance) *In the ballroom's candlelight — the heiress and the Frenchman, the ball kept.*
-> Laurent's voice is soft. "The new's, Rose — the week's. The money —" he pauses "— the honest."
-> (T5 · look closer) *The softness is the Frenchman's honesty — the pavilion restored, the ball kept.*
-> The continental's past in his voice — the family's, the ruin's. The lesson spent, the pavilion restored — and the evening's hour the most storied.
-> "Kept." She stands. "Laurent — the evening. The ball —" she moves on "— the week's."
-> (T6 · dialogue) *"The kept, the ball's."; "The restored, the pavilion's."; "The continental, the evening's."*
-> "The evening's." He bows — the continental, complete. "Rose —" in the ballroom "— the ball's the week's. The lesson —" he smiles, thin "— the spent."
-> (T7 · remembered micro-decision) *The ball filed — the lesson's, the restored's — the Frenchman's evening banked.*
-> The ballroom's evening holds — the Frenchman at the ball, the evening's most storied done.
-> (T8 · remembered micro-decision) *Bank the evening's ball — the continental's, the past — Friday's seventh hour, the week's.*
-> *The ballroom's candlelight — the Frenchman at the ball, the lesson spent.*
+> *(The ballroom's edge, Friday evening. Laurent, waiting with the lesson's last word.)*
+> Laurent waits by the ballroom's edge with a glass he isn't drinking and the air of a man holding a sentence he's carried all season — turning it over, polishing it, waiting for the right ear. He bows as Rose approaches — the continental's bow, exact and final.
+> (T1 · look closer) *The edge of the glitter. The waiting man, the carried sentence.*
+> "Miss Hartwell." A pause. "The fortune is won. Cleanly." Another pause. "I did not think it could be done cleanly. I am — " He searches. "I am instructed."
+> (T2 · tone) *Grave and honest. The continental's admission, hard-won.*
+> "The lesson," Rose says. "Finance as honor. You taught me the shape of it, Laurent — I only filled it in."
+> (T3 · dialogue) *"The ruin taught me first." — "And you learned. That is the whole of it, and it is enough."*
+> He looks out at the dancers — the money, the silk, the ton at play, the whole glittering apparatus. "I came to England for the game," he says quietly. "I stay for the proof that it can be played straight. You are the proof, Miss Hartwell."
+> (T4 · stance) *Two figures at the room's edge. The lesson, completed between them.*
+> "The canal scheme," Rose says. "It holds. The small holders are whole. Your name is clean in the surveyors' books — I saw to it."
+> (T5 · look closer) *The quiet restitution. The continental's name, kept clean.*
+> Laurent's bow, this time, is deeper — and when he straightens, something has eased in his face. "Then I am done here," he says. "The lesson's last word is yours, and it is: enough." He smiles, sudden and real. "Dance, Miss Hartwell. The evening is yours."
+> (T6 · dialogue) *"Enough." — "Enough, Laurent. And thank you — for the game, and the proof."*
+> He melts into the crowd — the continental's exit, graceful to the last, the glass left precisely where a footman will find it — and Rose stands a moment at the room's edge, holding the lesson's last word like a coin.
+> (T7 · remembered micro-decision) *The exit, graceful. The last word, kept.*
+> Enough. The lesson, closed.
+> (T8 · remembered micro-decision) *The edge of the ballroom. The lesson's end, honored.*
+> *Candlelight on the empty edge.*
 *Animation: Shared.*
 
 ### L30.S12 · [D] · Rose, Élise
 *Purpose: the gown revealed — Friday evening; the Park's, the first's; the triumph. (Turns: 8)*
-> *(The ballroom, Friday evening. The gown revealed — the Park's, the first's — and the evening's hour is the triumph's: stated plain, and the atelier's.)*
-> "The revealed, Rose." Élise comes — the atelier's, the certain. "The gown —" she looks up "— the London's."
-> (T1 · look closer) *The ballroom's candlelight on the Park gown — and the reveal's hour is the evening's finest: the first, worn.*
-> The gown on the heiress — the London's, the ball's. The Park's money in every seam, and the triumph complete.
-> "Complete." Rose takes it in. "Élise — the triumph. The agent's —" she meets her eyes "— the professional?"
-> (T2 · tone) *Quiet, certain, and past flinching — the evening's reveal deserves its atelier's hearing.*
-> "The professional's." Élise nods — the atelier's, complete. "The atelier —" she pauses "— the week's. The London —" she looks up "— the seeing's."
-> (T3 · dialogue) *"The revealed, the gown's."; "The seen, the London's."; "The triumphed, the evening's."*
-> "The evening's." She takes it in. "Élise — the money. The honest —" she smiles "— the paid?"
-> (T4 · stance) *In the ballroom's candlelight — the client and the agent, the reveal kept.*
-> Élise's voice is soft. "The paid, Rose — the week's. The Park —" she looks up "— the honest."
-> (T5 · look closer) *The softness is the atelier's honesty — the gown revealed, the evening named.*
-> The ballroom's candlelight on the gown — the revealed's, the week's. The first gown paid with Park money — and the triumph the atelier's.
-> "Named." She stands. "Élise — the evening. The gown —" she moves on "— the London's."
-> (T6 · dialogue) *"The revealed, the triumph's."; "The worn, the first's."; "The kept, the atelier's."*
-> "The atelier's." Élise curtsies — the professional, complete. "Rose —" in the ballroom "— the gown's the London's. The triumph —" she smiles "— the week's."
-> (T7 · remembered micro-decision) *The reveal filed — the gown's, the triumph's — the atelier's evening banked, her triumph complete.*
-> The ballroom's evening holds — the gown revealed, the triumph complete.
-> (T8 · remembered micro-decision) *Bank the evening's reveal — the worn kept, the triumph named — Friday's eighth hour, the week's.*
-> *The ballroom's candlelight on the Park gown — the first gown worn, Élise's triumph.*
+> *(The ballroom, Friday evening. Élise, in London, seeing her gown worn.)*
+> Élise stands at the ballroom's margin in her best black — the modiste among the ton, out of place and utterly triumphant, dressed for the margin as carefully as for the center — watching her gown move through the candlelight on Rose. Her hands are clasped so tightly the knuckles show white; her heart is beating loudly enough to drown the orchestra.
+> (T1 · look closer) *The margin of the glitter. The modiste's white knuckles, the gown in motion.*
+> Rose goes to her — crosses the ballroom, the ivory and gold in full sail, and takes Élise's hands. The ton stares. Let it stare.
+> (T2 · tone) *Deliberate and public. The tribute, paid where everyone can see.*
+> "It is your night," Rose says, clearly enough for the nearest dowagers. "The Park's money paid for the silk, Élise. You made it a gown."
+> (T3 · dialogue) *"Chérie — " — "No. London will know whose hands did this. The atelier's night, in London light."*
+> Élise's eyes fill — the artist's tears, blinked back fiercely, the artist's tax on triumph paid without complaint. "The cut," she whispers. "Does it — the fall — "
+> (T4 · stance) *The two women, center of a small, staring circle. The artist's anxiety, confessed.*
+> "The cut is perfect. The fall is perfect." Rose turns, slowly, letting the silk move. "Look. London is looking. Let it learn."
+> (T5 · look closer) *The slow turn. The silk's movement, exhibited. London, learning.*
+> And London does look — the dowagers leaning in, the rivals taking notes, the young women memorizing. The gown teaches, and London learns. The evening's argument, and the argument is winning.
+> (T6 · dialogue) *"They see." — "They see. Breathe, Élise. Triumph suits you."*
+> Élise laughs — a real laugh, startled out of her — and the white knuckles ease. The atelier's night, in London light: the modiste among the ton, no longer out of place at all.
+> (T7 · remembered micro-decision) *The laugh, the eased hands. Triumph, fully inhabited.*
+> Rose leaves her to the admirers gathering — the orders will come on Monday, three already promised and more behind them; the atelier's year is made — and moves back into the ballroom's current, the gown's triumph complete.
+> (T8 · remembered micro-decision) *The admirers gathering. The triumph, left to ripen.*
+> *Candlelight on the ivory and gold.*
 *Animation: Custom "The First Gown" — the Park money's triumph, worn at the London ball.*
 
 ### L30.S13 · [C] · Rose (alone)
 *Purpose: the ball's ritual — Friday evening; the social's, the whole's; the twenty pins. (Turns: 21 — direction + 20 pins)*
-> *(Friday evening, the retiring room. The ball's ritual — the social's, the whole's — and the evening's direction is the season's deepest: the war, gone social.)*
-> *Direction: pin the ball — the London's, the entered's — into the cloth's memory. Twenty pins, the evening's twenty, and the social's.*
-> Rose takes the first pin — the evening's, the social's. The retiring room's candlelight holds her, and the ritual begins.
-> (T1) The ball — the London's. *The pin goes in for the entered — the triumph's, the quiet's.* The ball's, the evening's first.
-> (T2) The gown — the Park's. *The pin goes in for the worn — the first's, the honest.* The gown's, the evening's second.
-> (T3) The war — the social's. *The pin goes in for the socialled — the danced, the won.* The war's, the evening's third.
-> (T4) The fortune — the whole's. *The pin goes in for the whole — the £73,000's, the usable.* The fortune's, the evening's fourth.
-> (T5) The triumph — the atelier's. *The pin goes in for the triumphed — Élise's, the professional's.* The triumph's, the evening's fifth.
-> (T6) The pavilion — the restored's. *The pin goes in for the restored — the lake's, the new.* The pavilion's, the evening's sixth.
-> (T7) The farewell — the wary's. *The pin goes in for the farewelled — Sloane's, the ally's.* The farewell's, the evening's seventh.
-> (T8) The door — the open's. *The pin goes in for the opened — the week's, the transformed.* The door's, the evening's eighth.
-> (T9) The counsel — the steady's. *The pin goes in for the counselled — Henry's, the keeper's.* The counsel's, the evening's ninth.
-> (T10) The law — the kept's. *The pin goes in for the kept — Julian's, the complete.* The law's, the evening's tenth.
-> (T11) The lesson — the spent's. *The pin goes in for the spent — Laurent's, the honest.* The lesson's, the evening's eleventh.
-> (T12) The likeness — the hung's. *The pin goes in for the hung — Octavia's, the hall's.* The likeness', the evening's twelfth.
-> (T13) The heart — the loyal's. *The pin goes in for the kept — Lavinia's, the steadied.* The heart's, the evening's thirteenth.
-> (T14) The warm — the aunt's. *The pin goes in for the counselled — Letitia's, the delighted.* The warm's, the evening's fourteenth.
-> (T15) The seal — the formidable's. *The pin goes in for the sealed — Augusta's, the named.* The seal's, the evening's fifteenth.
-> (T16) The cloth — the evening's. *The pin goes in for the worn — the first's, the ball's.* The cloth's, the evening's sixteenth.
-> (T17) The heather — the week's. *The pin goes in for the pinned — the mark's, the Friday's.* The heather's, the evening's seventeenth.
-> (T18) The wall — the oldest's. *The pin goes in for the comed — the garden's, the down.* The wall's, the evening's eighteenth.
-> (T19) The papers — the oldest's. *The pin goes in for the surfaced — the kept, the unread.* The papers', the evening's nineteenth.
-> (T20) The season — the closed. *The pin goes in for the closed — the fortune's, the woman's.* The season's, the evening's twentieth.
-> (T21) *The twenty pins sit in the cloth's memory — the social's, the Friday's — and the evening's direction holds: the war gone social, the woman of fortune.*
-> *The retiring room's candlelight on the twenty pins — the ball's ritual done, Friday's evening banked.*
+> *(The retiring room, Friday evening. The ritual between dances.)*
+> *Direction: for the ball, the gown, and the war gone social. Pin the evening's triumph into the cloth: the entrance made, the dances danced, the fortune shown. Twenty pins, five coins each, the ballroom's own ritual.*
+> (T1) *The first pin: for the ball — London, Friday, the financial war gone social.*
+> (T2) *The second pin: for the gown — the Park's money's first commission, worn in ivory and gold.*
+> (T3) *The third pin: for the entering — the evening's first move, made as decided.*
+> (T4) *The fourth pin: for the triumph — the ton's eyes, finding nothing vulgar.*
+> (T5) *The fifth pin: for the pavilion — restored by the lake, the new money's beauty, its first night coming.*
+> (T6) *The sixth pin: for Sloane — beaten kindly, the wary ally, the door standing open.*
+> (T7) *The seventh pin: for the farewell — the transformed rival's exit, graceful and complete.*
+> (T8) *The eighth pin: for Julian — the counsel kept clean, the books nearly closed.*
+> (T9) *The ninth pin: for the law — the stay lifted, the Dealing registered, the dates vindicated.*
+> (T10) *The tenth pin: for Laurent — the lesson kept, finance as honor, the last word spoken.*
+> (T11) *The eleventh pin: for Octavia — the artist's eye, the likeness kept, the season recorded.*
+> (T12) *The twelfth pin: for Lavinia — the heart kept, the loyal undivided, the dance danced.*
+> (T13) *The thirteenth pin: for Letitia — the warm counsel, the house's heart, the handkerchief waved.*
+> (T14) *The fourteenth pin: for Augusta — the seal's hour approaching, the naming to come.*
+> (T15) *The fifteenth pin: for Élise — the atelier's night, the gown's triumph, London learning.*
+> (T16) *The sixteenth pin: for the heather — the week's mark, pinned at the waist of ivory silk.*
+> (T17) *The seventeenth pin: for the wall — coming down at dawn, the oldest stones giving way.*
+> (T18) *The eighteenth pin: for the papers — taken, unopened; the hook, not the answer.*
+> (T19) *The nineteenth pin: for the season — closing, the fortune whole, the woman kept.*
+> (T20) *The twentieth pin: for the ballroom — the social war, won out in the open.*
+> (T21) *The twenty pins sit in the cloth's memory. The ball's ritual complete.*
 *Animation: Shared.*
 
 ### L30.S14 · [D] · Rose, Sloane
 *Purpose: the farewell — Friday evening; the wary's, the open's; the transformed. (Turns: 8)*
-> *(The ballroom's terrace, Friday evening. The farewell — the wary's, the open's — and the evening's hour is the transformed: stated plain, and complete.)*
-> "The farewell." Sloane comes — the wary, the certain. "Rose —" the transformed "— the week's."
-> (T1 · look closer) *The terrace's evening light on Sloane's face — and the farewell's hour is the evening's most changed: the wary, kept.*
-> The face wary and certain — the transformed's, the evening's. The farewell in her telling, and the open in her voice.
-> "Told." Rose takes it in. "Sloane — the ally. The wary —" she meets her eyes "— the kept?"
-> (T2 · tone) *Quiet, certain, and past flinching — the evening's farewell deserves its full hearing.*
-> "The kept's." Sloane nods — the wary, the transformed. "The door —" she pauses "— the open's. The partnership —" she looks up "— the week's."
-> (T3 · dialogue) *"The farewelled, the evening's."; "The opened, the door's."; "The transformed, the wary's."*
-> "The wary's." She takes it in. "Sloane — the duel. The closed —" she pauses "— the gracious?"
-> (T4 · stance) *On the terrace's evening light — the heiress and the wary ally, the farewell kept.*
-> Sloane's voice is soft. "The gracious, Rose — the week's. Thirty-eight —" she pauses "— the unbeaten."
-> (T5 · look closer) *The softness is the transformed's honesty — the duel closed, the farewell kept.*
-> The terrace's evening light on the wary's pearls — the transformed, the open. Beaten but not ruined — and the door open behind her.
-> "Kept." She stands. "Sloane — the evening. The farewell —" she moves on "— the week's."
-> (T6 · dialogue) *"The kept, the farewell's."; "The open, the door's."; "The wary, the ally's."*
-> "The ally's." Sloane curtsies — the wary, the transformed. "Rose —" on the terrace "— the farewell's the week's. The door —" she smiles "— the open's."
-> (T7 · remembered micro-decision) *The farewell filed — the wary's, the open's — the transformed's evening banked, her exit complete.*
-> The terrace's evening holds — the farewell kept, the door open.
-> (T8 · remembered micro-decision) *Bank the evening's farewell — the transformed kept, the open held — Friday's ninth hour, the week's.*
-> *The terrace's evening light — the farewell kept, the wary ally's door open.*
+> *(The ballroom's quiet corner, Friday evening. Sloane, splendid, waits.)*
+> Sloane waits in the ballroom's quiet corner — splendid, alone, the orchid's absence at her shoulder like a phantom limb. She has dressed for defeat the way she dresses for everything: magnificently, and without apology. Defeat becomes her, the way difficult things become people who refuse to be diminished by them.
+> (T1 · look closer) *The quiet corner. Splendor, alone, unapologetic to the last.*
+> Rose goes to her. The ballroom watches — the ton loves nothing like a farewell — and the two women face each other in the candlelight: the victor in ivory and gold, the vanquished in splendor.
+> (T2 · tone) *Gracious and unhurried. The farewell, made in the open.*
+> "Sloane." A pause. "You came."
+> (T3 · dialogue) *"I was beaten, child, not buried. One attends one's own defeats — it disappoints the gossips."*
+> "Beaten," Rose says, "not ruined. The offer stands — the partnership, the house's, the fortune's. The door is open." The offer hangs between them, public and plain: partnership, not pardon.
+> (T4 · stance) *Face to face. The offer, renewed in public.*
+> Sloane studies her — the widow's long, measuring look, the one that priced the canal scheme to the penny. She has priced men, schemes, and canals in her time; she is pricing this moment too, and finding it genuine. "You refused me," she says slowly, "and then you offered me. No one has ever done the two in that order."
+> (T5 · look closer) *The measuring look. The novelty, acknowledged.*
+> "The maneuver was legal, profitable, and wrong," Rose says. "The partnership is legal, profitable, and right. I prefer the second set."
+> (T6 · dialogue) *"You would." A breath. "The door is open, you say." — "Open, Sloane. Wary allies are the best kind — they keep one honest."*
+> Sloane extends her hand — the cool, firm hand of the box, of the thirty-eight touches — and Rose takes it. The ballroom sees. The ton will dine out on this handshake for a month, and both women know it, and neither minds.
+> (T7 · remembered micro-decision) *The handshake, witnessed. The wary alliance, sealed in public.*
+> "Till the partnership, then," Sloane says, and turns — the widow's exit, splendid to the last — and is gone into the crowd, transformed: beaten, offered, the door open behind her.
+> (T8 · remembered micro-decision) *The exit, splendid. The rival, transformed.*
+> *Candlelight on the empty corner.*
 *Animation: Shared.*
 
 ### L30.S15 · [T] · Rose (alone)
 *Purpose: the ball's height — Friday evening; the London's, the danced's; the alone. (Turns: 10)*
-> *(Friday evening, the ballroom. The ball's height — the London's, the danced's — and the evening's keeping is the alone's kind: plain, and held.)*
-> The height — the ballroom's. The dancing — the London's.
-> (T1 · look closer) *The evening's candlelight on the ballroom's height — and the height's keeping is plain: the danced, the week's.*
-> "The week's." Rose moves — the Park gown, the ball's. "The floor —" she meets the evening "— the danced."
-> (T2 · tone) *Quiet, certain, and past flinching — the evening's height wants its keeping plain.*
-> Plain. The danced — the London's. The social — the war's. The whole — the fortune's.
-> (T3 · look closer) *The height's evening in the candlelight — the London's, the danced's: the ball at its height, the woman of fortune.*
-> "The fortune's." She moves — the evening's, the alone's. "The pavilion —" she nods "— the restored."
-> (T4 · dialogue) *"The heighted, the ball's."; "The danced, the London's."; "The restored, the evening's."*
-> "The evening's." She takes it in. "The farewell —" she meets the evening "— the kept."
-> (T5 · stance) *In the evening's candlelight — the heiress alone, the ball's height kept.*
-> The kept's. The evening's. The danced — held, and certain.
-> (T6 · look closer) *The evening's plain candlelight — and the heiress's face, the height's: steady, and unhurried.*
-> "Unhurried." She moves — the Park gown, the ball's. "The height —" she nods "— the kept."
-> (T7 · dialogue) *"The steadied, the height's."; "The danced, the week's."; "The whole, the fortune's."*
-> "The fortune's." She moves on. "The close —" she smiles "— the coming's."
-> (T8 · remembered micro-decision) *The height banked — the ball danced, the fortune whole — the evening's height kept.*
-> The evening's candlelight opens — the night's close, the Friday's, coming.
-> (T9 · look closer) *The evening's plain light — and the ball's height, the Friday's: the heiress, the ballroom, the unhurried.*
-> "The unhurried's." She moves — the Park gown, the ball's. "The height —" she smiles "— the kept."
-> (T10 · remembered micro-decision) *Bank the evening's height — the danced kept, the whole held — the height kept, the week's.*
-> *The evening's candlelight on the ballroom — the ball's height, the woman of fortune.*
+> *(The ballroom, Friday evening. The height of the social war.)*
+> The farewell settles over the ballroom like a held breath released — the ton saw, the ton understood, the ton approves. Kindness from the victor: the season's best theater, and it wasn't theater at all. The best performances never are.
+> (T1 · look closer) *The released breath. The ballroom's approval, quietly given.*
+> Rose moves through the height of the evening — dances, talk, the supper room's champagne — and everywhere the same current: the fortune is real, the woman is real, the winning was clean.
+> (T2 · tone) *Easy and assured. The height of the evening, inhabited fully.*
+> "Miss Hartwell." "My lady." "The pavilion, I hear — restored?" "The lake pavilion, yes. The new money's beauty. Its first night is tonight." The talk flows, the money talk, the respectable talk. The war, gone thoroughly social.
+> (T3 · look closer) *"The fortune, discussed over champagne. Respectability, achieved."*
+> The orchestra plays on. The candles burn at their brightest before they gutter — the evening's peak, the hour the ballroom will remember.
+> (T4 · dialogue) *At the peak. The brightest hour, consciously held.*
+> She thinks of the week's war room — the dawn figures, the cold grate, the two roads — and marvels, briefly, at the distance traveled: from paper to silk, from arithmetic to music.
+> (T5 · stance) *The week's distance, measured: paper to silk, arithmetic to music.*
+> "The social war," she says, accepting another dance. "I believe that is the game won."
+> (T6 · look closer) *"Won clean, won openly, won in a good gown. The complete victory."*
+> The dance spins her through the candlelight — ivory and gold, heather at the waist — and the room spins with her, glittering, conquered, kind. For once the ballroom's kindness asks for nothing in return.
+> (T7 · dialogue) *The spin, the glitter. The victory, worn lightly.*
+> Augusta watches from her corner, and nods — once. Henry watches from his pillar, and smiles — once. The evening's height holds them all.
+> (T8 · remembered micro-decision) *The nod, the smile. The height, witnessed by its architects.*
+> "Peak," Rose says softly, as the dance ends. "Hold it."
+> (T9 · look closer) *"The ballroom's peak — held, inhabited, remembered."*
+> The orchestra plays on, and the peak holds its ground.
+> (T10 · remembered micro-decision) *The peak, held. The social war's height, kept.*
+> *Candlelight at its brightest.*
 *Animation: Shared.*
 
 ### L30.S16 · [D] · Rose, Julian
 *Purpose: the counsel at the ball — Friday evening; the law's, the London's; the complete. (Turns: 8)*
-> *(The ballroom, Friday evening. Julian at the ball — the counsel's, the London's — and the evening's hour is the complete: stated plain, and the kept's.)*
-> "The ball, Rose." Julian comes — the counsel's, the certain. "The London —" he looks up "— the season's."
-> (T1 · look closer) *The ballroom's candlelight on Julian's face — and the counsel's word at the ball is the evening's steadiest: the season, kept.*
-> The face certain and complete — the counsel's, the evening's. The ball in his telling, and the season in his voice.
-> "Told." Rose takes it in. "Julian — the books. The closed —" she meets his eyes "— the kept?"
-> (T2 · tone) *Quiet, certain, and past flinching — the evening's ball deserves its counsel's hearing.*
-> "The kept's." Julian nods — the counsel's, complete. "The season —" he pauses "— the week's. The fortune —" he looks up "— the whole's."
-> (T3 · dialogue) *"The closed, the books'."; "The whole, the fortune's."; "The complete, the counsel's."*
-> "The counsel's." She takes it in. "Julian — the debts. The counselled —" she pauses "— the paid?"
-> (T4 · stance) *In the ballroom's candlelight — the heiress and the counsel, the ball kept.*
-> Julian's voice is soft. "The paid, Rose — the week's. The counsel —" he pauses "— the season's."
-> (T5 · look closer) *The softness is the counsel's honesty — the books closed, the ball kept.*
-> The ballroom's candlelight steady — the counsel's, the evening's. The season closing, the fortune whole — and the evening's hour the steadiest.
-> "Kept." She stands. "Julian — the evening. The ball —" she moves on "— the week's."
-> (T6 · dialogue) *"The kept, the ball's."; "The closed, the season's."; "The complete, the evening's."*
-> "The evening's." He bows — the counsel's courtesy. "Rose —" in the ballroom "— the ball's the week's. The counsel's —" he smiles "— the kept."
-> (T7 · remembered micro-decision) *The ball filed — the closed kept, the season closing — the counsel's evening banked.*
-> The ballroom's evening holds — the counsel at the ball, the evening's steadiest done.
-> (T8 · remembered micro-decision) *Bank the evening's ball — the counsel's, the complete — Friday's tenth hour, the week's.*
-> *The ballroom's candlelight — the counsel at the ball, the season closing.*
+> *(The ballroom's terrace, Friday evening. Julian, with the books between dances.)*
+> Julian finds her on the terrace between dances — counsel even at a ball, the week's paper in his head if not his hands, the figures keeping pace with the music. The night air is cool after the ballroom's heat, and the stars are out in force, indifferent to finance.
+> (T1 · look closer) *Terrace air, cool. Counsel, even at a ball.*
+> "Seventy-three thousand," Julian says. "Whole. Registered. The Dealing stands." A pause, the counsel savoring the clean figures. "The books are nearly closed, Rose. The season's accounting wants its last entries."
+> (T2 · tone) *Professional and warm. The figures, exchanged under the stars.*
+> "The pledge," Rose says. "Six thousand one hundred and sixty-four. It comes out of the first realizations — the fortune's completion pays the fortune's debt. The circle closes cleanly, counsel, the way you taught me circles should."
+> (T3 · dialogue) *"Due on completion." — "And completion is — " — "Now, counsel. The completion is now."*
+> He nods — the week's counsel, satisfied at last, the satisfaction of a man whose paper has held. "The stay lifted on the dates. The small bought out fair. The venture's accounting — every coin named." A breath. "Clean. It's clean, Rose."
+> (T4 · stance) *On the terrace. The clean verdict, delivered under the stars.*
+> "Clean," she agrees. "The road held. Your road, counsel — the dates argued it."
+> (T5 · look closer) *The shared road, acknowledged. The debt, named and paid in praise.*
+> "Our road," Julian says. "You chose it at dawn; I only built it." He bows — counsel's bow, the week's last. "The law releases you, Miss Hartwell. Go and dance."
+> (T6 · dialogue) *"The law, and the night." — "The law, and the night, and the ball. Go home when it's done, counsel — Friday releases you too."*
+> He goes — the week's counsel, released at last — and Rose stands a moment on the terrace, the cool air on her face, the figures settled behind her like closed books on a shelf.
+> (T7 · remembered micro-decision) *The terrace, the cool air. The books, nearly closed.*
+> Seventy-three thousand, whole. The pledge, due and provided for. The season's arithmetic, complete at last.
+> (T8 · remembered micro-decision) *The figures, settled. The accounting, all but sealed.*
+> *Starlight on the terrace.*
 *Animation: Shared.*
-
 ### L30.S17 · [D] · Rose (alone)
 *Purpose: ★ KEY DECISION 2/3 — THE PAVILION (how the restored pavilion is opened). (Turns: 3 — the decision)*
-> *(Friday evening: the lake pavilion — restored with new money, the fortune's — and the evening's second decision is how the pavilion is opened.)*
-> "The pavilion." — Rose. "The *lake's* — the *restored's* — the *new money's* — is *opened* tonight. *How* —" she looks at the evening "— is the *evening's* to choose."
+> *(The terrace, Friday night. The lake below, the pavilion's lamps lit.)*
+> The ball's close approaches, and below the terrace the lake lies dark — with the pavilion's lamps lit along its shore, the restored beauty, the new money's proof. The night's second decision waits on the terrace: for whom the pavilion's first night is opened — the house's celebration, the tenants' first, or the quiet's. The lake waits. The lamps are lit.
+> "The pavilion." — Rose. "Restored with the new money — the season's beauty, bought honest. Its first night is the night's to give." She looks toward the lake, where the lamps burn steady. "For the house — and let the pavilion's first night be the Hartwells'. For the tenants first — and let the first night be the lesson's. Or open it quiet — and let the first night be the fortune's. Whose is the night?"
 *★ KEY DECISION 2/3 — The Pavilion:*
 - **The house's celebration** — *the family's opening.* "Open it for the house — the family's — and let the pavilion's first night be the Hartwells'." *(The opened, the house's; the celebrated, the family's.)*
 - **The tenants' first** — *the cottages' opening.* "Open it for the tenants first — the cottages' — and let the pavilion's first night be the lesson's." *(The opened, the tenants'; the lessoned, the cottages'.)*
@@ -400,180 +381,174 @@
 
 ### L30.S18 · [T] · Rose (alone)
 *Purpose: the pavilion restored — Friday night; the lake's, the new's; the alone. (Turns: 10)*
-> *(Friday night, the lake pavilion. The pavilion restored — the lake's, the new's — and the night's keeping is the alone's kind: plain, and held.)*
-> The pavilion — the restored's. The money — the new's.
-> (T1 · look closer) *The night's lantern-light on the lake pavilion — and the pavilion's keeping is plain: the restored, the week's.*
-> "The week's." Rose stands — the Park gown, the ball's. "The lake —" she meets the night "— the pavilion's."
-> (T2 · tone) *Quiet, certain, and past flinching — the night's pavilion wants its keeping plain.*
-> Plain. The restored — the fortune's. The new — the money's. The lesson — the spent's.
-> (T3 · look closer) *The pavilion's night in the lantern-light — the lake's, the new's: the fortune's first spending, honest.*
-> "The honest's." She walks — the night's, the alone's. "The opening —" she nods "— the chosen."
-> (T4 · dialogue) *"The restored, the pavilion's."; "The new, the money's."; "The chosen, the opening's."*
-> "The opening's." She takes it in. "The fortune —" she meets the night "— the whole's."
-> (T5 · stance) *In the night's lantern-light — the heiress alone, the pavilion restored.*
-> The restored's. The night's. The opened — coming, and certain.
-> (T6 · look closer) *The night's plain lantern-light — and the heiress's face, the pavilion's: steady, and unhurried.*
-> "Unhurried." She stands — the Park gown, the ball's. "The restored —" she nods "— the kept."
-> (T7 · dialogue) *"The steadied, the pavilion's."; "The restored, the week's."; "The new, the fortune's."*
-> "The fortune's." She moves on. "The ball —" she smiles "— the closed."
-> (T8 · remembered micro-decision) *The pavilion banked — the lake restored, new money honest — the night's pavilion kept.*
-> The night's lantern-light opens — the season's close, the Friday's, coming.
-> (T9 · look closer) *The night's plain light — and the pavilion restored, the Friday's: the heiress, the lake, the unhurried.*
-> "The unhurried's." She stands — the Park gown, the ball's. "The pavilion —" she smiles "— the kept."
-> (T10 · remembered micro-decision) *Bank the night's pavilion — the restored kept, the honest spent — the pavilion kept, the week's.*
-> *The night's lantern-light on the lake — the pavilion restored, new money honest.*
+> *(The lake, Friday night. The pavilion, restored, its first night.)*
+> The decision made, the night moves to the lake — the carriage down through the dark grounds, the water appearing between the trees, and there: the pavilion, restored, lamplit, the new money's beauty standing on the shore like a promise kept. The water takes the lamplight and doubles it, the way the season doubled everything: effort, risk, reward.
+> (T1 · look closer) *Lamplight on the water. The restored pavilion, its first night begun.*
+> It was a ruin in spring — broken roof, blind windows, the pleasure grounds' shame. Now the roof holds, the windows shine, the terrace runs clean to the water. The broken is whole; the blind see. Money did this. Honest money. Her money.
+> (T2 · tone) *Quiet and certain. The restoration, surveyed with ownership.*
+> She walks the terrace — the first feet, the decision's feet — and the lake moves below, dark and silvered, the pavilion's lamps doubled in the water.
+> (T3 · look closer) *"The new money's beauty. The pleasure grounds' proof."*
+> Inside: the restored room, the lamps, the quiet. The pavilion's first night unfolds as the decision commanded — and it is right. The room holds the quiet the way the lake holds the lamps: completely, without spilling.
+> (T4 · dialogue) *Inside the restored room. The first night, unfolding as decided.*
+> "Bought honest," she says to the empty room. "Restored honest. Kept honest."
+> (T5 · stance) *The room's quiet. The honesty, restated to the lamps.*
+> She stands at the pavilion's windows and looks back toward the house — the ballroom's lights distant, the evening's machinery winding down, the season's work complete on every front.
+> (T6 · look closer) *"The fortune's beauty, standing. The season's proof, lamplit."*
+> The lake moves. The lamps burn. The pavilion holds its first night the way the house held the week: completely, without apology.
+> (T7 · dialogue) *The night, held. The restoration, complete.*
+> This is what the money was for — beauty restored, standing on the shore, lamplit for whoever the night was given to. The standing, the lasting, the proof.
+> (T8 · remembered micro-decision) *The money's purpose, understood at last.*
+> "The pavilion," Rose says softly. "Restored."
+> (T9 · look closer) *"The new money's beauty — kept, lamplit, given."*
+> The night deepens. The lamps burn on.
+> (T10 · remembered micro-decision) *The deep night. The first night, kept.*
+> *Lamplight on the dark water.*
 *Animation: Shared.*
 
 ### L30.S19 · [D] · Rose, Octavia
 *Purpose: the painter at the ball — Friday night; the hung's, the London's; the complete. (Turns: 8)*
-> *(The ballroom, Friday night. Octavia at the ball — the painter's, the London's — and the night's hour is the complete: stated plain, and the canvas's.)*
-> "The ball, Rose." Octavia comes — the painter's, the certain. "The London —" she looks up "— the seen's."
-> (T1 · look closer) *The ballroom's candlelight on the painter's face — and the painter's word at the ball is the night's quietest: the seen, kept.*
-> The face quiet and certain — the painter's, the night's. The ball in her telling, and the seen in her voice.
-> "Told." Rose takes it in. "Octavia — the hall. The portrait —" she meets her eyes "— the hung?"
-> (T2 · tone) *Quiet, certain, and past flinching — the night's ball deserves its painter's hearing.*
-> "The hung's." Octavia nods — the painter's, complete. "The likeness —" she pauses "— the week's. The London —" she looks up "— the seeing's."
-> (T3 · dialogue) *"The hung, the hall's."; "The seen, the London's."; "The complete, the painter's."*
-> "The painter's." She takes it in. "Octavia — the canvas. The City's light —" she smiles "— the kept?"
-> (T4 · stance) *In the ballroom's candlelight — the sitter and the painter, the ball kept.*
-> Octavia's voice is soft. "The kept, Rose — the week's. The portrait —" she looks up "— the done's."
-> (T5 · look closer) *The softness is the painter's honesty — the portrait hung, the ball kept.*
-> The painter's night steady — the hung's, the seen's. The likeness complete — and the night's hour the quietest.
-> "Kept." She stands. "Octavia — the night. The ball —" she moves on "— the week's."
-> (T6 · dialogue) *"The kept, the ball's."; "The seen, the week's."; "The complete, the night's."*
-> "The night's." Octavia curtsies — the painter's, complete. "Rose —" in the ballroom "— the ball's the week's. The portrait —" she smiles "— the hung's."
-> (T7 · remembered micro-decision) *The ball filed — the seen kept, the hung complete — the painter's night banked.*
-> The ballroom's night holds — the painter at the ball, the night's quietest done.
-> (T8 · remembered micro-decision) *Bank the night's ball — the painter's, the complete — Friday's eleventh hour, the week's.*
-> *The ballroom's candlelight — the painter at the ball, the portrait hung.*
+> *(The ballroom, Friday night. Octavia, sketchbook in hand, delivers her review.)*
+> Octavia is at the ballroom's edge with a sketchbook she isn't supposed to have — the artist's contraband, smuggled past the chaperones of propriety in what must have been a triumph of concealment — and the satisfied air of a woman whose subject has behaved beautifully all evening.
+> (T1 · look closer) *The edge of the dance. The contraband sketchbook, the satisfied air.*
+> "The gown," Octavia says, "is the season's thesis in silk. Ivory for the money's honesty, gold for its triumph, heather for the refusal to be gilded." She snaps the book shut with the decisiveness of a woman who has settled the matter beyond appeal. "I shall paint it from memory. Memory is kinder than sittings, and sittings are impossible now — the gown has engagements."
+> (T2 · tone) *Crisp and delighted. The artist's review, delivered standing.*
+> "And the social war?" Rose asks. "The artist's verdict on the evening?"
+> (T3 · dialogue) *"Won. Decisively. The ton never knew it was a battlefield — which is the whole art of it."*
+> Octavia studies her — the professional's look, the friend's underneath, the two layered like varnish. "You stood in the center of it all evening and never once looked like you were standing. That," she says, "is the trick. The likeness is kept — hung, seen, complete."
+> (T4 · stance) *The professional's study. The trick, named.*
+> "The pavilion," Rose says. "Restored. Its first night is tonight — the new money's beauty, the pleasure grounds' proof."
+> (T5 · look closer) *The restoration, reported. The artist's interest, caught.*
+> "I shall paint it," Octavia decides, already composing. "The lamps on the water. The season's beauty, bought honest." She opens the sketchbook again, unrepentant, the pencil moving before Rose has even answered. "The season is recorded, Rose. You can't stop me now."
+> (T6 · dialogue) *"I wouldn't dream of it." — "Good. Somebody must remember how the light fell."*
+> The artist returns to her contraband, and Rose leaves her to it — the season's recorder, sketching in the margins of the ball.
+> (T7 · remembered micro-decision) *The sketchbook reopened. The recording, continued.*
+> The light, the silk, the triumph — kept, and keeping, and recorded for good.
+> (T8 · remembered micro-decision) *The artist's review, banked. The evening, recorded.*
+> *Candlelight on the sketchbook's pages.*
 *Animation: Shared.*
 
 ### L30.S20 · [T] · Rose (alone)
 *Purpose: the ball's close — Friday night; the London's, the ended's; the alone. (Turns: 10)*
-> *(Friday night, the ballroom. The ball's close — the London's, the ended's — and the night's keeping is the alone's kind: plain, and held.)*
-> The close — the ballroom's. The ended — the London's.
-> (T1 · look closer) *The night's candlelight on the ballroom's close — and the close's keeping is plain: the ended, the week's.*
-> "The week's." Rose moves — the Park gown, the ball's. "The dancing —" she meets the night "— the done."
-> (T2 · tone) *Quiet, certain, and past flinching — the night's close wants its keeping plain.*
-> Plain. The ended — the ball's. The social — the war's. The whole — the fortune's.
-> (T3 · look closer) *The close's night in the candlelight — the London's, the ended's: the ball closed, the season closing.*
-> "The closing's." She moves — the night's, the alone's. "The woman —" she nods "— the fortune's."
-> (T4 · dialogue) *"The closed, the ball's."; "The ended, the evening's."; "The kept, the night's."*
-> "The night's." She takes it in. "The dawn —" she meets the night "— the Saturday's."
-> (T5 · stance) *In the night's candlelight — the heiress alone, the ball's close kept.*
-> The kept's. The night's. The closing — coming, and certain.
-> (T6 · look closer) *The night's plain candlelight — and the heiress's face, the close's: steady, and unhurried.*
-> "Unhurried." She moves — the Park gown, the ball's. "The closed —" she nods "— the kept."
-> (T7 · dialogue) *"The steadied, the close's."; "The ended, the week's."; "The whole, the fortune's."*
-> "The fortune's." She moves on. "The garden —" she smiles "— the oldest's."
-> (T8 · remembered micro-decision) *The close banked — the ball ended, the season closing — the night's close kept.*
-> The night's candlelight opens — the morrow's garden, the Saturday's, coming.
-> (T9 · look closer) *The night's plain light — and the ball's close, the Friday's: the heiress, the ballroom, the unhurried.*
-> "The unhurried's." She moves — the Park gown, the ball's. "The close —" she smiles "— the kept."
-> (T10 · remembered micro-decision) *Bank the night's close — the ended kept, the closing coming — the close kept, the week's.*
-> *The night's candlelight on the ballroom — the ball's close, the season closing.*
+> *(The ballroom, Friday night. The close of the ball.)*
+> The ballroom is winding down — the orchestra playing its last set, the candles guttering in their sockets, the dancers thinning to the determined and the romantic. The social war's end, arriving in a waltz, almost apologetic about the hour.
+> (T1 · look closer) *The guttering candles. The last set, the thinning floor.*
+> Rose dances the last dances — the evening's victory lap, unhurried, savored — and the room is kind now, the verdict delivered and accepted: the fortune is real, the woman is worthy, the winning was clean.
+> (T2 · tone) *Easy and complete. The victory lap, danced properly.*
+> "Miss Hartwell." "A pleasure." "The pavilion — " "Restored, yes. The lake." The talk is warm now, the money talk folded into the social talk, indistinguishable. Respectability, fully achieved.
+> (T3 · look closer) *"The war, gone social — and the social, won."*
+> Augusta departs — the dowager's exit, black silk through the candlelight, a nod for Rose on the way. The seal's hour approaches, but not yet. The night has business first.
+> (T4 · dialogue) *The dowager's departure. The seal's hour, deferred to morning.*
+> The last waltz ends. The applause, genuine and a little tired. The carriages called, the names echoing in the lobby. The ballroom empties the way a tide goes out — gradually, then all at once, leaving the sand of dropped programs and lost gloves.
+> (T5 · stance) *The emptying room. The tide, going out.*
+> "The ball," Rose says, standing in the great emptying space. "Danced."
+> (T6 · look closer) *"The social war, ended. The fortune, announced. The gown, triumphant."*
+> The servants move in with covers for the furniture — the ballroom's own undressing, efficient and unceremonious, the day shift reclaiming the night's theater. The magic, struck like a set, packed away till the next enchantment.
+> (T7 · dialogue) *The covers, the struck set. The magic's machinery, revealed.*
+> She goes out to the carriage — the ivory and gold the last bright thing in the emptying house — and the London night takes her, cool and kind, the air smelling of rain that never fell.
+> (T8 · remembered micro-decision) *The London night, cool. The last bright thing, departing.*
+> "Done," she says to the carriage. "The ball is done."
+> (T9 · look closer) *"Danced, won, closed. The evening's account, settled."*
+> The carriage rolls. Friday night deepens toward Saturday.
+> (T10 · remembered micro-decision) *The rolling carriage. The night, deepening.*
+> *Lamplight on the emptying ballroom.*
 *Animation: Shared.*
 
 ### L30.S21 · [D] · Rose, Letitia
 *Purpose: the aunt's night — Friday night; the warm's, the closed's; the heart. (Turns: 8)*
-> *(The aunt's sitting room, Friday night. The aunt's night — the warm's, the closed's — and the night's hour is the warmest: stated plain, and the heart's.)*
-> "The night, darling." Letitia keeps her — the warm, the certain. "The ball —" she looks up "— the closed's."
-> (T1 · look closer) *The sitting room's candlelight on the aunt's face — and the aunt's night is the night's warmest: the closed, kept.*
-> The face warm and certain — the heart's, the night's. The closed in her telling, and the ball in her voice.
-> "Told." Rose takes it in. "Aunt — the season. The closing —" she meets her eyes "— the kept?"
-> (T2 · tone) *Warm, easy, and niece-soft — the night's aunt deserves its warmest hearing.*
-> "The kept's." Letitia nods — the warm, the formidable. "Darling — the fortune's whole. The woman —" she pauses "— the fortune's."
-> (T3 · dialogue) *"The closed, the ball's."; "The whole, the fortune's."; "The hearted, the warm's."*
-> "The warm's." She takes it in. "Aunt — the garden. The oldest —" she pauses "— the coming?"
-> (T4 · stance) *In the sitting room's candlelight — the niece and the aunt, the aunt's night kept.*
-> Letitia's voice is soft. "The coming, darling — the week's. The wall —" she pauses "— the oldest's."
-> (T5 · look closer) *The softness is the warm's finest — the garden coming, the night kept.*
-> The sitting room's candlelight warm — the heart's, the night's. The ball closed, the garden coming — and the night's hour the warmest.
-> "Kept." She stands. "Aunt — the night. The heart —" she moves to the door "— the week's."
-> (T6 · dialogue) *"The kept, the heart's."; "The closed, the week's."; "The counselled, the night's."*
-> "The night's." Letitia shoos her — the warm, complete. "Go, darling — the heart kept. The garden —" she smiles "— the coming's."
-> (T7 · remembered micro-decision) *The night filed — the heart's, the closed's — the aunt's night banked.*
-> The sitting room's door closes — the aunt's night kept, the night's warmest done.
-> (T8 · remembered micro-decision) *Bank the night's aunt — the warm's, the heart — Friday's twelfth hour, the week's.*
-> *The sitting room's candlelight — the aunt's night, the garden coming.*
+> *(The carriage, Friday night. Letitia, waiting up, demands the report.)*
+> Letitia is waiting in the carriage — she refused to go home, refused bed, refused everything but the report, stationing herself like a sentry at her post — and pounces the moment Rose climbs in, nearly upsetting the rug in her eagerness. "Well? Every word. Every look. Every dowager. Leave nothing out, or I shall perish of curiosity on the spot."
+> (T1 · look closer) *The carriage's lamplight. The pounce, the demand, the delight deferred.*
+> So Rose reports: the entrance, the gown's triumph, Augusta's review, the money talk, Sloane's farewell, the pavilion's lamps on the lake. Letitia listens with her hands clasped and her eyes shining, interrupting only to gasp in the right places, which she does with expert timing — the gasps placed like punctuation.
+> (T2 · tone) *Warm and thorough. The report, delivered to its ideal audience.*
+> "Sloane," Letitia breathes. "You shook her hand. In public. Oh, the ton will talk for a month."
+> (T3 · dialogue) *"Let them. The door is open — the ballroom saw it." — "Kindness from the victor. Oh, Rose."*
+> "And Augusta?" Letitia asks, leaning forward, the report's climax approaching. "The dowager's verdict?"
+> (T4 · stance) *The carriage rolling. The verdicts, collected one by one.*
+> "Approved," Rose says. "The gown, the evening, the war. The seal's hour is the garden's — morning. She'll name it then."
+> (T5 · look closer) *The coming naming. The garden's hour, anticipated.*
+> Letitia's eyes shine in the lamplight, brighter than the carriage lamps. "The woman of fortune," she whispers. "My niece. The house — " She stops, overcome, and waves the handkerchief she swore she wouldn't need — the same handkerchief, deployed for the third time this evening. Again.
+> (T6 · dialogue) *"The house is proud, Aunt." — "The house is bursting, child. There is a difference, and I am it."*
+> They ride home through the dark, the ball behind them, the house proud around them — the warm heart of the evening, kept in the carriage's lamplight. The wheels turn; the horses know the way; the night does the rest.
+> (T7 · remembered micro-decision) *The dark road, the lamplight. The pride, kept warm.*
+> The house receives them, and the night receives the house.
+> (T8 · remembered micro-decision) *The arrival, the reception. The night's delight, complete.*
+> *Lamplight on the sleeping house.*
 *Animation: Shared.*
 
 ### L30.S22 · [F] · Rose (alone)
 *Purpose: the night's cloth — Friday night; the ball's, the undone's; the kept. (Turns: 8)*
-> *(Friday night, her chambers. The night's cloth — the ball's, the undone's — and the night's undressing is the kept kind: certain, and complete.)*
-> The Park gown — the ball's, the entered's. Rose stands in her shift, the night's candlelight on her, and considers the undressing: the social's, the danced.
-> (T1 · look closer) *The gown in the night's light — and the undressing's reading is quiet: the entered wants its keeping, and the danced wants rest.*
-> "The rest's." She hangs the Park gown — the evening's, the ball's. "The war —" the pins out "— the social."
-> (T2 · tone) *Calm, certain, and past the ballroom in her head — the night wants the undone, and the undone wants quiet.*
-> The pins out — twenty, the evening's. The hair down — the night's. The shift — the alone's.
-> (T3 · stance) *Upright, unhurried, unadorned — the night's woman undresses the entered's way: without haste, without apology.*
-> In the glass: a woman in her shift, the pins out, certain. It says entered without saying the word. Exactly what the night needs to see.
-> (T4 · remembered micro-decision) *Keep it quiet. The night distrusts haste — the undressing's counsel, and the glass agrees.*
-> The white heather — unpinned, the week's mark kept. The night's table — the triumph's, the atelier's.
-> (T5 · look closer) *The heather on the table — the week's mark, the night's keeper — and the triumph, the kept's.*
-> The night's undressing — done, and certain. The cloth kept — the ball's, the entered's.
-> (T6 · dialogue) *"The undone, the night's."; "The entered, the ball's."; "The danced, the kept's."*
-> The chambers' night settles — the undressing done, the entered kept.
-> (T7 · choice — no coin cost, remembered) *the Park gown — hung, the ball's cloth (as worn, the entered's); the blue twill — the believed, the morrow's cloth, the Saturday's; the heather — kept, the week's mark, the night's.* — remembered: *The Park gown, hung.*
-> At the bed she pauses, hand on the cover. The entered. The whole. The season.
-> (T8 · remembered micro-decision) *Bank the night's undressing with the kept cloth — the danced entered, the season closing.*
-> *The night's candlelight takes the Park gown without argument — Friday undressed, the entered kept.*
+> *(Her chambers, Friday night. The gown's undressing, the ball's keeping.)*
+> The chambers receive the gown like a museum receiving a treasure — carefully, reverently, with the lamplight turned up for the occasion. The ivory silk comes off slowly, the gold thread catches the light one last time, winking like a conspirator, and the gown goes to its form: the Park's money's first commission, hung with honor.
+> (T1 · look closer) *Lamplight on the ivory silk, hung. The ball's gown, at rest.*
+> The hair comes down — the pins, the weight, the sweet relief of it, the scalp tingling back to life. The pearls go back to their box, having spoken quite enough for one evening. The gloves, smoothed flat and paired. The fan, folded and put by, its evening's work complete.
+> (T2 · tone) *Unhurried and ceremonial. The evening's dismantling, performed well.*
+> She stands in her shift and looks at the gown on its form — the season's thesis in silk, Octavia called it, and the thesis held through every dance, every dowager, every reckoning. The ivory glows in the lamplight like something convinced of itself.
+> (T3 · stance) *In the shift, regarding the form. The thesis, confirmed.*
+> The heather comes unpinned from the waist — the week's mark, the ball's mark — and goes to the water glass, where it will keep till morning. Honesty over splendor, even at midnight; especially at midnight.
+> (T4 · remembered micro-decision) *The heather in the water glass. The mark, kept through the ball.*
+> In the glass: the night's face, tired and bright underneath. "The social war," she says. "Won."
+> (T5 · look closer) *The glass's tired brightness. The verdict, delivered to herself.*
+> "Won," the glass agrees. "In ivory and gold."
+> (T6 · dialogue) *"The Park's money, worn well. The house, honored."*
+> The lamp goes low. The gown hangs in the lamplight, triumphant even at rest.
+> (T7 · choice — no coin cost, remembered) *the ivory gown, hung with honor after its triumph; the heather, in the water glass; the pearls, back in their box; the gloves, smoothed flat; or the fan, folded on the table.*,remembered: *The ivory gown, hung.*
+> She sleeps — or tries. The ball's echo keeps the chambers a while longer: the music, the candlelight, Sloane's handshake, Augusta's nod. The evening replays itself behind her eyelids until, at last, it lets her go.
+> (T8 · remembered micro-decision) *The chambers dark, the echo fading. The ball, kept.*
+> *Darkness on the hung ivory.*
 *Animation: Shared.*
 
 ### L30.S23 · [D] · Rose, Henry
 *Purpose: the steady's night — Friday night; the keeper's, the closed's; the heart. (Turns: 8)*
-> *(The war room, Friday night. Henry on the steady's night — the keeper's, the closed's — and the night's hour is the keeper's: stated plain, and the heart's.)*
-> "The night, Rose." Henry comes — the steady, the certain. "The season —" he looks up "— the closing's."
-> (T1 · look closer) *The war room's candlelight on Henry's face — and the steady man's word on the closing is the night's kindest: the kept, held.*
-> The face steady and certain — the keeper's, the night's. The night in his telling, and the closing in his voice.
-> "Told." Rose takes it in. "Henry — the fortune. The woman —" she meets his eyes "— the kept?"
-> (T2 · tone) *Quiet, certain, and past flinching — the night's season deserves its steady hearing.*
-> "The kept's." Henry nods — the steady, complete. "The whole —" he pauses "— the week's. No explaining —" he looks up "— the understood."
-> (T3 · dialogue) *"The closing, the season's."; "The whole, the fortune's."; "The understood, the steady's."*
-> "The steady's." She takes it in. "Henry — the garden. The oldest —" she meets his eyes "— the coming?"
-> (T4 · stance) *In the war room's candlelight — the heiress and the steady man, the night kept.*
-> Henry's voice is soft. "The coming, Rose — the week's. The wall —" he pauses "— the oldest's."
-> (T5 · look closer) *The softness is the steady man's finest — the garden coming, without explanation.*
-> The war room's candlelight steady — the keeper's, the night's. The season closing, the garden coming — and the night's hour the kindest.
-> "The taught's." She stands. "Henry — the night. The kept —" she moves to the door "— the week's."
-> (T6 · dialogue) *"The understood, the steady's."; "The closing, the week's."; "The kept, the night's."*
-> "The night's." He stands too — the steady, unhurried. "The night holds, Rose — whatever the garden brings."
-> (T7 · remembered micro-decision) *The night filed — the closing kept, no explaining — the steady man's night banked.*
-> The war room's night settles — the steady's night kept, the night's kindest done.
-> (T8 · remembered micro-decision) *Bank the night's steady — the keeper's, the closed — Friday's thirteenth hour, the week's.*
-> *The war room's candlelight — the steady's night, the season closing.*
+> *(The hall, Friday night. Henry, waiting with the night's last counsel.)*
+> Henry is in the hall when she comes down — the hall's Henry, the stone Henry, the ballroom's pillar Henry left behind with the dancers — waiting with the night's last counsel and no intention of making a ceremony of it. The lamps are low; the house is settling into its nighttime shape; the counsel is ready when she is, and not before.
+> (T1 · look closer) *The hall's lamplight. The stone Henry, waiting.*
+> "The ball," Henry says. "I watched from the pillar. The whole of it." A pause, the steady man assembling the words with care. "You were — " He stops. "It was right. All of it."
+> (T2 · tone) *Steady and complete. The night's verdict, delivered without flourish.*
+> "The social war," Rose says. "Won in the open. The ton surrenders prettily, as Augusta predicted."
+> (T3 · dialogue) *"Augusta predicts everything. It's her least charming habit." — "And her most useful."*
+> He pours — the hall's decanter, the night's ritual, observed without comment because comment would spoil it — and hands her the glass, the cut crystal catching the lamplight. "The pavilion," he says. "I saw the lamps from the terrace. Restored."
+> (T4 · stance) *The decanter, the glass. The restoration, witnessed from afar.*
+> "The new money's beauty," Rose says. "Its first night was tonight — the decision's night. The lake held it well."
+> (T5 · look closer) *The glass in her hand. The lake's night, reported.*
+> "And Sloane," Henry says. "The farewell. The handshake." A nod — the steady man's full commentary. "Kindness from the victor. It was the right ending."
+> (T6 · dialogue) *"The door's open." — "Then it's not an ending. It's a door. Go to bed, Rose — the garden's at dawn, and the wall won't wait."*
+> The glass empties, the wine having done its quiet work. The hall settles into its midnight shape. The night's counsel, delivered and received, no explaining needed — there never is, with Henry, and tonight least of all.
+> (T7 · remembered micro-decision) *The glass set down. The counsel, kept.*
+> She goes up, and the hall keeps its lamps for the stone man a while longer, burning steady in the midnight house.
+> (T8 · remembered micro-decision) *The stairs, the lamps. The night's keeping, shared.*
+> *Lamplight on the empty hall.*
 *Animation: Shared.*
 
 ### L30.S24 · [T] · Rose (alone)
 *Purpose: the night's letters — Friday night; the closed's, the whole's; the alone. (Turns: 10)*
-> *(Friday night, alone. The night's letters — the closed's, the whole's — and the night's keeping is the alone's kind: plain, and held.)*
-> The season — the closed's. The fortune — the whole's.
-> (T1 · look closer) *The night's candlelight on the writing desk — and the letters' keeping is plain: the closed, the night's.*
-> "The night's." Rose writes — the season's, the closed's. "Friday —" the pen, the night's "— the ledger."
-> (T2 · tone) *Quiet, certain, and past flinching — the night's letters want their keeping plain.*
-> Plain. The letters — the closed's. The books — the kept's. The pledge — the due's.
-> (T3 · look closer) *The pen's movement in the night's light — the letters', the closed's: the season closed, the kept.*
-> "The kept's." She writes — the night's, the alone's. "The £73,000 —" she nods "— the whole."
-> (T4 · dialogue) *"The closed, the season's."; "The whole, the fortune's."; "The written, the night's."*
-> "The night's." She seals — the letter's, the alone's. "The garden —" she meets the night "— the oldest."
-> (T5 · stance) *At the desk between — the heiress alone, the night's letters kept.*
-> The letters'. The night's. The kept — sealed, and certain.
-> (T6 · look closer) *The night's plain candlelight — and the heiress's face, the letters': steady, and unhurried.*
-> "Unhurried." She stands — the night's, the alone's. "The season —" she nods "— the closed."
-> (T7 · dialogue) *"The steadied, the letters'."; "The closed, the week's."; "The kept, the whole's."*
-> "The whole's." She moves on. "The dawn —" she smiles "— the Saturday's."
-> (T8 · remembered micro-decision) *The letters banked — the season closed, the night kept — the night's letters kept.*
-> The night's candlelight opens — the morrow's letters, the Saturday's, coming.
-> (T9 · look closer) *The night's plain light — and the desk's letters, the Friday's: the heiress, the pen, the closed.*
-> "The closed." She stands — the night's, the alone's. "The letters —" she smiles "— the kept."
-> (T10 · remembered micro-decision) *Bank the night's letters — the closed sealed, the whole kept — the letters kept, the week's.*
-> *The night's candlelight on the desk — the letters kept, the season closed.*
+> *(The war room, Friday night. The ball's account, written out.)*
+> The war room at midnight — the week's headquarters, the campaign's nerve center, the lamp the only light in the sleeping house — and Rose sits down to write the ball's account the way she wrote the week's: plainly, completely, the figures first. The pen is the week's pen; the hand is steadier than it was in spring.
+> (T1 · look closer) *Midnight lamplight on the desk. The week's headquarters, one last campaign.*
+> The letters go out in the week's neat hand: to the bankers — the ball danced, the fortune shown, the pledge's completion coming with the first realizations. To the holders — the tenders receipted, the thanks with interest, every name spelled right, no holder too small for the courtesy of ink.
+> (T2 · tone) *Neat and thorough. The account, written the week's way.*
+> "The ball," she writes, the nib scratching in the midnight quiet. "London. The financial war, gone social — and won."
+> (T3 · look closer) *"The money's story, told in the money's own hand."*
+> To the surveyors: the pavilion restored, the scheme steady, the small holders whole, the dates honored. To Élise: the gown's triumph, London's eyes, the atelier's night — and three orders already, if the ballroom's whispers are to be believed.
+> (T4 · dialogue) *The pen moving. The night's correspondence, dispatched in order.*
+> The sealing wax — the house's seal, the week's seal — goes down on each one, red and certain, the stamp pressed with the heel of her hand. The stack grows. The account closes.
+> (T5 · stance) *The red wax. The seals, going down one by one.*
+> "Written," she says. "Sealed."
+> (T6 · look closer) *"The ball's account — written, sealed, and true."*
+> She rings for the morning post. The letters will wait for dawn — the night's work, ready for the day's carrying.
+> (T7 · dialogue) *The bell rung. The post, prepared.*
+> The desk emptied. The lamp turned low. The war room, its campaign complete.
+> (T8 · remembered micro-decision) *The empty desk. The campaign, complete.*
+> "Sent," she says to the empty room. "In the morning."
+> (T9 · look closer) *"The week's last letters. The season's account, written out."*
+> The war room keeps its midnight, the letters waiting for dawn. The house sleeps.
+> (T10 · remembered micro-decision) *Midnight, kept. The account, written.*
+> *Lamplight on the waiting letters.*
 *Animation: Shared.*
-
 ### L30.S25 · [D] · Rose (alone)
 *Purpose: ★ KEY DECISION 3/3 — THE LEDGER (how the season's books are closed). (Turns: 3 — the decision)*
-> *(Friday night: the season's books — the fortune's, the whole's — and the night's last decision is how the ledger is closed.)*
-> "The ledger." — Rose. "The *season* — the *closed's* — the *fortune* — the *whole's* — is *written* tonight. *How* the books are closed —" she looks at the night "— is the *night's* to choose."
+> *(The war room, Friday night. The ledgers open, the season's last decision.)*
+> The letters wait for the morning post, and the ledgers lie open — the season's books, seventy-three thousand whole, the small bought out fair, the stay lifted on the dates. The night's last decision is how they close: the pledge repaid from the fortune's first realizations, the venture's accounting with every coin named, or the ledger left open for the future. The pen is in her hand. The figures stand at attention.
+> "The ledger." — Rose. "The season's books — seventy-three thousand whole, the small bought out fair, the stay lifted on the dates. They close tonight, one way or another." She looks at the open pages. "The pledge repaid — six thousand one hundred and sixty-four, from the fortune's first realizations. The venture's accounting — every coin named, the books closed clean. Or the future's — the ledger left open, the season's books waiting on what's next. How do the books close?"
 *★ KEY DECISION 3/3 — The Ledger:*
 - **The pledge repaid** — *the honesty's closing.* "Repay the £6,164 — the pledge's — from the fortune's first realizations, and let the season close owing nothing." *(The closed, the repaid's; the owed, the nothing's.)*
 - **The venture's accounting** — *the £0's closing.* "Write the venture's accounting — the £0's — and let the season close with every coin named." *(The closed, the accounted's; the named, the every's.)*
@@ -583,338 +558,328 @@
 
 ### L30.S26 · [D] · Rose, Julian
 *Purpose: the books closed — Friday night; the counsel's, the season's; the complete. (Turns: 8)*
-> *(Julian's chambers, Friday night. The books closed — the counsel's, the season's — and the night's hour is the complete: stated plain, and the kept's.)*
-> "The closed, Rose." Julian comes — the counsel's, the certain. "The books —" he looks up "— the season's."
-> (T1 · look closer) *The chambers' candlelight on the law's books — and the books' closing is the night's steadiest: the closed, kept.*
-> The books ranked and certain — the law's, the night's. The closed in his telling, and the season in his voice.
-> "Told." Rose takes it in. "Julian — the ledger. The £73,000 —" she meets his eyes "— the whole?"
-> (T2 · tone) *Quiet, certain, and past flinching — the night's books deserve their counsel's hearing.*
-> "The whole's." Julian nods — the counsel's, complete. "The face —" he pauses "— the week's. The held —" he looks up "— the £41,216's."
-> (T3 · dialogue) *"The closed, the books'."; "The whole, the £73,000's."; "The complete, the counsel's."*
-> "The counsel's." She takes it in. "Julian — the pledge. The £6,164 —" she pauses "— the due?"
-> (T4 · stance) *In the chambers' candlelight — the heiress and the counsel, the books closed.*
-> Julian's voice is soft. "The due, Rose — the week's. The realizations —" he pauses "— the first's."
-> (T5 · look closer) *The softness is the counsel's honesty — the books closed, the pledge due.*
-> The law's books steady — the counsel's, the night's. The season's books closed — cash honestly accounted — and the night's hour the steadiest.
-> "Kept." She stands. "Julian — the night. The closed —" she moves to the door "— the week's."
-> (T6 · dialogue) *"The kept, the closed's."; "The whole, the night's."; "The complete, the books'."*
-> "The books'." He bows her out — the counsel's courtesy. "Rose —" at the door "— the season's the week's. The counsel's —" he smiles "— the kept."
-> (T7 · remembered micro-decision) *The closed filed — the books', the season's — Julian's night banked, his arc complete.*
-> The chambers' door closes — the books closed, the night's steadiest done.
-> (T8 · remembered micro-decision) *Bank the night's closed — the counsel's, the complete — Friday's fourteenth hour, the week's.*
-> *The chambers' candlelight on the law's books — the books closed, the season closed.*
+> *(The war room, Friday night. Julian, for the closing. The ledgers lie open under the lamp, the season's figures in their final formation.)*
+> Julian comes to the war room at Rose's sending — counsel at midnight, summoned for the season's last act — and stands over the ledgers with the air of a man attending a christening. The midnight oil is literal tonight; the lamp burns low over the closing entries.
+> (T1 · look closer) *Midnight on the open ledgers. Counsel, summoned for the closing.*
+> "The decision's made," Rose says. "The books close as decided." She shows him the entries — the pledge's repayment, the venture's accounting, the season's figures in their final form, every column footed and every footing true.
+> (T2 · tone) *Formal and final. The closing, executed as decided.*
+> Julian reads — the counsel's slow, careful reading, slow because the figures deserve slowness; every one of them was fought for — and nods. "Seventy-three thousand," he says. "Whole. The Dealing registered. The stay lifted on the dates." A pause. "The law has nothing left to ask, Rose."
+> (T3 · dialogue) *"Nothing left to ask." — "Then the season's accounting is sealed — clean, complete, and mine."*
+> He takes up the pen — the counsel's hand, the week's hand — and witnesses the closing entries, initialing each page with the care of a man signing a treaty. The signature goes down. The wax follows.
+> (T4 · stance) *The pen, the signature, the wax. The closing, witnessed.*
+> "The books," Julian says, straightening. "Closed." He looks at her — the week's counsel, the season's counsel — and smiles, tired and real, the week's exhaustion in it and the season's satisfaction underneath. "You kept it clean, Rose. All of it."
+> (T5 · look closer) *The tired, real smile. The clean verdict, repeated for the record.*
+> "The road held," Rose says. "Your road, counsel."
+> (T6 · dialogue) *"Our road." — "Our road. The law releases you, Julian — the season's done."*
+> He bows himself out — the last bow of the season's law — and the door closes softly behind him. The war room keeps its midnight, the ledgers closed, the wax cooling.
+> (T7 · remembered micro-decision) *The last bow. The ledgers, closed and cooling.*
+> The season's accounting, sealed and witnessed.
+> (T8 · remembered micro-decision) *The sealed books. The accounting, finished.*
+> *Midnight on the closed ledgers.*
 *Animation: Shared.*
 
 ### L30.S27 · [T] · Rose (alone)
 *Purpose: the night's keeping — Friday night; the closed's, the oldest's; the alone. (Turns: 10)*
-> *(Friday night, alone. The night's keeping — the closed's, the oldest's — and the night's keeping is the alone's kind: plain, and held.)*
-> The season — the closed's. The garden — the oldest's.
-> (T1 · look closer) *The night's candlelight on the keeping — and the night's keeping is plain: the closed, the night's.*
-> "The night's." Rose stands — the night's, the alone's. "The wall —" she meets the night "— the oldest."
-> (T2 · tone) *Quiet, certain, and past flinching — the night's keeping wants its facing plain.*
-> Plain. The oldest — the garden's. The papers — the surfaced's. The hook — the season's.
-> (T3 · look closer) *The keeping's night in the candlelight — the closed's, the oldest's: the season closed, the garden coming.*
-> "The coming's." She walks — the night's, the alone's. "The dawn —" she nods "— the Saturday's."
-> (T4 · dialogue) *"The closed, the season's."; "The oldest, the garden's."; "The kept, the night's."*
-> "The night's." She takes it in. "The wall —" she meets the night "— the down."
-> (T5 · stance) *In the night's candlelight — the heiress alone, the night's keeping held.*
-> The held's. The night's. The coming — certain, and quiet.
-> (T6 · look closer) *The night's plain candlelight — and the heiress's face, the keeping's: steady, and unhurried.*
-> "Unhurried." She stands — the night's, the alone's. "The closed —" she nods "— the kept."
-> (T7 · dialogue) *"The steadied, the keeping's."; "The closed, the week's."; "The oldest, the coming's."*
-> "The coming's." She moves on. "The papers —" she smiles "— the surfaced."
-> (T8 · remembered micro-decision) *The keeping banked — the season closed, the garden coming — the night's keeping kept.*
-> The night's candlelight opens — the morrow's garden, the Saturday's, coming.
-> (T9 · look closer) *The night's plain light — and the keeping's hour, the Friday's: the heiress, the night, the unhurried.*
-> "The unhurried's." She stands — the night's, the alone's. "The keeping —" she smiles "— the kept."
-> (T10 · remembered micro-decision) *Bank the night's keeping — the closed kept, the oldest coming — the keeping kept, the week's.*
-> *The night's candlelight — the night's keeping, the garden coming.*
+> *(Her chambers, Friday night. The garden coming, the season's last night.)*
+> The chambers at the night's deep end — the ball behind her, the books closed, the pavilion lamplit on the lake — and Rose stands at the window in her shift, looking toward the garden she can't see in the dark, feeling it there the way one feels the sea: present, patient, waiting.
+> (T1 · look closer) *The dark window. The unseen garden, the coming dawn.*
+> The walled garden. The oldest wall. At dawn the workmen come, and the wall comes down, and the estate's oldest papers surface — taken, unopened. She has rehearsed the promise so often it has the smoothness of a prayer. The hook, not the answer.
+> (T2 · tone) *Quiet and expectant. The dawn's work, previewed in the dark.*
+> "The wall," she says to the dark. "The papers."
+> (T3 · look closer) *"Taken, unopened. The season's last image — and next season's first question."*
+> She thinks of Augusta's promise — the seal's hour is the garden's, morning — and of the naming to come: the woman of fortune, named aloud before witnesses, the formidable's final benediction. The words have a weight even unspoken.
+> (T4 · dialogue) *At the window. The coming naming, anticipated.*
+> The season's last night. The ball danced, the pavilion restored, the books closed, the rival transformed into something like an ally. Everything done — except the wall, and the papers, and the name. Three things left, and dawn will bring them.
+> (T5 · stance) *The night's inventory: all done, but three things.*
+> "Three things," she says. "The wall. The papers. The name."
+> (T6 · look closer) *"Dawn will bring them. The night keeps till then."*
+> She undresses — the night's own ritual, the week's last, performed slowly in the dark — and the chambers settle around her, the house holding its breath for the dawn.
+> (T7 · dialogue) *The night's ritual. The held breath, shared.*
+> The garden waits in the dark. The wall waits. The papers wait.
+> (T8 · remembered micro-decision) *The waiting dark. The dawn's work, queued.*
+> "Morning," she says. "Come."
+> (T9 · look closer) *"The garden's hour. The wall's hour. Come."*
+> The night keeps its counsel. The dawn approaches, punctual as a creditor and twice as welcome, carrying the garden's hour.
+> (T10 · remembered micro-decision) *The kept night. The approaching dawn.*
+> *Darkness on the waiting garden.*
 *Animation: Shared.*
 
 ### L30.S28 · [D] · Rose, Augusta
 *Purpose: the dowager's night — Friday night; the formidable, the season's; the seal. (Turns: 8)*
-> *(The dowager's drawing room, Friday night. Augusta on the dowager's night — the formidable's, the season's — and the night's counsel is the night's seal: stated once, finally.)*
-> "The night." Augusta doesn't rise. "The season's — the closed's. Rose —" the formidable leans forward "— the oldest wants the keeping's patience."
-> (T1 · look closer) *The drawing room's candlelight is gold — and the dowager's counsel on the night is the night's seal: stated once, finally.*
-> "The patience's." Rose takes the chair. "Grandmama — the garden. The oldest wall —" she meets the formidable's eyes "— the down?"
-> (T2 · tone) *Respectful, complete, and past flinching — the night's garden deserves its full telling.*
-> "The down's." The formidable nods — slowly, the full approval. "Rose — the walled garden's oldest. The papers —" she pauses "— the surfaced."
-> (T3 · dialogue) *"The downed, the wall's."; "The surfaced, the papers'."; "The counselled, the formidable's."*
-> "The formidable's." She takes it in. "Grandmama — the hook. The season's —" she pauses "— the unopened?"
-> (T4 · stance) *In the drawing room's gold night — the granddaughter laying the night's garden before the house's highest court.*
-> Augusta's eyes gleam. "The unopened, Rose — the week's. The papers —" she pauses "— the oldest's. The season —" the formidable "— the closed."
-> (T5 · look closer) *The gleam's the formidable's finest — the dowager seeing the garden plain, and naming it.*
-> The gold night on the formidable's rings — the dowager's, the seal's. The garden named, the season closed.
-> "Named." She stands. "Grandmama — the night. The closed —" she moves to the door "— the kept."
-> (T6 · dialogue) *"The named, the garden's."; "The unopened, the hook's."; "The counselled, the seal's."*
-> "The seal's." Augusta rises — a dismissal and a benediction. "Rose —" at the door "— the night's the season's. The garden's —" she smiles "— the oldest's."
-> (T7 · remembered micro-decision) *The counsel filed — the night kept, the garden named — the formidable's night banked.*
-> The drawing room door closes — soft, final, the night's last audience done.
-> (T8 · remembered micro-decision) *Bank the night's counsel — the formidable's, the seal — Friday's fifteenth hour, the week's.*
-> *The drawing room's candlelight — the dowager's night, the garden named.*
+> *(Augusta's sitting room, Friday night. The dowager, not yet retired, counsels.)*
+> Augusta is not retired — the dowager never retires before the night's business is done, and the night's business is never done before she says so — and she receives Rose in her sitting room with the air of a woman holding court in a smaller, better kingdom. The fire is built up; the tea is somehow already waiting; the formidable has prepared for a long session.
+> (T1 · look closer) *Lamplight on the black silk. The smaller kingdom, holding court.*
+> "The ball," Augusta says. "Well done." Two words; a sonnet — the dowager's highest literary form. "The pavilion." A nod, the restoration approved. "The books." Another nod, the accounting accepted. "The season closes clean, Rose."
+> (T2 · tone) *Formidable and satisfied. The night's review, condensed.*
+> "The garden," Rose says, the night's last business laid out plainly. "At dawn. The wall comes down."
+> (T3 · dialogue) *"The oldest wall." — "And the oldest papers. Taken — and unopened, Augusta. I won't open them."*
+> Augusta's rings go still — the formidable's full attention, the stillness that has ended a hundred arguments. "Good," she says at last. "The hook, not the answer. The papers keep their silence till the season wants them." A pause. "Restraint, child. The season's rarest virtue, and you've made it a habit."
+> (T4 · stance) *The still rings. Restraint, commended.*
+> "The seal's hour," Augusta says. "The garden's. Morning." Her eyes hold Rose's, and the held gaze is itself a kind of seal. "The woman of fortune — named aloud, before witnesses. The formidable's final benediction."
+> (T5 · look closer) *The held eyes. The coming naming, promised.*
+> "I'll be there," Rose says. "In the blue twill. The honest cloth, for the honest hour."
+> (T6 · dialogue) *"Blue for the garden." — "Blue for the truth of it. Now go to bed, child. The wall won't wait, and neither will I."*
+> Rose goes — dismissed and blessed in the dowager's single movement — and Augusta's sitting room keeps its lamplight, the night's counsel complete.
+> (T7 · remembered micro-decision) *The dismissal, the blessing. The counsel, kept.*
+> The garden. The papers. The hook. The name. Four things, and dawn owes all four by morning.
+> (T8 · remembered micro-decision) *The four things, queued for dawn.*
+> *Lamplight on the empty sitting room.*
 *Animation: Shared.*
 
 ### L30.S29 · [D] · Rose, Laurent
 *Purpose: the Frenchman's night — Friday night; the continental's, the season's; the complete. (Turns: 8)*
-> *(Friday night. Laurent on the Frenchman's night — the continental's, the season's — and the night's hour is the complete: stated plain, and the ruin's.)*
-> "The night, Rose." Laurent comes — the continental, the certain. "The season —" he looks up "— the closed's."
-> (T1 · look closer) *The night's candlelight on Laurent's face — and the Frenchman's night is the night's most storied: the closed, kept.*
-> The face storied and certain — the continental's, the night's. The night in his telling, and the season in his voice.
-> "Told." Rose takes it in. "Laurent — the lesson. The spent —" she meets his eyes "— the kept?"
-> (T2 · tone) *Quiet, certain, and past flinching — the night's season deserves its continental hearing.*
-> "The kept's." Laurent nods — slowly, the complete's. "The finance —" he pauses "— the week's. The honor —" he looks up "— the closed."
-> (T3 · dialogue) *"The spent, the lesson's."; "The closed, the season's."; "The continental, the night's."*
-> "The night's." She takes it in. "Laurent — the garden. The oldest —" she pauses "— the papers?"
-> (T4 · stance) *In the night's candlelight — the heiress and the Frenchman, the night kept.*
-> Laurent's voice is soft. "The papers, Rose — the week's. The oldest —" he pauses "— the surfaced."
-> (T5 · look closer) *The softness is the Frenchman's honesty — the season closed, the garden coming.*
-> The continental's past in his voice — the family's, the ruin's. The lesson spent, the season closed — and the night's hour the most storied.
-> "Kept." She stands. "Laurent — the night. The complete —" she moves to the door "— the week's."
-> (T6 · dialogue) *"The kept, the night's."; "The closed, the season's."; "The continental, the complete's."*
-> "The complete's." He bows — the continental, complete. "Rose —" at the door "— the night's the week's. The garden —" he smiles, thin "— the oldest's."
-> (T7 · remembered micro-decision) *The night filed — the season's, the garden's — the Frenchman's night banked, his arc complete.*
-> The night's door closes — the Frenchman's night kept, the night's most storied done.
-> (T8 · remembered micro-decision) *Bank the night's Frenchman — the continental's, the complete — Friday's sixteenth hour, the week's.*
-> *The night's candlelight — the Frenchman's night, the season closed.*
+> *(The hall, Friday night. Laurent, taking his leave before the dawn.)*
+> Laurent is in the hall with his traveling cloak over his arm — the continental's departure, timed for the night's end, before the garden's dawn, the carriage already waiting beyond the door, the horses' breath fogging in the cold air. He bows as Rose comes down, the bow of a man who has rehearsed his exits.
+> (T1 · look closer) *The hall's lamplight. The traveling cloak, the timed departure.*
+> "I go before the wall comes down," Laurent says. "The papers are the house's — not the lesson's. My part is finished." A pause, and something crosses his face that might be pride, carefully rationed. "Finance as honor. You proved it, Miss Hartwell. I am — " He smiles, the continental's polished smile. "I am surplus to the proof."
+> (T2 · tone) *Grave and light together. The farewell, perfectly timed.*
+> "Not surplus," Rose says firmly. "The lesson's witness. The books are clean because you taught me what clean looked like — back when clean looked impossible, and the figures wouldn't add, and the ruin was still a ruin."
+> (T3 · dialogue) *"The ruin taught you first." — "And you taught me the shape of the answer. Go well, Laurent."*
+> He takes her hand — the continental's farewell, formal and warm — and bows over it, the gesture precise as a signature. "The canal scheme holds," he says. "The small holders are whole. My name is clean in the surveyors' books." A beat. "Enough. The last word was yours, and it was the right one."
+> (T4 · stance) *The hand, the bow. The farewell, formal and warm.*
+> "Enough," Rose agrees.
+> (T5 · look closer) *The agreed word. The lesson's end, confirmed.*
+> The door opens — the night air, the waiting carriage, the coachman touching his hat — and Laurent goes out into it, the continental's exit, graceful to the last. He does not look back; looking back was never his style. The door closes. The hall keeps its lamps.
+> (T6 · dialogue) *"Go well." — "And you, Miss Hartwell — woman of fortune, when the morning names you."*
+> The carriage rolls away into the dark. The lesson's witness, departed.
+> (T7 · remembered micro-decision) *The rolling carriage. The departure, complete.*
+> The hall is quiet. The garden's eve holds.
+> (T8 · remembered micro-decision) *The quiet hall. The eve, kept.*
+> *Lamplight on the empty hall.*
 *Animation: Shared.*
 
 ### L30.S30 · [T] · Rose (alone)
 *Purpose: the dawn's approach — Saturday dawn; the garden's, the oldest's; the alone. (Turns: 10)*
-> *(Saturday dawn, the house. The dawn's approach — the garden's, the oldest's — and the dawn's keeping is the alone's kind: plain, and held.)*
-> The garden — the walled's. The wall — the oldest's.
-> (T1 · look closer) *The dawn's light on the house — and the dawn's keeping is plain: the walled, the week's.*
-> "The week's." Rose walks — the blue twill, the believed. "The garden —" she meets the dawn "— the oldest."
-> (T2 · tone) *Quiet, certain, and past flinching — the dawn's approach wants its keeping plain.*
-> Plain. The wall — the down's. The papers — the surfaced's. The hook — the season's.
-> (T3 · look closer) *The house's dawn in the light — the walled's, the oldest's: the garden's oldest wall, coming down.*
-> "The down's." She walks — the dawn's, the alone's. "The papers —" she nods "— the oldest."
-> (T4 · dialogue) *"The walled, the garden's."; "The oldest, the wall's."; "The coming, the dawn's."*
-> "The dawn's." She takes it in. "The season —" she meets the dawn "— the closed."
-> (T5 · stance) *In the dawn's light — the heiress alone, the dawn's approach kept.*
-> The kept's. The dawn's. The coming — certain, and quiet.
-> (T6 · look closer) *The dawn's plain light — and the heiress's face, the approach's: steady, and unhurried.*
-> "Unhurried." She walks — the blue twill, the believed. "The oldest —" she nods "— the kept."
-> (T7 · dialogue) *"The steadied, the approach's."; "The walled, the week's."; "The downed, the coming's."*
-> "The coming's." She moves on. "The hook —" she smiles "— the unopened."
-> (T8 · remembered micro-decision) *The approach banked — the garden coming, the season closed — the dawn's approach kept.*
-> The dawn's light opens — the garden's walk, the Saturday's, coming.
-> (T9 · look closer) *The dawn's plain light — and the dawn's approach, the Saturday's: the heiress, the house, the unhurried.*
-> "The unhurried's." She walks — the blue twill, the believed. "The approach —" she smiles "— the kept."
-> (T10 · remembered micro-decision) *Bank the dawn's approach — the walled kept, the oldest coming — the approach kept, the week's.*
-> *The dawn's light on the house — the dawn's approach, the garden coming.*
+> *(Her chambers, Saturday dawn. The garden's hour approaches.)*
+> Saturday dawn comes pale through the shutters — the garden's day, the wall's day, the papers' day. Rose wakes before the maids, as always, and lies a moment in the blue twill's anticipation, listening for the workmen's carts. The light has the thin, determined quality of a day that means business.
+> (T1 · look closer) *Dawn through the shutters. The garden's day, arriving.*
+> There — the carts, the voices, the workmen's morning sounds from the garden's direction, drifting up through the pale air. The oldest wall's last morning. The papers' first. She counts the sounds the way she once counted coins: carefully, and with satisfaction.
+> (T2 · tone) *Bright and grave together. The historic morning, properly felt.*
+> "The wall," she says. "Today."
+> (T3 · look closer) *"The oldest wall comes down. The papers surface. Taken, unopened."*
+> Up — the blue twill, the honest cloth, the garden's cloth. The heather, fresh, at the waist. The day's dressing is the truth's dressing: plain, exact, unadorned. No silk today; the wall deserves cotton, and the papers deserve plain dealing.
+> (T4 · dialogue) *Feet on the floor. The truth's dressing, begun.*
+> The house is stirring — the garden's hour has the household up early, the servants' corridor busy with the excitement of a demolition, the kitchen sending out extra bread for the workmen. Walls don't come down every day. Papers don't surface every generation. The maids are taking bets on what the papers say; the footmen pretend they aren't listening.
+> (T5 · stance) *The stirring house. The excitement of demolition, shared.*
+> "The garden," she says, pinning the heather. "The wall. The papers. The name."
+> (T6 · look closer) *"Four things. The dawn brings all four."*
+> She thinks of the papers — walled up a generation, the years sealed inside, waiting out their time in the dark — and of her promise: taken, not opened. The hook, not the answer. The restraint holds, and holding is the point.
+> (T7 · dialogue) *The promise, renewed. The restraint, holding.*
+> The workmen's sounds grow nearer. The garden's hour is here.
+> (T8 · remembered micro-decision) *The nearing sounds. The hour, arrived.*
+> "Come, then," she says, and means the garden, the wall, the papers, the name — all of it. "The wall."
+> (T9 · look closer) *"The garden's hour. The wall's hour. The papers' hour."*
+> Saturday dawn strengthens. The house moves gardenward.
+> (T10 · remembered micro-decision) *The strengthening dawn. The house, moving.*
+> *Dawn light on the waiting garden.*
 *Animation: Shared.*
 
 ### L30.S31 · [D] · Rose, Élise
 *Purpose: the triumph — Saturday morning; the atelier's, the complete's; the kept. (Turns: 8)*
-> *(The atelier, Saturday morning. The triumph — the atelier's, the complete's — and the morning's hour is the kept: stated plain, and the London's.)*
-> "The triumph, Rose." Élise comes — the atelier's, the certain. "The gown —" she looks up "— the worn's."
-> (T1 · look closer) *The atelier's morning light on the empty stand — and the triumph's hour is the morning's finest: the worn, kept.*
-> The stand empty — the gown's, the London's. The triumph in her telling, and the complete in her voice.
-> "Told." Rose takes it in. "Élise — the ball. The London —" she meets her eyes "— the seen?"
-> (T2 · tone) *Quiet, certain, and past flinching — the morning's triumph deserves its atelier's hearing.*
-> "The seen's." Élise nods — the atelier's, complete. "The first —" she pauses "— the week's. The Park —" she looks up "— the honest."
-> (T3 · dialogue) *"The worn, the gown's."; "The seen, the London's."; "The triumphed, the morning's."*
-> "The morning's." She takes it in. "Élise — the agent. The professional —" she smiles "— the kept?"
-> (T4 · stance) *In the atelier's morning light — the client and the agent, the triumph kept.*
-> Élise's voice is soft. "The kept, Rose — the week's. The atelier —" she looks up "— the complete's."
-> (T5 · look closer) *The softness is the atelier's honesty — the triumph kept, the morning named.*
-> The atelier's light on the empty stand — the kept's, the week's. Élise's triumph complete — and the morning's hour the finest.
-> "Named." She stands. "Élise — the day. The triumph —" she moves on "— the week's."
-> (T6 · dialogue) *"The kept, the triumph's."; "The worn, the season's."; "The complete, the atelier's."*
-> "The atelier's." Élise curtsies — the professional, complete. "Rose —" in the atelier "— the triumph's the week's. The gown —" she smiles "— the first's."
-> (T7 · remembered micro-decision) *The triumph filed — the worn's, the complete's — the atelier's morning banked, her arc complete.*
-> The atelier's morning holds — the triumph kept, the morning's finest done.
-> (T8 · remembered micro-decision) *Bank the morning's triumph — the kept named, the complete worn — Saturday's first hour, the week's.*
-> *The atelier's morning light on the empty stand — the triumph kept, Élise complete.*
+> *(The garden's edge, Saturday morning. Élise, come to see the wall fall.)*
+> Élise is at the garden's edge in her workaday dress — the modiste among the demolition, entirely in her element, chalk on her cuff even on a Saturday, a pencil behind her ear out of pure habit — come to see the wall fall and to walk with Rose in the morning's margin.
+> (T1 · look closer) *Morning on the garden's edge. The modiste among the workmen, at home.*
+> "The ball," Élise says. "The gown." She shakes her head, marveling, the practical arithmetic of triumph running behind her eyes. "Three orders already, chérie. Three. London saw, and London wants."
+> (T2 · tone) *Marveling and practical. The triumph's morning after.*
+> "The atelier's season," Rose says. "Yours, Élise. The Park's money paid for the silk — you made it the evening's argument."
+> (T3 · dialogue) *"The first gown." — "The first of many, if London has its way. The atelier's night made the atelier's year."*
+> They walk the garden's edge together — the modiste and the heiress, the morning's margin, two women who made the season's most beautiful thing between them — while the workmen ready their tools and the wall waits, patient as history.
+> (T4 · stance) *The garden's edge, walked together. The margin's companionship.*
+> "The heather," Élise says, nodding at Rose's waist. "Even with the ivory, even with the gold — the week's mark. You never gilded it." A pause, the modiste's professional soul visibly moved. "I am glad. The gown was honest because you were."
+> (T5 · look closer) *The heather, noted. The honesty, credited where due.*
+> "Honesty over splendor," Rose says. "Even in ivory and gold. Especially there."
+> (T6 · dialogue) *"The atelier's motto now." — "The house's motto always. You just cut it in silk."*
+> The workmen call — the wall's hour is here — and Élise squeezes Rose's hand, hard, the grip of a woman who sews her feelings into seams because she has nowhere else to put them, and steps back to the witnesses' edge. The atelier's season, recalled in the morning's margin.
+> (T7 · remembered micro-decision) *The squeeze, the step back. The morning's margin, shared.*
+> The wall waits, patient as history. The witnesses gather, quiet as a congregation.
+> (T8 · remembered micro-decision) *The gathering witnesses. The hour, fully come.*
+> *Morning light on the garden's edge.*
 *Animation: Shared.*
 
 ### L30.S32 · [F] · Rose (alone)
 *Purpose: the dawn's cloth — Saturday morning; the garden's, the walked's; the chosen. (Turns: 8)*
-> *(Saturday morning, her chambers. The dawn's cloth — the garden's, the walked's — and the morning's choosing is the oldest's kind: certain, and complete.)*
-> The garden's cloth — the walked's, the morning's. Rose stands in her shift, the morning's light on her, and considers the choosing: the wall's, the oldest.
-> (T1 · look closer) *The morning's light on the stands — and the choosing's reading is quiet: the garden wants its walking, and the oldest wants plain.*
-> "The plain's." She takes the blue twill — the believed's, the morning's. "The wall —" she does the buttons "— the oldest."
-> (T2 · tone) *Calm, certain, and past the season in her head — the morning wants the believed, and the believed wants steady.*
-> The corset — true. The petticoats — the blue twill over them. The row of buttons she does herself. The skirt falls modest and neat.
-> (T3 · stance) *Upright, unhurried, adorned — the morning's woman dresses the oldest's way: with steadiness, without apology.*
-> In the glass: a woman in blue twill, certain, hair drawn up. It says walked without saying the word. Exactly what the garden needs to see.
-> (T4 · remembered micro-decision) *Keep it plain. The garden reads splendor — the choosing's counsel, and the glass agrees.*
-> The white heather — the week's mark, the morning's. The blue twill — the believed's, the Saturday's.
-> (T5 · look closer) *The heather against the blue — the week's mark, the morning's keeper — and the believed, the oldest's.*
-> The hair, last: drawn up, pinned, nothing loose. Today is the garden's walking. Today wants plainness.
-> (T6 · dialogue) *"The Saturday's, worn believed."; "The blue walks."; "The oldest keeps."*
-> The wrap — dark — settled over her shoulders. Underneath, the blue waits for its hour, and the hour's the walked's.
-> (T7 · choice — no coin cost, remembered) *the blue twill — the believed's, the Saturday's cloth (as worn, the walked's); the Park gown — hung, the ball's cloth, the London's; the heather — pinned, the week's mark, the morning's.* — remembered: *The blue twill, worn.*
-> At the door she pauses, hand on the frame. The walked. The oldest. The garden.
-> (T8 · remembered micro-decision) *Bank the morning's resolve with the garden's cloth — blue for the walking, the oldest kept.*
-> *The morning's light takes the blue twill without argument — Saturday dressed, the garden coming.*
+> *(Her chambers, Saturday morning. The blue twill for the wall's hour.)*
+> The blue twill for the wall's hour — the honest cloth, the week's cloth, the refusal's cloth — and it goes on like a uniform for the truth. Blue over the petticoats, the corset laced true, the skirt straight and certain, every fastening a small act of resolve. The dawn's woman is the week's woman, and the week's woman won clean.
+> (T1 · look closer) *Morning on the blue. The truth's uniform, assumed.*
+> The hair goes up, pinned tight, not a strand permitted to escape. The heather comes fresh — the week's mark, the garden's mark — and goes to the waist, the purple bright against the blue. The pearls: the quiet ones, back where they belong. The gloves, drawn on slowly. No fan; the garden needs none.
+> (T2 · tone) *Calm and certain. The garden's dressing, performed properly.*
+> In the glass: the woman the season made, in the cloth the season proved. She studies the reflection a moment longer than vanity requires — checking, the way she checked the ledgers. She nods. The glass nods back.
+> (T3 · stance) *In the glass: the proved cloth, the made woman. Mutual approval.*
+> The wrap for the morning's chill — the dark wrap, the streets' wrap, the one that has seen every dawn errand of the season — and then the garden.
+> (T4 · remembered micro-decision) *The wrap taken. The garden, next.*
+> "Blue for the garden," she says. "The wall. The papers. The name."
+> (T5 · look closer) *The named things. The morning's errands, listed.*
+> "The honest hour," she tells the glass, "in the honest cloth."
+> (T6 · dialogue) *"The wall comes down. The papers surface. The woman is named."*
+> The wrap settles into place. The morning gathers itself.
+> (T7 · choice — no coin cost, remembered) *the blue twill, for the wall's hour; the heather, fresh at the waist; the pearls, the quiet ones; the dark wrap, for the morning's chill; or the gloves, for the papers' handling.*,remembered: *The blue twill, worn.*
+> She goes down to the garden — the honest hour, in the honest cloth, the heather bright at her waist like a small flag of intent, flying for the truth alone.
+> (T8 · remembered micro-decision) *The stairs, the garden. The honest hour, begun.*
+> *Morning light on the empty chambers.*
 *Animation: Shared.*
-
 ### L30.S33 · [T] · Rose (alone)
 *Purpose: the garden's walk — Saturday morning; the walled's, the oldest's; the alone. (Turns: 10)*
-> *(Saturday morning, the walled garden. The garden's walk — the walled's, the oldest's — and the morning's keeping is the alone's kind: plain, and held.)*
-> The garden — the walled's. The walk — the morning's.
-> (T1 · look closer) *The morning's light on the walled garden — and the walk's keeping is plain: the walled, the week's.*
-> "The week's." Rose walks — the blue twill, the believed. "The wall —" she meets the morning "— the oldest."
-> (T2 · tone) *Quiet, certain, and past flinching — the morning's walk wants its keeping plain.*
-> Plain. The oldest — the garden's. The down — the coming's. The papers — the surfaced's.
-> (T3 · look closer) *The garden's morning in the light — the walled's, the oldest's: the walk walked, the wall coming.*
-> "The coming's." She walks — the morning's, the alone's. "The stones —" she nods "— the oldest."
-> (T4 · dialogue) *"The walled, the garden's."; "The walked, the morning's."; "The oldest, the coming's."*
-> "The coming's." She takes it in. "The hook —" she meets the morning "— the unopened."
-> (T5 · stance) *In the morning's light — the heiress alone, the garden's walk kept.*
-> The kept's. The morning's. The coming — certain, and quiet.
-> (T6 · look closer) *The morning's plain light — and the heiress's face, the walk's: steady, and unhurried.*
-> "Unhurried." She walks — the blue twill, the believed. "The oldest —" she nods "— the kept."
-> (T7 · dialogue) *"The steadied, the walk's."; "The walled, the week's."; "The coming, the garden's."*
-> "The garden's." She moves on. "The papers —" she smiles "— the surfaced."
-> (T8 · remembered micro-decision) *The walk banked — the garden walked, the oldest coming — the morning's walk kept.*
-> The morning's light opens — the wall's coming, the Saturday's, near.
-> (T9 · look closer) *The morning's plain light — and the garden's walk, the Saturday's: the heiress, the garden, the unhurried.*
-> "The unhurried's." She walks — the blue twill, the believed. "The walk —" she smiles "— the kept."
-> (T10 · remembered micro-decision) *Bank the morning's walk — the walled kept, the oldest coming — the walk kept, the week's.*
-> *The morning's light on the walled garden — the garden's walk, the oldest coming.*
+> *(The walled garden, Saturday morning. The oldest hour.)*
+> The walled garden in Saturday morning light — the untended years visible in every corner, the old plantings gone wild, the paths half-lost. And the wall: the oldest wall, running along the garden's far side, stones dark with a generation's weather.
+> (T1 · look closer) *Morning on the old stones. The garden's oldest hour, arrived.*
+> Rose walks the garden's length — the witnesses gathering behind her, the workmen waiting by the wall with their tools — and the garden gives up its morning: birdsong, the smell of turned earth, the ghosts of the plantings that were, the green patience of the untended years.
+> (T2 · tone) *Measured and reverent. The walk, performed like a rite.*
+> "The oldest wall," she says. "A generation."
+> (T3 · look closer) *"Walled up a generation ago. The papers with it. Today they come out."*
+> The workmen touch their caps. The witnesses murmur. Letitia is there, and Henry, and Julian — the house's own, come to see the wall fall.
+> (T4 · dialogue) *Among the witnesses. The house's own, gathered.*
+> Augusta arrives — the dowager's progress down the garden path, black silk among the green, formidable even in the open air. The seal's hour is here too, riding alongside the wall's.
+> (T5 · stance) *The black silk among the green. The seal's hour, arriving with the wall's.*
+> "The garden," Augusta says, surveying it with the eye of a woman already planning its restoration. "Neglected." A pause. "No longer."
+> (T6 · look closer) *"The wall comes down, Grandmama." — "Walls come down, child. Houses remain. Proceed."*
+> The workmen step forward — the tools raised, the positions taken, the preliminary work begun: the clearing, the bracing, the careful approach to the generation's masonry. The garden holds its breath.
+> (T7 · dialogue) *The tools raised. The held breath, shared by all.*
+> Rose takes her place — the heiress, the woman of the morning, the honest cloth — and nods. The rite commences; the breach waits its ceremonial hour.
+> (T8 · remembered micro-decision) *The nod. The beginning, authorized.*
+> "Begin," she says — the preparations, the approach, the morning's work. The wall itself stands, awaiting its hour.
+> (T9 · look closer) *"The oldest wall. Standing — till the witnesses are gathered and the hour is ripe."*
+> The workmen move to their positions. The garden's oldest hour opens — the wall still standing, the fall still to come.
+> (T10 · remembered micro-decision) *The standing wall. The hour, opened.*
+> *Morning light on the standing wall.*
 *Animation: Shared.*
 
 ### L30.S34 · [D] · Rose, Letitia
 *Purpose: the aunt at the garden — Saturday morning; the warm's, the oldest's; the heart. (Turns: 8)*
-> *(The walled garden, Saturday morning. Letitia at the garden — the warm's, the oldest's — and the morning's hour is the warmest: stated plain, and the heart's.)*
-> "The garden, darling." Letitia comes — the warm, the certain. "The oldest —" she looks up "— the wall's."
-> (T1 · look closer) *The garden's morning light on the aunt's face — and the warm's word at the garden is the morning's finest: the oldest, faced.*
-> The face warm and certain — the heart's, the morning's. The garden in her telling, and the oldest in her voice.
-> "Told." Rose takes it in. "Aunt — the wall. The down —" she meets her eyes "— the coming?"
-> (T2 · tone) *Warm, easy, and niece-soft — the morning's garden deserves its warmest hearing.*
-> "The coming's." Letitia nods — the warm, the formidable. "The walled garden's oldest —" she pauses "— the down's."
-> (T3 · dialogue) *"The walled, the garden's."; "The downed, the wall's."; "The hearted, the warm's."*
-> "The warm's." She takes it in. "Aunt — the papers. The oldest —" she pauses "— the surfaced?"
-> (T4 · stance) *In the garden's morning light — the niece and the aunt, the garden kept.*
-> Letitia's voice is soft. "The surfaced, darling — the week's. The hook —" she pauses "— the unopened."
-> (T5 · look closer) *The softness is the warm's finest — the garden faced, the hook kept.*
-> The garden's morning light warm — the heart's, the week's. The wall coming, the papers surfacing — and the morning's hour the warmest.
-> "Kept." She stands. "Aunt — the day. The garden —" she moves on "— the week's."
-> (T6 · dialogue) *"The kept, the garden's."; "The oldest, the coming's."; "The counselled, the morning's."*
-> "The morning's." Letitia shoos her — the warm, complete. "Go, darling — the garden faced. The oldest —" she smiles "— the coming's."
-> (T7 · remembered micro-decision) *The garden filed — the oldest's, the wall's — the aunt's morning banked.*
-> The garden's morning holds — the aunt at the garden, the morning's warmest done.
-> (T8 · remembered micro-decision) *Bank the morning's garden — the warm's, the oldest — Saturday's second hour, the week's.*
-> *The garden's morning light — the aunt at the garden, the oldest coming.*
+> *(The walled garden, Saturday morning. Letitia, witnessing.)*
+> Letitia stands among the witnesses with her hands clasped and her eyes very bright — the aunt's morning, the wall's witness, the handkerchief already deployed and doing yeoman service. She has the air of a woman attending both a wedding and a funeral, and finding them equally moving.
+> (T1 · look closer) *Morning on the bright eyes. The handkerchief, deployed.*
+> "The wall," Letitia whispers, watching the workmen ready their tools along its base. "Your grandfather's wall. My father's — " She stops, the sentence too large for the morning, too full of the dead and the living at once. "So much walled up. So much about to come out."
+> (T2 · tone) *Moved and merry together. The witness, overcome and coping.*
+> Rose takes her hand — the niece's hand, steady in the aunt's, the generations linked in the clasp — and they watch together as the preparations go on: the bracing, the clearing, the careful approach to the generation's masonry.
+> (T3 · dialogue) *"Steady, Aunt." — "I am steady. I am weeping steadily. There is a difference."*
+> The dust of the clearing rises, pale in the morning light, hanging like a veil over the work. The garden watches — the old plantings, the wild corners, the half-lost paths — as its oldest boundary awaits its hour.
+> (T4 · stance) *Hand in hand. The waiting boundary, witnessed together.*
+> "The papers," Letitia says. "You'll take them — and not open them. The restraint." A squeeze. "Your mother would have opened them. I would have opened them. You — " Another squeeze. "You are better than both of us, and I am proud enough to burst."
+> (T5 · look closer) *The squeezes, the pride. The restraint, admired.*
+> "The hook, not the answer," Rose says. "The papers keep their silence till the season wants them."
+> (T6 · dialogue) *"Restraint." — "The season's rarest virtue. Augusta said so. She should know — she invented most of the others."*
+> Letitia laughs through the handkerchief — the aunt's laugh, wet and delighted — and the workmen's preparations go on behind her laughter, the wall standing through it all.
+> (T7 · remembered micro-decision) *The laugh, the standing wall. The morning, fully inhabited.*
+> The witnesses murmur. The clearing dust settles. The wall stands, awaiting its hour.
+> (T8 · remembered micro-decision) *The murmurs, the dust. The standing wall, witnessed.*
+> *Morning light on the witnesses.*
 *Animation: Shared.*
 
 ### L30.S35 · [D] · Rose, Henry
 *Purpose: the steady at the garden — Saturday morning; the keeper's, the oldest's; the heart. (Turns: 8)*
-> *(The walled garden, Saturday morning. Henry at the garden — the steady's, the oldest's — and the morning's hour is the keeper's: stated plain, and the heart's.)*
-> "The garden, Rose." Henry comes — the steady, the certain. "The oldest —" he looks up "— the coming's."
-> (T1 · look closer) *The garden's morning light on Henry's face — and the steady man's word at the garden is the morning's kindest: the oldest, kept.*
-> The face steady and certain — the keeper's, the morning's. The garden in his telling, and the oldest in his voice.
-> "Told." Rose takes it in. "Henry — the papers. The surfaced —" she meets his eyes "— the unopened?"
-> (T2 · tone) *Quiet, certain, and past flinching — the morning's garden deserves its steady hearing.*
-> "The unopened's." Henry nods — the steady, complete. "The oldest —" he pauses "— the week's. No explaining —" he looks up "— the understood."
-> (T3 · dialogue) *"The coming, the wall's."; "The surfaced, the papers'."; "The understood, the steady's."*
-> "The steady's." She takes it in. "Henry — the season. The closed —" she meets his eyes "— the kept?"
-> (T4 · stance) *In the garden's morning light — the heiress and the steady man, the garden kept.*
-> Henry's voice is soft. "The kept, Rose — the week's. The fortune —" he pauses "— the whole's."
-> (T5 · look closer) *The softness is the steady man's finest — the garden coming, without explanation.*
-> The garden's morning light steady — the keeper's, the week's. The season closed, the oldest coming — and the morning's hour the kindest.
-> "The taught's." She stands. "Henry — the day. The garden —" she moves on "— the week's."
-> (T6 · dialogue) *"The understood, the steady's."; "The closed, the week's."; "The kept, the morning's."*
-> "The morning's." He stands too — the steady, unhurried. "The garden holds, Rose — whatever the oldest brings."
-> (T7 · remembered micro-decision) *The garden filed — the oldest kept, no explaining — the steady man's morning banked.*
-> The garden's morning holds — the steady at the garden, the morning's kindest done.
-> (T8 · remembered micro-decision) *Bank the morning's garden — the steady's, the oldest — Saturday's third hour, the week's.*
-> *The garden's morning light — the steady at the garden, the oldest coming.*
+> *(The walled garden, Saturday morning. Henry, witnessing.)*
+> Henry stands a little apart from the witnesses — the steady man's position, the observer's post, the place he's always stood — watching the workmen's preparations with the air of a man watching history assemble its tools. He has the stillness of someone who learned long ago that rushing never hurried anything worth having.
+> (T1 · look closer) *Morning on the steady face. The observer's post, occupied.*
+> "The oldest wall," Henry says as Rose joins him, his eyes on the workmen's careful work. "I used to climb it, when we were — " He stops, and the unfinished sentence hangs between them, complete anyway. "Before. It seemed higher then. Everything did — the wall, the house, the whole estate. We were small, and it was enormous, and it was ours."
+> (T2 · tone) *Quiet and unguarded. The memory, offered simply.*
+> "Everything seemed higher then," Rose says. "The wall. The debts. The ton." A pause, the three reckonings weighed together like coins in the hand. "We've brought two of them down to size — the debts with dates, the ton with a ball. The wall's hour is this morning."
+> (T3 · dialogue) *"The wall, the debts, the ton — two sized, one to come." — "The season's work, nearly summarized."*
+> The preparations go on — the bracing, the clearing, the workmen's careful rhythm, the foreman's low directions. Somewhere inside the masonry: the papers, waiting out their generation in the dark they've known for decades.
+> (T4 · stance) *Side by side. The standing wall, the waiting papers.*
+> "Taken, unopened," Henry says. "Your promise." It's not a question.
+> (T5 · look closer) *The promise, restated. Not a question.*
+> "My promise," Rose says. "The hook, not the answer. The papers keep their silence."
+> (T6 · dialogue) *"Restraint." — "Understood without explaining, Henry. As always."*
+> He nods — the steady man's nod, the whole conversation — and they stand together as the workmen ready the wall, no explaining needed, none offered.
+> (T7 · remembered micro-decision) *The shared standing. The understanding, complete.*
+> The wall stands, the papers wait, the morning holds its breath — and the two of them stand inside the held breath together, unhurried, in no need of words at all, then or ever.
+> (T8 · remembered micro-decision) *The standing wall. The held morning.*
+> *Morning light on the steady pair.*
 *Animation: Shared.*
 
 ### L30.S36 · [D] · Rose, Julian
 *Purpose: the counsel at the garden — Saturday morning; the law's, the oldest's; the complete. (Turns: 8)*
-> *(The walled garden, Saturday morning. Julian at the garden — the counsel's, the oldest's — and the morning's hour is the complete: stated plain, and the law's.)*
-> "The garden, Rose." Julian comes — the counsel's, the certain. "The oldest —" he looks up "— the wall's."
-> (T1 · look closer) *The garden's morning light on Julian's face — and the counsel's word at the garden is the morning's steadiest: the oldest, faced.*
-> The face certain and complete — the counsel's, the morning's. The garden in his telling, and the oldest in his voice.
-> "Told." Rose takes it in. "Julian — the papers. The surfaced —" she meets his eyes "— the oldest?"
-> (T2 · tone) *Quiet, certain, and past flinching — the morning's garden deserves its counsel's hearing.*
-> "The oldest's." Julian nods — the counsel's, complete. "The walled garden's oldest —" he pauses "— the papers'."
-> (T3 · dialogue) *"The walled, the garden's."; "The surfaced, the oldest's."; "The complete, the counsel's."*
-> "The counsel's." She takes it in. "Julian — the hook. The unopened —" she pauses "— the kept?"
-> (T4 · stance) *In the garden's morning light — the heiress and the counsel, the garden kept.*
-> Julian's voice is soft. "The kept, Rose — the week's. The season —" he pauses "— the closed's."
-> (T5 · look closer) *The softness is the counsel's honesty — the garden faced, the hook kept.*
-> The garden's morning light steady — the counsel's, the week's. The oldest coming, the season closed — and the morning's hour the steadiest.
-> "Kept." She stands. "Julian — the day. The garden —" she moves on "— the week's."
-> (T6 · dialogue) *"The kept, the garden's."; "The oldest, the week's."; "The complete, the morning's."*
-> "The morning's." He bows — the counsel's courtesy. "Rose —" in the garden "— the oldest's the week's. The counsel's —" he smiles "— the kept."
-> (T7 · remembered micro-decision) *The garden filed — the oldest faced, no explaining — the counsel's morning banked.*
-> The garden's morning holds — the counsel at the garden, the morning's steadiest done.
-> (T8 · remembered micro-decision) *Bank the morning's counsel — the complete, the oldest — Saturday's fourth hour, the week's.*
-> *The garden's morning light — the counsel at the garden, the oldest coming.*
+> *(The walled garden, Saturday morning. Julian, witnessing the season's close.)*
+> Julian stands with the witnesses — counsel at a demolition, the week's paper finally put away, his hands empty for once — watching the preparations with professional interest and personal satisfaction. There is something almost festive in his bearing this morning, the advocate's gravity set aside for the witness's pleasure.
+> (T1 · look closer) *Morning on the counsel's face. The paper put away, the satisfaction out.*
+> "The season's close," Julian says as Rose joins him, dust on his boots and satisfaction in his face. "The books closed at midnight. The wall at morning." A pause, and the counsel's smile turns almost mischievous. "You timed it well, Rose. The law approves of symmetry, and so — privately, unprofessionally — do I."
+> (T2 · tone) *Warm and professional. The symmetry, approved.*
+> "The books," Rose says. "Seventy-three thousand, whole. The pledge — six thousand one hundred and sixty-four — from the first realizations." She recites the figures the way other women recite poetry: from memory, with feeling.
+> (T3 · dialogue) *"Closed as decided." — "Sealed, witnessed, and clean. The season's accounting is the season's monument."*
+> The workmen call to one another — the preparations' rhythm, the bracing going up, the careful work before the breach. The witnesses watch, the morning holding its breath for the ceremonial hour. Even the birds seem to have lowered their voices; the garden listens.
+> (T4 · stance) *The preparations' rhythm. The held breath, shared.*
+> Julian studies the wall — the oldest wall, still standing, the morning's light on its weathered stones. "A generation," he says quietly. "Walled up a generation." He shakes his head, the lawyer confronting a mystery no statute covers. "And this morning, out."
+> (T5 · look closer) *The standing wall. The generation, about to surface.*
+> "The papers," Rose says. "Taken — and unopened. The promise holds."
+> (T6 · dialogue) *"The promise." — "Witnessed, counsel. The restraint is the season's signature."*
+> He bows — the counsel's bow, the season's last — and steps back to the witnesses' edge. The preparations go on; the wall stands; the hour approaches.
+> (T7 · remembered micro-decision) *The bow, the stepping back. The approaching hour.*
+> The morning holds. The wall stands. The papers wait, patient as the decades that hid them.
+> (T8 · remembered micro-decision) *The held morning. The standing wall.*
+> *Morning light on the waiting wall.*
 *Animation: Shared.*
 
 ### L30.S37 · [T] · Rose (alone)
 *Purpose: the wall's coming — Saturday morning; the oldest's, the down's; the alone. (Turns: 10)*
-> *(Saturday morning, the walled garden. The wall's coming — the oldest's, the down's — and the morning's keeping is the alone's kind: plain, and held.)*
-> The wall — the oldest's. The coming — the down's.
-> (T1 · look closer) *The morning's light on the garden's oldest wall — and the wall's keeping is plain: the oldest, the week's.*
-> "The week's." Rose walks — the blue twill, the believed. "The stones —" she meets the morning "— the oldest."
-> (T2 · tone) *Quiet, certain, and past flinching — the morning's wall wants its keeping plain.*
-> Plain. The down — the coming's. The papers — the surfaced's. The hook — the unopened's.
-> (T3 · look closer) *The wall's morning in the light — the oldest's, the down's: the garden's oldest wall, coming down.*
-> "The down's." She walks — the morning's, the alone's. "The course —" she nods "— the oldest."
-> (T4 · dialogue) *"The oldest, the wall's."; "The downed, the coming's."; "The kept, the morning's."*
-> "The morning's." She takes it in. "The season —" she meets the morning "— the closed."
-> (T5 · stance) *In the morning's light — the heiress alone, the wall's coming kept.*
-> The kept's. The morning's. The coming — certain, and quiet.
-> (T6 · look closer) *The morning's plain light — and the heiress's face, the wall's: steady, and unhurried.*
-> "Unhurried." She walks — the blue twill, the believed. "The oldest —" she nods "— the kept."
-> (T7 · dialogue) *"The steadied, the wall's."; "The oldest, the week's."; "The coming, the garden's."*
-> "The garden's." She moves on. "The papers —" she smiles "— the surfaced."
-> (T8 · remembered micro-decision) *The wall banked — the oldest coming, the papers surfacing — the morning's wall kept.*
-> The morning's light opens — the down's coming, the Saturday's, near.
-> (T9 · look closer) *The morning's plain light — and the wall's coming, the Saturday's: the heiress, the wall, the unhurried.*
-> "The unhurried's." She walks — the blue twill, the believed. "The wall —" she smiles "— the kept."
-> (T10 · remembered micro-decision) *Bank the morning's wall — the oldest kept, the down coming — the wall kept, the week's.*
-> *The morning's light on the oldest wall — the wall's coming, the papers surfacing.*
+> *(The walled garden, Saturday morning. The oldest wall's fall, imminent.)*
+> Rose stands alone before the oldest wall — the heiress, the honest cloth, the morning's woman — her hand resting on the weathered stones. A generation's weather under her palm. The workmen wait at a respectful distance; the witnesses hold their breath.
+> (T1 · look closer) *Morning on the weathered stones. The hand, the wall, the waiting hour.*
+> She feels the wall's age through her glove — the cold, the rough, the decades. Somewhere inside: the papers, sealed a generation ago. The garden's oldest secret, still walled, still silent.
+> (T2 · tone) *Grave and steady. The hand on the stones — and the promise, renewed.*
+> The promise holds. Taken, not opened. The papers stay inside till the wall gives them up — and then they stay sealed. The hook, not the answer.
+> (T3 · look closer) *"Not opened. The season closes with the papers' silence kept."*
+> The witnesses watch — Letitia's bright eyes, Henry's steady nod, Julian's professional approval, Augusta's still rings. The restraint, pledged. The virtue, promised once, in the open, before the fall.
+> (T4 · dialogue) *Before the witnesses. The restraint, pledged in the open.*
+> The workmen stand ready — the tools raised, the ceremonial breach prepared. The wall stands whole for one minute more. The morning light comes over the top of it, new and unobstructed, as if the light already knows.
+> (T5 · stance) *The ready workmen. The whole wall, one minute more.*
+> "The wall comes down," Rose says. "The garden opens."
+> (T6 · look closer) *"The oldest boundary, about to fall. The oldest ground, about to be free."*
+> The garden waits — the old plantings, the wild corners, the paths half-lost — holding its breath for the open air, the new light, the morning after the wall.
+> (T7 · dialogue) *The waiting garden. The held breath, the coming light.*
+> She steps back to the witnesses' edge — the blue twill, the heather — and nods to the workmen. The season's last image forms: the woman of fortune, before the fall.
+> (T8 · remembered micro-decision) *The last image, forming. The woman, the wall, the morning.*
+> "The papers keep their silence," she says.
+> (T9 · look closer) *"Taken, unopened — till the season wants them."*
+> The garden holds its morning. The wall stands — for one minute more.
+> (T10 · remembered micro-decision) *The held morning. The standing wall, the kept promise.*
+> *Morning light on the waiting wall.*
 *Animation: Shared.*
 
 ### L30.S38 · [D] · Rose, Augusta
 *Purpose: the dowager at the garden — Saturday morning; the formidable's, the oldest's; the seal. (Turns: 8)*
-> *(The walled garden, Saturday morning. Augusta at the garden — the formidable's, the oldest's — and the morning's hour is the seal: stated once, finally.)*
-> "The garden." Augusta stands — the formidable, the certain. "The oldest —" she looks up "— the down's."
-> (T1 · look closer) *The garden's morning light on the dowager's face — and the formidable's word at the garden is the morning's seal: the oldest, faced.*
-> The face formidable and certain — the seal's, the morning's. The garden in her telling, and the oldest in her voice.
-> "Told." Rose takes it in. "Grandmama — the papers. The surfaced —" she meets the formidable's eyes "— the kept?"
-> (T2 · tone) *Respectful, complete, and past flinching — the morning's garden deserves its full hearing.*
-> "The kept's." The formidable nods — slowly, the full approval. "Rose — the walled garden's oldest. The hook —" she pauses "— the unopened."
-> (T3 · dialogue) *"The faced, the garden's."; "The surfaced, the oldest's."; "The counselled, the formidable's."*
-> "The formidable's." She takes it in. "Grandmama — the season. The closed —" she pauses "— the woman?"
-> (T4 · stance) *In the garden's morning light — the granddaughter laying the season before the house's highest court.*
-> Augusta's eyes gleam. "The woman, Rose — the week's. The fortune —" she pauses "— the whole's. The pavilion —" the formidable "— the restored."
-> (T5 · look closer) *The gleam's the formidable's finest — the dowager seeing the season plain, and naming it: the woman of fortune.*
-> The morning's light on the formidable's rings — the dowager's, the seal's. The season named, the fortune whole — the woman of fortune, complete.
-> "Complete." She stands. "Grandmama — the day. The fortune —" she moves on "— the week's."
-> (T6 · dialogue) *"The named, the season's."; "The whole, the fortune's."; "The counselled, the seal's."*
-> "The seal's." Augusta stands — a dismissal and a benediction. "Rose —" in the garden "— the oldest's the week's. The woman —" she smiles "— the fortune's."
-> (T7 · remembered micro-decision) *The counsel filed — the garden kept, the woman named — the formidable's morning banked, her season complete.*
-> The garden's morning holds — the dowager at the garden, the morning's seal done.
-> (T8 · remembered micro-decision) *Bank the morning's dowager — the formidable's, the seal — Saturday's fifth hour, the week's.*
-> *The garden's morning light — the dowager at the garden, the woman of fortune named.*
+> *(The walled garden, Saturday morning. Augusta names the woman of fortune.)*
+> The preparations pause. The workmen step back. And Augusta steps forward — the dowager's progress across the garden's worn grass, black silk in the morning light — and the witnesses turn, understanding: the seal's hour is here, before the wall's.
+> (T1 · look closer) *Morning on the black silk. The seal's hour, arrived before the wall's.*
+> "The wall stands," Augusta says. Her voice carries — the formidable's instrument, tuned for exactly this. "The papers wait — sealed, a generation in the wall. Taken soon — " A glance at Rose. "And unopened. Restraint." A pause. "The season closes, and the house requires its naming — before the fall, so the fall has its name."
+> (T2 · tone) *Formal and absolute. The naming, commenced before the fall.*
+> The witnesses gather closer — Letitia, Henry, Julian, Élise, the workmen at a respectful distance. The garden holds its morning. Augusta raises her hand.
+> (T3 · dialogue) *"Rose Hartwell." — "Grandmama." — "The fortune is won. The duel is closed kindly. The pavilion stands. And the house names what the season made — before the wall comes down."*
+> A breath. The garden's utter quiet — the wall standing behind them all, witness to its own naming hour. And then, clearly, so every witness hears:
+> (T4 · stance) *The raised hand. The utter quiet. The naming, about to fall.*
+> "The woman of fortune."
+> (T5 · look closer) *The words, fallen. The naming, done.*
+> The silence holds a heartbeat — and then Letitia's sob, Henry's deep "Hear," Julian's applause, the workmen's cheers. The garden erupts in the morning light, and Rose stands in the center of it — the blue twill, the heather — named, the wall still standing behind her.
+> (T6 · dialogue) *"The woman of fortune!" — the garden's cry, taken up before the fall.*
+> Augusta comes to her — the dowager's own progress, completed — and takes her face in ringed hands, and kisses her brow. The formidable's final benediction, given in the open, before witnesses, before the wall comes down.
+> (T7 · remembered micro-decision) *The ringed hands, the brow kissed. The benediction, given.*
+> "Well done, child," Augusta says softly — for Rose alone, under the cheering. "The house is proud. I am proud." A beat. "The woman of fortune — wear it well."
+> (T8 · remembered micro-decision) *The soft words, under the cheering. The naming, sealed.*
+> *Morning light on the named woman.*
 *Animation: Custom "The Dowager's Seal" — the season closed and the woman of fortune named, the formidable's final benediction.*
 
 ### L30.S39 · [D] · Rose (alone)
 *Purpose: ★ GAZETTE STING — the season's sting; the London Gazette's, the woman's. (Turns: 1)*
-> *(Saturday morning, the house. The Gazette sting — the London Gazette's, the woman's — and the season's last sting is one turn: stated plain, and printed.)*
-> "The woman of fortune." — the Gazette's last line, Saturday. "The *fortune's* — the *week's* — the *closed's* — and the *papers* still unread."
-> *(One turn, the season's last: the Gazette names the woman, the papers wait, and the hook holds.)*
+> *"The woman of fortune." — the Gazette's last line, Saturday, and the dowager's naming stands behind it. The ball is danced, the pavilion stands restored on the lake, the duel is closed kindly with the door left open, the seal is set — and this morning the walled garden's oldest wall is to come down, its oldest papers expected when it does. The wall stands yet. The papers keep their silence — for now.*
 *Animation: Shared.*
 
 ### L30.S40 · [D] · Rose (alone)
 *Purpose: ★ SEASON SIX CLIFFHANGER — the oldest wall comes down; the papers surface; the hook. (Turns: 8)*
-> *(Saturday morning, the walled garden. The season's cliffhanger — the wall's, the oldest's — and the closing hour is the hook's: eight turns, no Season Seven.)*
-> (T1 · the garden's hour) The morning's light — the walled garden's. Rose walks — the blue twill, the believed — and the oldest wall stands before her: the garden's oldest, the wall's. The workmen wait. The morning holds its breath.
-> (T2 · the wall comes down) The first course comes — the oldest's stones, the down's. The wall's oldest course gives — the garden's oldest giving way — and the dust rises in the morning's light: the down's, the coming's, the kept's.
-> (T3 · the papers surface) In the wall's hollow — the oldest's keeping — the papers surface: the oldest papers, the surfaced's. A packet, bound — the hook's, the unopened's. The morning's light on the packet's twine — the papers', the waiting's.
-> (T4 · the packet's weight) Rose takes the packet — the oldest's, the waiting's. The weight of it in her hands — the papers', the unopened's. The wall's dust on the twine — the down's, the surfaced's. The season's hook, whole and waiting.
-> (T5 · the unopened) She doesn't open it — the hook's, the kept's. The packet stays bound — the unopened's, the week's. The morning's light on the twine — the oldest's, the waiting's. No Season Seven begins. The hook holds.
-> (T6 · the woman of fortune) Around her — the walled garden, the Saturday's. The fortune whole behind her — the £73,000's, the woman's. The wall down, the papers surfaced — the hook's, the kept's. She stands — the woman of fortune — in the oldest's dust.
-> (T7 · the held breath) The garden holds its breath — the oldest's, the waiting's. The packet bound in her hands — the hook's, the unopened's. The season's cliffhanger — the wall's, the papers' — and the closing hour, the Saturday's, complete.
-> (T8 · the season's close) Season Six closes — the fortune's, the woman's. The oldest wall down — the down's, the Saturday's. The oldest papers surfaced — the surfaced's, the hook's. *The packet stays bound. The hook holds. Season Seven waits.*
-> *The morning's light on the oldest wall — down, and the papers surfaced — Season Six, closed.*
+> *(The walled garden, Saturday morning. The workmen are ready, the ropes are set, and the oldest wall still stands.)*
+> The wall stands. It has stood since before she was born, and this morning it stands for the last hour of its life. The workmen wait on her nod. The garden holds its breath.
+> (T1 · the garden's hour) *Morning light on the standing stones. The walled garden's oldest wall, upright — the garden closed for the last morning in a generation.*
+> She nods. The ropes go taut. The wall — the oldest wall, the garden's long keeper — shudders, leans, and comes down: stone after stone, dust rising white in the morning light, a generation's silence breaking open all at once.
+> (T2 · the wall comes down) *The fall. Masonry giving way, dust in the new light, the garden opening where the wall stood.*
+> The dust settles. The workmen move in with bars and hands, clearing the fall — and one of them stops. Calls out. There, set into the wall's heart where no wall should hold anything, a hollow: and in the hollow, a packet, bound in tape gone brown with the years.
+> (T3 · the papers surface) *The hollow in the fallen wall. The bound packet, surfacing with the masonry's fall — the estate's oldest papers, sealed a generation back.*
+> She takes it. It is heavier than its size suggests, the tape brittle under her thumb, the papers inside shifting like something asleep. The garden's first secret, and it has chosen her hands.
+> (T4 · the packet's weight) *The packet taken. Its weight in her hands — the years sealed inside, entrusted to her keeping.*
+> Her thumb finds the tape's edge. One pull would do it — one pull, and the season's oldest question would open. She does not pull. The tape stays tied; the papers stay inside.
+> (T5 · the unopened) *Her thumb on the tape's edge — and stopping. The packet, taken and not opened. The papers keep their silence, and so does she.*
+> Around her the garden breathes, open for the first time in a generation. The ball: danced. The pavilion: restored, lamplit above the lake. Sloane: gone, the door open behind her. Augusta's naming — the woman of fortune — set on the season like wax on a registry page.
+> (T6 · the woman of fortune) *The garden's morning. The fortune whole, the duel closed kindly, the woman named — and the packet closed.*
+> She looks at the bound packet — brown tape, sealed years — and tucks it under her arm. Not today. The season ends with the past still shut, and the shutting is the point.
+> (T7 · the held breath) *The packet kept. The season's last image: the woman of fortune, holding the unopened past.*
+> The garden keeps its morning. The wall lies down. The papers wait — and the waiting is the hook.
+> (T8 · the season's close) *The bound packet, unopened. The cliffhanger kept: the season ends, and the papers wait.*
+> *The garden keeps its morning light.*
 *Animation: Shared.*

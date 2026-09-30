@@ -2,70 +2,86 @@
   "_schema_note": "Economy source of truth (JSON mirror of economy.md), reorganized 2026-09-27. Statuses: LOCKED (Beth-decided, dated), DEFAULT (launch value, Beth may retune), TBD (open). Nothing invented.",
   "_stale_name_mapping": {
     "diamonds": "Crowns",
+    "gems": "rejected name, never use (gemstone names reserved for side games)",
     "guineas": "coins",
-    "rubies": "scrubbed (blatantly referential), renamed to Crowns",
     "opals": "renamed to Favors (locked Sep 27, 2026)",
-    "gems": "rejected name, never use (gemstone names reserved for side games)"
+    "rubies": "scrubbed (blatantly referential), renamed to Crowns"
   },
-  "laws": [
-    "No ads of any kind, not even rewarded opt-in. IAP only.",
-    "Premium currency is Crowns; soft currency is coins.",
-    "Time always earns the same rewards as money; money strictly expedites.",
-    "Plot is never time-gated; energy is the only throttle.",
-    "No VS mode; no PvP leagues - solo society-rank ladder.",
-    "No avatar unlocks - outfits, hair, accessories only.",
-    "Scoring shows categories only; weights hidden. Six canonical categories: occasion fit, silhouette, palette, material, restraint + rotating editorial.",
-    "The Gazette is judge and narrator, never a paywall or notification feed.",
-    "Storyline advancement costs coins, never Crowns.",
-    "Free to finish, faster to fund.",
-    "Exchange-rate opacity (LOCKED Sep 27, 2026, Beth): non-round Crown denominations; no clean dollar-per-item math, ever."
+  "_tbd": [
+    "Starter pack player-facing product name (never 'whale')",
+    "Atelier 2x/4x/8x energy multipliers: amounts, unlock rules, Crown costs",
+    "Free-player coin-model validation against the ten-slot order queue (Beth's choices pending; per-scene 120-290 coins stands as documented)"
   ],
-  "pricing_posture": "LOCKED Sep 27, 2026 (Beth): err toward profitability; iron rule holds, exchange rate favors the house.",
-  "crowns": {
-    "role": "premium currency: flexibility, targeted items, fashion, energy, attempts; never score, rank, or favorable Gazette copy. PRIMARY purchase (LOCKED Sep 27, 2026).",
-    "packs": [
-      {
-        "usd": 0.99,
-        "tier_name": "A Handful of Crowns",
-        "crowns": 53,
-        "bonus_pct": 0
-      },
-      {
-        "usd": 4.99,
-        "tier_name": "The Velvet Purse",
-        "crowns": 317,
-        "bonus_pct": 5
-      },
-      {
-        "usd": 9.99,
-        "tier_name": "The Gilded Cache",
-        "crowns": 747,
-        "bonus_pct": 10
-      },
-      {
-        "usd": 19.99,
-        "tier_name": "The Royal Coffers",
-        "crowns": 1613,
-        "bonus_pct": 20
-      },
-      {
-        "usd": 49.99,
-        "tier_name": "The Crown Reserve",
-        "crowns": 4217,
-        "bonus_pct": 30
-      },
-      {
-        "usd": 99.99,
-        "tier_name": "The Crown Jewels",
-        "crowns": 8973,
-        "bonus_pct": 40
-      }
+  "coins": {
+    "chapter_unlock_gating": "DEFAULT: level N at (2xN-2) commissions + (N-1) rituals",
+    "never_sold_for_real_money": "LOCKED Sep 27, 2026 (Beth)",
+    "order_generator": {
+      "design_note": "The order queue is the free player's income engine: board play funds the story.",
+      "difficulty_spread": "Orders span easy to hard (DEFAULT: a mix of low-, mid-, and high-tier requests); payouts scale with tier (commissions round(2*tier*3.0), custom orders round(2*tier*1.0)).",
+      "payouts": "Authored story commissions sit alongside generated custom orders; payouts unchanged.",
+      "reachability_guarantee": "Every generated order obeys the reachability guarantee: it never requests an item the player could not merge into existence with unlimited time and energy \u2014 unlocked chains only, always producible.",
+      "rule": "The merge board always carries open orders: up to 10 standing order slots (DEFAULT); when a slot empties, the generator deals a new random order after a short delay (DEFAULT: 5 minutes).",
+      "status": "LOCKED Sep 27, 2026 (Beth)"
+    },
+    "purchasable": false,
+    "role": "soft currency: storyline advancement (scenes, selected estate progress); never Crowns.",
+    "scene_price": "LOCKED Sep 27, 2026 (Beth): 120 + 15 per item decision + 25 per color/finish decision + 60 for a major plot point; capped at 290; computed from scene metadata, never the season number",
+    "sinks": [
+      "dressing-ritual components (Beth Sep 27): 5 coins per micro-decision; rituals are event-variable (20-60 steps), so a full ritual costs 100-300 coins by occasion depth; re-picks within the session free; re-styling after the scene always free",
+      "story scenes / selected estate progress: 120-290 coins per scene (LOCKED)"
     ],
+    "sole_faucet": "LOCKED Sep 27, 2026 (Beth): order fulfillment is the SOLE coin faucet; random coin drops from board merges and direct coin-chain merges are cut; atelier multipliers cannot boost coin yields",
+    "sources": [
+      "order fulfillment: story commissions round(2 x requestedTier x 3.0); custom orders round(2 x requestedTier x 1.0)",
+      "rarity multiplier 1.0-2.0 for spawner-sourced items (per-chain config)",
+      "Modiste's Exchange: NO coin payouts (sole-faucet rule, Sep 28 2026 \u2014 supersedes the Sep 27 Exchange coin line); duplicate ultra-rare still grants the +1 favor kickback"
+    ]
+  },
+  "crowns": {
     "free_sources": [
       "random merge spawn: DEFAULT 2% per merge, cap 5 uncollected on board",
       "Daily Vote verdict: T2=1, T3=2, T4=3, T5=5 Crowns (T1=0); DEFAULT"
     ],
     "never_buys_story_beats": true,
+    "packs": [
+      {
+        "bonus_pct": 0,
+        "crowns": 53,
+        "tier_name": "A Handful of Crowns",
+        "usd": 0.99
+      },
+      {
+        "bonus_pct": 5,
+        "crowns": 317,
+        "tier_name": "The Velvet Purse",
+        "usd": 4.99
+      },
+      {
+        "bonus_pct": 10,
+        "crowns": 747,
+        "tier_name": "The Gilded Cache",
+        "usd": 9.99
+      },
+      {
+        "bonus_pct": 20,
+        "crowns": 1613,
+        "tier_name": "The Royal Coffers",
+        "usd": 19.99
+      },
+      {
+        "bonus_pct": 30,
+        "crowns": 4217,
+        "tier_name": "The Crown Reserve",
+        "usd": 49.99
+      },
+      {
+        "bonus_pct": 40,
+        "crowns": 8973,
+        "tier_name": "The Crown Jewels",
+        "usd": 99.99
+      }
+    ],
+    "role": "premium currency: flexibility, targeted items, fashion, energy, attempts; never score, rank, or favorable Gazette copy. PRIMARY purchase (LOCKED Sep 27, 2026).",
     "sinks": [
       {
         "item": "energy refill ladder",
@@ -108,74 +124,61 @@
         "status": "ultra-rare/dress/tiara LOCKED Sep 27, 2026 (Beth); Commons/Fines DEFAULT"
       },
       {
-        "item": "Belle Assemblée daily upgrade pieces",
+        "item": "Belle Assembl\u00e9e daily upgrade pieces",
         "price": "real-money packs, escalating ladder from $19.99 entry; bigger variations; repeatable",
         "status": "LOCKED Sep 27, 2026 (Beth): never required for T5; supersedes Crown-purchase"
       }
     ]
   },
-  "coins": {
-    "role": "soft currency: storyline advancement (scenes, selected estate progress); never Crowns.",
-    "purchasable": false,
-    "never_sold_for_real_money": "LOCKED Sep 27, 2026 (Beth)",
-    "scene_price": "LOCKED Sep 27, 2026 (Beth): 120 + 15 per item decision + 25 per color/finish decision + 60 for a major plot point; capped at 290; computed from scene metadata, never the season number",
-    "chapter_unlock_gating": "DEFAULT: level N at (2xN-2) commissions + (N-1) rituals",
-    "sources": [
-      "order fulfillment: story commissions round(2 x requestedTier x 3.0); custom orders round(2 x requestedTier x 1.0)",
-      "rarity multiplier 1.0-2.0 for spawner-sourced items (per-chain config)",
-      "Modiste's Exchange: NO coin payouts (sole-faucet rule, Sep 28 2026 — supersedes the Sep 27 Exchange coin line); duplicate ultra-rare still grants the +1 favor kickback"
-    ],
-    "sinks": [
-      "dressing-ritual components (Beth Sep 27): 5 coins per micro-decision; rituals are event-variable (20-60 steps), so a full ritual costs 100-300 coins by occasion depth; re-picks within the session free; re-styling after the scene always free",
-      "story scenes / selected estate progress: 120-290 coins per scene (LOCKED)"
-    ],
-    "order_generator": {
-      "status": "LOCKED Sep 27, 2026 (Beth)",
-      "rule": "The merge board always carries open orders: up to 10 standing order slots (DEFAULT); when a slot empties, the generator deals a new random order after a short delay (DEFAULT: 5 minutes).",
-      "difficulty_spread": "Orders span easy to hard (DEFAULT: a mix of low-, mid-, and high-tier requests); payouts scale with tier (commissions round(2*tier*3.0), custom orders round(2*tier*1.0)).",
-      "reachability_guarantee": "Every generated order obeys the reachability guarantee: it never requests an item the player could not merge into existence with unlimited time and energy — unlocked chains only, always producible.",
-      "payouts": "Authored story commissions sit alongside generated custom orders; payouts unchanged.",
-      "design_note": "The order queue is the free player's income engine: board play funds the story."
+  "energy": {
+    "_pools_note": "Craftsman's Court is drip-fed, no energy pool (synced 2026-09-29)",
+    "costs": {
+      "per_generator_dispense": "LOCKED: tap-time spend 1/2/4/8/16 energy -> L1/L2/L3/L4/L5 (all tiers available immediately; no unlocks). Replaces the stale flat '1'.",
+      "per_merge": 1
     },
-    "sole_faucet": "LOCKED Sep 27, 2026 (Beth): order fulfillment is the SOLE coin faucet; random coin drops from board merges and direct coin-chain merges are cut; atelier multipliers cannot boost coin yields"
-  },
-  "favors": {
-    "name_status": "LOCKED Sep 27, 2026 (Beth): Favors (gemstone names reserved for side games)",
-    "role": "card currency; earned only, never bought (no SKU, no purchase path)",
-    "earn_rates": [
-      "1 per 3 fulfilled orders",
-      "1 per Daily Vote entry",
-      "1 per 50 merges (any board)"
+    "crowns_convert_to_energy": "LOCKED Sep 27, 2026 (Beth): refill ladder is the Crown-to-energy conversion",
+    "drops": "DEFAULT: 5% per merge -> +5 energy (lost at cap); Park merges DEFAULT 60% -> +3 park energy",
+    "judging_reward": "+3 atelier energy per judgment, max 20 judgments/day - LOCKED Sep 27, 2026 (Beth)",
+    "max": 200,
+    "max_status": "LOCKED Sep 27, 2026 (Beth): regen cap; purchased energy uncapped, no upper limit",
+    "multipliers": {
+      "acquisition": "LOCKED Sep 29, 2026 (Beth): 1x/2x/4x/8x/16x are TAP-TIME energy spend choices on producers (1/2/4/8/16 energy -> L1-L5), available from the start. NOT earned through mastery/milestones, NOT purchasable with Crowns. Supersedes the stale Sep 27 mastery/Crown language.",
+      "amounts_unlock_costs": "TBD"
+    },
+    "pools": [
+      "atelier",
+      "park",
+      "conservatory"
     ],
-    "earn_rates_status": "LOCKED Sep 27, 2026 (Beth)",
-    "draw": {
-      "cost": "5 favors -> 1 random closet card",
-      "weights": {
-        "common": 60,
-        "fine": 25,
-        "rare": 12,
-        "ultra-rare": 3
-      },
-      "weights_status": "LOCKED Sep 27, 2026 (Beth)",
-      "pity": "guaranteed Rare-or-better every 20 draws, guaranteed Ultra-Rare every 80 (counters persist) - LOCKED Sep 27, 2026 (Beth)",
-      "completion_kickback": "10 favors - LOCKED Sep 27, 2026 (Beth)"
+    "refill_ladder_crowns": [
+      15,
+      25,
+      50,
+      100,
+      150
+    ],
+    "refill_ladder_reset": "price returns to 15 when 24h have passed since last refill purchase (rolling window, server time)",
+    "refill_ladder_status": "ladder shape DECIDED; prices DEFAULT",
+    "regen_rate": "LOCKED Sep 27, 2026 (Beth): 1 energy per 3 minutes, accrues while closed (lastTickAt), never exceeds 200",
+    "verdict_energy": {
+      "T1": 5,
+      "T2": 8,
+      "T3": 10,
+      "T4": 12,
+      "T5": 15,
+      "status": "LOCKED Sep 27, 2026 (Beth)"
     }
   },
   "estate_funds": {
-    "role": "Hartwell Park restoration only; ledger-enforced, never leaves the Park",
+    "_vocab": "Beth's language (Sep 29 2026): the Atelier has 'orders' / 'order cards'. The Estate board has 'the Day-Book'. Never call Atelier orders Day-Book; never apply Day-Book to the Atelier.",
+    "_zone_source": "canonical: Content/estate-zones.json (synced 2026-09-29; replaces stale west-gallery list)",
     "earn": [
-      "10 per story commission fulfilled",
-      "4 per custom order fulfilled"
+      "10 per Day-Book story commission fulfilled (Estate board fixed Day-Book tile)",
+      "4 per Day-Book custom order fulfilled (Estate board fixed Day-Book tile)"
     ],
-    "zone_order": [
-      "west gallery",
-      "library",
-      "walled garden",
-      "stables",
-      "servants' hall",
-      "tenant cottages",
-      "lake pavilion"
-    ],
+    "note": "no timer on restoration, ever; required merge products tiers 4-8 escalating",
+    "role": "Hartwell Park restoration only; ledger-enforced, never leaves the Park",
+    "source_board": "Estate board Day-Book ONLY. The Atelier's orders pay COINS, never Estate Funds.",
     "zone_costs": [
       100,
       200,
@@ -186,150 +189,121 @@
       1000
     ],
     "zone_costs_status": "LOCKED Sep 27, 2026 (Beth)",
-    "note": "no timer on restoration, ever; required merge products tiers 4-8 escalating"
+    "zone_order": [
+      "arrival_court",
+      "kitchen_garden",
+      "wild_garden",
+      "folly",
+      "orangery",
+      "stables",
+      "ballroom"
+    ]
   },
   "event_currencies": {
-    "namespace": "event:<eventId>; earned and spent only inside that event",
     "earn": [
       "event tasks",
       "judging Daily Vote entries: 2 event-progress points per judgment, 1:1 to live event currency - LOCKED Sep 27, 2026 (Beth)"
     ],
-    "shop": "6 items per event (energy boosts, board items, rarely a premium Fashion Plate) - LOCKED Sep 27, 2026 (Beth)",
-    "settlement": "leftovers auto-convert to energy at 10:1 (rounded down) at event end - LOCKED Sep 27, 2026 (Beth): no event-currency-to-coin settlement, ever"
+    "namespace": "event:<eventId>; earned and spent only inside that event",
+    "settlement": "leftovers auto-convert to energy at 10:1 (rounded down) at event end - LOCKED Sep 27, 2026 (Beth): no event-currency-to-coin settlement, ever",
+    "shop": "6 items per event (energy boosts, board items, rarely a premium Fashion Plate) - LOCKED Sep 27, 2026 (Beth)"
   },
-  "energy": {
-    "pools": [
-      "atelier",
-      "park"
-    ],
-    "max": 200,
-    "max_status": "LOCKED Sep 27, 2026 (Beth): regen cap; purchased energy uncapped, no upper limit",
-    "regen_rate": "LOCKED Sep 27, 2026 (Beth): 1 energy per 3 minutes, accrues while closed (lastTickAt), never exceeds 200",
-    "costs": {
-      "per_merge": 1,
-      "per_generator_dispense": 1
+  "favors": {
+    "draw": {
+      "completion_kickback": "10 favors - LOCKED Sep 27, 2026 (Beth)",
+      "cost": "5 favors -> 1 random closet card",
+      "pity": "guaranteed Rare-or-better every 20 draws, guaranteed Ultra-Rare every 80 (counters persist) - LOCKED Sep 27, 2026 (Beth)",
+      "weights": {
+        "common": 60,
+        "fine": 25,
+        "rare": 12,
+        "ultra-rare": 3
+      },
+      "weights_status": "LOCKED Sep 27, 2026 (Beth)"
     },
-    "crowns_convert_to_energy": "LOCKED Sep 27, 2026 (Beth): refill ladder is the Crown-to-energy conversion",
-    "refill_ladder_crowns": [
-      15,
-      25,
-      50,
-      100,
-      150
+    "earn_rates": [
+      "1 per 3 fulfilled orders",
+      "1 per Daily Vote entry",
+      "1 per 50 merges (any board)"
     ],
-    "refill_ladder_status": "ladder shape DECIDED; prices DEFAULT",
-    "refill_ladder_reset": "price returns to 15 when 24h have passed since last refill purchase (rolling window, server time)",
-    "drops": "DEFAULT: 5% per merge -> +5 energy (lost at cap); Park merges DEFAULT 60% -> +3 park energy",
-    "judging_reward": "+3 atelier energy per judgment, max 20 judgments/day - LOCKED Sep 27, 2026 (Beth)",
-    "verdict_energy": {
-      "T1": 5,
-      "T2": 8,
-      "T3": 10,
-      "T4": 12,
-      "T5": 15,
+    "earn_rates_status": "LOCKED Sep 27, 2026 (Beth)",
+    "name_status": "LOCKED Sep 27, 2026 (Beth): Favors (gemstone names reserved for side games)",
+    "role": "card currency; earned only, never bought (no SKU, no purchase path)"
+  },
+  "iap_packs": {
+    "_note": "Locked pack lineup (Beth, Sep 27, 2026). Money buys Crowns and energy ONLY - never coins, never story advancement. Mirrors StoreCatalog in Assets/Scripts/Domain/Economy/Economy.cs.",
+    "daily_offer": {
+      "crowns": 700,
+      "energy": 100,
+      "player_facing_name": "TBD (never 'Pin Money Daily')",
+      "price_usd": 19.99,
       "status": "LOCKED Sep 27, 2026 (Beth)"
     },
-    "multipliers": {
-      "acquisition": "LOCKED Sep 27, 2026 (Beth): 2x/4x/8x atelier tiers earned through mastery milestones AND purchasable with Crowns",
-      "amounts_unlock_costs": "TBD"
+    "debutantes_chest": {
+      "bonus": "1 exclusive outfit",
+      "crowns": 3000,
+      "energy": 500,
+      "price_usd": 99.99,
+      "status": "LOCKED Sep 27, 2026 (Beth)"
+    },
+    "pin_money": {
+      "bonus": "1 Atelier chest (6 random board items, tiers 2-5)",
+      "crowns": 2000,
+      "energy": 150,
+      "note": "value bundle, no chapter framing or progress promises",
+      "price_usd": 49.99,
+      "status": "LOCKED Sep 27, 2026 (Beth)"
     }
   },
-  "verdict_table": {
-    "rule": "tier = ceil(total / 20); pure reward, never punishment",
-    "status": "LOCKED Sep 27, 2026 (Beth)",
-    "tiers": [
-      {
-        "tier": "T1",
-        "standing": 20,
-        "crowns": 0,
-        "energy": 5
-      },
-      {
-        "tier": "T2",
-        "standing": 40,
-        "crowns": 1,
-        "energy": 8
-      },
-      {
-        "tier": "T3",
-        "standing": 70,
-        "crowns": 2,
-        "energy": 10
-      },
-      {
-        "tier": "T4",
-        "standing": 120,
-        "crowns": 3,
-        "energy": 12
-      },
-      {
-        "tier": "T5",
-        "standing": 200,
-        "crowns": 5,
-        "energy": 15
-      }
-    ]
-  },
+  "laws": [
+    "No ads of any kind, not even rewarded opt-in. IAP only.",
+    "Premium currency is Crowns; soft currency is coins.",
+    "Time always earns the same rewards as money; money strictly expedites.",
+    "Plot is never time-gated; energy is the only throttle.",
+    "No VS mode; no PvP leagues - solo society-rank ladder.",
+    "No avatar unlocks - outfits, hair, accessories only.",
+    "Scoring shows categories only; weights hidden. Six canonical categories: occasion fit, silhouette, palette, material, restraint + rotating editorial.",
+    "The Gazette is judge and narrator, never a paywall or notification feed.",
+    "Storyline advancement costs coins, never Crowns.",
+    "Free to finish, faster to fund.",
+    "Exchange-rate opacity (LOCKED Sep 27, 2026, Beth): non-round Crown denominations; no clean dollar-per-item math, ever."
+  ],
   "passes": {
     "event_pass": {
+      "cadence": "weekly events run Monday 00:00 UTC -> Sunday 23:59 UTC; 4 weeks banked at launch",
       "durations_days": [
         3,
         7,
         14
       ],
-      "cadence": "weekly events run Monday 00:00 UTC -> Sunday 23:59 UTC; 4 weeks banked at launch",
-      "tasks": "DEFAULT: 8 escalating tasks per event; every task pays event currency + a plaque drop",
-      "plaque_sets": "8 plaques x 5 levels; task drops L1 50% / L2 30% / L3 20%; L4-5 by merging duplicates; set completion -> board generator (tiers 3-6, 120s cooldown, 25 charges) - LOCKED Sep 27, 2026 (Beth)",
+      "per_event_design": "ADOPTED Sep 27, 2026 (Beth): all three formats coexist - fortnightly 5-day Season Balls (A), weekly 3-day Gazette Challenges (C), monthly 7-day Patron's Ledger galas (B); see event-pass-proposals.md. Per-event content (outfit, occasion) is a content-calendar decision.",
       "plaque_carryover": "incomplete sets carry to the event's next rerun - LOCKED Sep 27, 2026 (Beth)",
+      "plaque_sets": "8 plaques x 5 levels; task drops L1 50% / L2 30% / L3 20%; L4-5 by merging duplicates; set completion -> board generator (tiers 3-6, 120s cooldown, 25 charges) - LOCKED Sep 27, 2026 (Beth)",
       "price": "$4.99 base escalating to $49.99 with play - LOCKED Sep 27, 2026 (Beth)",
-      "track_template": "40 tiers, free + premium rows - LOCKED Sep 27, 2026 (Beth)",
+      "tasks": "DEFAULT: 8 escalating tasks per event; every task pays event currency + a plaque drop",
       "track_contents": "outfit pieces + Crowns + energy - LOCKED Sep 27, 2026 (Beth)",
-      "per_event_design": "ADOPTED Sep 27, 2026 (Beth): all three formats coexist - fortnightly 5-day Season Balls (A), weekly 3-day Gazette Challenges (C), monthly 7-day Patron's Ledger galas (B); see event-pass-proposals.md. Per-event content (outfit, occasion) is a content-calendar decision."
+      "track_template": "40 tiers, free + premium rows - LOCKED Sep 27, 2026 (Beth)"
     }
   },
+  "paywall_audit": "free player (zero IAP, average luck) must clear all 30 chapters, all closet collections, all 7 Park zones, one full event; favors no purchase path; Estate Funds never leave the Park; event currencies never leave their event",
+  "pricing_posture": "LOCKED Sep 27, 2026 (Beth): err toward profitability; iron rule holds, exchange rate favors the house.",
+  "purse_moment": "one per level = the jewel-shelf premium spend only; commission lines relabeled 'Preparation ritual' (fashion currency, merge-earned)",
   "starter_pack": {
-    "price": 99.99,
-    "working_name": "Debutante's Chest (replaces the old starter pack)",
     "contents": "3,000 Crowns + one exclusive outfit + 500 raw energy - LOCKED Sep 27, 2026 (Beth)",
     "player_facing_name": "TBD (never 'whale')",
-    "tuning_target": "enough for the first major social payoff and 3-5 high-engagement sessions; must not finish a timed pass, bankroll Vote dominance, or bypass the next replenishment decision"
-  },
-  "iap_packs": {
-    "_note": "Locked pack lineup (Beth, Sep 27, 2026). Money buys Crowns and energy ONLY - never coins, never story advancement. Mirrors StoreCatalog in Assets/Scripts/Domain/Economy/Economy.cs.",
-    "debutantes_chest": {
-      "price_usd": 99.99,
-      "crowns": 3000,
-      "energy": 500,
-      "bonus": "1 exclusive outfit",
-      "status": "LOCKED Sep 27, 2026 (Beth)"
-    },
-    "pin_money": {
-      "price_usd": 49.99,
-      "crowns": 2000,
-      "energy": 150,
-      "bonus": "1 Atelier chest (6 random board items, tiers 2-5)",
-      "note": "value bundle, no chapter framing or progress promises",
-      "status": "LOCKED Sep 27, 2026 (Beth)"
-    },
-    "daily_offer": {
-      "price_usd": 19.99,
-      "crowns": 700,
-      "energy": 100,
-      "player_facing_name": "TBD (never 'Pin Money Daily')",
-      "status": "LOCKED Sep 27, 2026 (Beth)"
-    }
+    "price": 99.99,
+    "tuning_target": "enough for the first major social payoff and 3-5 high-engagement sessions; must not finish a timed pass, bankroll Vote dominance, or bypass the next replenishment decision",
+    "working_name": "Debutante's Chest (replaces the old starter pack)"
   },
   "time_only_rewards": {
-    "status": "LOCKED Sep 27, 2026 (Beth)",
     "items": [
       "Triumph Gown (all 30 S1 chapters)",
       "season-completion keepsakes",
       "perfect-season mementos"
     ],
-    "rule": "never purchasable at any price"
+    "rule": "never purchasable at any price",
+    "status": "LOCKED Sep 27, 2026 (Beth)"
   },
-  "purse_moment": "one per level = the jewel-shelf premium spend only; commission lines relabeled 'Preparation ritual' (fashion currency, merge-earned)",
-  "paywall_audit": "free player (zero IAP, average luck) must clear all 30 chapters, all closet collections, all 7 Park zones, one full event; favors no purchase path; Estate Funds never leave the Park; event currencies never leave their event",
   "tunable_defaults": [
     "Crown merge spawns: 2% per merge, cap 5 uncollected",
     "Daily Vote Crown grants: T2-T5 -> 1/2/3/5",
@@ -342,9 +316,40 @@
     "Event tasks: 8 per event",
     "Jewel shelf Commons 20 / Fines 60"
   ],
-  "_tbd": [
-    "Starter pack player-facing product name (never 'whale')",
-    "Atelier 2x/4x/8x energy multipliers: amounts, unlock rules, Crown costs",
-    "Free-player coin-model validation against the ten-slot order queue (Beth's choices pending; per-scene 120-290 coins stands as documented)"
-  ]
+  "verdict_table": {
+    "rule": "tier = ceil(total / 20); pure reward, never punishment",
+    "status": "LOCKED Sep 27, 2026 (Beth)",
+    "tiers": [
+      {
+        "crowns": 0,
+        "energy": 5,
+        "standing": 20,
+        "tier": "T1"
+      },
+      {
+        "crowns": 1,
+        "energy": 8,
+        "standing": 40,
+        "tier": "T2"
+      },
+      {
+        "crowns": 2,
+        "energy": 10,
+        "standing": 70,
+        "tier": "T3"
+      },
+      {
+        "crowns": 3,
+        "energy": 12,
+        "standing": 120,
+        "tier": "T4"
+      },
+      {
+        "crowns": 5,
+        "energy": 15,
+        "standing": 200,
+        "tier": "T5"
+      }
+    ]
+  }
 }

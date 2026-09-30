@@ -25,6 +25,16 @@ public static class ContentImporter
     [MenuItem("Scandal Season/Import Content JSON")]
     public static void ImportAll()
     {
+        int errors = ImportAllNoExit();
+        ExitBatchMode(errors);
+    }
+
+    /// <summary>
+    /// Imports all content without exiting Unity. Returns the error count.
+    /// Used by V9LocalBuild for orchestrated builds.
+    /// </summary>
+    public static int ImportAllNoExit()
+    {
         var errors = new List<string>();
         string contentDir = ContentDirectory();
 
@@ -47,7 +57,7 @@ public static class ContentImporter
             Debug.Log("[Content] Import complete — all files valid.");
         }
 
-        ExitBatchMode(errors.Count);
+        return errors.Count;
     }
 
     [MenuItem("Scandal Season/Validate Content JSON")]
@@ -223,8 +233,8 @@ public static class ContentImporter
                 errors.Add($"{fileName}: duplicate chain id '{chain.id}'.");
             if (string.IsNullOrWhiteSpace(chain.displayName))
                 errors.Add($"{fileName}: chain '{chain.id}' needs a displayName.");
-            if (chain.levels.Length != 10)
-                errors.Add($"{fileName}: chain '{chain.id}' must have exactly 10 levels (locked engine rule; found {chain.levels.Length}).");
+            if (chain.levels.Length < 10 || chain.levels.Length > 19)
+                errors.Add($"{fileName}: chain '{chain.id}' must have 10-19 levels (chains vary 10-15; core chains may extend to 19; found {chain.levels.Length}).");
             for (int i = 0; i < chain.levels.Length; i++)
             {
                 var lvl = chain.levels[i];

@@ -8,14 +8,14 @@
 //   - Orders span easy to hard (DEFAULT: a mix of low-, mid-, and high-tier requests).
 //   - Reachability guarantee: a generated order never requests an item the player
 //     could not merge into existence with unlimited time and energy — unlocked
-//     chains only, always producible (any level 1..MaxChainLevel of an unlocked
-//     chain is reachable by merging).
+//     chains only, always producible (any level 1..that chain's own final level
+//     of an unlocked chain is reachable by merging).
 //   - Payouts scale with tier (tier = requested item's chain level):
 //     commissions round(2*tier*3.0), custom orders round(2*tier*1.0).
 //   - Authored story commissions sit alongside generated custom orders; their
 //     payouts are authored and unchanged.
 // Values marked DEFAULT are tunable via constructor parameters; the mix shape
-// (low 1-3 / mid 4-7 / high 8-10) is the DEFAULT interpretation and can be
+// (low 1-3 / mid 4-7 / high 8..chain final level) is the DEFAULT interpretation and can be
 // replaced by supplying generated orders through AddCommission or by reusing
 // GenerateCustomOrder with different bands.
 
@@ -37,14 +37,16 @@ namespace ScandalSeason.Domain.Merge
         /// <summary>True for authored story commissions; false for generated custom orders.</summary>
         public bool IsCommission { get; }
 
-        public OrderRequest(string orderId, string chainId, int level, int coinPayout, bool isCommission)
+        public OrderRequest(string orderId, string chainId, int level, int coinPayout, bool isCommission, int chainMaxLevel)
         {
             if (string.IsNullOrWhiteSpace(orderId))
                 throw new ArgumentException("Order id is required.", nameof(orderId));
             if (string.IsNullOrWhiteSpace(chainId))
                 throw new ArgumentException("Chain id is required.", nameof(chainId));
-            if (level < 1 || level > MergeBoard.MaxChainLevel)
-                throw new ArgumentOutOfRangeException(nameof(level), $"Level must be 1..{MergeBoard.MaxChainLevel}.");
+            if (chainMaxLevel < 1)
+                throw new ArgumentOutOfRangeException(nameof(chainMaxLevel), "Chain max level is required.");
+            if (level < 1 || level > chainMaxLevel)
+                throw new ArgumentOutOfRangeException(nameof(level), $"Level must be 1..{chainMaxLevel} for chain '{chainId}'.");
             if (coinPayout < 0)
                 throw new ArgumentOutOfRangeException(nameof(coinPayout), "Payout cannot be negative.");
             OrderId = orderId;
@@ -76,6 +78,7 @@ namespace ScandalSeason.Domain.Merge
         public TimeSpan RefillDelay { get; }
 
         private readonly List<string> _unlockedChainIds;
+        private readonly IReadOnlyDictionary<string, int> _chainMaxLevels;
         private readonly OrderRequest?[] _slots;
         private readonly DateTime[] _refillAtUtc;
         private readonly Random _random;
@@ -83,11 +86,13 @@ namespace ScandalSeason.Domain.Merge
 
         public OrderQueue(
             IReadOnlyList<string> unlockedChainIds,
+            IReadOnlyDictionary<string, int> chainMaxLevels,
             int maxStandingOrders = DefaultMaxStandingOrders,
             TimeSpan? refillDelay = null,
             int? seed = null)
         {
             if (unlockedChainIds == null) throw new ArgumentNullException(nameof(unlockedChainIds));
+            if (chainMaxLevels == null) throw new ArgumentNullException(nameof(chainMaxLevels));
             if (maxStandingOrders < 1) throw new ArgumentOutOfRangeException(nameof(maxStandingOrders));
             var delay = refillDelay ?? DefaultRefillDelay;
             if (delay < TimeSpan.Zero) throw new ArgumentOutOfRangeException(nameof(refillDelay));
@@ -95,6 +100,7 @@ namespace ScandalSeason.Domain.Merge
             MaxStandingOrders = maxStandingOrders;
             RefillDelay = delay;
             _unlockedChainIds = new List<string>(unlockedChainIds);
+            _chainMaxLevels = chainMaxLevels;
             _slots = new OrderRequest?[maxStandingOrders];
             _refillAtUtc = new DateTime[maxStandingOrders];
             _random = seed.HasValue ? new Random(seed.Value) : new Random();
@@ -152,41 +158,55 @@ namespace ScandalSeason.Domain.Merge
 
         /// <summary>
         /// Generates one custom order: a random unlocked chain, a level drawn from the
-        /// easy-to-hard mix, payout per the locked custom-order formula.
+        /// easy-to-hard mix against that chain's own final level, payout per the
+        /// locked custom-order formula.
         /// </summary>
         public static OrderRequest GenerateCustomOrder(
-            IReadOnlyList<string> unlockedChainIds, Random random, int orderSeq)
+            IReadOnlyList<string> unlockedChainIds,
+            IReadOnlyDictionary<string, int> chainMaxLevels,
+            Random random, int orderSeq)
         {
             if (unlockedChainIds == null) throw new ArgumentNullException(nameof(unlockedChainIds));
+            if (chainMaxLevels == null) throw new ArgumentNullException(nameof(chainMaxLevels));
             if (random == null) throw new ArgumentNullException(nameof(random));
             if (unlockedChainIds.Count == 0)
                 throw new InvalidOperationException("Cannot generate an order: no chains unlocked.");
 
             string chainId = unlockedChainIds[random.Next(unlockedChainIds.Count)];
+            if (!chainMaxLevels.TryGetValue(chainId, out int chainMax) || chainMax < 1)
+                throw new InvalidOperationException(
+                    $"Cannot generate an order: chain '{chainId}' has no registered final level.");
 
             int band = random.Next(3);
             int level = band == 0
                 ? random.Next(1, LowBandMax + 1)
                 : band == 1
                     ? random.Next(LowBandMax + 1, MidBandMax + 1)
-                    : random.Next(MidBandMax + 1, MergeBoard.MaxChainLevel + 1);
+                    : random.Next(MidBandMax + 1, chainMax + 1);
 
             return new OrderRequest(
-                $"order-{orderSeq}", chainId, level, CustomOrderPayout(level), isCommission: false);
+                $"order-{orderSeq}", chainId, level, CustomOrderPayout(level), isCommission: false, chainMax);
         }
 
         /// <summary>
         /// Places an authored story commission into the first empty slot.
-        /// Payout is authored (unchanged); the chain must still be unlocked.
+        /// Payout is authored (unchanged); the chain must still be unlocked and the
+        /// level must not exceed that chain's own final level.
         /// </summary>
         public void AddCommission(string orderId, string chainId, int level, int coinPayout)
         {
             EnsureReachable(_unlockedChainIds, chainId);
+            if (!_chainMaxLevels.TryGetValue(chainId, out int chainMax) || chainMax < 1)
+                throw new InvalidOperationException(
+                    $"Cannot place commission: chain '{chainId}' has no registered final level.");
+            if (level < 1 || level > chainMax)
+                throw new ArgumentOutOfRangeException(nameof(level),
+                    $"Level must be 1..{chainMax} for chain '{chainId}'.");
             for (int i = 0; i < _slots.Length; i++)
             {
                 if (_slots[i] == null)
                 {
-                    _slots[i] = new OrderRequest(orderId, chainId, level, coinPayout, isCommission: true);
+                    _slots[i] = new OrderRequest(orderId, chainId, level, coinPayout, isCommission: true, chainMax);
                     return;
                 }
             }
@@ -239,7 +259,7 @@ namespace ScandalSeason.Domain.Merge
         private void DealIntoSlot(int slotIndex)
         {
             if (_unlockedChainIds.Count == 0) return;
-            _slots[slotIndex] = GenerateCustomOrder(_unlockedChainIds, _random, _nextOrderSeq++);
+            _slots[slotIndex] = GenerateCustomOrder(_unlockedChainIds, _chainMaxLevels, _random, _nextOrderSeq++);
         }
     }
 }

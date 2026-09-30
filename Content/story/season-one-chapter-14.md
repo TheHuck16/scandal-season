@@ -758,6 +758,7 @@
 > *The hall is dark beyond the lamp's reach; the portraits pretend not to listen.*
 > (T4 · remembered micro-decision) *She reads it again — the codicil, real, held; the twice, the honor due.* — remembered: *the re-reading.*
 > She reads it once. She reads it again. The forgery in her desk; the codicil in Quill's keeping; the ruin — manufactured, proved, *named*. The two papers she held to the lamplight — the forged signature, the forged betrothal — now have their third point of the triangle, and the triangle points at one hand, one month.
+> The printer's name in the notebook — underlined twice, still unwitnessed — could stay unwitnessed now. The trade had answered her questions with shut doors and polished smiles; no pressman names a press to a girl with a notebook. Quill's seal had said what no compositor would.
 > (T5 · social maneuver) *She carries it to Augusta — the general, the dispatch; the carrying, the campaign's.* — remembered: *the carrying.*
 > (T6 · dialogue) *"The March codicil — exists."; "It is real."; "It is — held."* — remembered: *the litany.*
 > *The seal's wax is still tacky under her thumb — the confirmation, fresh and unanswerable.*

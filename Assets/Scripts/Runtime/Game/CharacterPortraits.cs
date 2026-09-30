@@ -31,7 +31,7 @@ namespace ScandalSeason.Runtime.Game
             { "valcourt", "Portraits/character-3d-lucien-valcourt-v1-42c8b7a1" },
             { "sloane", "Portraits/character-3d-verity-sloane-v2c-9b3e7c1a" },
             { "verity", "Portraits/character-3d-verity-sloane-v2c-9b3e7c1a" },
-            { "hugh", "Portraits/character-3d-hugh-hartwell-v1-649383b9" },
+            { "hugh", "Portraits/character-3d-hugh-hartwell-v2-a8f3c21d" },
             { "harrow", "Portraits/character-3d-james-harrow-v4-3312334a" },
             { "marquis", "Portraits/character-3d-marquis-saint-ange-v3-4acda44f" },
             { "saint-ange", "Portraits/character-3d-marquis-saint-ange-v3-4acda44f" },

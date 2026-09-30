@@ -74,8 +74,8 @@
       },
       "minItems": 10,
       "type": "array",
-      "maxItems": 10,
-      "description": "Locked engine rule (Sep 27 2026): exactly 10 levels per chain; merging two level-10 items is rejected."
+      "maxItems": 19,
+      "description": "Chain length rule: chains have 10-15 levels; core chains may extend to 19. Chains should not all share the same length — each chain merges only up to its own final level."
      }
     },
     "required": [

@@ -10,8 +10,18 @@ public sealed class OrderQueueTests
     private static readonly DateTime T0 = new DateTime(2026, 9, 27, 12, 0, 0, DateTimeKind.Utc);
     private static readonly string[] Chains = { "atelier.notions", "atelier.fabric", "park.seeds" };
 
+    // Each chain's own final level. Chains vary 10-15 (core to 19) and must not
+    // all share the same length — the queue bounds every order against the
+    // specific chain's final level, never a global cap.
+    private static readonly Dictionary<string, int> ChainMaxLevels = new Dictionary<string, int>
+    {
+        ["atelier.notions"] = 12,
+        ["atelier.fabric"] = 15,
+        ["park.seeds"] = 10,
+    };
+
     private static OrderQueue NewQueue(int? seed = 42) =>
-        new OrderQueue(Chains, seed: seed);
+        new OrderQueue(Chains, ChainMaxLevels, seed: seed);
 
     [Fact]
     public void Queue_StartsFull_WithDefaultSlotCount()
@@ -24,7 +34,7 @@ public sealed class OrderQueueTests
     [Fact]
     public void Queue_CustomSlotCount_Respected()
     {
-        var q = new OrderQueue(Chains, maxStandingOrders: 3, seed: 1);
+        var q = new OrderQueue(Chains, ChainMaxLevels, maxStandingOrders: 3, seed: 1);
         Assert.Equal(3, q.StandingOrderCount);
     }
 
@@ -84,12 +94,13 @@ public sealed class OrderQueueTests
     {
         for (int seed = 0; seed < 20; seed++)
         {
-            var q = new OrderQueue(Chains, seed: seed);
+            var q = new OrderQueue(Chains, ChainMaxLevels, seed: seed);
             for (int i = 0; i < q.MaxStandingOrders; i++)
             {
                 var order = q.GetOrder(i)!;
                 Assert.Contains(order.ChainId, Chains);
-                Assert.InRange(order.Level, 1, MergeBoard.MaxChainLevel);
+                // Bounded by that chain's own final level, never a global cap.
+                Assert.InRange(order.Level, 1, ChainMaxLevels[order.ChainId]);
             }
         }
     }
@@ -100,7 +111,7 @@ public sealed class OrderQueueTests
         var seenLow = false; var seenMid = false; var seenHigh = false;
         for (int seed = 0; seed < 50 && !(seenLow && seenMid && seenHigh); seed++)
         {
-            var q = new OrderQueue(Chains, seed: seed);
+            var q = new OrderQueue(Chains, ChainMaxLevels, seed: seed);
             for (int i = 0; i < q.MaxStandingOrders; i++)
             {
                 int level = q.GetOrder(i)!.Level;
@@ -115,7 +126,8 @@ public sealed class OrderQueueTests
     [Fact]
     public void PayoutFormulas_MatchLockedValues()
     {
-        for (int tier = 1; tier <= MergeBoard.MaxChainLevel; tier++)
+        // Payouts scale with tier across the full legal chain-length range (10-19).
+        for (int tier = 1; tier <= 19; tier++)
         {
             Assert.Equal(6 * tier, OrderQueue.CommissionPayout(tier)); // round(2*tier*3.0)
             Assert.Equal(2 * tier, OrderQueue.CustomOrderPayout(tier)); // round(2*tier*1.0)
@@ -150,9 +162,23 @@ public sealed class OrderQueueTests
     }
 
     [Fact]
+    public void AddCommission_LevelBeyondChainFinal_Throws()
+    {
+        // park.seeds runs 10 levels; a level-11 commission is unproducible.
+        var q = NewQueue();
+        var order = q.GetOrder(0)!;
+        Assert.True(q.TryFulfillOrder(0, order.ChainId, order.Level, T0, out _));
+        Assert.Throws<ArgumentOutOfRangeException>(
+            () => q.AddCommission("bad", "park.seeds", 11, 100));
+        // At the chain's own final level is fine.
+        q.AddCommission("ok", "park.seeds", 10, 100);
+        Assert.Equal("ok", q.GetOrder(0)!.OrderId);
+    }
+
+    [Fact]
     public void Queue_WithNoUnlockedChains_StaysEmpty_UntilChainsUnlock()
     {
-        var q = new OrderQueue(Array.Empty<string>(), seed: 7);
+        var q = new OrderQueue(Array.Empty<string>(), ChainMaxLevels, seed: 7);
         Assert.Equal(0, q.StandingOrderCount);
         q.SetUnlockedChains(Chains);
         q.Refresh(T0);

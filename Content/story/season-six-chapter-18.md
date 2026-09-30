@@ -35,7 +35,7 @@
 *Purpose: the ledger for the refusal — Wednesday afternoon; twelve hundred honest, eleven two declined; the figures stated. (Turns: 8)*
 > *(The war room, Wednesday afternoon. Henry brings the ledger, which is his way of bringing counsel — the figures first, the advice somewhere inside them.)*
 > "The figures, Rose." Henry opens the book, and the leather gives its soft familiar thud. "The venture — thirty-two thousand five hundred. The honest — twelve hundred. The sweetened —" he glances up "— eleven two, declined."
-> (T1 · look closer) *The numbers stand in their columns, black on cream. The refusal's whole arithmetic, and not a digit out of place.*
+> (T1 · look closer) *The numbers stand in their columns, black on cream. The refusal's arithmetic, and not a digit out of place.*
 > "Declined." Rose nods at the page. "Tomorrow's the refusal's, Henry. Tonight's the choosing — the manner of it."
 > (T2 · tone) *Level. The ledger steadies her; it always has.*
 > "The manner." Henry runs a finger down the column. "The venture holds its thirty-two five hundred. The face — twenty-five thousand. The outstanding — forty-eight." He looks up. "Whatever manner you choose, the figures don't flinch."
@@ -115,7 +115,7 @@
 > "Kept." He bows — deeper this time, the rehearsal holding. "Miss Hartwell — the refusal — is heard." He gathers the papers with hands that don't quite shake. "The Cane-Cutter — sails on it."
 > (T3 · dialogue) *"The sweetened, declined."; "Twelve hundred, honest, kept."; "The refusal, heard."*
 > "Sails on it." She stands — the interview's length has been exactly right, and they both know it. "Mr. Vale — the West India business. The week's to charter it."
-> (T4 · stance) *On her feet, the blue dark around her — the heiress giving the sugar merchant the week's whole account, and the account balanced.*
+> (T4 · stance) *On her feet, the blue dark around her — the heiress giving the sugar merchant the week's account, and the account balanced.*
 > "Chartered." He considers — and the considering is honest, she'll give him that. "The honest —" a pause "— keeps, Miss Hartwell. Twelve hundred — kept." He almost smiles. "The City will talk. Let it."
 > (T5 · look closer) *The almost-smile is the truest thing he's shown her: a merchant recognizing a better merchant.*
 > "Let it." She nods. "The noon's the refusal's, Mr. Vale. The afternoon — the charter's."
@@ -352,7 +352,7 @@
 ### L18.S18 · [C] · Rose (alone), dressing for Sloane's masquerade
 *Purpose: ★ DRESSING RITUAL — the masquerade ritual — Saturday evening, alone; twenty pins, five coins each; the night faced. (Turns: 21)*
 > *(Her chambers, Saturday evening. The masquerade ritual: the blue gown, the plain mask, the season's one honest conversation — and the pinning done the ritual's way, twenty pins, each with its meaning, each five coins of intent.)*
-> The blue gown waits — the honest's cloth, chosen at morning. Rose stands in her shift, Saturday evening amber at the window, and begins — one pin at a time, the week's whole account pinned into the cloth.
+> The blue gown waits — the honest's cloth, chosen at morning. Rose stands in her shift, Saturday evening amber at the window, and begins — one pin at a time, the week's account pinned into the cloth.
 > (T1 · pin 1) *For the refusal — eleven two declined, the honest kept.* — placed: *The refusal, pinned into the blue.*
 > (T2 · pin 2) *For the charter — the West India business, the timber's helm.* — placed: *The charter, pinned and carried.*
 > (T3 · pin 3) *For the sailing — Tuesday's tide; the ship goes without her.* — placed: *The sailing, pinned and faced.*
@@ -387,7 +387,7 @@
 > "The night's." Sloane studies her — the mask steady, the eyes behind it amused. "Miss Hartwell — the duel's twentieth touch." She smiles, and the mask moves with it. "And the widow speaks truly tonight. It's been —" a pause "— some years since I could say that to anyone."
 > (T3 · dialogue) *"Masks on."; "The twentieth touch."; "The widow, speaking truly."*
 > "Truly." Rose nods — the mask dipping with her. "The season's one honest conversation, Mrs. Sloane. I'd rather not waste it."
-> (T4 · stance) *Across the floor — two masks, the season's whole duel distilled to a single conversation.*
+> (T4 · stance) *Across the floor — two masks, the season's duel distilled to a single conversation.*
 > "One." The widow's smile is real — visible even masked. "Miss Hartwell — the truths. Unmasked, if you please. The night's too short for the guarded kind."
 > (T5 · look closer) *The smile changes the room's temperature: anticipation, not tactics. The unbeaten widow, hungry for honesty.*
 > "Unmasked." The music shifts — the dancing beginning. "The night's the honest's, Mrs. Sloane. Shall we?"
@@ -522,7 +522,7 @@
 *Purpose: the week's arithmetic — Sunday noon; the venture banked; the counter's block. (Turns: 8)*
 > *(The war room, Sunday noon. Henry has the ledger open and the week's final figures inked — the steady man's Sunday ceremony, performed without witnesses until Rose arrives.)*
 > "The figures, Rose." Henry doesn't look up. "The venture — thirty-three thousand seven hundred. The face — twenty-five thousand. The outstanding —" he looks up "— forty-eight thousand."
-> (T1 · look closer) *The numbers in their columns, the ink still dark. The week's whole arithmetic, stated without adjectives.*
+> (T1 · look closer) *The numbers in their columns, the ink still dark. The week's arithmetic, stated without adjectives.*
 > "Stated." Rose nods at the page. "Henry — the honest's banked, the charter's carried, the night's unwon. The week —" she pauses "— is the refusal's, entire."
 > (T2 · tone) *Level. The week's arithmetic deserves its full reading, and Henry's its best reader.*
 > "The refusal's." He counts down the column. "The mark — one oh four, Sable's. The block —" he taps the page "— twenty-two thousand. The counter's week, Rose — it's coming."
@@ -688,7 +688,7 @@
 
 ### L18.S34 · [D] · Rose, Rennick
 *Purpose: the timber on the sailing — Tuesday noon; the Cane-Cutter sails; without her. (Turns: 8)*
-> *(The docks, Tuesday noon. The Cane-Cutter rides high on the named tide — and Mr. Rennick waits by the quay with his hat in his hands, the timber's whole ceremony.)*
+> *(The docks, Tuesday noon. The Cane-Cutter rides high on the named tide — and Mr. Rennick waits by the quay with his hat in his hands, the timber's ceremony.)*
 > "Miss Hartwell." Rennick bows — short, square, the wind off the water in it. "The Cane-Cutter — sails, Miss Hartwell. The tide —" he glances at the river "— is named, and it waits for no one's speeches."
 > (T1 · look closer) *The noon light bright on the water, the sails already loose. The timber man's stating: short, honest, the helm visibly held.*
 > "Named." Rose watches the ship — her ship, going without her. "Mr. Rennick — the business is the West India's now. The helm — is yours."
@@ -698,7 +698,7 @@
 > "Sails." She takes the hand — brief, firm, the wind tugging at both their coats. "Without me, Mr. Rennick. That's the week's hardest arithmetic."
 > (T4 · stance) *Handshaken on the quay — the sailing's done, the week's business chartered out on the named tide.*
 > "Without." His nod is the weather's — clouds, wind, acceptance. "The ship — sails honest, Miss Hartwell. The sugar — sails with her. You —" he almost smiles "— stay and mind the counter. The harder berth."
-> (T5 · look closer) *The almost-smile is the timber's whole courtesy: gruff, exact, and kinder than it sounds.*
+> (T5 · look closer) *The almost-smile is the timber's courtesy: gruff, exact, and kinder than it sounds.*
 > "The harder berth." She watches the sails fill — the canvas blooming white against the noon. "The noon's the sailing's, Mr. Rennick. See her out."
 > (T6 · dialogue) *"The ship sails honest."; "The harder berth, mine."; "See her out."*
 > "Out." He bows — and goes to the helm, the timber's stride unhurried, the ship already moving under him.

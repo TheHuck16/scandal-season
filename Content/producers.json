@@ -1,0 +1,116 @@
+{
+  "_note": "2026-09-29: 10 producers, one per Atelier and Conservatory chain (Beth lock, Sep 28 2026: producers live on the board as single framed tiles with the gilt energy-bolt cue; tap spends the board's energy pool to drop fresh low-level items onto free tiles). The Estate board has no producers (Day-Book economy, no energy). Exact tap costs and spawn tables are set in the economy spec (TBD).",
+  "_tbd": [
+    "tap energy costs per producer (economy spec)",
+    "spawn tables: which item levels each producer can drop (economy spec)"
+  ],
+  "producers": [
+    {
+      "artHook": "art:producer/producer-v3-sewing-kit",
+      "board": "atelier",
+      "chainId": "atelier.notions",
+      "displayName": "Sewing Kit",
+      "id": "producer.sewing.kit",
+      "unlock": {
+        "type": "launch"
+      }
+    },
+    {
+      "artHook": "art:producer/producer-v3-loom",
+      "board": "atelier",
+      "chainId": "atelier.fabric",
+      "displayName": "Loom",
+      "id": "producer.loom",
+      "unlock": {
+        "type": "launch"
+      }
+    },
+    {
+      "artHook": "art:producer/producer-v3-jewelers-bench",
+      "board": "atelier",
+      "chainId": "atelier.jewelry",
+      "displayName": "Jeweler's Bench",
+      "id": "producer.jewelers.bench",
+      "unlock": {
+        "type": "launch"
+      }
+    },
+    {
+      "artHook": "art:producer/producer-v3-dress-form",
+      "board": "atelier",
+      "chainId": "atelier.gowns",
+      "displayName": "Dress Form",
+      "id": "producer.dress.form",
+      "unlock": {
+        "level": 5,
+        "type": "playerLevel"
+      }
+    },
+    {
+      "artHook": "art:producer/producer-v5-milliners-block-board",
+      "board": "atelier",
+      "chainId": "atelier.hats",
+      "displayName": "Milliner's Block",
+      "id": "producer.milliners.block",
+      "unlock": {
+        "level": 10,
+        "type": "playerLevel"
+      }
+    },
+    {
+      "artHook": "art:producer/producer-v3-cobblers-bench",
+      "board": "atelier",
+      "chainId": "atelier.footwear",
+      "displayName": "Cobbler's Bench",
+      "id": "producer.cobblers.bench",
+      "unlock": {
+        "level": 15,
+        "type": "playerLevel"
+      }
+    },
+    {
+      "artHook": "art:producer/producer-v4-reticule-frame-square",
+      "board": "atelier",
+      "chainId": "atelier.purses",
+      "displayName": "Reticule Frame",
+      "id": "producer.reticule.frame",
+      "unlock": {
+        "level": 20,
+        "type": "playerLevel"
+      }
+    },
+    {
+      "artHook": "art:producer/producer-v3-potting-bench",
+      "board": "conservatory",
+      "chainId": "conservatory.cultivar",
+      "displayName": "Potting Bench",
+      "id": "producer.potting.bench",
+      "unlock": {
+        "board": "conservatory",
+        "type": "boardUnlock"
+      }
+    },
+    {
+      "artHook": "art:producer/producer-v3-gardeners-basket",
+      "board": "conservatory",
+      "chainId": "conservatory.foliage",
+      "displayName": "Gardener's Basket",
+      "id": "producer.gardeners.basket",
+      "unlock": {
+        "board": "conservatory",
+        "type": "boardUnlock"
+      }
+    },
+    {
+      "artHook": "art:producer/producer-v3-cabinet-of-vessels",
+      "board": "conservatory",
+      "chainId": "conservatory.vessels",
+      "displayName": "Cabinet of Vessels",
+      "id": "producer.cabinet.of.vessels",
+      "unlock": {
+        "board": "conservatory",
+        "type": "boardUnlock"
+      }
+    }
+  ]
+}

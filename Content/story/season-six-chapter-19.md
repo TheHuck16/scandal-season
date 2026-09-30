@@ -44,7 +44,7 @@
 > "If." Rose crosses to the window. "Sable's mark is one oh four, Henry. He's demanding one sixteen. Twelve points of prestige, priced into paper."
 > (T4 · stance) *At the window, the City below — the heiress weighing twelve points of a man's pride against the house's money.*
 > "Prestige." Henry closes the ledger. "You'd pay twenty-five thousand for Sable's pride, Rose, and hope the paper's inside it."
-> (T5 · look closer) *The closing's soft — and the question underneath it is the week's whole gamble, stated plain.*
+> (T5 · look closer) *The closing's soft — and the question underneath it is the week's gamble, stated plain.*
 > "The paper's inside it." She turns. "Sable doesn't sell air, Henry. He sells paper at the price of his pride. The paper's real — the price is the insult."
 > (T6 · dialogue) *"The paper's real."; "The price insults."; "The venture pays."*
 > "And Marsh?" Henry asks. "Gideon Marsh is circling the same block. Buying for Merrivale and Company — the syndicate's hand, if the week's whispers are true."
@@ -235,7 +235,7 @@
 > "Let it talk." Rose holds still. "The grey for Monday — honest, believed. The red for the tentpole."
 > (T6 · dialogue) *"The grey, honest."; "The red, waiting."; "The City talks."*
 > "The grey's yours." Élise steps back. "Wear it like the week's already won, Rose. The cloth believes before the City does."
-> (T7 · choice) *Wear the grey like victory. The professional's whole art — belief, cut to fit.*
+> (T7 · choice) *Wear the grey like victory. The professional's art — belief, cut to fit.*
 > Rose looks in the glass: dove grey silk, white heather, a woman's level gaze. The week's wound, dressed honest.
 > (T8 · remembered micro-decision) *The counter dressed, the selling clothed — the professional's work filed, the week's wardrobe kept.*
 > *The pins come out and the silk settles — the dresser's work done, Saturday's cloth honest.*
@@ -675,7 +675,7 @@
 > "The red." She lays it back. "For Rackham's paper, the broker's terms. The City sees me coming."
 > (T3 · dialogue) *"The red, the tentpole's."; "The City sees."; "The week, between."*
 > The grey silk folded — this week's honest cloth, the selling's. The blue twill waiting — the speaking's, the believed's. Three cloths, three readings, two weeks.
-> (T4 · stance) *Among the cloths — the woman between weeks, the wardrobe's whole story in her hands.*
+> (T4 · stance) *Among the cloths — the woman between weeks, the wardrobe's story in her hands.*
 > The white heather — pinned to the grey all week. She moves it to the red's stand — the tentpole's mark, placed early.
 > (T5 · look closer) *The sprig against the red — the week's mark, moved to the coming week's cloth.*
 > Thursday's quiet — the week's telling done, the tentpole's coming. The between day, dressed for the week.
@@ -753,9 +753,9 @@
 
 ### L19.S36 · [D] · Rose, Henry
 *Purpose: the week's arithmetic — Thursday night; twenty one eighty, thirty one hundred; stated to the pound. (Turns: 9)*
-> *(The war room, Thursday night. Henry has the ledger open and the week's whole arithmetic in front of him — the steady man's hour.)*
+> *(The war room, Thursday night. Henry has the ledger open and the week's arithmetic in front of him — the steady man's hour.)*
 > "The figures, Rose." Henry doesn't look up. "The venture — twenty thousand one hundred eighty. The face — thirty thousand one hundred. The account —" he turns the page "— minus two thousand nine hundred."
-> (T1 · look closer) *The numbers in their columns under the lamplight — the week's whole story, in ink.*
+> (T1 · look closer) *The numbers in their columns under the lamplight — the week's story, in ink.*
 > "Minus." Rose nods. "Read it back, Henry. The account's owed its full hearing."
 > (T2 · tone) *Level and certain — the week's arithmetic deserves its reading, losses and all.*
 > "Four two hundred lost, the first week's venture. One five hundred, the insurance. One two hundred, the first close. One two hundred, the honest trade." He looks up. "Four hundred, the padding's sale. Minus two nine hundred — and thirty-one hundred of Hartwell face the week didn't have on Friday."
@@ -805,7 +805,7 @@
 > Six thousand four hundred — the tentpole's need. Rackham's paper — the broker's word. The price — not money.
 > (T4 · remembered micro-decision) *Count the true, count the needed — the face faced, the tentpole teed.*
 > Merrivale stands named — the principal, unmasked. Sable's beaten — at his own table. The City's read the counter — tomorrow it reads it in print.
-> (T5 · look closer) *The night's quiet holds the week's whole board — the pieces placed, the tentpole's move coming.*
+> (T5 · look closer) *The night's quiet holds the week's board — the pieces placed, the tentpole's move coming.*
 > She turns from the window. The war room's Thursday night keeps its quiet — the week's end, the tentpole's eve.
 > (T6 · dialogue) *"The board placed."; "The move coming."; "The afternoon filed."*
 > The red wool waits — the tentpole's cloth, fitted early. The Gazette's coming. The broker's word — tonight.
