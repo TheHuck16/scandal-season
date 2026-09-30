@@ -171,7 +171,7 @@ MonoBehaviour:
   startButton: {fileID: 1406338646}
   storyView: {fileID: 1742149364}
   boardView: {fileID: 1476873455}
-  ordersView: {fileID: 1476873454}
+  ordersView: {fileID: 910054935}
 --- !u!1 &117929312
 GameObject:
   m_ObjectHideFlags: 0
@@ -2500,7 +2500,6 @@ GameObject:
   - component: {fileID: 1476873457}
   - component: {fileID: 1476873456}
   - component: {fileID: 1476873455}
-  - component: {fileID: 1476873454}
   m_Layer: 0
   m_Name: BoardPanel
   m_TagString: Untagged
@@ -2534,20 +2533,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1476873454
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1476873452}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 52f5ab234e97b8c449df5d95493eca5b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  ordersText: {fileID: 910054935}
-  refreshButton: {fileID: 1266228818}
 --- !u!114 &1476873455
 MonoBehaviour:
   m_ObjectHideFlags: 0
