@@ -43,15 +43,37 @@ public sealed class MergeBoardView : MonoBehaviour
     private readonly Dictionary<BoardPosition, Text> _cellLabels =
         new Dictionary<BoardPosition, Text>();
 
+    private bool _initialized;
+
     private void Start()
     {
-        _game = GameManager.Instance;
-        BuildGrid();
-        BuildLegend();
-        if (spawnButton != null) spawnButton.onClick.AddListener(OnSpawnPressed);
-        if (mergeButton != null) mergeButton.onClick.AddListener(OnMergePressed);
-        CreateBackButton();
-        RefreshAll();
+        EnsureInitialized();
+    }
+
+    /// <summary>
+    /// Idempotent initializer — safe to call from Start() or lazily from RefreshAll()
+    /// (Unity defers Start until first Update, but UIRoot calls Refresh synchronously).
+    /// </summary>
+    private void EnsureInitialized()
+    {
+        if (_initialized) return;
+        try
+        {
+            _game = GameManager.Instance;
+            BuildGrid();
+            BuildLegend();
+            if (spawnButton != null) spawnButton.onClick.AddListener(OnSpawnPressed);
+            if (mergeButton != null) mergeButton.onClick.AddListener(OnMergePressed);
+            CreateBackButton();
+            _initialized = true;
+        }
+        catch (System.Exception ex)
+        {
+            // Surface init errors visibly instead of failing silently.
+            if (statusText != null)
+                statusText.text = "Board init error: " + ex.Message;
+            UnityEngine.Debug.LogError("[MergeBoardView] Init failed: " + ex);
+        }
     }
 
     /// <summary>
@@ -90,6 +112,37 @@ public sealed class MergeBoardView : MonoBehaviour
         text.alignment = TextAnchor.MiddleCenter;
         text.color = Color.white;
         text.fontSize = 24;
+        FixupLayout();
+    }
+
+    /// <summary>
+    /// Repositions Spawn/Merge buttons below the grid to prevent overlap (Sep 29 QA: buttons covered grid rows).
+    /// </summary>
+    private void FixupLayout()
+    {
+        // Move Spawn to bottom-left, Merge to bottom-right, below the grid area.
+        if (spawnButton != null)
+        {
+            var rt = spawnButton.GetComponent<RectTransform>();
+            if (rt != null)
+            {
+                rt.anchorMin = new Vector2(0, 0);
+                rt.anchorMax = new Vector2(0, 0);
+                rt.anchoredPosition = new Vector2(100, 80);
+                rt.sizeDelta = new Vector2(160, 60);
+            }
+        }
+        if (mergeButton != null)
+        {
+            var rt = mergeButton.GetComponent<RectTransform>();
+            if (rt != null)
+            {
+                rt.anchorMin = new Vector2(1, 0);
+                rt.anchorMax = new Vector2(1, 0);
+                rt.anchoredPosition = new Vector2(-100, 80);
+                rt.sizeDelta = new Vector2(160, 60);
+            }
+        }
     }
 
     /// <summary>
@@ -327,6 +380,7 @@ public sealed class MergeBoardView : MonoBehaviour
 
     public void RefreshAll()
     {
+        EnsureInitialized();
         if (_game == null || _game.Board == null) return;
 
         foreach (var kvp in _cellViews)
