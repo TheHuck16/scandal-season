@@ -35,6 +35,8 @@ namespace ScandalSeason.Runtime.Game
             { "harrow", "Portraits/character-3d-james-harrow-v4-3312334a" },
             { "marquis", "Portraits/character-3d-marquis-saint-ange-v3-4acda44f" },
             { "saint-ange", "Portraits/character-3d-marquis-saint-ange-v3-4acda44f" },
+            { "henry", "Portraits/character-3d-henry-beaumont-v1-glove-fix2-3e2570cf" },
+            { "beaumont", "Portraits/character-3d-henry-beaumont-v1-glove-fix2-3e2570cf" },
         };
 
         private static readonly Dictionary<string, Sprite> _cache = new Dictionary<string, Sprite>();
