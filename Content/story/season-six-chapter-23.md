@@ -140,7 +140,7 @@
 > *(Julian's chambers, Wednesday morning. The affidavit's reading — Merrivale's claim, the air — and the reading the law's kind: stated plain, and weighed.)*
 > "The claim, Rose." Julian reads — the counsel's precision entire. "That the Dealing's assignment was made to defeat Merrivale's interest — that his men had treated for the fifteen thousand all week, and the assignment took it off the table. Under his nose —" he looks up "— Vale's phrase, in the affidavit."
 > (T1 · look closer) *The chambers' morning light is clean — and the affidavit's air is the law's kind: stated plain, and weightless.*
-> "Weightless." She takes the chair. "Julian — the treating. His men asked after the fifteen — asked, not bought. The paper was Rackham's to assign —" she leans forward "— and assign he did."
+> "Weightless." She takes the chair. "Julian — the treating. His men asked after the fifteen — asked, not bought. The paper was Rackham's to assign —" she leans forward "— and his sealed word assigned it."
 > (T2 · tone) *Grave, attentive, and counsel-bound — the morning's claim deserves the law's ear, however light.*
 > "Assigned." He nods. "The evidence — the acknowledgment witnessed by the market's men; the market's books, ten years honest; the fourteen thousand counted to the pound. Against it —" he taps the affidavit "— asking. The Master —" he pauses "— will see the difference."
 > (T3 · dialogue) *"The witnessed, the evidence."; "The asking, the air."; "The seen, the Master's."*
@@ -334,24 +334,24 @@
 
 ### L23.S16 · [D] · Rose, Drayton
 *Purpose: the broker on the frost — Wednesday noon; the stay's reading; the precise. (Turns: 8)*
-> *(The Company's coffee-room, Wednesday noon. Drayton is waiting — precise, unhurried — and the broker on the frost is the precise kind: stated plain, and the principal's word with it.)*
-> "Miss Hartwell." Drayton bows — the precision entire. "The stay — my principal has heard it. The Dealing's fifteen —" he pauses "— frozen."
+> *(The Company's coffee-room, Wednesday noon. Drayton is waiting — precise, unhurried — and the broker on the frost is the precise kind: stated plain, and the estate's word with it.)*
+> "Miss Hartwell." Drayton bows — the precision entire. "The stay — the trustees have heard it. The Dealing's fifteen —" he pauses "— frozen."
 > (T1 · look closer) *The coffee-room's noon light is bright — and the precise man's reading is the week's finest clockwork, frost and all.*
 > "Frozen." Rose gestures to the seat. "Mr. Drayton — the assignment stands. Witnessed, filed, paid. The entry —" she watches him "— waits."
 > (T2 · tone) *Level, direct, and done with preamble — the broker gets the plain truth, and the plain truth only.*
-> "Waits." The precision holds. "My principal's word, Miss Hartwell — the paper was his to assign, and assign he did. The affidavit —" he pauses "— is air. He stands by the assignment —" the precision firms "— and by the acknowledgment."
-> (T3 · dialogue) *"The stands-by, the principal's."; "The air, the claim's."; "The waited, the entry's."*
-> "Stands by." She takes it in. "Mr. Drayton — Rackham. Eleven years buried, a day alive — and the frost on his paper. Tell him —" she pauses "— the house is not frightened."
+> "Waits." The precision holds. "The estate's word, Miss Hartwell — the paper was his to assign, and his sealed word assigned it. The affidavit —" he pauses "— is air. The estate stands by the assignment —" the precision firms "— and by the acknowledgment."
+> (T3 · dialogue) *"The stands-by, the estate's."; "The air, the claim's."; "The waited, the entry's."*
+> "Stands by." She takes it in. "Mr. Drayton — Rackham. Long buried — and the frost on his paper. Tell the trustees —" she pauses "— the house is not frightened."
 > (T4 · stance) *Seated, level — the heiress answering the broker the way the house answers: plainly.*
 > "Not frightened." Drayton bows — the precise man, human at the frost. "Miss Hartwell —" he looks back at the door "— the unhurried, your grandmother calls us. The frost —" a rare, small smile "— will thaw."
 > (T5 · look closer) *The smile is the noon's surprise — the precise man, human at the frost's hour.*
 > "Thaw." She stands. "The hearing — a fortnight, Mr. Drayton. The evidence —" she meets his eyes "— ready."
 > (T6 · dialogue) *"The fortnight, marked."; "The ready, the evidence's."; "The thaw, coming."*
-> "Coming." He bows — and goes, the precise man to the last. "The principal stands by, Miss Hartwell — the assignment, the acknowledgment. Whatever the frost —" the door "— brings."
-> (T7 · choice) *Take the word. The noon's principal is counted — and stands by, frost and all.*
+> "Coming." He bows — and goes, the precise man to the last. "The estate stands by, Miss Hartwell — the assignment, the acknowledgment. Whatever the frost —" the door "— brings."
+> (T7 · choice) *Take the word. The noon's estate is counted — and stands by, frost and all.*
 > The coffee-room's noon settles — the broker's reading, the precise kept.
 > (T8 · remembered micro-decision) *The reading kept, the standing banked — the precise man's noon filed, the frost faced.*
-> *The noon's bright light on the coffee-room — the principal standing by, the broker's word given, the frost faced.*
+> *The noon's bright light on the coffee-room — the estate standing by, the broker's word given, the frost faced.*
 *Animation: Shared.*
 
 ### L23.S17 · [T] · Rose (alone)
@@ -442,7 +442,7 @@
 > (T6 · pin 6) *For the air — Merrivale's claim, weighed and weightless.* — placed: *The air kept: weighed, the night's.*
 > (T7 · pin 7) *For the fortnight — the hearing, the evidence ready.* — placed: *The fortnight kept: marked, the night's.*
 > (T8 · pin 8) *For the market's holding — the sugar's pledge, the witnessed.* — placed: *The holding kept: pledged, the night's.*
-> (T9 · pin 9) *For the principal's standing-by — Rackham's word, the broker's.* — placed: *The standing-by kept: given, the night's.*
+> (T9 · pin 9) *For the estate's standing-by — the sealed word, the broker's.* — placed: *The standing-by kept: given, the night's.*
 > (T10 · pin 10) *For the counsel's plan — the evidence, the witnesses named.* — placed: *The plan kept: drawn, the night's.*
 > (T11 · pin 11) *For the dowager's patience — frightened refused, the patient chosen.* — placed: *The patience kept: chosen, the night's.*
 > (T12 · pin 12) *For the aunt's comfort — the tea, the temper-not-law.* — placed: *The comfort kept: warm, the night's.*

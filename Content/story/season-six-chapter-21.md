@@ -6,11 +6,11 @@
 
 **Turns:** ordinary scenes run 7–10 turns; the `[C]` ritual runs 21 turns; Key Decisions run 3 turns; the S39 Gazette sting runs 1 turn; the S40 cliffhanger runs 8 turns.
 
-**Canon applied:** Season Six storyboard (Act III, "The Reckoning") is highest authority; ten-season plot arc; Season Six Chapters 1–20. Locked money state entering: venture working capital £22,736 · Hartwell face reclaimed £36,500 · outstanding £36,500 of the locked £73,000 · cash in hand £72 10s · Hartwell paper held at cost £12,316 · cumulative venture P&L −£1,948, the venture's trading closed. This chapter: Mr. Drayton names himself — Rackham's broker, precise, unhurried; Rackham's offer, £21,000 face (the £15,000 Dealing plus £6,000 of his retained market paper) for £14,000 AND acknowledgment written in the buyback book; the house accepts in principle — the assignment and the £14,000 fall due Tuesday; Drayton's turn: his principal lives — Rackham survived the S1 duel's report and deals through Drayton still. Closing state: venture £22,736 · face reclaimed £36,500 · outstanding £36,500 · cash £72 10s. The Crown's £9,000 held through trustees; Drummond cold. Sloane unbeaten; the duel's touch-count stands at 27 going into the week. Pyke and Cecilia do not appear. Lucien de Valcourt is absence-framed, never on-page.
+**Canon applied:** Season Six storyboard (Act III, "The Reckoning") is highest authority; ten-season plot arc; Season Six Chapters 1–20. Locked money state entering: venture working capital £22,736 · Hartwell face reclaimed £36,500 · outstanding £36,500 of the locked £73,000 · cash in hand £72 10s · Hartwell paper held at cost £12,316 · cumulative venture P&L −£1,948, the venture's trading closed. This chapter: Mr. Drayton names himself — the estate's broker, Rackham's man since before the Assembly, precise, unhurried; the estate's offer, £21,000 face (the £15,000 Dealing plus £6,000 of the retained market paper) for £14,000 AND the acknowledgment — the estate's sealed document and Rose's public naming, spoken where the market hears and written in the buyback book; the City's rumor — *Rackham lives* — answered plain by Drayton, early: the man is buried; what lives is his paper and his sealed word, opened Tuesday. The house accepts in principle — the assignment and the £14,000 fall due Tuesday. Closing state: venture £22,736 · face reclaimed £36,500 · outstanding £36,500 · cash £72 10s. The Crown's £9,000 held through trustees; Drummond cold. Sloane unbeaten; the duel's touch-count stands at 27 going into the week. Pyke and Cecilia do not appear. Lucien de Valcourt is absence-framed, never on-page.
 
-**Occasion:** Monday — the broker's week; Rackham's offer on the table, the acknowledgment priced, the principal living.
+**Occasion:** Monday — the broker's week; the estate's offer on the table, the acknowledgment priced, the City's rumor answered.
 
-**What changes for Rose:** The dead man lives — Rackham surfaces through his named broker, and the £21,000 parcel comes with a price that isn't money; the house accepts, and Tuesday will see him face to face.
+**What changes for Rose:** The paper lives — Rackham's sealed word comes to the City through his named broker, and the £21,000 parcel comes with a price that isn't money; the house accepts, and Tuesday opens his sealed word in the coffee-room.
 
 ## Chapter 21 — "The Broker"
 
@@ -30,7 +30,7 @@
 > "The broker." She says it to the mirror. "Named, today. We'll see what a name costs."
 > (T6 · dialogue) *"The blue's believed."; "The named, today."; "The week's begun."*
 > The shawl — deep blue, Élise's fitting — settled over her shoulders. The carriage already called below.
-> (T7 · choice — no coin cost, remembered) *the blue twill — the believed, for the naming (the City believes the blue, and Monday wants belief); the grey silk — the endured, held back for the living's morrow; the heather — pinned, the week's mark, or left plain, the morning unadorned.* — remembered: *The blue, worn.*
+> (T7 · choice — no coin cost, remembered) *the blue twill — the believed, for the naming (the City believes the blue, and Monday wants belief); the grey silk — the endured, held back for the opening's morrow; the heather — pinned, the week's mark, or left plain, the morning unadorned.* — remembered: *The blue, worn.*
 > At the door she pauses, hand on the frame, and looks back at the grey silk on its stand. Tomorrow, perhaps. Today is blue's day.
 > (T8 · remembered micro-decision) *Bank the morning's resolve with the week's cloth — blue for the naming, the offer faced.*
 > *The morning light takes the blue twill without argument — Monday dressed, the broker's week begun.*
@@ -63,7 +63,7 @@
 > *(The war room, Monday noon. Henry brings the week's counsel — the steady voice, the plain reading — and the offer looks different through his eyes.)*
 > "Fourteen thousand." Henry sets his coffee down. "For twenty-one thousand face. The discount's steep, Rose — steep enough to be a second price wearing a first price's coat."
 > (T1 · look closer) *The coffee steams between them — and the steady man's arithmetic is the week's ballast, as always.*
-> "The second price is the acknowledgment." Rose sits opposite. "Written in the buyback book — where the market hears. Rackham wants his dealing recorded straight."
+> "The second price is the acknowledgment." Rose sits opposite. "Written in the buyback book — where the market hears. The estate's price: his Dealing recorded straight."
 > (T2 · tone) *Level, candid, and grateful — the steady man gets it all, unadorned.*
 > "Recorded straight." He drinks. "Rackham — the duelist, the gambler, the man who tried to take your house. And you mean to write him clean in the book, Rose?"
 > (T3 · dialogue) *"The book records."; "The man, remembered."; "The price, weighed."*
@@ -105,30 +105,30 @@
 ### L21.S5 · [D] · Rose, Drayton
 *Purpose: the naming — Monday afternoon; the broker named, the offer's mouth; the precise. (Turns: 8)*
 > *(The Company's private room, Monday afternoon. The broker is waiting — and today he rises, bows, and gives what twenty weeks never got: his name.)*
-> "Miss Hartwell." The bow is exact, unhurried. "Drayton. I have been Rackham's man these eleven years — unnamed by his instruction, not my modesty. The instruction's lifted."
+> "Miss Hartwell." The bow is exact, unhurried. "Drayton. I have been Rackham's man since before the Assembly — unnamed by his instruction, not my modesty. The instruction's lifted."
 > (T1 · look closer) *The man is all precision — the coat brushed, the papers squared, the voice pitched to carry exactly as far as the table.*
-> "Mr. Drayton." Rose doesn't sit. "Eleven years unnamed, and named today. The instruction lifts — why now?"
+> "Mr. Drayton." Rose doesn't sit. "Unnamed since the Assembly, and named today. The instruction lifts — why now?"
 > (T2 · tone) *Direct, level, and done with dancing — the naming deserves its question, asked plain.*
-> "Because the principal comes himself, Miss Hartwell." Drayton lays a paper on the table. "Tomorrow. And a named broker is —" a pause, precise "— fitter company for what's coming than an unnamed one."
-> (T3 · dialogue) *"The principal comes."; "Tomorrow, himself."; "The named, fitter."*
-> "The principal." She looks at the paper without touching it. "Rackham's dead, Mr. Drayton. The City buried him — the duel, the report, the grave."
+> "Because the estate moves, Miss Hartwell." Drayton lays a paper on the table. "Tomorrow. A sealed instrument — his own hand, sealed since his death — opened before witnesses. And a named broker is —" a pause, precise "— fitter company for an opening than an unnamed one."
+> (T3 · dialogue) *"The estate moves."; "Tomorrow, the opening."; "The named, fitter."*
+> "The instrument." She looks at the paper without touching it. "Mr. Drayton — the coffee-room's saying Rackham lives. The City buried him — the duel, the report, the grave."
 > (T4 · stance) *Still, attentive — the heiress hearing it through before she answers any of it.*
-> "The City buried a report, Miss Hartwell." Drayton's voice doesn't change. "My principal lived. He has lived — abroad, quietly — these eleven years of my service and longer. The duel's report was —" he chooses the word "— premature."
-> (T5 · look closer) *The word sits between them, small and enormous — premature — and the room rearranges itself around it.*
-> "Premature." Rose sits — slowly. "Mr. Drayton. You are telling me Rackham lives."
-> (T6 · dialogue) *"The report, premature."; "The principal, living."; "The week's turned."*
-> "I am telling you," Drayton says, "that tomorrow you may ask him yourself. Today —" he touches the paper "— the offer. Twenty-one thousand face. Fourteen thousand pounds. And the acknowledgment."
-> (T7 · choice) *Hear the offer. The dead man's terms were one thing — the living man's are another, and the week's just changed its shape.*
-> The private room's afternoon holds its quiet. On the table, the paper waits — the offer, the terms, the living man's price.
-> (T8 · remembered micro-decision) *The naming kept, the turn filed — Drayton named, the principal living, the offer heard.*
+> "The City is mistaken, Miss Hartwell." Drayton's voice doesn't change. "Sir Giles died at the Assembly — I stood in the churchyard myself. My principal is the estate. What lives —" he chooses the word "— is his paper, and the sealed word he left in it."
+> (T5 · look closer) *The word sits between them, small and enormous — lives — and the room rearranges itself around it.*
+> "His paper lives." Rose sits — slowly. "And the sealed word — opened tomorrow. Not the man, Mr. Drayton. Say it plain."
+> (T6 · dialogue) *"The rumor, answered."; "The paper, living."; "The week's turned."*
+> "Said plain." Drayton touches the paper. "The offer. Twenty-one thousand face. Fourteen thousand pounds. And the acknowledgment — the instrument's own, and yours spoken where the market hears."
+> (T7 · choice) *Hear the offer. The terms are whole — and the week's just changed its shape: the paper's alive, the man is buried.*
+> The private room's afternoon holds its quiet. On the table, the paper waits — the offer, the terms, the sealed word's price.
+> (T8 · remembered micro-decision) *The naming kept, the turn filed — Drayton named, the rumor answered, the offer heard.*
 > *The afternoon light on the offered paper — the broker named at last, the week's ground shifted under it.*
 *Animation: Shared.*
 
 ### L21.S6 · [D] · Rose, Drayton
 *Purpose: the terms, detailed — Monday afternoon; twenty-one thousand, fourteen thousand, the book; the kept. (Turns: 8)*
 > *(The Company's private room, Monday afternoon. The terms, detailed — the paper, the price, the acknowledgment — and Drayton details them the way a watchmaker lays out springs: each in its place.)*
-> "Twenty-one thousand face." Drayton doesn't consult the paper. "The Dealing — fifteen thousand of Hartwell paper, my principal's own dealing, sold through the market these ten years at honest prices. And six thousand —" he looks up "— retained, traded, and never pressed against the estate."
-> (T1 · look closer) *The figures come without notes — eleven years' knowledge, carried the way other men carry a watch.*
+> "Twenty-one thousand face." Drayton doesn't consult the paper. "The Dealing — fifteen thousand of Hartwell paper, Rackham's own dealing, sold through the market these ten years at honest prices. And six thousand —" he looks up "— retained, traded, and never pressed against the estate."
+> (T1 · look closer) *The figures come without notes — the estate's long knowledge, carried the way other men carry a watch.*
 > "Never pressed." Rose watches him. "He held six thousand of Hartwell paper through the war against the house — and never called it."
 > (T2 · tone) *Careful, exact, and weighing every word against the ledger — the terms are the terms, and she wants them whole.*
 > "Never called, never pledged, never sold to your enemies." Drayton's precision doesn't waver. "That, Miss Hartwell, is what the acknowledgment records. The Dealing honest. The retained unpressed."
@@ -137,45 +137,45 @@
 > (T4 · stance) *At the table, the counting done aloud — the heiress pricing the unpriced.*
 > "Priced in public, Miss Hartwell." Drayton corrects her — gently, precisely. "The buyback book — your book, the campaign's record — the entry written, witnessed, and read where the market hears. That is the price. Not ink. Hearing."
 > (T5 · look closer) *The correction is small, and it changes everything — not the writing, the hearing. The market's ears are the coin.*
-> "The market hears." Rose stands. "Mr. Drayton — the house will answer tomorrow. The principal comes himself, you say. Let him hear the answer from me."
-> (T6 · dialogue) *"Tomorrow, the answer."; "The principal hears."; "The terms, whole."*
-> "He will." Drayton bows — the week's business, paused at its hinge. "Miss Hartwell —" at the door "— the unhurried, your grandmother calls us. She is right. We have waited eleven years. One more night is nothing."
-> (T7 · choice) *Let him go. The terms are whole, the night's the week's to think — and the dead man walks tomorrow.*
+> "The market hears." Rose stands. "Mr. Drayton — the house answers tomorrow. The sealed instrument opens, you say — let the estate hear the answer from me, through you."
+> (T6 · dialogue) *"Tomorrow, the answer."; "The estate hears."; "The terms, whole."*
+> "It will." Drayton bows — the week's business, paused at its hinge. "Miss Hartwell —" at the door "— the unhurried, your grandmother calls us. She is right. We have waited since the Assembly. One more night is nothing."
+> (T7 · choice) *Let him go. The terms are whole, the night's the week's to think — and the sealed word opens tomorrow.*
 > He's gone. Rose stands alone with the paper — twenty-one thousand face, fourteen thousand pounds, and a paragraph the market must hear.
 > (T8 · remembered micro-decision) *The terms detailed, the night taken — the offer whole, the answer Tuesday's.*
 > *The private room keeps its afternoon quiet — the terms laid out like springs, the week's hinge waiting on tomorrow.*
 *Animation: Shared.*
 
 ### L21.S7 · [D] · Rose, Drayton
-*Purpose: ★ KEY DECISION 1/3 — THE ANSWER (how the house meets Rackham's price). (Turns: 3 — the decision)*
+*Purpose: ★ KEY DECISION 1/3 — THE ANSWER (how the house meets the estate's price). (Turns: 3 — the decision)*
 > *(Monday evening, the war room: the offer — the twenty-one thousand, the fourteen thousand, the acknowledgment — and the week's first decision is how the house answers a price that isn't money.)*
-> "The answer." — Rose. "Rackham's *price* — *fourteen* thousand *pounds*, and the *acknowledgment* *written* where the *market* hears. *How* the house meets it —" she looks to the room "— is the week's to choose."
+> "The answer." — Rose. "The *estate's* *price* — *fourteen* thousand *pounds*, and the *acknowledgment* *written* where the *market* hears. *How* the house meets it —" she looks to the room "— is the week's to choose."
 *★ KEY DECISION 1/3 — The Answer:*
-- **Pay it whole** — *the plain road.* "Pay the fourteen thousand whole and write the acknowledgment as Drayton dictates — the broker's wording, the principal's terms — and let the book carry Rackham's exact words." *(The paid, the dictated; the carried, the week's.)*
+- **Pay it whole** — *the plain road.* "Pay the fourteen thousand whole and write the acknowledgment as the sealed instrument dictates — the instrument's wording, the estate's terms — and let the book carry Rackham's own words, opened." *(The paid, the dictated; the carried, the week's.)*
 - **Pay it in the house's words** — *the heiress's road.* "Pay the fourteen thousand and write the acknowledgment in the house's own phrasing — true, but Hartwell-true — and let the book carry the meaning in her own words." *(The paid, the phrased; the carried, the week's.)*
 - **Read it aloud first** — *the spoken road.* "Pay the fourteen thousand, read the acknowledgment aloud before the witnesses, then write it — the spoken before the inked — and let the market hear it twice." *(The paid, the spoken; the heard, the week's.)*
 > *(The game remembers the choice — and the means: the plain, the heiress's, or the spoken. The destination was never in doubt. The signature is hers.)*
 *Animation: Shared.*
 
 ### L21.S8 · [D] · Rose, Letitia
-*Purpose: the aunt on the living — Monday evening; the war room, the news; the comfort. (Turns: 8)*
-> *(The war room, Monday evening. Letitia arrives with the news already half-heard — the broker named, the principal living — and the aunt's composure is doing its visible best.)*
+*Purpose: the aunt on the rumor — Monday evening; the war room, the news; the comfort. (Turns: 8)*
+> *(The war room, Monday evening. Letitia arrives with the news already half-heard — the broker named, the rumor answered — and the aunt's composure is doing its visible best.)*
 > "Darling." Letitia sits — hard, for her. "They're saying Rackham lives. The whole house is saying it. Tell me the house is wrong, Rose, and I'll believe you."
 > (T1 · look closer) *The war room's evening light is kind — and the aunt's face is doing the week's arithmetic with none of the figures.*
-> "The house isn't wrong, Aunt." Rose pours the tea herself. "Drayton named himself today — Rackham's broker, eleven years. The duel's report was premature. Tomorrow he comes himself."
+> "The house is wrong, Aunt — and it isn't. Drayton named himself today — the estate's broker, Rackham's man since before the Assembly." Rose pours the tea herself. "The City heard 'named' and made it 'living.' The man's buried. His paper's alive — and that's what's coming tomorrow."
 > (T2 · tone) *Gentle, plain, and niece-soft — the aunt gets the truth whole, the way she always has.*
-> "Premature." Letitia takes the cup with both hands. "Darling — the duel. We buried — the City buried —" she stops. "Eleven years, Rose. Where has he been?"
-> (T3 · dialogue) *"Eleven years, where?"; "The City buried."; "Tomorrow, himself."*
-> "Abroad. Quietly." Rose sits beside her. "Dealing through Drayton all the while — the Dealing, Aunt. Fifteen thousand. The paper we've chased all season was his to sell."
+> "The instrument." Letitia takes the cup with both hands. "Darling — the duel. We buried — the City buried —" she stops. "Since the Assembly, Rose. And his paper's still dealing?"
+> (T3 · dialogue) *"Buried since the Assembly."; "The City buried."; "The paper, dealing."*
+> "Sealed, Aunt." Rose sits beside her. "His hand on it, sealed since the Assembly, opened tomorrow. Dealing through Drayton all the while — the Dealing. Fifteen thousand. The paper we've chased all season was the estate's to sell."
 > (T4 · stance) *Side by side, the tea between them — the niece steadying the aunt the way the aunt once steadied her.*
-> Letitia's laugh is sudden and startled. "The villain of your first season, darling — alive, and selling you paper at two-thirds. It's —" she shakes her head "— it's the most Rackham thing I ever heard."
+> Letitia's laugh is sudden and startled. "The villain of your first season, darling — buried since the Assembly, and his estate's selling you paper at two-thirds. It's —" she shakes her head "— it's the most Rackham thing I ever heard."
 > (T5 · look closer) *The laugh steadies her — the comic aunt finding the week's shape funny because the alternative is unbearable.*
 > "The acknowledgment's the price." Rose refills the cup. "Written in the buyback book — the Dealing honest, the retained unpressed. The market hears a Hartwell say he dealt straight."
 > (T6 · dialogue) *"The book records."; "The market hears."; "The straight, dealt."*
 > "Straight." Letitia considers. "Darling — if it's true, it's the bravest paragraph you'll ever write. And if it's not —" she meets Rose's eyes "— it's the bravest lie."
 > (T7 · choice) *Weigh it. The aunt's wisdom is the week's second counsel — after the dowager's, before the morrow.*
 > The war room's evening settles. The map's red pins hold the week's parcel — fifteen thousand, six thousand — and the aunt's tea steams over them.
-> (T8 · remembered micro-decision) *The comfort banked, the counsel taken — the aunt's truth filed, the living faced.*
+> (T8 · remembered micro-decision) *The comfort banked, the counsel taken — the aunt's truth filed, the rumor answered.*
 > *The evening's kind light on the two cups — the news told, the aunt steadied, the morrow coming.*
 *Animation: Shared.*
 
@@ -190,92 +190,92 @@
 > (T3 · dialogue) *"Two ifs, fourteen thousand."; "The honest, the unpressed."; "The weighed, the week's."*
 > Henry's voice in her head: *Say it plain before you spend it.* Eight seven thirty-six, said plain. The venture's remainder after the price.
 > (T4 · remembered micro-decision) *Count the remainder, bank the counsel — the steady man's number kept, the spending faced.*
-> And Rackham — living. The duel's report, premature. Eleven years abroad, dealing through Drayton, watching the house chase his paper across England.
+> And Rackham — buried. His paper living, his sealed word waiting since the Assembly. The paper we've chased across England — the estate's to sell, all of it.
 > (T5 · look closer) *The thought sits in the ledger's margins — unpaid in pounds, unpriced entirely.*
 > Tomorrow: the answer. How the house meets the price — plain, heiress's, or spoken. The week's first decision, made tonight.
-> (T6 · dialogue) *"Tomorrow, the answer."; "The living, faced."; "The price, met."*
+> (T6 · dialogue) *"Tomorrow, the answer."; "The naming, faced."; "The price, met."*
 > She closes the ledger gently. The war room's night holds its quiet — Monday done, the offer weighed.
 > (T7 · choice) *Rest. The weighing's done — tomorrow's answer can wait for morning.*
 > The lamp burns low. She leaves it — the war room's night, the fourteen thousand pencilled, the morrow's answer still to give.
-> (T8 · remembered micro-decision) *Bank the night's weighing with the morrow's answer — the price faced, the living awaited.*
+> (T8 · remembered micro-decision) *Bank the night's weighing with the morrow's answer — the price faced, the opening awaited.*
 > *The night on the war room's table — fourteen thousand weighed, the week's hinge waiting on Tuesday.*
 *Animation: Shared.*
 
 ### L21.S10 · [D] · Rose, Drayton
-*Purpose: the turn — Monday night; the principal's condition, the living's terms; the precise. (Turns: 8)*
+*Purpose: the turn — Monday night; the principal's condition, the estate's terms; the precise. (Turns: 8)*
 > *(The Company's private room, Monday night. Drayton comes unannounced — the precise man, after hours — and the turn he carries changes the week's shape a second time.)*
-> "Miss Hartwell." Drayton bows — after hours, the precision undimmed. "A condition, from my principal. The acknowledgment —" he pauses "— he will hear it spoken, before it is written. To his face. Where the market hears."
+> "Miss Hartwell." Drayton bows — after hours, the precision undimmed. "A condition — from the estate. From the sealed instrument itself. The acknowledgment —" he pauses "— spoken first, before it is written. Before the witnesses. Where the market hears."
 > (T1 · look closer) *The lamplight finds the man's exactness — and the condition lands like a second offer inside the first.*
-> "Spoken." Rose doesn't rise. "Mr. Drayton — the price was the writing. The book, witnessed, where the market hears. Now he wants it spoken first?"
+> "Spoken." Rose doesn't rise. "Mr. Drayton — the price was the writing. The book, witnessed, where the market hears. Now it wants it spoken first?"
 > (T2 · tone) *Level, wary, and past surprise for the day — the week's second turn gets the heiress's full attention.*
-> "He wants to hear a Hartwell say it." Drayton's voice is quiet. "Eleven years, Miss Hartwell — the City called him duelist, gambler, breaker of houses. Tomorrow he stands in your rooms and hears —" he stops, precise "— the true of it. Spoken."
+> "The instrument requires it." Drayton's voice is quiet. "Since his death, Miss Hartwell — the City called him duelist, gambler, breaker of houses. Tomorrow his sealed word opens before the witnesses, and the City hears —" he stops, precise "— a Hartwell speak the true of him. Spoken first."
 > (T3 · dialogue) *"The spoken, first."; "The true, heard."; "The face, faced."*
-> "The true of it." She studies him. "Mr. Drayton — is it true? The Dealing honest, the retained unpressed — eleven years, and your word's all I have."
+> "The true of it." She studies him. "Mr. Drayton — is it true? The Dealing honest, the retained unpressed — long kept, and your word's all I have."
 > (T4 · stance) *Forward, intent — the heiress asking the one question the week's price hangs on.*
 > "My word," Drayton says, "and the market's books. The Dealing's sales — every one — at the honest prices of their years. The retained —" he meets her eyes "— never pledged, never pressed. Check me, Miss Hartwell. The City keeps records."
 > (T5 · look closer) *The offer to be checked is the honest man's argument — and the precise man makes it precisely.*
-> "Checked." She stands. "Julian checks the market's books tonight, Mr. Drayton. And tomorrow —" she looks at him level "— your principal hears the acknowledgment spoken. To his face. Where the market hears."
-> (T6 · dialogue) *"The books, checked."; "The spoken, promised."; "Tomorrow, himself."*
-> "Then the week turns." Drayton bows — deeper, this time. "Miss Hartwell — eleven years I have carried his paper unnamed. Tomorrow I carry it named. You cannot know —" he stops.
+> "Checked." She stands. "Julian checks the market's books tonight, Mr. Drayton. And tomorrow —" she looks at him level "— the estate hears the acknowledgment spoken. Before the witnesses. Where the market hears."
+> (T6 · dialogue) *"The books, checked."; "The spoken, promised."; "Tomorrow, the opening."*
+> "Then the week turns." Drayton bows — deeper, this time. "Miss Hartwell — since the Assembly I have carried his paper unnamed. Tomorrow I carry it named. You cannot know —" he stops.
 > (T7 · choice) *Let him keep the rest. The precise man has said enough — the week's turn is turned.*
-> He's gone. The private room's night closes around the condition: spoken first, then written. The living man's price, entire.
+> He's gone. The private room's night closes around the condition: spoken first, then written. The estate's price, entire.
 > (T8 · remembered micro-decision) *The condition filed, the check ordered — the spoken promised, the books' verdict awaited.*
-> *The night's lamplight on the empty chair — the turn turned, the principal's condition keeping its precise shape.*
+> *The night's lamplight on the empty chair — the turn turned, the estate's condition keeping its precise shape.*
 *Animation: Shared.*
 ### L21.S11 · [D] · Rose, Julian
 *Purpose: the check — Monday night; the market's books, Drayton's word; the counsel's. (Turns: 8)*
-> *(Julian's chambers, Monday night. The check — the market's books against Drayton's word — and the counsel's pen moves through eleven years of sales like a plough.)*
+> *(Julian's chambers, Monday night. The check — the market's books against Drayton's word — and the counsel's pen moves through the estate's sales like a plough.)*
 > "The Dealing's sales." Julian doesn't look up. "Ten years of them, Rose — and Drayton's true. Every parcel at the honest price of its year. Not a penny of rigging in the lot."
-> (T1 · look closer) *The chambers' lamplight is low — and the books lie open in their rows, eleven years of honest figures.*
+> (T1 · look closer) *The chambers' lamplight is low — and the books lie open in their rows, honest figures, kept since his death.*
 > "Honest." Rose sits. "And the retained — the six thousand? Never pledged, never pressed — Drayton's word, and the market's?"
 > (T2 · tone) *Quiet, intent, and counsel-bound — the night's check deserves the law's ear.*
 > "Never pledged." He turns a page. "Never pressed, never sold to the syndicate, never used against the estate. The six thousand sat —" he looks up "— sat, Rose, through the whole war. Like a loaded pistol nobody fired."
 > (T3 · dialogue) *"The sales, honest."; "The retained, sat."; "The pistol, unfired."*
 > "A loaded pistol." She takes it in. "Julian — Rackham held the means to break the house for a decade, and never used it. That's —" she stops.
-> (T4 · stance) *In the chair, the night's truth settling — the heiress weighing eleven years of unfired pistols.*
+> (T4 · stance) *In the chair, the night's truth settling — the heiress weighing long-unfired pistols.*
 > "That's the acknowledgment's price." Julian blots the page. "The market's books say Drayton's true. The counsel says —" he pauses "— the house can write it."
 > (T5 · look closer) *The blotting's the night's seal — the check complete, the word verified.*
-> "Then the house writes it." Rose stands. "Tomorrow — spoken first, to his face, where the market hears. Then written. Drayton's condition, and mine now too."
-> (T6 · dialogue) *"The check, complete."; "The spoken, first."; "Tomorrow, himself."*
-> He sees her to the door — the counsel's courtesy, unhurried. "Rose — a living Rackham. The law's not ready for him. None of us are."
+> "Then the house writes it." Rose stands. "Tomorrow — spoken first, before the witnesses, where the market hears. Then written. The estate's condition, and mine now too."
+> (T6 · dialogue) *"The check, complete."; "The spoken, first."; "Tomorrow, the opening."*
+> He sees her to the door — the counsel's courtesy, unhurried. "Rose — the estate's sealed word. The law's not ready for it. None of us are."
 > (T7 · choice) *Take the counsel's warning. The week's law is being written as it's lived — that's the reckoning's way.*
 > The chambers' door closes — the night's check done, the word verified.
 > (T8 · remembered micro-decision) *The verification filed, the morrow set — Drayton true, the acknowledgment speakable.*
-> *The lamp burns low over the checked books — eleven years honest, the night's verdict given.*
+> *The lamp burns low over the checked books — honest since the Assembly, the night's verdict given.*
 *Animation: Shared.*
 
 ### L21.S12 · [F] · Rose, Élise
-*Purpose: the morrow's cloth — Tuesday's eve; dressing to face the living; the professional. (Turns: 8)*
-> *(Monday night, her chambers. Élise comes late — the morrow's cloth, the living man's — and the professional has been thinking.)*
-> "The grey." Élise holds up the silk. "For tomorrow, Rose — not the blue, not the red. The grey. You face a man the City buried, and the cloth must say —" she pauses "— the house buries no one twice."
+*Purpose: the morrow's cloth — Tuesday's eve; dressing for the naming; the professional. (Turns: 8)*
+> *(Monday night, her chambers. Élise comes late — the morrow's cloth, the buried man's naming — and the professional has been thinking.)*
+> "The grey." Élise holds up the silk. "For tomorrow, Rose — not the blue, not the red. The grey. You speak a buried man's name before the City, and the cloth must say —" she pauses "— the house buries no one twice."
 > (T1 · look closer) *The silk hangs in the lamplight — soft, dove grey, the morning's cloth — and the professional's wisdom is cut to fit the morrow.*
-> "The grey." Rose steps into it gladly. "Dove grey for the dead man walking. Élise — is it too soft? Tomorrow wants —" she stops.
+> "The grey." Rose steps into it gladly. "Dove grey for a buried man's hearing. Élise — is it too soft? Tomorrow wants —" she stops.
 > (T2 · tone) *Trusting, tired, and entirely in the professional's hands — the principal yields to the agent's eye.*
 > "Tomorrow wants truth, not armor." Élise pins, smooths. "The blue is believed, the red is watched — the grey is *endured*, Rose. The City endures the grey. It has no quarrel with it."
 > (T3 · dialogue) *"The grey, endured."; "The truth, not armor."; "Tomorrow, faced."*
-> "Endured." She turns in the glass. "The acknowledgment spoken first — to his face, where the market hears. Then written. The cloth must carry both."
+> "Endured." She turns in the glass. "The acknowledgment spoken first — before the witnesses, where the market hears. Then written. The cloth must carry both."
 > (T4 · stance) *Mid-turn, half-pinned — the morrow's news delivered between fittings, the way everything important gets delivered.*
-> Élise's hands still. "Spoken first." A beat. "The market hears a Hartwell speak Rackham's true to his living face. That's —" she resumes pinning "— that's the season's bravest cloth, Rose."
+> Élise's hands still. "Spoken first." A beat. "The market hears a Hartwell speak Rackham's true aloud. That's —" she resumes pinning "— that's the season's bravest cloth, Rose."
 > (T5 · look closer) *The pins go back in, quick and sure — and the professional's mind is already cutting the courage to fit.*
-> "The heather stays." Rose touches the sprig. "The week's mark. The living man should see what the City's seen all season."
-> (T6 · dialogue) *"The heather stays."; "The mark, worn."; "The living sees."*
+> "The heather stays." Rose touches the sprig. "The week's mark. The City should hear a Hartwell say his name — and see the mark it's seen all season."
+> (T6 · dialogue) *"The heather stays."; "The mark, worn."; "The City hears."*
 > "It stays." Élise steps back. "Done. The grey for the morrow — wear it like the house buries no one twice."
-> (T7 · choice — no coin cost, remembered) *the dove grey — the endured, the professional's wisdom (the City endures the grey, and the living gets endurance); the blue twill — the believed, but not the reading a resurrection wants; the red — watched, glitter, wrong for a burial undone.* — remembered: *The grey, chosen.*
+> (T7 · choice — no coin cost, remembered) *the dove grey — the endured, the professional's wisdom (the City endures the grey, and a buried man's name wants endurance); the blue twill — the believed, but not the reading the sealed word wants; the red — watched, glitter, wrong for a hearing like this.* — remembered: *The grey, chosen.*
 > The carriage waits below for nothing — tonight there's nowhere to go. Rose stands in the grey, and the morrow waits past midnight.
-> (T8 · remembered micro-decision) *The morrow dressed, the mark worn — the professional's work filed, the living faced in grey.*
-> *The night takes the grey silk like it was made for it — Tuesday's cloth ready, the dead man's morrow dressed.*
+> (T8 · remembered micro-decision) *The morrow dressed, the mark worn — the professional's work filed, the naming faced in grey.*
+> *The night takes the grey silk like it was made for it — Tuesday's cloth ready, the sealed word's morrow dressed.*
 *Animation: Shared.*
 
 ### L21.S13 · [D] · Rose, Octavia
-*Purpose: the painter on the living — Monday night; the portrait's progress; the honest. (Turns: 8)*
+*Purpose: the painter on the rumor — Monday night; the portrait's progress; the honest. (Turns: 8)*
 > *(Octavia's studio, Monday night. The painter's working late — the portrait's progress, the week's likeness — and the news has reached the north-lit rooms.)*
-> "He lives." Octavia doesn't look up from the palette. "Rackham. The villain of your first season, Rose — alive, and coming to tea. Sit. I need to paint your face while it's still doing that."
+> "The rumor's reached me." Octavia doesn't look up from the palette. "Rackham. The villain of your first season, Rose — the City says he lives, and wants him at tea. Sit. I need to paint your face while it's still doing that."
 > (T1 · look closer) *The studio smells of turpentine and night — and the painter's eye is already catching the week's disbelief.*
 > "Doing what?" Rose takes the pose — chin up, shoulders square.
 > (T2 · tone) *Easy, unguarded, and half-distracted by the canvas — the studio is the one room where the week can't follow.*
-> "The arithmetic of the impossible." The brush moves. "Eleven years dead, and the books say honest. The Dealing clean, the retained unpressed —" she pauses "— it's the best likeness of a villain I've never painted, Rose. Ruined by virtue."
-> (T3 · dialogue) *"The villain, living."; "The books, honest."; "The virtue, ruining."*
-> "The acknowledgment's spoken tomorrow." Rose holds the pose. "To his face, where the market hears. Then written in the buyback book. Octavia —" she doesn't move her head "— am I writing him clean?"
+> "The arithmetic of the impossible." The brush moves. "Dead since the Assembly, and the books say honest. The Dealing clean, the retained unpressed —" she pauses "— it's the best likeness of a villain I've never painted, Rose. Ruined by virtue."
+> (T3 · dialogue) *"The villain, buried."; "The books, honest."; "The virtue, ruining."*
+> "The acknowledgment's spoken tomorrow." Rose holds the pose. "Before the witnesses, where the market hears. Then written in the buyback book. Octavia —" she doesn't move her head "— am I writing him clean?"
 > (T4 · stance) *Chin up, unmoving — the sitter's discipline, the heiress's question, held in the painter's light.*
 > "You're writing what was done." The brush doesn't stop. "That's the bravest paragraph in London, Rose — and the painter" — she smiles — "will paint the woman who wrote it. The portrait's nearly done, you know."
 > (T5 · look closer) *The canvas fills — grey silk's first sketch, white heather, a woman's set jaw — and the week's likeness takes its shape.*
@@ -289,14 +289,14 @@
 *Animation: Shared.*
 
 ### L21.S14 · [D] · Rose, Sloane
-*Purpose: the widow circling — Monday night; the living's news, the rival's reading; the duel's twenty-eighth touch. (Turns: 8)*
+*Purpose: the widow circling — Monday night; the rumor's news, the rival's reading; the duel's twenty-eighth touch. (Turns: 8)*
 > *(The Company's coffee-room, Monday night. Mrs. Sloane is waiting — crimson deep as ever, diamonds catching the lamplight — and the widow's reading of the week's turn is the gracious kind.)*
-> "Miss Hartwell." Sloane's smile is genuine. "The City's buzzing, and the buzz has a name — Rackham, living. The duel's report, premature. My dear —" she leans in "— is there anything in this town you *don't* resurrect?"
+> "Miss Hartwell." Sloane's smile is genuine. "The City's buzzing, and the buzz has a name — Rackham, living, they say. The duel's report, premature — the coffee-room's version. My dear —" she leans in "— is there anything in this town you *don't* resurrect?"
 > (T1 · look closer) *The coffee-room's lamplight gilds the crimson — and the widow's delight in the week's turn is the senior player's kind: generous, and entirely her own.*
-> "Mrs. Sloane." Rose takes the offered seat. "The resurrection's his own doing, not mine. Eleven years abroad, dealing through Drayton. Tomorrow he comes himself."
+> "Mrs. Sloane." Rose takes the offered seat. "The rumor's the City's own doing, not mine. Drayton named himself today — the estate's broker. The man's buried, Mrs. Sloane. Tomorrow his sealed word opens."
 > (T2 · tone) *Warm, junior, and honest — the widow gets the junior's grace, and the grace is real.*
 > "Tomorrow." Sloane considers. "And the price — fourteen thousand, and a paragraph the market must hear. The acknowledged holds, Miss Hartwell — the twenty-eighth touch, and the truest yet."
-> (T3 · dialogue) *"The living, coming."; "The price, unpriced."; "The duel's twenty-eighth."*
+> (T3 · dialogue) *"The rumor, answered."; "The price, unpriced."; "The duel's twenty-eighth."*
 > "The books say honest." Rose meets her eyes. "The Dealing's sales — ten years, every one at the honest price. The retained — six thousand — never pressed. If it's true, the book can carry it."
 > (T4 · stance) *Forward, earnest — the junior laying the week's truth before the widow who understands prices.*
 > "If it's true." The widow touches her diamonds — the familiar punctuation. "The young pay truly, Miss Hartwell — I said it at the twenty-sixth, and I say it at the twenty-eighth. The unbeaten —" she smiles "— watches with admiration."
@@ -311,11 +311,11 @@
 *Animation: Shared.*
 
 ### L21.S15 · [D] · Rose, Lavinia
-*Purpose: the friend on the living — Monday night; the news running, the loyalty's pull; the young. (Turns: 8)*
-> *(The drawing room, Monday night. Lavinia arrives with the news running ahead of her — the living, the morrow — and the friend's caught between the thrill and the fear of it.)*
-> "He lives." Lavinia doesn't sit. "Rackham — alive — and coming to your rooms tomorrow. Rose, the circle's —" she stops. "The circle doesn't know whether to be thrilled or terrified."
+*Purpose: the friend on the rumor — Monday night; the news running, the loyalty's pull; the young. (Turns: 8)*
+> *(The drawing room, Monday night. Lavinia arrives with the news running ahead of her — the rumor, the morrow — and the friend's caught between the thrill and the fear of it.)*
+> "The rumor's true?" Lavinia doesn't sit. "Rackham — alive — is that what the coffee-room's saying? Rose, the circle's —" she stops. "The circle doesn't know whether to be thrilled or terrified."
 > (T1 · look closer) *She stands by the mantel, all restless youth — and the news sits on her like a gown cut for someone older.*
-> "Be neither." Rose pours the tea herself. "He comes to hear the acknowledgment, Lavinia — the Dealing honest, the retained unpressed. Spoken first, to his face. Then written."
+> "Be neither." Rose pours the tea herself. "The rumor's answered, Lavinia — the man's buried. Tomorrow the estate's broker opens his sealed word, and I speak the acknowledgment — the Dealing honest, the retained unpressed. Spoken first, before the witnesses. Then written."
 > (T2 · tone) *Calm, kind, and finished with the circle's weather — the friend deserves the truth, and the truth is simple.*
 > "The circle hears 'Rackham' and thinks the duel." Lavinia takes the cup. "They don't think the paper, Rose. Sloane's circle —" she stops.
 > (T3 · dialogue) *"The circle thinks the duel."; "Sloane's circle, courting."; "The friend, pulled."*
@@ -325,43 +325,43 @@
 > (T5 · look closer) *The honesty costs her — and the friend's telling is the loyalty's bravest act: the pull, confessed.*
 > "I know." Rose's voice is soft. "Lavinia — I'm not asking you to choose. Go to the dinners. Hear the glitter. And remember —" she takes her hand "— you hear the true from me first. Always."
 > (T6 · dialogue) *"Go to the dinners."; "Hear the true first."; "The friend, kept."*
-> "First." Lavinia's smile is small but real. "Rose — tomorrow. The living man. Will you —" she hesitates "— will you tell me how it goes?"
+> "First." Lavinia's smile is small but real. "Rose — tomorrow. The sealed word. Will you —" she hesitates "— will you tell me how it goes?"
 > (T7 · choice) *Tell the friend first. The circle hears it in the City; Lavinia hears it from Rose. That's the order of things.*
 > "Before the City." Rose squeezes her hand. "You hear it from me, Lavinia. Before anyone."
 > (T8 · remembered micro-decision) *The promise made, the pull acknowledged — the friend told first, the circle told after.*
-> *The drawing room settles into night quiet — the promise holding its order: the friend hears the living first.*
+> *The drawing room settles into night quiet — the promise holding its order: the friend hears the truth first.*
 *Animation: Shared.*
 
 ### L21.S16 · [F] · Rose (alone)
-*Purpose: the living, faced — Monday night; the dead man walking, the morrow's cloth; the faced, the week's. (Turns: 8)*
-> *(Her chambers, Monday night. The living, faced — the dead man walking, the morrow — and the facing's the mind's to do alone.)*
-> The grey silk hangs on its stand — tomorrow's cloth, the dead man's. Rose stands before it in her shift, and the week's strangest truth settles over the room.
+*Purpose: the naming, faced — Monday night; the buried man's word, the morrow's cloth; the faced, the week's. (Turns: 8)*
+> *(Her chambers, Monday night. The naming, faced — the buried man's sealed word, the morrow — and the facing's the mind's to do alone.)*
+> The grey silk hangs on its stand — tomorrow's cloth, the sealed word's. Rose stands before it in her shift, and the week's strangest truth settles over the room.
 > (T1 · look closer) *The silk takes the lamplight without shining — and the morrow's cloth waits like a question in cloth.*
-> Rackham. Living. Eleven years abroad, dealing through Drayton, watching the house chase his paper across England — the villain of her first season, alive.
+> Rackham. Buried. His paper living, his sealed word waiting since the Assembly — the villain of her first season, named.
 > (T2 · tone) *Quiet, certain, and past disbelief — the facing done the way everything's faced: head-on.*
-> The duel — the report — premature. The City buried a report. The grave holds — what? An empty box, a rumor, eleven years of quiet.
-> (T3 · dialogue) *"The report, premature."; "The grave, holding."; "The living, coming."*
-> And the price — not money. Hearing. The market's ears, the book's paragraph, the spoken first to his face. Eleven years of being called breaker of houses, answered in one paragraph.
+> The duel — long gone. The City buried a man. The grave holds him still — and his paper walks, his sealed word waits.
+> (T3 · dialogue) *"The buried, buried."; "The paper, walking."; "The word, waiting."*
+> And the price — not money. Hearing. The market's ears, the book's paragraph, the spoken first before the witnesses. Being called breaker of houses since his death, answered in one paragraph.
 > (T4 · remembered micro-decision) *Weigh the price, bank the truth — the books say honest, the counsel says writable.*
 > Drayton's word — checked, and true. The Dealing's sales honest. The retained unpressed. The precise man, precise to the last figure.
-> (T5 · look closer) *The figures stand in the night's quiet — eleven years honest, the week's foundation.*
-> Tomorrow: the answer. The acknowledgment — spoken first, then written. The living man, faced. The market, hearing.
-> (T6 · dialogue) *"Tomorrow, the spoken."; "The living, faced."; "The market hears."*
+> (T5 · look closer) *The figures stand in the night's quiet — honest since the Assembly, the week's foundation.*
+> Tomorrow: the answer. The acknowledgment — spoken first, then written. The naming, faced. The market, hearing.
+> (T6 · dialogue) *"Tomorrow, the spoken."; "The naming, faced."; "The market hears."*
 > She touches the grey silk — soft, dove grey, the endured. The house buries no one twice.
-> (T7 · choice — no coin cost, remembered) *the heather pinned — the week's mark, for the living to see; the heather left — the morrow plain, the cloth alone; the hair — severe, drawn back, or softened, the woman beneath the facing.* — remembered: *The heather, pinned for the morrow.*
+> (T7 · choice — no coin cost, remembered) *the heather pinned — the week's mark, for the City to see; the heather left — the morrow plain, the cloth alone; the hair — severe, drawn back, or softened, the woman beneath the facing.* — remembered: *The heather, pinned for the morrow.*
 > The lamp goes out. In the dark, the grey's a paler shadow — tomorrow's cloth, waiting.
-> (T8 · remembered micro-decision) *Bank the night's facing with the morrow's speaking — the living faced, the answer ready.*
-> *The dark outside the chamber glass — the silk waiting, Tuesday coming with the dead man's step.*
+> (T8 · remembered micro-decision) *Bank the night's facing with the morrow's speaking — the naming faced, the answer ready.*
+> *The dark outside the chamber glass — the silk waiting, Tuesday coming with the sealed word's hour.*
 *Animation: Shared.*
 
 ### L21.S17 · [D] · Rose, Henry
-*Purpose: the steady on the living — Monday night; the villain alive, the counsel's reading; the steady. (Turns: 8)*
-> *(The war room, Monday night. Henry comes late — the steady man's reading of the week's turn — and the living villain looks different through his eyes.)*
-> "Rackham." Henry doesn't sit. "Alive. Rose — the man tried to take your house. The duel was —" he stops. "We buried him. The City buried him."
+*Purpose: the steady on the rumor — Monday night; the villain buried, the counsel's reading; the steady. (Turns: 8)*
+> *(The war room, Monday night. Henry comes late — the steady man's reading of the week's turn — and the rumor looks different through his eyes.)*
+> "Rackham." Henry doesn't sit. "The rumor. Rose — the man tried to take your house. The duel was —" he stops. "We buried him. The City buried him."
 > (T1 · look closer) *The war room's night light is low — and the steady man's disbelief is the honest kind: stated plain, and working.*
-> "The City buried a report." Rose stays seated. "Eleven years abroad, Henry. Dealing through Drayton. The paper we've chased all season — his to sell, all of it."
+> "The City buried the man, Henry." Rose stays seated. "Since the Assembly. Dealing through Drayton — the estate's broker. The paper we've chased all season — the estate's to sell, all of it."
 > (T2 · tone) *Steady, certain, and past persuading — the night's truth deserves its level voice.*
-> "And tomorrow he walks into your rooms." He sits — heavily, for him. "To hear you speak him clean. Rose —" he looks at her "— are you certain the books are all of him?"
+> "And tomorrow his sealed word opens in the coffee-room." He sits — heavily, for him. "And you speak him clean. Rose —" he looks at her "— are you certain the books are all of him?"
 > (T3 · dialogue) *"The books, the whole?"; "The man, the paper."; "The certain, weighed."*
 > "The books are the paper, entire." Her voice is quiet. "The man —" she pauses "— the man I leave to the book's paragraph. The Dealing honest, the retained unpressed. That's what the market hears. Nothing more."
 > (T4 · stance) *Seated, level — the heiress drawing the line the acknowledgment will not cross.*
@@ -371,7 +371,7 @@
 > (T6 · dialogue) *"The boundary held."; "The number said."; "The morrow faced."*
 > "Said plain." He stands too. "And worth it — if the paper's true. The books say it is. I —" a pause "— I believe the books."
 > (T7 · choice) *Take the steady man's belief. The night's shaken, and the house needs something that isn't.*
-> The war room's night settles — the living faced, the boundary drawn, the steady man standing.
+> The war room's night settles — the rumor answered, the boundary drawn, the steady man standing.
 > (T8 · remembered micro-decision) *The reading kept, the belief banked — the steady man's counsel filed, the morrow's line held.*
 > *The night's low light on the war room's table — the paper, not the man. The boundary holding.*
 *Animation: Shared.*
@@ -388,19 +388,19 @@
 *Animation: Shared.*
 
 ### L21.S19 · [D] · Rose, Vale
-*Purpose: Vale on the living — Monday night; the sugar's intelligence; the honest. (Turns: 8)*
+*Purpose: Vale on the rumor — Monday night; the sugar's intelligence; the honest. (Turns: 8)*
 > *(The Company's coffee-room, Monday night. Jasper Vale comes late — the sugar's intelligence, the week's — and the honest the kept.)*
-> "Miss Hartwell." Vale bows — the sugar to the last. "Rackham — living. The week's news, and the sugar's ears —" he smiles, rueful "— are still catching up."
+> "Miss Hartwell." Vale bows — the sugar to the last. "The rumor. Rackham — living, they say. The week's news, and the sugar's ears —" he smiles, rueful "— are still catching up."
 > (T1 · look closer) *The coffee-room's night light is low — and the sugar merchant's honesty is the plain kind: stated plain, and catching up.*
 > "Catching up." Rose gestures to the seat. "Mr. Vale — Merrivale circles the Dealing. His men have asked after the fifteen thousand. What do the sugar's ears say?"
 > (T2 · tone) *Direct, unadorned, and past pretense — the sugar gets the plain question, and the plain question only.*
 > "They say Merrivale wants it." Vale sits. "The Dealing — fifteen thousand of Hartwell face. He'd pay —" he names a figure, low "— and he'd press it, Miss Hartwell. Not like Rackham. He'd press."
 > (T3 · dialogue) *"Merrivale wants."; "Merrivale would press."; "The sugar warns."*
-> "Press." She takes it in. "Rackham held six thousand for eleven years and never pressed, Mr. Vale. Merrivale would press in a week. That's —" she stops.
+> "Press." She takes it in. "The estate held six thousand since his death and never pressed, Mr. Vale. Merrivale would press in a week. That's —" she stops.
 > (T4 · stance) *Seated, level — the heiress hearing the week's intelligence straight, and filing it straight.*
 > "That's the difference." Vale nods — the honest to the last. "The house holds, Miss Hartwell. The sugar stands with the house — whatever the circling brings."
 > (T5 · look closer) *The standing's a small thing — a sugar merchant's pledge — and the week's biggest.*
-> "The house thanks the sugar." Rose stands. "Mr. Vale — tomorrow. The living man. The acknowledgment spoken."
+> "The house thanks the sugar." Rose stands. "Mr. Vale — tomorrow. The sealed word. The acknowledgment spoken."
 > (T6 · dialogue) *"The sugar stands."; "The house thanks."; "Tomorrow, spoken."*
 > "I'll be there." He bows — and goes, the honest to the last. "Where the market hears, Miss Hartwell. I'll hear it."
 > (T7 · choice) *Take the pledge. The week's allies are counted — and the sugar's among them, hearing.*
@@ -410,36 +410,36 @@
 *Animation: Shared.*
 
 ### L21.S20 · [D] · Rose, Augusta
-*Purpose: the dowager on the living — Monday night; the dead man walking; the formidable. (Turns: 8)*
-> *(The dowager's drawing room, Monday night. Augusta on the living — the week's turn, the dead man walking — and the dowager the formidable kind: stated plain, and the reading the week's.)*
-> "Living." Augusta doesn't rise. "Rackham — living. Eleven years. Rose —" the formidable leans forward "— the City buried him, and now he walks. What does he want?"
+*Purpose: the dowager on the rumor — Monday night; the buried man's word; the formidable. (Turns: 8)*
+> *(The dowager's drawing room, Monday night. Augusta on the rumor — the week's turn, the buried man's word — and the dowager the formidable kind: stated plain, and the reading the week's.)*
+> "The rumor." Augusta doesn't rise. "Rackham — living, they say. Buried. Rose —" the formidable leans forward "— the City buried him, and his paper walks. What does the estate want?"
 > (T1 · look closer) *The drawing room's night light is amber — and the dowager's question is the week's sharpest: asked once, and finally.*
-> "Hearing." Rose takes the chair. "Fourteen thousand pounds, and the acknowledgment — the Dealing honest, the retained unpressed. Spoken first, to his face, where the market hears. Then written."
+> "Hearing." Rose takes the chair. "Fourteen thousand pounds, and the acknowledgment — the Dealing honest, the retained unpressed. Spoken first, before the witnesses, where the market hears. Then written."
 > (T2 · tone) *Respectful, complete, and past flinching — the week's report delivered to the house's highest court.*
-> "Hearing." The formidable tastes the word. "Eleven years of being called breaker of houses — and he wants one paragraph. Rose —" she studies her "— men who want so little always want the most. Watch him tomorrow."
+> "Hearing." The formidable tastes the word. "Being called breaker of houses since his death — and the estate wants one paragraph. Rose —" she studies her "— estates that want so little always want the most. Watch Drayton tomorrow."
 > (T3 · dialogue) *"The little, the most."; "The watched, tomorrow."; "The house, wary."*
 > "Watched." Rose meets her eyes. "Grandmama — the books say honest. Julian checked — ten years of sales, every one at the honest price. The counsel says the house can write it."
 > (T4 · stance) *In the chair, unflinching — the granddaughter's account rendered, the house's books balanced.*
-> Augusta nods — slowly, the formidable's full attention. "The counsel's word is good, Rose. But the living —" she pauses "— the living want things the dead never ask for. Tomorrow, you learn what."
+> Augusta nods — slowly, the formidable's full attention. "The counsel's word is good, Rose. But sealed words —" she pauses "— keep what the dead never said. Tomorrow, you learn what."
 > (T5 · look closer) *The warning is the dowager's finest — given whole, and left to ripen overnight.*
 > "Tomorrow." Rose stands. "The grey, Grandmama. The house buries no one twice."
 > (T6 · dialogue) *"Tomorrow, the grey."; "The buried, once."; "The house, ready."*
 > "The grey." The formidable mouth curves — almost a smile. "Wear it well, Rose. And speak it well — the City remembers how a thing's said longer than it remembers what's said."
 > (T7 · choice) *Take the benediction. The night's done, the dowager's warned — there's no higher court.*
 > The drawing room door closes behind her — soft, final, the night's last audience done.
-> (T8 · remembered micro-decision) *The warning filed, the counsel taken — the formidable's word kept, the living watched.*
-> *The drawing room's amber night — the living weighed, the dowager's warning ripening.*
+> (T8 · remembered micro-decision) *The warning filed, the counsel taken — the formidable's word kept, the opening watched.*
+> *The drawing room's amber night — the rumor weighed, the dowager's warning ripening.*
 *Animation: Shared.*
 ### L21.S21 · [C] · Rose (alone)
-*Purpose: the broker's ritual — Monday night; dressing for the living; the floating ritual, the twenty pins; the named, the faced. (Turns: 21)*
-> *(Monday night, her chambers: the broker's ritual — the dressing for the living, the floating ritual — and the twenty pins go in one by one, each with its meaning.)*
-> Direction: toward Tuesday's facing — the living met, the acknowledgment spoken.
-> (T1 · pin 1) *For the naming — Drayton, named at last, eleven years' precision.* — placed: *The named kept: precise, the night's.*
+*Purpose: the broker's ritual — Monday night; dressing for the naming; the floating ritual, the twenty pins; the named, the faced. (Turns: 21)*
+> *(Monday night, her chambers: the broker's ritual — the dressing for the naming, the floating ritual — and the twenty pins go in one by one, each with its meaning.)*
+> Direction: toward Tuesday's naming — the sealed word opened, the acknowledgment spoken.
+> (T1 · pin 1) *For the naming — Drayton, named at last, the estate's precision.* — placed: *The named kept: precise, the night's.*
 > (T2 · pin 2) *For the offer — twenty-one thousand face, fourteen thousand pounds.* — placed: *The offer kept: priced, the night's.*
 > (T3 · pin 3) *For the Dealing — fifteen thousand, honest by the market's books.* — placed: *The Dealing kept: honest, the night's.*
 > (T4 · pin 4) *For the retained — six thousand, never pressed, the pistol unfired.* — placed: *The retained kept: unpressed, the night's.*
-> (T5 · pin 5) *For the living — the duel's report, premature, eleven years.* — placed: *The living kept: faced, the night's.*
-> (T6 · pin 6) *For the spoken — the acknowledgment first to his face, then the ink.* — placed: *The spoken kept: first, the night's.*
+> (T5 · pin 5) *For the rumor — the City said he lives; his paper lives, the man is buried.* — placed: *The rumor kept: answered, the night's.*
+> (T6 · pin 6) *For the spoken — the acknowledgment first before the witnesses, then the ink.* — placed: *The spoken kept: first, the night's.*
 > (T7 · pin 7) *For the check — Julian's night, the books verified.* — placed: *The check kept: true, the night's.*
 > (T8 · pin 8) *For the counsel's arithmetic — twenty-two seven thirty-six to eight seven thirty-six.* — placed: *The arithmetic kept: said, the night's.*
 > (T9 · pin 9) *For the dowager's warning — the unhurried, in a hurry about something.* — placed: *The warning kept: formidable, the night's.*
@@ -451,39 +451,39 @@
 > (T15 · pin 15) *For the sugar's standing — Vale's pledge, the honest kept.* — placed: *The standing kept: honest, the night's.*
 > (T16 · pin 16) *For the professional's grey — the endured, the house buries no one twice.* — placed: *The grey kept: endured, the night's.*
 > (T17 · pin 17) *For the circling — Merrivale's men, the Dealing eyed.* — placed: *The circling kept: watched, the night's.*
-> (T18 · pin 18) *For the heather — the week's mark, worn for the living.* — placed: *The mark kept: hers, the night's.*
+> (T18 · pin 18) *For the heather — the week's mark, worn for the naming.* — placed: *The mark kept: hers, the night's.*
 > (T19 · pin 19) *For the morrow's answer — how the house meets the price.* — placed: *The answer kept: chosen, the night's.*
 > (T20 · pin 20) *For the market's hearing — the paragraph, the ears, the price.* — placed: *The hearing kept: priced, the night's.*
-> (T21 · direction) *Toward Tuesday's facing — the living met, the acknowledgment spoken, the market hearing.* — remembered: *The ritual faced: twenty placed, the night's.*
-> *The twentieth pin clicks home — Monday night in the glass, the living's dressing underway.*
+> (T21 · direction) *Toward Tuesday's naming — the sealed word opened, the acknowledgment spoken, the market hearing.* — remembered: *The ritual faced: twenty placed, the night's.*
+> *The twentieth pin clicks home — Monday night in the glass, the naming's dressing underway.*
 *Animation: Shared.*
 
 ### L21.S22 · [D] · Rose, Drayton
-*Purpose: the acceptance, carried — Monday night; the week's answer, the principal's; the sealed. (Turns: 8)*
+*Purpose: the acceptance, carried — Monday night; the week's answer, the estate's; the sealed. (Turns: 8)*
 > *(The Company's private room, Monday night. Drayton comes once more — the acceptance carried, the week's answer — and the carrying is the quiet kind.)*
 > "Miss Hartwell." Drayton bows — the night's business in it. "The house has decided — the answer, the week's."
 > (T1 · look closer) *The private room's night light is clean — and the week's great decision arrives the way it was made: plainly.*
-> "The house accepts." Rose stands. "Fourteen thousand pounds for twenty-one thousand face — the Dealing and the retained. The acknowledgment —" she pauses "— spoken first, to his face, where the market hears. Then written in the buyback book."
+> "The house accepts." Rose stands. "Fourteen thousand pounds for twenty-one thousand face — the Dealing and the retained. The acknowledgment —" she pauses "— spoken first, before the witnesses, where the market hears. Then written in the buyback book."
 > (T2 · tone) *Formal, final, and exact — the acceptance given the way the offer was: whole.*
-> "Spoken first." Drayton's precision holds. "My principal will hear it, Miss Hartwell. Tomorrow —" he checks nothing, knows all "— ten o'clock, your rooms. The market's men —" a pause "— invited, as the price requires."
+> "Spoken first." Drayton's precision holds. "The estate will hear it, Miss Hartwell — through me, as the instrument provides. Tomorrow —" he checks nothing, knows all "— ten o'clock, the coffee-room. The market's men —" a pause "— invited, as the price requires."
 > (T3 · dialogue) *"The accepted, whole."; "Tomorrow, ten."; "The market, invited."*
 > "Invited." She nods. "The Company's coffee-room, Mr. Drayton — the house's ground, the paper's home. The witnesses will hear the acknowledgment where the paper lives."
 > (T4 · stance) *At the table, the arrangements made standing — the heiress setting the week's stage.*
 > "The coffee-room." He squares nothing — there's nothing to square. "Ten o'clock. The fourteen thousand —" he looks up "— counted at the assignment, Miss Hartwell. The paper for the pounds, even and exact."
 > (T5 · look closer) *The terms close like a watch-case — the night's business, precise to the catch.*
-> "Even and exact." Rose moves to the door. "Mr. Drayton — eleven years unnamed. Tomorrow, named. Sleep well — the week's hinge turns on your name."
+> "Even and exact." Rose moves to the door. "Mr. Drayton — long unnamed. Tomorrow, named. Sleep well — the week's hinge turns on your name."
 > (T6 · dialogue) *"The named, tomorrow."; "The hinge, turning."; "The night, kept."*
 > He bows — deeper, the week's end in it — and goes. The private room's night closes on the acceptance: given, carried, sealed.
-> (T7 · choice) *Let him carry it. The week's answer is the principal's now — what comes is Tuesday's.*
-> She stands alone. The week's hinge has turned — the offer accepted, the living coming, the spoken promised.
+> (T7 · choice) *Let him carry it. The week's answer is the estate's now — what comes is Tuesday's.*
+> She stands alone. The week's hinge has turned — the offer accepted, the opening coming, the spoken promised.
 > (T8 · remembered micro-decision) *The acceptance carried, the stage set — the week's answer filed, the morrow's ten o'clock kept.*
-> *The night takes the private room's quiet with it — the answer given, the living's morrow arranged.*
+> *The night takes the private room's quiet with it — the answer given, the opening's morrow arranged.*
 *Animation: Shared.*
 
 ### L21.S23 · [D] · Rose, Julian
 *Purpose: the morrow's law — Monday night; the assignment's papers, the fourteen thousand; the counsel's. (Turns: 8)*
 > *(Julian's chambers, Monday night. The morrow's law — the assignment's papers drawn, the fourteen thousand counted — and the counsel's pen moves like a seal.)*
-> "The assignment." Julian lays the papers out. "Twenty-one thousand face — the Dealing's fifteen, the retained's six — assigned by Rackham's own hand, tomorrow, witnessed. The fourteen thousand —" he taps the strongbox "— counted, ready."
+> "The assignment." Julian lays the papers out. "Twenty-one thousand face — the Dealing's fifteen, the retained's six — assigned by the estate's conveyance, under Rackham's sealed hand, opened tomorrow, witnessed. The fourteen thousand —" he taps the strongbox "— counted, ready."
 > (T1 · look closer) *The chambers' lamplight is low — and the morrow's law lies in its rows, plain and final.*
 > "Counted." Rose looks at the strongbox. "Fourteen thousand, Julian. Twenty-two seven thirty-six becomes eight seven thirty-six — said plain, and counted plain."
 > (T2 · tone) *Quiet, satisfied, and tired to the bone — the night's law has been a long day's work.*
@@ -491,12 +491,12 @@
 > (T3 · dialogue) *"The assignment, drawn."; "The book, waiting."; "The hand, hers."*
 > "In my hand." She takes the book — heavy, leather-bound, the campaign's complete record. "The Dealing honest, the retained unpressed — written where the market hears."
 > (T4 · stance) *The book in her hands — the week's paragraph waiting on its page, the heiress its scribe.*
-> Julian watches her. "The counsel's word, Rose — once more, for the night. The books say honest. The law says writable. And the —" he hesitates "— the living says nothing yet. Tomorrow, he speaks."
-> (T5 · look closer) *The hesitation is the counsel's honesty — the law's ready, the man's unknown.*
-> "Tomorrow, he speaks." She closes the book. "And I speak first, Julian — the acknowledgment, to his face. Then the ink."
+> Julian watches her. "The counsel's word, Rose — once more, for the night. The books say honest. The law says writable. And the —" he hesitates "— the sealed word says nothing yet. Tomorrow, it speaks."
+> (T5 · look closer) *The hesitation is the counsel's honesty — the law's ready, the word's unknown.*
+> "Tomorrow, it opens." She closes the book. "And I speak first, Julian — the acknowledgment, before the witnesses. Then the ink."
 > (T6 · dialogue) *"The spoken, first."; "The ink, after."; "Tomorrow, both."*
-> He sees her to the door — the counsel's courtesy, unhurried. "The respect — is absolute, Rose. Whatever walks in tomorrow."
-> (T7 · choice) *Take the counsel's respect. The night's law is done — what comes is the living's.*
+> He sees her to the door — the counsel's courtesy, unhurried. "The respect — is absolute, Rose. Whatever the sealed word holds tomorrow."
+> (T7 · choice) *Take the counsel's respect. The night's law is done — what comes is the opening's.*
 > The chambers' door closes — the night's law kept, the morrow's papers drawn.
 > (T8 · remembered micro-decision) *The papers filed, the book lifted — the counsel's morrow prepared, the fourteen thousand housed.*
 > *The lamp burns low over the drawn papers — the assignment ready, the book waiting its paragraph.*
@@ -505,29 +505,29 @@
 ### L21.S24 · [F] · Rose (alone)
 *Purpose: the week's cloth, kept — Monday night; the grey, the blue, the week's; the dressing. (Turns: 8)*
 > *(Monday night, her chambers. The week's cloth, kept — the grey for the morrow, the blue for today — and the keeping is the week's quietest hour.)*
-> The grey silk hangs on its stand — tomorrow's cloth, the living man's. The blue twill lies folded — today's, the believed's. Two cloths, two readings.
-> (T1 · look closer) *The wardrobe holds the week's history — blue for the naming, grey for the living — the broker's week, dressed.*
+> The grey silk hangs on its stand — tomorrow's cloth, the sealed word's. The blue twill lies folded — today's, the believed's. Two cloths, two readings.
+> (T1 · look closer) *The wardrobe holds the week's history — blue for the naming, grey for the opening — the broker's week, dressed.*
 > She runs her hand down the grey — soft, dove grey, the endured. Tomorrow it carries the acknowledgment. Tonight it's only cloth.
 > (T2 · tone) *Soft, certain, and alone with it — the week's cloth spoken to no one, and believed.*
-> The white heather's on the nightstand — tomorrow it goes back to her waist. The week's mark, every day. The living man will see it.
+> The white heather's on the nightstand — tomorrow it goes back to her waist. The week's mark, every day. The City will see it.
 > (T3 · dialogue) *"The grey waits."; "The heather returns."; "Tomorrow's dressed."*
 > She unpins her hair — the severe day's undoing — and it falls loose. The mirror shows a different woman: softer, younger, the week's face unmade.
 > (T4 · stance) *Hair down, shoulders dropped — the heiress unmade, the woman beneath the week's readings.*
-> Tomorrow: ten o'clock. The coffee-room. The living man, the market's men, the acknowledgment spoken first — then the ink.
+> Tomorrow: ten o'clock. The coffee-room. The sealed word, the market's men, the acknowledgment spoken first — then the ink.
 > (T5 · look closer) *The morrow stands in the glass beside her — grey silk, white heather, a woman's level gaze.*
 > The fourteen thousand in Julian's strongbox. The book on Julian's desk. The words — still unwritten, still unspoken — waiting on her tongue.
 > (T6 · dialogue) *"Tomorrow, ten."; "The spoken, first."; "The words, waiting."*
 > She turns down the lamp. In the dark, the grey's the paler shadow — tomorrow's cloth, waiting its wearing.
-> (T7 · choice — no coin cost, remembered) *the grey laid for the morrow — the living's cloth, the endured; the blue folded for reserve — the believed, Monday done; the heather — on the nightstand tonight, back at her waist by ten.* — remembered: *The week's dressed.*
+> (T7 · choice — no coin cost, remembered) *the grey laid for the morrow — the sealed word's cloth, the endured; the blue folded for reserve — the believed, Monday done; the heather — on the nightstand tonight, back at her waist by ten.* — remembered: *The week's dressed.*
 > Sleep comes slow. The week's numbers turn behind her eyes — twenty-one thousand, fourteen thousand — until they blur into the dark.
-> (T8 · remembered micro-decision) *Bank the night's quiet with the morrow's speaking — the cloth ready, the living awaited.*
-> *The night on her chambers' glass — the silk waiting, Tuesday coming with the living's step.*
+> (T8 · remembered micro-decision) *Bank the night's quiet with the morrow's speaking — the cloth ready, the opening awaited.*
+> *The night on her chambers' glass — the silk waiting, Tuesday coming with the sealed word.*
 *Animation: Shared.*
 
 ### L21.S25 · [D] · Rose, Letitia
 *Purpose: the war room's night — Monday night; the aunt's orders, the week's; the comfort. (Turns: 8)*
 > *(The war room, Monday night. Letitia comes with the night's orders — the war room's, the week's — and the comfort the unforced kind: warm, stated, and the tea hot.)*
-> "The war room, darling." Letitia pours — warm to the bone. "Ten o'clock tomorrow — the coffee-room, the living man, the market's men. The household —" she pats the map "— is ready."
+> "The war room, darling." Letitia pours — warm to the bone. "Ten o'clock tomorrow — the coffee-room, the sealed word, the market's men. The household —" she pats the map "— is ready."
 > (T1 · look closer) *The war room's night light is kind — and the aunt's command of it is the week's warmest thing: stated plain, and ready.*
 > "Ready." Rose takes the tea. "Aunt — the acknowledgment. Spoken first, then written. The house's words or Drayton's — the week's first decision, made."
 > (T2 · tone) *Warm, easy, and niece-soft — the night's end with the aunt is the week's softest hour.*
@@ -535,7 +535,7 @@
 > (T3 · dialogue) *"The meaning, first."; "The wording, after."; "The market hears."*
 > "Like I mean them." Rose smiles. "Aunt — the grey. Élise says the grey is endured. The City endures the grey."
 > (T4 · stance) *At ease with the tea — the niece letting the aunt's delight wash over the night's tired.*
-> "Endured." Letitia considers. "Darling — the professional's right, as always. The living man gets the grey —" she pats her heart "— and the aunt gets the tea's steam. Everyone's suited."
+> "Endured." Letitia considers. "Darling — the professional's right, as always. The buried man's naming gets the grey —" she pats her heart "— and the aunt gets the tea's steam. Everyone's suited."
 > (T5 · look closer) *The second cup steams — and the aunt's counsel matches the professional's: grey, tomorrow.*
 > "Suited." Rose stands. "Aunt — the war room's yours tonight. The map, the pins, the week's parcel. Hold it till morning."
 > (T6 · dialogue) *"The war room, held."; "The map, kept."; "Morning, coming."*
@@ -547,15 +547,15 @@
 *Animation: Shared.*
 
 ### L21.S26 · [D] · Rose, Laurent
-*Purpose: the Frenchman on the living — Monday night; the enemy alive, the familiar; the faced. (Turns: 8)*
-> *(Laurent calls Monday night — the living, the morrow — and the Frenchman on the living is the honest kind: precise, pained, and the familiar faced.)*
-> "He lives, Rose." Laurent is grave. "Rackham — the man who —" he stops. "The duel's report, premature. Eleven years."
+*Purpose: the Frenchman on the rumor — Monday night; the rumor answered, the familiar; the faced. (Turns: 8)*
+> *(Laurent calls Monday night — the rumor answered, the morrow — and the Frenchman on the rumor is the honest kind: precise, pained, and the familiar faced.)*
+> "The rumor's answered, Rose." Laurent is grave. "Rackham — the man who —" he stops. "Buried since the Assembly. His paper —" he pauses "— dealing still."
 > (T1 · look closer) *The lamplight finds the pain in his face — and the Frenchman's honesty is the night's most familiar thing: precise, pained, and faced.*
-> "Eleven years." Rose gestures him in. "Abroad, quietly, dealing through Drayton. The paper we've chased — his, all of it, Laurent."
+> "Buried since the Assembly." Rose gestures him in. "His paper, dealing through Drayton. The paper we've chased — the estate's, all of it, Laurent."
 > (T2 · tone) *Gentle, direct, and done with distance — the familiar deserves the plain account.*
 > "The ruin —" he stops. "Was dealt, once, Rose. In my country — the paper, the ruin. The familiar —" he meets her eyes "— stands."
-> (T3 · dialogue) *"Eleven years, abroad."; "The familiar stands."; "The ruin, dealt."*
-> "The familiar stands." She takes his hand — brief, warm. "Laurent — the acknowledgment. The Dealing honest, the retained unpressed. Spoken first, to his face. The market hears."
+> (T3 · dialogue) *"Buried since the Assembly."; "The familiar stands."; "The ruin, dealt."*
+> "The familiar stands." She takes his hand — brief, warm. "Laurent — the acknowledgment. The Dealing honest, the retained unpressed. Spoken first, before the witnesses. The market hears."
 > (T4 · stance) *The hand taken, the pain acknowledged — the heiress and the Frenchman, the night's familiar faced.*
 > "The courage —" he bows over her hand "— is yours, Rose. The staying —" he looks up "— is mine. Tomorrow —" a pause "— I will be where the market hears."
 > (T5 · look closer) *The bow says it all — passion, pain, and the staying's pledge, in one movement.*
@@ -565,15 +565,15 @@
 > (T7 · choice) *Let the familiar stay. The night's pain is acknowledged — and the staying's the answer.*
 > The night settles — the Frenchman's visit, the familiar faced, and staying.
 > (T8 · remembered micro-decision) *The pain heard, the staying kept — the familiar's pledge filed, the night's honesty housed.*
-> *The night's lamplight on the empty chair — the familiar standing, the living faced, the Frenchman gone home.*
+> *The night's lamplight on the empty chair — the familiar standing, the rumor answered, the Frenchman gone home.*
 *Animation: Shared.*
 
 ### L21.S27 · [D] · Rose, Lavinia
 *Purpose: the friend's night — Monday night; the morrow's promise; the loyalty. (Turns: 8)*
 > *(The drawing room, Monday night. Lavinia comes with the morrow's promise already made — and the friend the loyal kind: stated plain, and the pull the stayed's.)*
-> "Tomorrow, ten." Lavinia's loyalty is absolute. "The coffee-room, the living man. Rose —" she pauses "— the circle's already placing bets on what he'll look like."
+> "Tomorrow, ten." Lavinia's loyalty is absolute. "The coffee-room, the sealed word. Rose —" she pauses "— the circle's already placing bets on what it'll say."
 > (T1 · look closer) *The lamplight softens the drawing room — and the young friend's report is the loyalty's kind: told true, and plain.*
-> "Let them bet." Rose pours. "Lavinia — you hear it from me first. Before the City, before the circle. The acknowledgment, the living, all of it."
+> "Let them bet." Rose pours. "Lavinia — you hear it from me first. Before the City, before the circle. The acknowledgment, the sealed word, all of it."
 > (T2 · tone) *Warm, steady, and friend-true — the night's end with Lavinia is the loyalty's reward.*
 > "First." Lavinia takes the cup — the loyalty steady. "The pull —" she stops. "Stays, Rose. Whatever the circle says tomorrow — the friend keeps."
 > (T3 · dialogue) *"Tomorrow, ten."; "The pull stays."; "The friend keeps."*
@@ -597,18 +597,18 @@
 > (T1 · look closer) *The page is ruled, the ink is ready — and the week's paragraph hasn't decided its shape yet.*
 > The Dealing honest — ten years of sales at the honest prices of their years. The retained unpressed — six thousand, never called, the pistol unfired.
 > (T2 · tone) *Plain, careful, and complete — the drafting done the way the book demands: true, and to the pound.*
-> Spoken first — to his face, where the market hears. Then written. Drayton's condition, and hers now too. The market's ears are the coin.
+> Spoken first — before the witnesses, where the market hears. Then written. The estate's condition, and hers now too. The market's ears are the coin.
 > (T3 · dialogue) *"The spoken, first."; "The ink, after."; "The ears, the coin."*
 > The house's words or Drayton's — the week's first decision, made tonight. The paragraph's shape — chosen, filed, waiting on the tongue.
 > (T4 · remembered micro-decision) *Hold the shape, bank the choice — the decision made, the words waiting.*
-> And Rackham — living. Eleven years. The villain of her first season, coming to hear a Hartwell speak him honest. The City will talk of nothing else for a month.
+> And Rackham — buried. Since the Assembly. His sealed word, opening tomorrow for a Hartwell to speak him honest. The City will talk of nothing else for a month.
 > (T5 · look closer) *The thought sits on the page's margin — uninked, unpriced, entirely the week's.*
 > She lifts the pen — then sets it down. Not tonight. Tomorrow, after the spoken. The ink waits on the hearing.
 > (T6 · dialogue) *"The pen, lifted."; "The ink, waiting."; "Tomorrow, both."*
 > The grey silk on its stand. The heather on the nightstand. The words on her tongue. The week, entire, waiting on ten o'clock.
 > (T7 · choice) *Rest. The drafting's done — tomorrow's speaking can wait for morning.*
 > The lamp goes out. The book waits in the dark — the ruled page, the paragraph, the morrow.
-> (T8 · remembered micro-decision) *Bank the night's drafting with the morrow's speaking — the words waiting, the living coming.*
+> (T8 · remembered micro-decision) *Bank the night's drafting with the morrow's speaking — the words waiting, the opening coming.*
 > *The dark on the chamber's desk — the book open, the page ruled, Tuesday coming with the paragraph.*
 *Animation: Shared.*
 
@@ -626,7 +626,7 @@
 ### L21.S30 · [D] · Rose, Henry
 *Purpose: the night's arithmetic — Monday night; the fourteen thousand, the eight seven thirty-six; the stated. (Turns: 8)*
 > *(The war room, Monday night. Henry comes with the night's arithmetic — the figures plain, the steadiness sure — and the night stated the steady way: plain, and to the pound.)*
-> "The figures, Rose." Henry opens the ledger. "The venture — twenty-two thousand seven hundred thirty-six, until tomorrow ten. Then —" he looks up "— fourteen thousand to Rackham's hand, and eight seven thirty-six remains."
+> "The figures, Rose." Henry opens the ledger. "The venture — twenty-two thousand seven hundred thirty-six, until tomorrow ten. Then —" he looks up "— fourteen thousand to the estate's hand, and eight seven thirty-six remains."
 > (T1 · look closer) *The numbers stand in the lamplight — the night's arithmetic, stated plain.*
 > "Said plain." Rose nods. "Henry — the face. Thirty-six five hundred we hold. Twenty-one thousand assigned tomorrow. Fifty-seven five hundred."
 > (T2 · tone) *Level, certain, and quietly proud — the night's arithmetic deserves its steadiness.*
@@ -647,19 +647,19 @@
 ### L21.S31 · [D] · Rose, Octavia
 *Purpose: the painter's night — Monday night; the portrait's nearing; the held. (Turns: 8)*
 > *(Octavia's studio, Monday night. The painter's night — the portrait nearing, the week's face — and the canvas holds the week's disbelief like it was born to it.)*
-> "The portrait, Rose." Octavia steps back — the night's work done. "The grey — sketched. The heather —" she gestures "— placed. The living —" she smiles "— not yet painted. No one paints the morrow."
+> "The portrait, Rose." Octavia steps back — the night's work done. "The grey — sketched. The heather —" she gestures "— placed. The sealed word —" she smiles "— not yet painted. No one paints the morrow."
 > (T1 · look closer) *The studio's night light slants across the canvas — and the week's face looks back: blue twill's memory, grey silk's promise, a woman's set jaw.*
 > "Not yet." Rose studies it. "Octavia — the season's face. When it's finished —" she stops.
 > (T2 · tone) *Quiet, moved, and painter-honest — the likeness is true, and the truth deserves its quiet.*
 > "When it's finished," the painter says, "it'll say look. That's all, Rose — look. And the looking" — she covers the canvas "— will be the season's."
 > (T3 · dialogue) *"The portrait, nearing."; "The look, the season's."; "The finished, coming."*
-> "The season's." Rose touches the canvas's edge — not the paint, the frame. "Tomorrow, ten — the coffee-room. The living man. Will you come and see it, Octavia?"
+> "The season's." Rose touches the canvas's edge — not the paint, the frame. "Tomorrow, ten — the coffee-room. The sealed word's opening. Will you come and see it, Octavia?"
 > (T4 · stance) *Before the canvas, the week's face — the heiress and her likeness, the morrow's two readings.*
-> "I'll paint it." The painter's eyes shine. "The living, the spoken, the market's hearing — I'll paint it from memory, Rose. The City can hang it wherever it likes."
+> "I'll paint it." The painter's eyes shine. "The sealed word, the spoken, the market's hearing — I'll paint it from memory, Rose. The City can hang it wherever it likes."
 > (T5 · look closer) *The canvas holds the week's blue — and the painter's promise holds the week's grey: the morrow's cloth, still to come.*
 > "The grey." Rose nods. "Tomorrow's cloth — the endured. Paint that too, Octavia."
-> (T6 · dialogue) *"The grey tomorrow."; "The endured, painted."; "The living, seen."*
-> "I paint what I see." Octavia blows out the lamp. "And tomorrow I see the living, Rose — and the woman who speaks him honest."
+> (T6 · dialogue) *"The grey tomorrow."; "The endured, painted."; "The naming, seen."*
+> "I paint what I see." Octavia blows out the lamp. "And tomorrow I see the naming, Rose — and the woman who speaks him honest."
 > (T7 · choice) *Let the painter see. The canvas keeps what the ledger can't — the look of the week that buried no one twice.*
 > The studio door closes on the turpentine — the night's likeness, held.
 > (T8 · remembered micro-decision) *The likeness kept, the promise made — the painter's night filed, the portrait nearing.*
@@ -667,35 +667,35 @@
 *Animation: Shared.*
 
 ### L21.S32 · [F] · Rose, Élise
-*Purpose: the morrow's fitting — Monday night; the grey, the living's; the professional. (Turns: 8)*
-> *(Monday night, her chambers. Élise comes once more — the morrow's fitting, the living's — and the fitting the morrow demands: precise, complete, and the pins counted.)*
-> "The grey, Rose." Élise circles — the professional to the fingertips. "The morrow's — the living's. The dove grey, the endured —" she touches the silk "— for ten o'clock."
+*Purpose: the morrow's fitting — Monday night; the grey, the sealed word's; the professional. (Turns: 8)*
+> *(Monday night, her chambers. Élise comes once more — the morrow's fitting, the naming's — and the fitting the morrow demands: precise, complete, and the pins counted.)*
+> "The grey, Rose." Élise circles — the professional to the fingertips. "The morrow's — the sealed word's. The dove grey, the endured —" she touches the silk "— for ten o'clock."
 > (T1 · look closer) *The lamplight catches the grey — soft, true, the week's second reading — and the professional's eye is already fitting it.*
 > "Ten o'clock." Rose steps into the silk. "Élise — the acknowledgment. Spoken first, then written. The cloth must carry the speaking."
 > (T2 · tone) *Ceremonial, willing, and entirely in the professional's hands — the morrow's cloth deserves its ritual.*
 > "The speaking." Élise pins — the knowing exact. "The grey endures the speaking, Rose — the City hears truth in grey the way it hears gossip in crimson. That's the professional's art."
 > (T3 · dialogue) *"The grey endures."; "The City hears."; "The speaking, clothed."*
-> "The City hears." Rose turns. "The heather —" she touches the sprig "— stays. The week's mark. The living man sees it."
-> (T4 · stance) *Mid-turn in the grey — the morrow's cloth, the week's second reading, worn for the living.*
-> "It stays." The professional steps back. "The mark's yours, Rose — the City's seen it all season. Tomorrow the living sees it too."
+> "The City hears." Rose turns. "The heather —" she touches the sprig "— stays. The week's mark. The City sees it."
+> (T4 · stance) *Mid-turn in the grey — the morrow's cloth, the week's second reading, worn for the opening.*
+> "It stays." The professional steps back. "The mark's yours, Rose — the City's seen it all season. Tomorrow the City hears his name spoken — and sees the mark too."
 > (T5 · look closer) *The glass shows the night's end: grey silk, white heather, a woman's level gaze — the morrow's cloth, worn like a second skin.*
 > "The house buries no one twice." Rose nods. "Let the cloth say it, Élise."
 > (T6 · dialogue) *"The cloth says."; "The house, true."; "Tomorrow, ten."*
-> "It'll say it." Élise gathers her pins. "The week's dressed, Rose. Blue for the naming, grey for the living — complete."
+> "It'll say it." Élise gathers her pins. "The week's dressed, Rose. Blue for the naming, grey for the opening — complete."
 > (T7 · choice — no coin cost, remembered) *the grey with the heather — the week's mark, the City knows it; the grey without — severity entire, the cloth alone; the deep blue shawl — over the shoulders, or off, the hour's own decision.* — remembered: *The grey, heather-marked.*
-> The pins come out. The grey settles — soft, dove grey, the endured. Tomorrow's living, tonight's cloth.
-> (T8 · remembered micro-decision) *The morrow fitted, the wardrobe complete — the professional's night filed, the living dressed for.*
+> The pins come out. The grey settles — soft, dove grey, the endured. Tomorrow's opening, tonight's cloth.
+> (T8 · remembered micro-decision) *The morrow fitted, the wardrobe complete — the professional's night filed, the naming dressed for.*
 > *The night's light on the grey silk — the cloth ready, the morrow's speaking dressed.*
 *Animation: Shared.*
 
 ### L21.S33 · [D] · Rose, Sloane
 *Purpose: the widow's night — Monday night; the morrow's reading; the circling. (Turns: 8)*
 > *(The Company's coffee-room, Monday night. Mrs. Sloane comes once more — the morrow's reading, the circling — and the widow on the morrow is the gracious kind.)*
-> "Miss Hartwell." Sloane is grave — the circling, and something warmer. "Tomorrow, ten — the coffee-room, the living man. The widow —" she pauses "— will be where the market hears."
+> "Miss Hartwell." Sloane is grave — the circling, and something warmer. "Tomorrow, ten — the coffee-room, the sealed word. The widow —" she pauses "— will be where the market hears."
 > (T1 · look closer) *The coffee-room's night light flatters the crimson — and the widow's gravity is the senior player's kind: stated plain, and meant.*
-> "Mrs. Sloane." Rose sits. "The acknowledgment — spoken first, to his face. Then written. The market hears a Hartwell speak Rackham's true."
+> "Mrs. Sloane." Rose sits. "The acknowledgment — spoken first, before the witnesses. Then written. The market hears a Hartwell speak Rackham's true."
 > (T2 · tone) *Warm, junior, and easy — the night's end loosens what the night's middle held tight.*
-> "The true." Sloane considers — the compliment whole. "Eleven years, Miss Hartwell — the City called him breaker of houses, and the books say honest. The young —" she smiles "— pay truly. I never tire of watching it."
+> "The true." Sloane considers — the compliment whole. "Since the Assembly, Miss Hartwell — the City called him breaker of houses, and the books say honest. The young —" she smiles "— pay truly. I never tire of watching it."
 > (T3 · dialogue) *"The true, spoken."; "The young, paying."; "The widow, watching."*
 > "Watch, then." Rose laughs — soft, tired. "Tomorrow, ten. The grey. The house buries no one twice, Mrs. Sloane."
 > (T4 · stance) *At ease, amused — the heiress taking the night's last surprise with grace.*
@@ -713,11 +713,11 @@
 ### L21.S34 · [D] · Rose, Bell
 *Purpose: Bell on the broker — Monday night; the Gazette's reading; the serialized. (Turns: 8)*
 > *(The Gazette's offices, Monday night. Mrs. Bell is at her desk — the week's reading, the serialized — and the paper's verdict on the broker's week is the blunt kind.)*
-> "Drayton." Bell doesn't look up from the proofs. "Named, at last. Eleven years unnamed — the broker's week's headline, Miss Hartwell, and the City's already writing it for me."
+> "Drayton." Bell doesn't look up from the proofs. "Named, at last. Unnamed since the Assembly — the broker's week's headline, Miss Hartwell, and the City's already writing it for me."
 > (T1 · look closer) *The office smells of ink and night — and the proprietor's bluntness is the week's plainest thing: stated plain, and set in type.*
 > "The City can write what it likes." Rose sits. "Mrs. Bell — tomorrow, ten. The coffee-room. The acknowledgment spoken — then written. The Gazette's there, I take it?"
 > (T2 · tone) *Direct, unadorned, and past pretense — the paper gets the plain truth, and the plain truth only.*
-> "The Gazette's everywhere, Miss Hartwell." Bell looks up — the sharp-eyed, the soft-voiced. "The living man — Rackham, walking. The paper —" she taps the proofs "— will say what happened. Nothing more. The judge scores; it doesn't take sides."
+> "The Gazette's everywhere, Miss Hartwell." Bell looks up — the sharp-eyed, the soft-voiced. "The rumor — Rackham, living, they say. The paper —" she taps the proofs "— will say what happened. Nothing more. The judge scores; it doesn't take sides."
 > (T3 · dialogue) *"The paper, everywhere."; "The happened, said."; "The judge, scoring."*
 > "Nothing more." Rose stands. "The acknowledgment — the Dealing honest, the retained unpressed. Spoken first, Mrs. Bell. The market hears it before the ink."
 > (T4 · stance) *Standing in the ink-smell — the heiress giving the paper its headline, and nothing else.*
@@ -733,25 +733,25 @@
 *Animation: Shared.*
 
 ### L21.S35 · [T] · Rose (alone)
-*Purpose: the week, faced — Monday night; the broker's week, the living's; the faced, the week's. (Turns: 8)*
-> *(Her chambers, Monday night. The week, faced — the broker's week, the living's — and the facing's the mind's to do alone.)*
+*Purpose: the week, faced — Monday night; the broker's week, the naming's; the faced, the week's. (Turns: 8)*
+> *(Her chambers, Monday night. The week, faced — the broker's week, the naming's — and the facing's the mind's to do alone.)*
 > The grey silk on its stand. The book on Julian's desk. The fourteen thousand in Julian's strongbox. The words on her tongue. The week, entire.
-> (T1 · look closer) *The chamber's night holds the week's board — the pieces placed, the living's move coming.*
-> Drayton — named, precise, unhurried. Eleven years unnamed, and named today. The broker's week's hinge, turning on a name.
+> (T1 · look closer) *The chamber's night holds the week's board — the pieces placed, the sealed word's move coming.*
+> Drayton — named, precise, unhurried. Unnamed since the Assembly, and named today. The broker's week's hinge, turning on a name.
 > (T2 · tone) *Quiet, certain, and complete — the facing done the way the week was: deliberately.*
 > The offer — twenty-one thousand face, fourteen thousand pounds, the acknowledgment. The Dealing honest, the retained unpressed. The books say true.
 > (T3 · dialogue) *"The offer, whole."; "The books, true."; "The week, faced."*
-> The living — eleven years abroad, the duel's report premature. Tomorrow, ten o'clock, he walks into the coffee-room and hears a Hartwell speak. She has said the paragraph to the mirror twice. The words hold.
-> (T4 · remembered micro-decision) *Count the living, bank the facing — the dead man walking, the week faced.*
+> The sealed word — kept under seal since his death, opened tomorrow. Tomorrow, ten o'clock, Drayton opens it in the coffee-room and the City hears a Hartwell speak his name. She has said the paragraph to the mirror twice. The words hold.
+> (T4 · remembered micro-decision) *Count the sealed, bank the facing — the rumor answered, the week faced.*
 > Merrivale — circling. The Dealing eyed. The week's second decision, made. The watch — answered, the means chosen. His men asked after the fifteen; asking isn't buying, and the book will prove it.
 > (T5 · look closer) *The circling sits in the night's margin — watched, answered, filed.*
-> She turns down the lamp. The grey's the paler shadow — tomorrow's cloth, the living's.
-> (T6 · dialogue) *"The week, faced."; "The living, coming."; "The night, filed."*
+> She turns down the lamp. The grey's the paler shadow — tomorrow's cloth, the naming's.
+> (T6 · dialogue) *"The week, faced."; "The word, opening."; "The night, filed."*
 > Sleep comes slow. The week's paragraph turns behind her eyes — the Dealing honest, the retained unpressed — until it blurs into the dark.
-> (T7 · choice) *Rest. The week's faced — tomorrow's living can wait for morning.*
+> (T7 · choice) *Rest. The week's faced — tomorrow's opening can wait for morning.*
 > The dark outside the chamber glass — the silk waiting, Tuesday coming.
-> (T8 · remembered micro-decision) *Bank the night's facing with the morrow's speaking — the week faced, the living awaited.*
-> *The night on her chambers' glass — the week's board placed, the living's move coming at ten, the paragraph ready.*
+> (T8 · remembered micro-decision) *Bank the night's facing with the morrow's speaking — the week faced, the opening awaited.*
+> *The night on her chambers' glass — the week's board placed, the sealed word's move coming at ten, the paragraph ready.*
 *Animation: Shared.*
 
 ### L21.S36 · [D] · Rose, Julian
@@ -759,27 +759,27 @@
 > *(Julian's chambers, Monday night. The counsel's night — the morrow's ten, the law's — and the keeping's the counsel's to keep.)*
 > "Ten o'clock." Julian checks the papers once more. "The coffee-room. The assignment — drawn, witnessed, ready. The fourteen thousand —" he pats the strongbox "— counted. The book —" he lifts it "— ruled."
 > (T1 · look closer) *The chambers' lamplight is low — and the morrow's law lies ready in its rows.*
-> "Ready." Rose sits. "Julian — the spoken. First, to his face, where the market hears. The words —" she pauses "— the week's last decision, made. The paragraph's shape — chosen."
+> "Ready." Rose sits. "Julian — the spoken. First, before the witnesses, where the market hears. The words —" she pauses "— the week's last decision, made. The paragraph's shape — chosen."
 > (T2 · tone) *Quiet, certain, and counsel-bound — the night's last law deserves the law's ear.*
-> "Chosen." He nods. "The counsel's word, Rose — the books are honest, the paragraph's writable, the spoken's speakable. Tomorrow —" he looks up "— the living does the rest."
-> (T3 · dialogue) *"The ready, entire."; "The chosen, filed."; "Tomorrow, the living."*
-> "The living." She stands. "Julian — eleven years. The duel's report, premature. Whatever walks in tomorrow —" she meets his eyes "— the house is ready."
+> "Chosen." He nods. "The counsel's word, Rose — the books are honest, the paragraph's writable, the spoken's speakable. Tomorrow —" he looks up "— the sealed word does the rest."
+> (T3 · dialogue) *"The ready, entire."; "The chosen, filed."; "Tomorrow, the sealed."*
+> "The sealed." She stands. "Julian — since the Assembly. The man buried, the word waiting. Whatever opens tomorrow —" she meets his eyes "— the house is ready."
 > (T4 · stance) *At the door, the night's last business — the heiress and the counsel, the week's two keepers.*
 > "Ready." He bows her out — the counsel's courtesy, unhurried. "The respect — is absolute, Rose. Ten o'clock."
 > (T5 · look closer) *The bow's the night's seal — the counsel's standing, given whole.*
-> The chambers' door closes — the night's law kept, the morrow's ten set, the living expected.
+> The chambers' door closes — the night's law kept, the morrow's ten set, the sealed word expected.
 > (T6 · dialogue) *"The ten, set."; "The law, ready."; "The night, kept."*
 > She walks home through the night's quiet — the City asleep, the week's numbers awake in her head.
 > (T7 · choice) *Walk home. The night's law is done — what comes is Tuesday's.*
 > The street's lamps burn low. She leaves them — the night's walk, the week's keeping.
 > (T8 · remembered micro-decision) *The keeping kept, the ten set — the counsel's night filed, the morrow's law ready.*
-> *The night's lamps on the empty street — the law ready, the living coming at ten.*
+> *The night's lamps on the empty street — the law ready, the sealed word opening at ten.*
 *Animation: Shared.*
 
 ### L21.S37 · [D] · Rose, Augusta
 *Purpose: the dowager's night — Monday night; the morrow's command; the formidable. (Turns: 8)*
 > *(The dowager's drawing room, Monday night. Augusta's night — the morrow's command, the week's — and the formidable's word is the night's seal.)*
-> "Ten o'clock." Augusta doesn't rise. "The coffee-room. The living man. Rose —" the formidable leans forward "— the house has buried no one twice. See that it doesn't start tomorrow."
+> "Ten o'clock." Augusta doesn't rise. "The coffee-room. The sealed word. Rose —" the formidable leans forward "— the house has buried no one twice. See that the rumor doesn't start it tomorrow."
 > (T1 · look closer) *The drawing room's night light is amber — and the dowager's command is the week's final counsel: stated once, and finally.*
 > "The grey, Grandmama." Rose takes the chair. "The endured. The acknowledgment — spoken first, then written. The market hears."
 > (T2 · tone) *Respectful, complete, and quietly triumphant — the night's report delivered to the house's highest court.*
@@ -787,62 +787,62 @@
 > (T3 · dialogue) *"The spoken, first."; "The said, remembered."; "The well, spoken."*
 > "Well." Rose stands. "Grandmama — the unhurried. Drayton — in a hurry about something, you said. Tomorrow, I find out what."
 > (T4 · stance) *In the chair no longer — the granddaughter rising to the week's last counsel.*
-> "Find out." Augusta rises too — a dismissal and a benediction in one movement. "And Rose —" at the door "— whatever he wants beyond the paragraph — the living always want more — the house decides. Not him."
+> "Find out." Augusta rises too — a dismissal and a benediction in one movement. "And Rose —" at the door "— whatever the sealed word holds beyond the paragraph — the estate decides what it gives, and the house decides what it takes. Not the other way."
 > (T5 · look closer) *The benediction's the night's finest — the formidable's word, given whole.*
-> "The house decides." She bows her head — not submission, acknowledgment. "Grandmama — the week's nearly turned. Tomorrow, the living."
-> (T6 · dialogue) *"The house decides."; "The living, tomorrow."; "The week, turning."*
+> "The house decides." She bows her head — not submission, acknowledgment. "Grandmama — the week's nearly turned. Tomorrow, the sealed word."
+> (T6 · dialogue) *"The house decides."; "The sealed, tomorrow."; "The week, turning."*
 > "Tomorrow." The drawing room door closes — soft, final, the night's last audience done.
 > (T7 · choice) *Take the benediction. The night's done, the dowager's commanded — there's no higher court.*
 > The street's night takes her home — the week's command, the morrow's ten.
-> (T8 · remembered micro-decision) *The command filed, the counsel kept — the formidable's night banked, the living watched.*
+> (T8 · remembered micro-decision) *The command filed, the counsel kept — the formidable's night banked, the sealed word watched.*
 > *The drawing room's amber night — the command given, the dowager's word the week's seal.*
 *Animation: Shared.*
 
 ### L21.S38 · [T] · Rose (alone)
-*Purpose: the morrow, faced — Monday night; ten o'clock, the living; the faced, the week's. (Turns: 8)*
-> *(Her chambers, Monday night. The morrow, faced — ten o'clock, the living — and the facing's the mind's last work.)*
-> Ten o'clock. The coffee-room. The living man, the market's men, the acknowledgment spoken first — then the ink. The week, entire, narrowing to an hour. The sequence fixed: the spoken first — to his face, where the market hears — then the ink, the witnesses, the counted fourteen thousand.
-> (T1 · look closer) *The chamber's night holds the morrow whole — ten o'clock, the coffee-room, the living.*
+*Purpose: the morrow, faced — Monday night; ten o'clock, the sealed word; the faced, the week's. (Turns: 8)*
+> *(Her chambers, Monday night. The morrow, faced — ten o'clock, the sealed word — and the facing's the mind's last work.)*
+> Ten o'clock. The coffee-room. The sealed word, the market's men, the acknowledgment spoken first — then the ink. The week, entire, narrowing to an hour. The sequence fixed: the spoken first — before the witnesses, where the market hears — then the ink, the witnesses, the counted fourteen thousand.
+> (T1 · look closer) *The chamber's night holds the morrow whole — ten o'clock, the coffee-room, the sealed word.*
 > The grey silk. The heather. The book. The fourteen thousand. The words — chosen, waiting, the week's paragraph.
 > (T2 · tone) *Quiet, certain, and grave — the morrow faced the way the week was: deliberately.*
-> Drayton — named. The Dealing — honest. The retained — unpressed. The principal — living. The price — hearing.
-> (T3 · dialogue) *"The named, the honest."; "The living, the hearing."; "The morrow, faced."*
+> Drayton — named. The Dealing — honest. The retained — unpressed. The principal — the estate. The price — hearing.
+> (T3 · dialogue) *"The named, the honest."; "The sealed, the hearing."; "The morrow, faced."*
 > Merrivale — circling, answered. The watch — the week's second decision, made. The means — chosen, filed. Drayton's condition answered; the week's first decision honored. The house speaks before it writes.
 > (T4 · remembered micro-decision) *Count the answered, bank the watch — the circling met, the morrow faced.*
-> She lies down. The grey waits on its stand — tomorrow's cloth, the living's. The words wait on her tongue.
+> She lies down. The grey waits on its stand — tomorrow's cloth, the sealed word's. The words wait on her tongue.
 > (T5 · look closer) *The dark holds the week's paragraph — the Dealing honest, the retained unpressed — unspoken still.*
 > Sleep comes — slow, then all at once. The week's numbers turn once more — twenty-one thousand, fourteen thousand — and blur.
-> (T6 · dialogue) *"The morrow, ten."; "The living, coming."; "The sleep, coming."*
-> The lamp's out. The chamber's dark. The week holds its breath till ten — the living, the hearing, the spoken.
+> (T6 · dialogue) *"The morrow, ten."; "The sealed, opening."; "The sleep, coming."*
+> The lamp's out. The chamber's dark. The week holds its breath till ten — the sealed word, the hearing, the spoken.
 > (T7 · choice) *Sleep. The morrow's faced — Tuesday can come.*
-> The dark outside the chamber glass — the silk waiting, the living coming.
-> (T8 · remembered micro-decision) *Bank the night's facing with the morrow's ten — the week faced, the living awaited.*
-> *The night on her chambers' glass — ten o'clock coming, the living's step past midnight.*
+> The dark outside the chamber glass — the silk waiting, the sealed word opening.
+> (T8 · remembered micro-decision) *Bank the night's facing with the morrow's ten — the week faced, the opening awaited.*
+> *The night on her chambers' glass — ten o'clock coming, the sealed word past midnight.*
 *Animation: Shared.*
 
 ### L21.S39 · Gazette sting
 *Purpose: the Gazette sting — THE BROKER; one turn; the named's. (Turns: 1)*
-> *THE GAZETTE —* "THE BROKER" *— Miss Hartwell's broker names himself at last — Mr. Drayton, eleven years Rackham's man, precise and unhurried; the offer twenty-one thousand face for fourteen thousand pounds and the acknowledgment; the principal lives — the duel's report premature — and comes himself tomorrow; the house accepts, the market holds its breath.*
+> *THE GAZETTE —* "THE BROKER" *— Miss Hartwell's broker names himself at last — Mr. Drayton, Rackham's man since before the Assembly, precise and unhurried; the offer twenty-one thousand face for fourteen thousand pounds and the acknowledgment; the City's rumor — Rackham lives — answered by the estate's broker himself: the man is buried, his paper lives, and his sealed word opens tomorrow; the house accepts, the market holds its breath.*
 *Animation: Shared.*
 
 ### L21.S40 · [D] · Rose, Night · Cliffhanger
-*Purpose: the cliffhanger — the living, coming; ten o'clock, the coffee-room; the teed. (Turns: 8)*
-> *(Monday night, her chambers. The living, coming — ten o'clock, the coffee-room — and the night's last hour turns the week toward Tuesday.)*
+*Purpose: the cliffhanger — the sealed word, opening; ten o'clock, the coffee-room; the teed. (Turns: 8)*
+> *(Monday night, her chambers. The sealed word, opening — ten o'clock, the coffee-room — and the night's last hour turns the week toward Tuesday.)*
 > The book waits on Julian's desk — ruled, the paragraph's shape chosen. The fourteen thousand waits in Julian's strongbox — counted to the pound, the strongbox's record inked.
-> (T1 · look closer) *The chamber's night holds the morrow's instruments — the book, the counted, the ruled — all ready for the living's ten o'clock.*
-> Tomorrow, ten o'clock, the coffee-room. The market's men will witness — Drayton's reading, the buyback book, the acknowledgment spoken first to the living's face, then written where the City hears.
+> (T1 · look closer) *The chamber's night holds the morrow's instruments — the book, the counted, the ruled — all ready for the sealed word's ten o'clock.*
+> Tomorrow, ten o'clock, the coffee-room. The market's men will witness — Drayton's reading, the buyback book, the acknowledgment spoken first, then written where the City hears.
 > (T2 · tone) *Quiet, certain, and past sleeping — the night's teeing done the facing way: stated plain, the week turned and held.*
-> Rackham — the Dealing's principal, eleven years unnamed, named today. Living. The duel's report, premature. The City called him breaker of houses, duelist, gambler; the books say honest, the retained unpressed, and tomorrow he walks in and hears a Hartwell speak it.
-> (T3 · dialogue) *"The living, teed."; "The named, coming."; "The spoken, Tuesday's."*
+> Rackham — buried since the Assembly, the Dealing's dealer, named through his broker today. His sealed word opens tomorrow — kept under seal since his death, opened before the witnesses. The City called him breaker of houses, duelist, gambler; the books say honest, the retained unpressed, and tomorrow the City hears a Hartwell speak it.
+> (T3 · dialogue) *"The sealed, teed."; "The named, opening."; "The spoken, Tuesday's."*
 > The grey silk waits on its stand — tomorrow's cloth, the enduring's. The heather waits at its waist — the week's mark, back for the speaking. The words wait on her tongue — the Dealing honest, the retained unpressed.
 > (T4 · remembered micro-decision) *Count the teed, bank the night — the cloth, the mark, the paragraph, all chosen.*
-> Merrivale — circling, answered. The means — chosen, filed. The watch — the week's second decision, made. Whatever Tuesday brings besides the living, the house has faced the circling already.
+> Merrivale — circling, answered. The means — chosen, filed. The watch — the week's second decision, made. Whatever Tuesday brings besides the opening, the house has faced the circling already.
 > (T5 · look closer) *The night holds the answered — the circling met, the means filed — and Tuesday keeps its appointment.*
-> The week began with a rumor — Rackham lives — and ends its first day with a name, a price, and an hour. Drayton — named, precise, unhurried. The principal — living, ten o'clock, the coffee-room.
+> The week began with a broker's offer and ends its first day with a name, a price, and an hour. Drayton — named, precise, unhurried. The sealed word — kept under seal since his death, opening at ten o'clock in the coffee-room.
 > (T6 · dialogue) *"The name, given."; "The hour, ten."; "The week, turned."*
-> She turns down the lamp. The grey's the paler shadow — tomorrow's cloth, the living's. The week holds its breath till ten — the acknowledgment spoken first, the ink after.
-> (T7 · choice) *Sleep. Tuesday's teed — the living can come.*
-> The dark outside the chamber glass — the silk waiting, ten o'clock coming, the living's step past midnight.
-> (T8 · remembered micro-decision) *Bank the night's teeing with Tuesday's ten — the week turned, the living awaited.*
-> *The chamber's dark on the waiting silk — ten o'clock teed, the living coming, the week's hinge turning.*
+> She turns down the lamp. The grey's the paler shadow — tomorrow's cloth, the sealed word's. The week holds its breath till ten — the acknowledgment spoken first, the ink after.
+> (T7 · choice) *Sleep. Tuesday's teed — the sealed word opens at ten.*
+> The dark outside the chamber glass — the silk waiting, ten o'clock coming, the sealed word's hour past midnight.
+> (T8 · remembered micro-decision) *Bank the night's teeing with Tuesday's ten — the week turned, the opening awaited.*
+> *The chamber's dark on the waiting silk — ten o'clock teed, the sealed word opening, the week's hinge turning.*
 *Animation: Shared.*
