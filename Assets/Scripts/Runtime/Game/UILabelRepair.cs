@@ -8,8 +8,22 @@ using UnityEngine.UI;
 
 public sealed class UILabelRepair : MonoBehaviour
 {
-    [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.BeforeSceneLoad)]
+    // Runs AFTER scene load so scene GameObjects exist. (BeforeSceneLoad
+    // runs too early — FindObjectsOfType finds nothing and the repair is a
+    // no-op, leaving all labels invisible. v9.28 shipped this way.)
+    [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.AfterSceneLoad)]
     private static void Repair()
+    {
+        RepairLabels();
+    }
+
+    /// <summary>
+    /// Public entry so views can re-run the repair if they initialize before
+    /// the AfterSceneLoad callback (e.g. DontDestroyOnLoad roots).
+    /// Idempotent: skips GameObjects that already have a Text component.
+    /// Returns the number of Text components added.
+    /// </summary>
+    public static int RepairLabels()
     {
         // GameObject names that need Text components (dangling in scene)
         string[] labelNames = {
@@ -40,6 +54,7 @@ public sealed class UILabelRepair : MonoBehaviour
         }
         if (fixed_ > 0)
             Debug.LogWarning($"[UILabelRepair] Added Text to {fixed_} GameObjects");
+        return fixed_;
     }
 
     private static string GetDefaultText(string name)

@@ -29,6 +29,10 @@ public sealed class UIRoot : MonoBehaviour
 
     private void Start()
     {
+        // Ensure scene label Text components exist (the scene has dangling
+        // references; the AfterSceneLoad repair should have run, but be safe).
+        UILabelRepair.RepairLabels();
+
         _game = GameManager.Instance;
         if (_game != null)
         {
@@ -41,7 +45,25 @@ public sealed class UIRoot : MonoBehaviour
         if (titleText != null)
             titleText.text = "SCANDAL SEASON";
         if (startButton != null)
+        {
             startButton.onClick.AddListener(OnStartPressed);
+            // Ensure the Begin button has a visible label (scene Text may dangle).
+            var btnLabel = startButton.GetComponentInChildren<Text>();
+            if (btnLabel == null)
+            {
+                var labelGO = new GameObject("Label", typeof(RectTransform), typeof(Text));
+                labelGO.transform.SetParent(startButton.transform, false);
+                var lrt = labelGO.GetComponent<RectTransform>();
+                lrt.anchorMin = Vector2.zero; lrt.anchorMax = Vector2.one;
+                lrt.offsetMin = Vector2.zero; lrt.offsetMax = Vector2.zero;
+                btnLabel = labelGO.GetComponent<Text>();
+                btnLabel.font = ScandalSeason.Runtime.Game.UIFontHelper.GetFont();
+                btnLabel.fontSize = 24;
+                btnLabel.alignment = TextAnchor.MiddleCenter;
+                btnLabel.color = Color.white;
+            }
+            btnLabel.text = "Begin";
+        }
 
         FixTitleLayout();
         // ShowAll(false) is now handled by OnStateChanged above; only hide if no game.

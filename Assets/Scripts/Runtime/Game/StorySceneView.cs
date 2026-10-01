@@ -67,11 +67,40 @@ public sealed class StorySceneView : MonoBehaviour
         {
             continueButton.onClick.RemoveAllListeners();
             continueButton.onClick.AddListener(OnContinue);
+            EnsureButtonLabel(continueButton, "Continue →");
         }
         if (toBoardButton != null)
         {
             toBoardButton.onClick.RemoveAllListeners();
             toBoardButton.onClick.AddListener(() => _game.SetState(GameState.MergeBoard));
+            EnsureButtonLabel(toBoardButton, "Merge Board");
+        }
+    }
+
+    /// <summary>
+    /// Ensures a Button has a visible Text label (scene references dangle).
+    /// Creates the label if missing, sets the font, and applies default text.
+    /// </summary>
+    private void EnsureButtonLabel(Button button, string defaultText)
+    {
+        var label = button.GetComponentInChildren<Text>();
+        if (label == null)
+        {
+            var labelGO = new GameObject("Label", typeof(RectTransform), typeof(Text));
+            labelGO.transform.SetParent(button.transform, false);
+            var lrt = labelGO.GetComponent<RectTransform>();
+            lrt.anchorMin = Vector2.zero; lrt.anchorMax = Vector2.one;
+            lrt.offsetMin = new Vector2(8, 4); lrt.offsetMax = new Vector2(-8, -4);
+            label = labelGO.GetComponent<Text>();
+            label.font = ScandalSeason.Runtime.Game.UIFontHelper.GetFont();
+            label.fontSize = 20;
+            label.alignment = TextAnchor.MiddleCenter;
+            label.color = lightTextColor;
+            label.text = defaultText;
+        }
+        else if (label.font == null)
+        {
+            label.font = ScandalSeason.Runtime.Game.UIFontHelper.GetFont();
         }
     }
 
@@ -517,15 +546,17 @@ public sealed class StorySceneView : MonoBehaviour
         }
         if (synopsisText != null)
         {
-            synopsisText.text = _scene.synopsis;
+            synopsisText.text = ProseFormatter.Format(_scene.synopsis);
             synopsisText.color = dimTextColor;
         }
         if (proseText != null)
         {
-            proseText.text = _scene.prose;
+            proseText.text = ProseFormatter.Format(_scene.prose);
             proseText.color = lightTextColor;
         }
         // Character portraits: show locked renders for speakers in this scene.
+        // Parse speakers from the RAW prose (annotations intact) so speaker
+        // detection sees the original markup.
         ShowCharacterPortraits(_scene.prose);
         if (proseScrollRect != null)
             proseScrollRect.verticalNormalizedPosition = 1f; // scroll to top
