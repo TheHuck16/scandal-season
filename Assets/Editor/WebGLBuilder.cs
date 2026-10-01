@@ -57,12 +57,20 @@ public static class WebGLBuilder
                 Debug.Log("[WebGLBuilder] Assets/Tests stashed for build.");
             }
 
-            // 4. Wipe stale script assemblies for a clean compile.
+            // 4. Wipe stale script assemblies AND Bee cache for a clean compile.
+            // Bee (Library/Bee) caches compiled scripts and does not always
+            // invalidate when .cs files change, causing stale code in builds.
             string scriptAssemblies = Path.Combine(projectRoot, "Library/ScriptAssemblies");
             if (Directory.Exists(scriptAssemblies))
             {
                 Directory.Delete(scriptAssemblies, true);
                 Debug.Log("[WebGLBuilder] Library/ScriptAssemblies wiped.");
+            }
+            string beeCache = Path.Combine(projectRoot, "Library/Bee");
+            if (Directory.Exists(beeCache))
+            {
+                Directory.Delete(beeCache, true);
+                Debug.Log("[WebGLBuilder] Library/Bee wiped.");
             }
 
             // 5. Force uncompressed output (GitHub Pages can't serve .gz correctly).

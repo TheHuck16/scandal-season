@@ -31,7 +31,12 @@ public sealed class UIRoot : MonoBehaviour
     {
         _game = GameManager.Instance;
         if (_game != null)
+        {
             _game.OnStateChanged += OnStateChanged;
+            // Sync with current state in case Boot already set it before we subscribed.
+            // This ensures the UI renders even if the state changed before Start().
+            OnStateChanged(_game.CurrentState);
+        }
 
         if (titleText != null)
             titleText.text = "SCANDAL SEASON";
@@ -39,7 +44,9 @@ public sealed class UIRoot : MonoBehaviour
             startButton.onClick.AddListener(OnStartPressed);
 
         FixTitleLayout();
-        ShowAll(false);
+        // ShowAll(false) is now handled by OnStateChanged above; only hide if no game.
+        if (_game == null)
+            ShowAll(false);
     }
 
     /// <summary>

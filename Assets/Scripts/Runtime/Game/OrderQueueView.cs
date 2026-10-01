@@ -17,13 +17,9 @@ public sealed class OrderQueueView : MonoBehaviour
     public ChainStyleSO chainStyle;
 
     private GameManager _game;
-    private static int _instanceCounter = 0;
-    private int _instanceId;
 
     private void Start()
     {
-        _instanceId = ++_instanceCounter;
-        Debug.LogWarning($"[OrderQueueView] Instance #{_instanceId} on '{gameObject.name}' path='{GetPath(transform)}'. Total instances: {_instanceCounter}");
         _game = GameManager.Instance;
         // v9.26: Static scene UI only. HeaderText and OrdersText GameObjects exist
         // in the scene; we get-or-add the Text component exactly once here.
@@ -64,14 +60,6 @@ public sealed class OrderQueueView : MonoBehaviour
         Refresh();
     }
 
-    private static string GetPath(Transform t)
-    {
-        var parts = new System.Collections.Generic.List<string>();
-        while (t != null) { parts.Add(t.name); t = t.parent; }
-        parts.Reverse();
-        return string.Join("/", parts);
-    }
-
     private void OnEnable()
     {
         Refresh();
@@ -84,7 +72,7 @@ public sealed class OrderQueueView : MonoBehaviour
 
         if (headerText != null)
         {
-            headerText.text = $"ORDERS ({_game.Orders.StandingOrderCount}/{_game.Orders.MaxStandingOrders}) [#{_instanceId}]";
+            headerText.text = $"ORDERS ({_game.Orders.StandingOrderCount}/{_game.Orders.MaxStandingOrders})";
             if (chainStyle != null)
                 headerText.color = chainStyle.uiGold;
         }

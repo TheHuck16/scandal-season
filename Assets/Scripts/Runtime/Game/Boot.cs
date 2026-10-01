@@ -32,5 +32,8 @@ public sealed class Boot : MonoBehaviour
         Debug.Log($"[Boot] Session ready: S1={registry.seasonOneScenes.Count}, " +
                   $"S2={registry.seasonTwoScenes.Count}, S3={registry.seasonThreeScenes.Count}, " +
                   $"chains={registry.mergeChains.Count}.");
+
+        // Explicitly set Title state. UIRoot will sync to this when it starts.
+        game.SetState(GameState.Title);
     }
 }
