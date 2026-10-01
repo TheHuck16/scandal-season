@@ -21,50 +21,40 @@ public sealed class OrderQueueView : MonoBehaviour
     private void Start()
     {
         _game = GameManager.Instance;
-        // DIAGNOSTIC v9.25: Disable dynamic UI to isolate duplication source
-        // If duplicates persist, source is elsewhere. If gone, OrderQueueView is the source.
-        return;
-        // Self-sufficient UI: create Text components if not assigned/found.
-        if (ordersText == null)
+        // v9.26: Static scene UI only. HeaderText and OrdersText GameObjects exist
+        // in the scene; we get-or-add the Text component exactly once here.
+        // No dynamic GameObject creation — that caused the duplication cascade.
+        var hdrT = transform.Find("HeaderText");
+        if (hdrT != null)
         {
-            ordersText = transform.Find("OrdersText")?.GetComponent<Text>();
-            if (ordersText == null)
-            {
-                var go = new GameObject("OrdersText");
-                go.transform.SetParent(transform, false);
-                ordersText = go.AddComponent<Text>();
-                ordersText.font = ScandalSeason.Runtime.Game.UIFontHelper.GetFont();
-                ordersText.fontSize = 20;
-                ordersText.color = Color.white;
-                // Position below header
-                var rt = go.GetComponent<RectTransform>();
-                rt.anchorMin = new Vector2(0, 0);
-                rt.anchorMax = new Vector2(1, 1);
-                rt.offsetMin = new Vector2(10, 10);
-                rt.offsetMax = new Vector2(-10, -40);
-            }
+            headerText = hdrT.GetComponent<Text>();
+            if (headerText == null) headerText = hdrT.gameObject.AddComponent<Text>();
         }
-        if (headerText == null)
+        var ordT = transform.Find("OrdersText");
+        if (ordT != null)
         {
-            headerText = transform.Find("HeaderText")?.GetComponent<Text>();
-            if (headerText == null)
-            {
-                var go = new GameObject("HeaderText");
-                go.transform.SetParent(transform, false);
-                headerText = go.AddComponent<Text>();
-                headerText.font = ScandalSeason.Runtime.Game.UIFontHelper.GetFont();
-                headerText.fontSize = 24;
-                headerText.fontStyle = FontStyle.Bold;
-                headerText.color = Color.yellow;
-                var rt = go.GetComponent<RectTransform>();
-                rt.anchorMin = new Vector2(0, 1);
-                rt.anchorMax = new Vector2(1, 1);
-                rt.offsetMin = new Vector2(10, -35);
-                rt.offsetMax = new Vector2(-10, -5);
-            }
+            ordersText = ordT.GetComponent<Text>();
+            if (ordersText == null) ordersText = ordT.gameObject.AddComponent<Text>();
+        }
+        if (ordersText == null || headerText == null)
+            Debug.LogWarning("[OrderQueueView] HeaderText/OrdersText not found in scene. Orders UI will not display.");
+        // Assign font at runtime (scene can't reference the WebGL-safe font).
+        var font = ScandalSeason.Runtime.Game.UIFontHelper.GetFont();
+        if (headerText != null)
+        {
+            if (headerText.font == null) headerText.font = font;
+            headerText.fontSize = 24;
+            headerText.fontStyle = FontStyle.Bold;
+            headerText.alignment = TextAnchor.MiddleLeft;
+        }
+        if (ordersText != null)
+        {
+            if (ordersText.font == null) ordersText.font = font;
+            ordersText.fontSize = 18;
+            ordersText.alignment = TextAnchor.UpperLeft;
         }
         if (refreshButton == null)
-            refreshButton = GetComponentInChildren<Button>();
+            refreshButton = transform.Find("RefreshButton")?.GetComponent<Button>();
         if (refreshButton != null)
             refreshButton.onClick.AddListener(Refresh);
         Refresh();

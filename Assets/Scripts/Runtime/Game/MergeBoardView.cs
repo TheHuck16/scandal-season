@@ -221,7 +221,19 @@ public sealed class MergeBoardView : MonoBehaviour
                 go.name = $"Cell_{x}_{y}";
 
                 var button = go.GetComponent<Button>();
-                var label = go.GetComponentInChildren<Text>();
+                var labelT = go.transform.Find("Label");
+                Text label = null;
+                if (labelT != null)
+                {
+                    label = labelT.GetComponent<Text>();
+                    if (label == null) label = labelT.gameObject.AddComponent<Text>();
+                    // Configure label (CellPrefab's Text block is missing from scene)
+                    var f = ScandalSeason.Runtime.Game.UIFontHelper.GetFont();
+                    if (label.font == null) label.font = f;
+                    label.fontSize = 14;
+                    label.color = Color.white;
+                    label.alignment = TextAnchor.MiddleCenter;
+                }
                 if (button != null)
                 {
                     var captured = pos;
