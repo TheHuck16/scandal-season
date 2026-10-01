@@ -3,7 +3,7 @@
 // The content pipeline stores prose with lightweight editorial markup:
 //   "> "      paragraph prefix (block-quote style from the source docs)
 //   "*...*"   italics (single asterisks around a phrase)
-//   "(Tn · label)"  turn annotations — editorial, never shown to the player
+//   "(Tn · label)" and "(Turns: N)"  turn annotations — editorial, never shown to the player
 //   "— remembered: ..."  consequence notes — kept, they are story text
 // This strips the editorial layer and converts italics to Unity rich text.
 using System.Text;
@@ -14,6 +14,10 @@ public static class ProseFormatter
     // Matches "(T12 · some label)" turn annotations.
     private static readonly Regex TurnAnnotation =
         new Regex(@"\(T\d+\s*·[^)]*\)", RegexOptions.Compiled);
+
+    // Matches "(Turns: 8)" turn-count annotations (may span a line break in YAML).
+    private static readonly Regex TurnsCountAnnotation =
+        new Regex(@"\(Turns:\s*\d+\)", RegexOptions.Compiled);
 
     // Matches *italic* spans (single asterisks, not across newlines).
     private static readonly Regex Italics =
@@ -27,8 +31,9 @@ public static class ProseFormatter
     {
         if (string.IsNullOrEmpty(raw)) return raw;
 
-        // 1. Strip turn annotations: "(T1 · look closer)" etc.
+        // 1. Strip turn annotations: "(T1 · look closer)" and "(Turns: 8)" etc.
         string s = TurnAnnotation.Replace(raw, "");
+        s = TurnsCountAnnotation.Replace(s, "");
 
         // 2. Strip the "> " paragraph prefix at the start of each line,
         //    plus any whitespace left behind by removed annotations.

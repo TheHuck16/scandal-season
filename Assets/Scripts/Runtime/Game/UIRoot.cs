@@ -82,6 +82,15 @@ public sealed class UIRoot : MonoBehaviour
         var vlg = titlePanel.GetComponent<VerticalLayoutGroup>();
         if (vlg != null) vlg.enabled = false; // synchronous: Destroy() lags a frame
 
+        // The scene's titleText reference dangles (missing Text component), so
+        // the field is null and the repaired "SCANDAL SEASON" text stays at the
+        // scene's centered position — behind the Begin button. Recover it here.
+        if (titleText == null)
+        {
+            var titleGO = titlePanel.transform.Find("TitleText");
+            if (titleGO != null)
+                titleText = titleGO.GetComponent<Text>();
+        }
         if (titleText != null)
         {
             var rt = titleText.rectTransform;

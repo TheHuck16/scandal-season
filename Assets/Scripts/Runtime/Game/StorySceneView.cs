@@ -51,6 +51,11 @@ public sealed class StorySceneView : MonoBehaviour
 
     private GameManager _game;
     private SceneDefinitionSO _scene;
+
+    // True when the body text ("With: ..." etc.) lives inside the scrollable
+    // prose area (no decision on this scene). It is stacked below the prose
+    // by LayoutScrollContent so it can never overlap it.
+    private bool _bodyInScroll;
     private readonly List<Button> _spawnedDecisionButtons = new List<Button>();
     private int _selectedDecisionIndex = -1;
 
@@ -98,9 +103,14 @@ public sealed class StorySceneView : MonoBehaviour
             label.color = lightTextColor;
             label.text = defaultText;
         }
-        else if (label.font == null)
+        else
         {
-            label.font = ScandalSeason.Runtime.Game.UIFontHelper.GetFont();
+            // RepairLabels() adds missing label Texts with EMPTY text
+            // (e.g. the ToBoardBtn "Label"), so an existing label may be blank.
+            if (label.font == null)
+                label.font = ScandalSeason.Runtime.Game.UIFontHelper.GetFont();
+            if (string.IsNullOrEmpty(label.text))
+                label.text = defaultText;
         }
     }
 
@@ -485,6 +495,39 @@ public sealed class StorySceneView : MonoBehaviour
             y -= h + pad;
         }
 
+        // Non-decision body text ("With: ..." etc.) is stacked INSIDE the
+        // scroll below the prose so it can never overlap the prose area.
+        // With a decision it stays at its fixed panel position above the buttons.
+        if (bodyText != null)
+        {
+            if (_bodyInScroll && !string.IsNullOrEmpty(bodyText.text))
+            {
+                bodyText.transform.SetParent(contentRT, false);
+                var brt = bodyText.rectTransform;
+                brt.anchorMin = new Vector2(0, 1);
+                brt.anchorMax = new Vector2(0, 1);
+                brt.pivot = new Vector2(0, 1);
+                brt.anchoredPosition = new Vector2(pad, y);
+                brt.sizeDelta = new Vector2(textW, 10000f);
+                bodyText.horizontalOverflow = HorizontalWrapMode.Wrap;
+                bodyText.verticalOverflow = VerticalWrapMode.Truncate;
+                Canvas.ForceUpdateCanvases();
+                float bh = Mathf.Max(bodyText.preferredHeight, 20f);
+                brt.sizeDelta = new Vector2(textW, bh);
+                y -= bh + pad;
+            }
+            else
+            {
+                // Fixed position on the panel (decision title), not in scroll.
+                if (bodyText.transform.parent != transform)
+                    bodyText.transform.SetParent(transform, false);
+                var bdy = bodyText.rectTransform;
+                bdy.anchorMin = new Vector2(0.05f, 0.33f);
+                bdy.anchorMax = new Vector2(0.95f, 0.37f);
+                bdy.offsetMin = Vector2.zero; bdy.offsetMax = Vector2.zero;
+            }
+        }
+
         // Content size: full viewport width, height covering all stacked text.
         float contentH = Mathf.Max(-y, 20f);
         contentRT.sizeDelta = new Vector2(viewW, contentH);
@@ -512,10 +555,9 @@ public sealed class StorySceneView : MonoBehaviour
 
         if (chapterTitleText != null)
         {
-            int coins = _game != null && _game.Wallet != null ? _game.Wallet.Coins : -999;
-            int price = _scene.coinPrice > 0 ? _scene.coinPrice : 120;
-            bool free = _scene.season == 1 && _scene.chapter == 1 && _scene.sceneNumber <= 5;
-            chapterTitleText.text = $"S{_scene.season} · Chapter {_scene.chapter}: {_scene.chapterTitle} [S{_scene.sceneNumber} ◉{coins} {(free ? "FREE" : $"{price}c")}]";
+            // Player-facing header: season/chapter only. (Internal coin/price
+            // debug metadata was removed — it leaked into the live header.)
+            chapterTitleText.text = $"S{_scene.season} · Chapter {_scene.chapter}: {_scene.chapterTitle}";
             chapterTitleText.color = goldAccent;
         }
         if (sceneHeaderText != null)
@@ -560,10 +602,31 @@ public sealed class StorySceneView : MonoBehaviour
         ShowCharacterPortraits(_scene.prose);
         if (proseScrollRect != null)
             proseScrollRect.verticalNormalizedPosition = 1f; // scroll to top
+
+        // Set the body text BEFORE layout: when there is no decision it is
+        // stacked inside the scroll below the prose (never overlapping it);
+        // with a decision it stays fixed above the buttons.
+        bool hasDecision = _scene.keyDecision != null
+            && _scene.keyDecision.options != null
+            && _scene.keyDecision.options.Length > 0;
+        _bodyInScroll = !hasDecision;
+        if (bodyText != null)
+        {
+            if (hasDecision)
+            {
+                bodyText.text = $"Decision {_scene.keyDecision.number}: {_scene.keyDecision.title}";
+                bodyText.color = goldAccent;
+            }
+            else
+            {
+                bodyText.text = BuildBody(_scene);
+                bodyText.color = lightTextColor;
+            }
+        }
         LayoutScrollContent();
 
         // Decisions: tappable buttons. Non-decision content goes to bodyText.
-        if (_scene.keyDecision != null && _scene.keyDecision.options != null && _scene.keyDecision.options.Length > 0)
+        if (hasDecision)
         {
             // Size the decision container explicitly to fit the fixed-height
             // buttons exactly: bottom-anchored, 100px above the panel bottom
@@ -583,16 +646,6 @@ public sealed class StorySceneView : MonoBehaviour
                 containerRT.sizeDelta = new Vector2(0f, totalH);
             }
             SpawnDecisionButtons(_scene);
-            if (bodyText != null)
-            {
-                bodyText.text = $"Decision {_scene.keyDecision.number}: {_scene.keyDecision.title}";
-                bodyText.color = goldAccent;
-            }
-        }
-        else if (bodyText != null)
-        {
-            bodyText.text = BuildBody(_scene);
-            bodyText.color = lightTextColor;
         }
 
         // Restore a previously-made decision selection for this scene, if any.

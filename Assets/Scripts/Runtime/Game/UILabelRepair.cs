@@ -2,7 +2,9 @@
 // UILabelRepair: ensures UI Text components exist on label GameObjects.
 // The Main.unity scene has dangling Text component references (missing
 // definition blocks). This adds them at runtime so the UI is visible.
-// Runs before scene load to ensure labels exist when views initialize.
+// Runs AFTER scene load so scene GameObjects exist (BeforeSceneLoad runs
+// too early — FindObjectsOfType finds nothing and the repair is a no-op,
+// leaving all labels invisible. v9.28 shipped this way).
 using UnityEngine;
 using UnityEngine.UI;
 
