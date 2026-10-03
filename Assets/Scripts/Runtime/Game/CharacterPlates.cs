@@ -34,6 +34,8 @@ namespace ScandalSeason.Runtime.Game
             { "henry", "Plates/character-plate-henry-beaumont-v1-08ee8323" },
             { "beaumont", "Plates/character-plate-henry-beaumont-v1-08ee8323" },
             { "elise", "Plates/character-plate-elise-v1-6688a966" },
+            { "lavinia", "Plates/character-plate-lavinia-crane-v3-adb387ff" },
+            { "crane", "Plates/character-plate-lavinia-crane-v3-adb387ff" },
         };
 
         private static readonly Dictionary<string, Sprite> _cache = new Dictionary<string, Sprite>();
