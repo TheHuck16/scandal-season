@@ -523,7 +523,9 @@ public sealed class StorySceneView : MonoBehaviour
         }
 
         // Content size: full viewport width, height covering all stacked text.
-        float contentH = Mathf.Max(-y, 20f);
+        // Add a buffer: preferredHeight can under-measure (font metrics,
+        // descenders on the last line), clipping the final line at the panel edge.
+        float contentH = Mathf.Max(-y + 30f, 20f);
         contentRT.sizeDelta = new Vector2(viewW, contentH);
 
         Canvas.ForceUpdateCanvases();

@@ -5,15 +5,18 @@
 //   "*...*"   italics (single asterisks around a phrase)
 //   "(Tn · label)" and "(Turns: N)"  turn annotations — editorial, never shown to the player
 //   "— remembered: ..."  consequence notes — kept, they are story text
-// This strips the editorial layer and converts italics to Unity rich text.
+// This strips the editorial layer, normalizes unicode punctuation to the
+// font's glyph coverage, and converts italics to Unity rich text.
 using System.Text;
 using System.Text.RegularExpressions;
 
 public static class ProseFormatter
 {
-    // Matches "(T12 · some label)" turn annotations.
+    // Matches "(T12 · some label)" turn annotations. The separator may be a
+    // real middle dot (U+00B7) or the literal text "\xB7" (double-escaped in
+    // the YAML source), so match permissively: "(T" + digits + anything.
     private static readonly Regex TurnAnnotation =
-        new Regex(@"\(T\d+\s*·[^)]*\)", RegexOptions.Compiled);
+        new Regex(@"\(T\d+\b[^)]*\)", RegexOptions.Compiled);
 
     // Matches "(Turns: 8)" turn-count annotations (may span a line break in YAML).
     private static readonly Regex TurnsCountAnnotation =
@@ -35,7 +38,28 @@ public static class ProseFormatter
         string s = TurnAnnotation.Replace(raw, "");
         s = TurnsCountAnnotation.Replace(s, "");
 
-        // 2. Strip the "> " paragraph prefix at the start of each line,
+        // 2. Normalize unicode punctuation to ASCII-safe equivalents. The
+        // runtime font lacks these glyphs (they render as blank gaps).
+        // French accented letters (é è ê ç â) are KEPT — the font has those.
+        s = s.Replace("\u2014", "--")   // em-dash
+             .Replace("\u2013", "-")    // en-dash
+             .Replace("\u2212", "-")    // minus sign
+             .Replace("\u201C", "\"")   // left double quote
+             .Replace("\u201D", "\"")   // right double quote
+             .Replace("\u2018", "'")    // left single quote
+             .Replace("\u2019", "'")    // right single quote
+             .Replace("\u2026", "...")  // ellipsis
+             .Replace("\u2192", "->")   // right arrow
+             .Replace("\u00D7", "x")    // multiplication sign
+             .Replace("\u2248", "~")    // almost equal
+             .Replace("\u2605", "*")    // star
+             .Replace("\u25C7", "<>")   // diamond
+             .Replace("\u27E8", "<")    // angle brackets
+             .Replace("\u27E9", ">")
+             .Replace("\u00A7", "Sec. ") // section sign
+             .Replace("\u00B0", "deg");  // degree sign
+
+        // 3. Strip the "> " paragraph prefix at the start of each line,
         //    plus any whitespace left behind by removed annotations.
         var sb = new StringBuilder(s.Length);
         int i = 0;
@@ -55,10 +79,10 @@ public static class ProseFormatter
         }
         s = sb.ToString();
 
-        // 3. Convert *italics* to Unity rich text <i>...</i>.
+        // 4. Convert *italics* to Unity rich text <i>...</i>.
         s = Italics.Replace(s, "<i>$1</i>");
 
-        // 4. Collapse 3+ newlines to a paragraph break; trim leading/trailing space.
+        // 5. Collapse 3+ newlines to a paragraph break; trim leading/trailing space.
         s = Regex.Replace(s, @"\n{3,}", "\n\n");
         s = s.Trim();
 
