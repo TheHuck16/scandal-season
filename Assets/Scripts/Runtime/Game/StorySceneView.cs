@@ -403,16 +403,10 @@ public sealed class StorySceneView : MonoBehaviour
             trt.anchorMax = new Vector2(0.95f, 0.872f);
             trt.offsetMin = Vector2.zero; trt.offsetMax = Vector2.zero;
         }
-        // Non-decision body text sits just above the decision buttons.
-        // When a key decision is present, this shows the decision title;
-        // otherwise it shows ritual/sting/fashion info.
-        if (bodyText != null)
-        {
-            var bdy = bodyText.rectTransform;
-            bdy.anchorMin = new Vector2(0.05f, 0.33f);
-            bdy.anchorMax = new Vector2(0.95f, 0.37f);
-            bdy.offsetMin = Vector2.zero; bdy.offsetMax = Vector2.zero;
-        }
+        // Non-decision body text layout is owned by LayoutScrollContent
+        // (in-scroll below prose, or fixed above decision buttons). Do NOT
+        // position it here: Start() runs EnsurePortraitUI() and would undo
+        // the scroll stacking after ShowScene() laid it out (v9.30 bug).
         // (Decision container positioning is handled explicitly in ShowScene
         // per decision; no static repositioning here.)
     }
