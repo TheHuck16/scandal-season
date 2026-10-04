@@ -18,9 +18,10 @@ public static class ProseFormatter
     private static readonly Regex TurnAnnotation =
         new Regex(@"\(T\d+\b[^)]*\)", RegexOptions.Compiled);
 
-    // Matches "(Turns: 8)" turn-count annotations (may span a line break in YAML).
+    // Matches "(Turns: 8)" and "(Turns: 3 — the decision)" turn-count annotations
+    // (may span a line break in YAML; label after the number is optional).
     private static readonly Regex TurnsCountAnnotation =
-        new Regex(@"\(Turns:\s*\d+\)", RegexOptions.Compiled);
+        new Regex(@"\(Turns:\s*\d+[^)]*\)", RegexOptions.Compiled);
 
     // Matches *italic* spans (single asterisks, not across newlines).
     private static readonly Regex Italics =
